@@ -1,0 +1,13279 @@
+[
+  {
+    "emoji": "😀",
+    "tags": [
+      "andlit",
+      "grín",
+      "grínandi andlit"
+    ]
+  },
+  {
+    "emoji": "😃",
+    "tags": [
+      "andlit",
+      "eygu",
+      "grín",
+      "grínandi andlit við stórum eygum",
+      "munnur",
+      "opin",
+      "stór"
+    ]
+  },
+  {
+    "emoji": "😄",
+    "tags": [
+      "andlit",
+      "grín",
+      "grínandi andlit við brosandi eygum",
+      "munnur",
+      "opin"
+    ]
+  },
+  {
+    "emoji": "😁",
+    "tags": [
+      "andlit",
+      "bros",
+      "eyga",
+      "grín",
+      "smíl",
+      "strálandi andlit við brosandi eygum"
+    ]
+  },
+  {
+    "emoji": "😆",
+    "tags": [
+      "andlit",
+      "eygu",
+      "grín",
+      "grínandi andlit við krympaðum eygum",
+      "krympa"
+    ]
+  },
+  {
+    "emoji": "😅",
+    "tags": [
+      "andlit",
+      "bros",
+      "grín",
+      "grínandi andlit við sveitta",
+      "smíl",
+      "sveitti"
+    ]
+  },
+  {
+    "emoji": "🤣",
+    "tags": [
+      "andlit",
+      "lofl",
+      "tár",
+      "tárandi flennandi andlit"
+    ]
+  },
+  {
+    "emoji": "😂",
+    "tags": [
+      "andlit",
+      "andlit við gleðistárum",
+      "gleði",
+      "látur",
+      "tár"
+    ]
+  },
+  {
+    "emoji": "🙂",
+    "tags": [
+      "andlit",
+      "andlit ið smílur eitt sindur",
+      "bros",
+      "smíl"
+    ]
+  },
+  {
+    "emoji": "🙃",
+    "tags": [
+      "andlit",
+      "andlit ið vendur á høvdinum",
+      "upp og niður"
+    ]
+  },
+  {
+    "emoji": "😉",
+    "tags": [
+      "andlit",
+      "andlit við blunkandi eyga",
+      "blunk"
+    ]
+  },
+  {
+    "emoji": "😊",
+    "tags": [
+      "andlit",
+      "bros",
+      "brosandi andlit við brosandi eygum",
+      "eyga",
+      "rodna"
+    ]
+  },
+  {
+    "emoji": "😇",
+    "tags": [
+      "andlit",
+      "brosandi andlit við halgiboga",
+      "gloria",
+      "halgibogi",
+      "sakleys"
+    ]
+  },
+  {
+    "emoji": "🥰",
+    "tags": [
+      "andlit",
+      "elska",
+      "hjarta",
+      "kærleikur",
+      "smílandi andlit við hjørtum"
+    ]
+  },
+  {
+    "emoji": "😍",
+    "tags": [
+      "andlit",
+      "hjarta",
+      "kærleikur",
+      "smílandi andlit við hjarta eygum"
+    ]
+  },
+  {
+    "emoji": "🤩",
+    "tags": [
+      "andlit",
+      "stjørna",
+      "stjørnuandlit"
+    ]
+  },
+  {
+    "emoji": "😘",
+    "tags": [
+      "andlit",
+      "andlit ið sendur hjarta koss",
+      "koss",
+      "muss"
+    ]
+  },
+  {
+    "emoji": "😗",
+    "tags": [
+      "andlit",
+      "koss",
+      "muss",
+      "mussandi andlit"
+    ]
+  },
+  {
+    "emoji": "☺️",
+    "tags": [
+      "andlit",
+      "bros",
+      "brosandi andlit"
+    ]
+  },
+  {
+    "emoji": "😚",
+    "tags": [
+      "afturlatin",
+      "andlit",
+      "eygu",
+      "koss",
+      "muss",
+      "mussandi andlit við afturlatnum eygum"
+    ]
+  },
+  {
+    "emoji": "😙",
+    "tags": [
+      "andlit",
+      "bros",
+      "eyga",
+      "koss",
+      "muss",
+      "mussandi andlit við brosandi eygum"
+    ]
+  },
+  {
+    "emoji": "🥲",
+    "tags": [
+      "andlit",
+      "bros",
+      "errin",
+      "smílandi andlit ið tárar",
+      "stolt",
+      "stoltur",
+      "takksamur",
+      "takksom"
+    ]
+  },
+  {
+    "emoji": "😋",
+    "tags": [
+      "andlit",
+      "andlit við matarlystið",
+      "lekkurt",
+      "matarlystur",
+      "tunga"
+    ]
+  },
+  {
+    "emoji": "😛",
+    "tags": [
+      "andlit",
+      "gálva",
+      "gálvandi andlit",
+      "tunga"
+    ]
+  },
+  {
+    "emoji": "😜",
+    "tags": [
+      "andlit",
+      "blunka",
+      "eyga",
+      "gálva",
+      "gálvandi andlit við blunkandi eyga",
+      "tunga"
+    ]
+  },
+  {
+    "emoji": "🤪",
+    "tags": [
+      "andlit",
+      "eygu",
+      "ørt",
+      "svakt"
+    ]
+  },
+  {
+    "emoji": "😝",
+    "tags": [
+      "andlit",
+      "eygu",
+      "gálva",
+      "gálvandi andlit við krympaðum eygum",
+      "krympa",
+      "tunga"
+    ]
+  },
+  {
+    "emoji": "🤑",
+    "tags": [
+      "andlit",
+      "munn",
+      "pengar",
+      "peningaandlit"
+    ]
+  },
+  {
+    "emoji": "🤗",
+    "tags": [
+      "andlit",
+      "klemm",
+      "klemmandi andlit"
+    ]
+  },
+  {
+    "emoji": "🤭",
+    "tags": [
+      "andlit",
+      "andlit við hond yvir munnin",
+      "hond",
+      "munn",
+      "ups"
+    ]
+  },
+  {
+    "emoji": "🤫",
+    "tags": [
+      "andlit",
+      "hússja",
+      "hússjandi andlit"
+    ]
+  },
+  {
+    "emoji": "🤔",
+    "tags": [
+      "andlit",
+      "hugsandi"
+    ]
+  },
+  {
+    "emoji": "🤐",
+    "tags": [
+      "andlit",
+      "lýnlás"
+    ]
+  },
+  {
+    "emoji": "🤨",
+    "tags": [
+      "andlit",
+      "andlit við upplyftum eygnabrúni",
+      "eygnabrún",
+      "ivi",
+      "skeptisk",
+      "skeptiskur"
+    ]
+  },
+  {
+    "emoji": "😐",
+    "tags": [
+      "andlit",
+      "nevtralt",
+      "ópartískt"
+    ]
+  },
+  {
+    "emoji": "😑",
+    "tags": [
+      "andlit",
+      "kensluleyst"
+    ]
+  },
+  {
+    "emoji": "😶",
+    "tags": [
+      "andlit",
+      "andlit uttan munn",
+      "munn"
+    ]
+  },
+  {
+    "emoji": "😶‍🌫️",
+    "tags": [
+      "andlit í skýggjum",
+      "burtur í øðrum heimi",
+      "hugspjaddur"
+    ]
+  },
+  {
+    "emoji": "😏",
+    "tags": [
+      "andlit",
+      "lúrin",
+      "lúrt andlit",
+      "snildur"
+    ]
+  },
+  {
+    "emoji": "😒",
+    "tags": [
+      "andlit",
+      "ikki stuttligt",
+      "ikki stuttligt andlit"
+    ]
+  },
+  {
+    "emoji": "🙄",
+    "tags": [
+      "andlit",
+      "andlit við rullandi eygum",
+      "eygu",
+      "rullandi"
+    ]
+  },
+  {
+    "emoji": "😬",
+    "tags": [
+      "andlit",
+      "andlit ið vísur tenn",
+      "snerkja",
+      "tenn"
+    ]
+  },
+  {
+    "emoji": "😮‍💨",
+    "tags": [
+      "anda út",
+      "andlit andar út",
+      "bríksla",
+      "floyta",
+      "suffa"
+    ]
+  },
+  {
+    "emoji": "🤥",
+    "tags": [
+      "andlit",
+      "andlit sum lýgur",
+      "lygn",
+      "pinocchio"
+    ]
+  },
+  {
+    "emoji": "😌",
+    "tags": [
+      "andlit",
+      "lætna"
+    ]
+  },
+  {
+    "emoji": "😔",
+    "tags": [
+      "andlit",
+      "dapur",
+      "grundandi",
+      "kedd",
+      "keddur"
+    ]
+  },
+  {
+    "emoji": "😪",
+    "tags": [
+      "andlit",
+      "grætur",
+      "lint"
+    ]
+  },
+  {
+    "emoji": "🤤",
+    "tags": [
+      "andlit",
+      "slev",
+      "slevandi andlit"
+    ]
+  },
+  {
+    "emoji": "😴",
+    "tags": [
+      "andlit",
+      "sovandi",
+      "zzz"
+    ]
+  },
+  {
+    "emoji": "😷",
+    "tags": [
+      "andlit",
+      "andlit við masku",
+      "maska",
+      "sjúk"
+    ]
+  },
+  {
+    "emoji": "🤒",
+    "tags": [
+      "andlit",
+      "andlit við fepurstokkið",
+      "fepurstokkur",
+      "sjúk"
+    ]
+  },
+  {
+    "emoji": "🤕",
+    "tags": [
+      "andlit",
+      "andlit við bind um høvdið",
+      "bind",
+      "sár",
+      "skaði"
+    ]
+  },
+  {
+    "emoji": "🤢",
+    "tags": [
+      "andlit",
+      "andlit ið vil spýggja",
+      "sjóverk",
+      "spýggj",
+      "vaml"
+    ]
+  },
+  {
+    "emoji": "🤮",
+    "tags": [
+      "andlit",
+      "sjóverk",
+      "spýggj",
+      "spýggjandi andlit",
+      "vaml"
+    ]
+  },
+  {
+    "emoji": "🤧",
+    "tags": [
+      "andlit",
+      "njós",
+      "njósandi andlit"
+    ]
+  },
+  {
+    "emoji": "🥵",
+    "tags": [
+      "fepur",
+      "heitt",
+      "heitt andlit",
+      "hitasótt",
+      "sveitti"
+    ]
+  },
+  {
+    "emoji": "🥶",
+    "tags": [
+      "blátt andlit",
+      "frost",
+      "kalt",
+      "kalt andlit"
+    ]
+  },
+  {
+    "emoji": "🥴",
+    "tags": [
+      "í ørviti",
+      "í ørviti andlit",
+      "kenning",
+      "skít",
+      "svimbul"
+    ]
+  },
+  {
+    "emoji": "😵",
+    "tags": [
+      "andlit",
+      "svimbul",
+      "svimbult andlit"
+    ]
+  },
+  {
+    "emoji": "😵‍💫",
+    "tags": [
+      "andlit við snyril eygum",
+      "dulleiða",
+      "hypnotisera",
+      "í ørvitu"
+    ]
+  },
+  {
+    "emoji": "🤯",
+    "tags": [
+      "andlit",
+      "andlit í brestur",
+      "brestur",
+      "skelkur"
+    ]
+  },
+  {
+    "emoji": "🤠",
+    "tags": [
+      "andlit",
+      "andlit við cowboyhatti",
+      "cowboy",
+      "hattur",
+      "kovboy"
+    ]
+  },
+  {
+    "emoji": "🥳",
+    "tags": [
+      "hattur",
+      "veitsla",
+      "veitslu andlit",
+      "veitslu horn"
+    ]
+  },
+  {
+    "emoji": "🥸",
+    "tags": [
+      "andlit",
+      "brillur",
+      "grýla",
+      "grýlu andlit",
+      "nøs"
+    ]
+  },
+  {
+    "emoji": "😎",
+    "tags": [
+      "andlit",
+      "smílandi andlit við sólbrillum",
+      "sólbrillur"
+    ]
+  },
+  {
+    "emoji": "🤓",
+    "tags": [
+      "andlit",
+      "nørd"
+    ]
+  },
+  {
+    "emoji": "🧐",
+    "tags": [
+      "andlit",
+      "andlit við einglesi",
+      "einglesi",
+      "monokul"
+    ]
+  },
+  {
+    "emoji": "😕",
+    "tags": [
+      "andlit",
+      "forvirra",
+      "ørviti"
+    ]
+  },
+  {
+    "emoji": "😟",
+    "tags": [
+      "andlit",
+      "bangin",
+      "stúrin",
+      "stúrt andlit"
+    ]
+  },
+  {
+    "emoji": "🙁",
+    "tags": [
+      "andlit",
+      "eitt sindur illbrýnt andlit",
+      "harmur",
+      "illbrýnt",
+      "illfýsið",
+      "keddur",
+      "óglaður",
+      "ólukkulig",
+      "sorgarbundin"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "tags": [
+      "andlit",
+      "harmur",
+      "illbrýnt",
+      "illfýsið",
+      "keddur",
+      "óglaður",
+      "ólukkulig",
+      "sorgarbundin"
+    ]
+  },
+  {
+    "emoji": "😮",
+    "tags": [
+      "andlit",
+      "andlit við opnum munni",
+      "munn",
+      "opin"
+    ]
+  },
+  {
+    "emoji": "😯",
+    "tags": [
+      "andlit",
+      "bilsi andlit",
+      "ovfari",
+      "undrandi"
+    ]
+  },
+  {
+    "emoji": "😲",
+    "tags": [
+      "andlit",
+      "bilsi",
+      "ovfari andlit",
+      "undrandi"
+    ]
+  },
+  {
+    "emoji": "😳",
+    "tags": [
+      "andlit",
+      "rodna"
+    ]
+  },
+  {
+    "emoji": "🥺",
+    "tags": [
+      "biðjandi andlit",
+      "bønandi",
+      "náði"
+    ]
+  },
+  {
+    "emoji": "😦",
+    "tags": [
+      "andlit",
+      "skelka"
+    ]
+  },
+  {
+    "emoji": "😧",
+    "tags": [
+      "andlit",
+      "pínt"
+    ]
+  },
+  {
+    "emoji": "😨",
+    "tags": [
+      "andlit",
+      "bangi",
+      "óttafult",
+      "óttast"
+    ]
+  },
+  {
+    "emoji": "😰",
+    "tags": [
+      "andlit",
+      "bangi",
+      "bangi andlit við sveitta",
+      "óttafult",
+      "óttast",
+      "sveitti"
+    ]
+  },
+  {
+    "emoji": "😥",
+    "tags": [
+      "andlit",
+      "dapur",
+      "sorgarbundi andlit og tár",
+      "sorgarbundin",
+      "tár"
+    ]
+  },
+  {
+    "emoji": "😢",
+    "tags": [
+      "andlit",
+      "andlit ið grætur",
+      "grátur",
+      "kedd",
+      "keddur",
+      "tár"
+    ]
+  },
+  {
+    "emoji": "😭",
+    "tags": [
+      "andlit",
+      "andlit sum grætur nógv",
+      "grátur",
+      "kedd",
+      "keddur",
+      "tár"
+    ]
+  },
+  {
+    "emoji": "😱",
+    "tags": [
+      "andlit",
+      "angist",
+      "bangilsi",
+      "ótti",
+      "ræðsla",
+      "skríggjandi"
+    ]
+  },
+  {
+    "emoji": "😖",
+    "tags": [
+      "andlit",
+      "harmur",
+      "illbrýnt",
+      "illfýsið",
+      "keddur",
+      "óglaður",
+      "ólukkulig",
+      "sera illbrýnt andlit",
+      "sorgarbundin"
+    ]
+  },
+  {
+    "emoji": "😣",
+    "tags": [
+      "ágrýti andlit",
+      "ágrýtin",
+      "andlit"
+    ]
+  },
+  {
+    "emoji": "😞",
+    "tags": [
+      "andlit",
+      "harmur",
+      "illbrýnt",
+      "illfýsið",
+      "keddur",
+      "óglaður",
+      "ólukkulig",
+      "skuffa andlit",
+      "sorgarbundin"
+    ]
+  },
+  {
+    "emoji": "😓",
+    "tags": [
+      "andlit",
+      "niður",
+      "sveittandi andlit ið hyggur niðureftir",
+      "sveitti"
+    ]
+  },
+  {
+    "emoji": "😩",
+    "tags": [
+      "andlit",
+      "pøst",
+      "troytt",
+      "troyttur"
+    ]
+  },
+  {
+    "emoji": "😫",
+    "tags": [
+      "andlit",
+      "móð",
+      "móður",
+      "troytt",
+      "troyttur"
+    ]
+  },
+  {
+    "emoji": "🥱",
+    "tags": [
+      "geisp",
+      "geispandi andlit",
+      "keða",
+      "keðsemi",
+      "troytt",
+      "troyttur"
+    ]
+  },
+  {
+    "emoji": "😤",
+    "tags": [
+      "andlit",
+      "andlit við royki úr nøsuni",
+      "argur",
+      "ill",
+      "vreiður"
+    ]
+  },
+  {
+    "emoji": "😡",
+    "tags": [
+      "andlit",
+      "hóttandi",
+      "ill",
+      "illur",
+      "sera hóttandi andlit"
+    ]
+  },
+  {
+    "emoji": "😠",
+    "tags": [
+      "andlit",
+      "hóttandi",
+      "ill",
+      "illur"
+    ]
+  },
+  {
+    "emoji": "🤬",
+    "tags": [
+      "andlit",
+      "banna",
+      "bannandi andlit",
+      "blóta",
+      "svørja"
+    ]
+  },
+  {
+    "emoji": "😈",
+    "tags": [
+      "ævint´yr",
+      "andlit",
+      "bros",
+      "brosandi andlit við hornum",
+      "horn",
+      "smíl"
+    ]
+  },
+  {
+    "emoji": "👿",
+    "tags": [
+      "ævint´yr",
+      "andlit",
+      "horn",
+      "hóttandi",
+      "hóttandi andlit við hornum",
+      "illur"
+    ]
+  },
+  {
+    "emoji": "💀",
+    "tags": [
+      "andlit",
+      "deyði",
+      "skøltur"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "deyði",
+      "krossleggir",
+      "skøltur",
+      "skøltur og krossleggir",
+      "vandi"
+    ]
+  },
+  {
+    "emoji": "💩",
+    "tags": [
+      "bros",
+      "kukkur",
+      "lortur",
+      "smíl"
+    ]
+  },
+  {
+    "emoji": "🤡",
+    "tags": [
+      "andlit",
+      "gekkur",
+      "klovn"
+    ]
+  },
+  {
+    "emoji": "👹",
+    "tags": [
+      "ævintýr",
+      "andlit",
+      "skrímsl",
+      "trøll"
+    ]
+  },
+  {
+    "emoji": "👺",
+    "tags": [
+      "ævintýr",
+      "andlit",
+      "skrímsl",
+      "trøll",
+      "vættur"
+    ]
+  },
+  {
+    "emoji": "👻",
+    "tags": [
+      "ævintýr",
+      "gálva",
+      "gálvandi spøkilsi",
+      "spøkilsi"
+    ]
+  },
+  {
+    "emoji": "👽",
+    "tags": [
+      "ævintýr",
+      "alien",
+      "andlit",
+      "rúmdarvera",
+      "ufo"
+    ]
+  },
+  {
+    "emoji": "👾",
+    "tags": [
+      "ævintýr",
+      "alien",
+      "andlit",
+      "rúmdarvera",
+      "skrímsl",
+      "ufo"
+    ]
+  },
+  {
+    "emoji": "🤖",
+    "tags": [
+      "andlit",
+      "robottandlit",
+      "robottur",
+      "tólmenni"
+    ]
+  },
+  {
+    "emoji": "😺",
+    "tags": [
+      "andlit",
+      "brós",
+      "brosandi",
+      "brosandi kettuandlit",
+      "ketta",
+      "smíl"
+    ]
+  },
+  {
+    "emoji": "😸",
+    "tags": [
+      "andlit",
+      "brós",
+      "brosandi kettuandlit við smílandi eygum",
+      "ketta",
+      "smíl"
+    ]
+  },
+  {
+    "emoji": "😹",
+    "tags": [
+      "andlit",
+      "bros",
+      "gleði",
+      "ketta",
+      "kettuandlit sum fellur gleðist´´ár",
+      "smíl",
+      "tár"
+    ]
+  },
+  {
+    "emoji": "😻",
+    "tags": [
+      "andlit",
+      "brosandi kettuandlit við hjartaeygum",
+      "eygu",
+      "hjarta",
+      "ketta"
+    ]
+  },
+  {
+    "emoji": "😼",
+    "tags": [
+      "andlit",
+      "beiskt",
+      "ketta",
+      "kettuandlit við speiskum smíli",
+      "speiskt"
+    ]
+  },
+  {
+    "emoji": "😽",
+    "tags": [
+      "andlit",
+      "ketta",
+      "muss",
+      "mussandi kettuandlit"
+    ]
+  },
+  {
+    "emoji": "🙀",
+    "tags": [
+      "andlit",
+      "bilsi",
+      "bilsi kettuandlit",
+      "ketta",
+      "skelkur",
+      "undran"
+    ]
+  },
+  {
+    "emoji": "😿",
+    "tags": [
+      "andlit",
+      "grætur",
+      "grátandi kettuandlit",
+      "grátur",
+      "ketta",
+      "tár"
+    ]
+  },
+  {
+    "emoji": "😾",
+    "tags": [
+      "andlit",
+      "gron",
+      "ketta",
+      "kettuandlit við gron"
+    ]
+  },
+  {
+    "emoji": "🙈",
+    "tags": [
+      "andlit",
+      "apa",
+      "apuandlit við hondunum yvir eygunum",
+      "eygu",
+      "hond"
+    ]
+  },
+  {
+    "emoji": "🙉",
+    "tags": [
+      "andlit",
+      "apa",
+      "apuandlit við hondunum yvir oyrunum",
+      "hond",
+      "oyru"
+    ]
+  },
+  {
+    "emoji": "🙊",
+    "tags": [
+      "andlit",
+      "apa",
+      "apuandlit við hondunum yvir munninum",
+      "hond",
+      "munn"
+    ]
+  },
+  {
+    "emoji": "💋",
+    "tags": [
+      "koss",
+      "muss",
+      "muss merki",
+      "varrar",
+      "varrastift"
+    ]
+  },
+  {
+    "emoji": "💌",
+    "tags": [
+      "bræv",
+      "kærleiksbræv",
+      "kærleikur"
+    ]
+  },
+  {
+    "emoji": "💘",
+    "tags": [
+      "Amor",
+      "amorina",
+      "hjarta",
+      "kærleikstekin",
+      "pílur",
+      "pílur ígjøgnum hjarta"
+    ]
+  },
+  {
+    "emoji": "💝",
+    "tags": [
+      "band",
+      "hjarta",
+      "hjarta við bandi"
+    ]
+  },
+  {
+    "emoji": "💖",
+    "tags": [
+      "glampandi",
+      "glitrandi",
+      "glógvandi",
+      "hjarta",
+      "ljómandi"
+    ]
+  },
+  {
+    "emoji": "💗",
+    "tags": [
+      "glógvandi",
+      "hjarta"
+    ]
+  },
+  {
+    "emoji": "💓",
+    "tags": [
+      "bankandi hjarta",
+      "bankar",
+      "hjarta",
+      "slær"
+    ]
+  },
+  {
+    "emoji": "💞",
+    "tags": [
+      "hjarta",
+      "hjørtu",
+      "hjørtu sum mela í klingur",
+      "mala"
+    ]
+  },
+  {
+    "emoji": "💕",
+    "tags": [
+      "kærleiki",
+      "tvey hjørtu"
+    ]
+  },
+  {
+    "emoji": "💟",
+    "tags": [
+      "hjarta",
+      "prýði",
+      "pynt"
+    ]
+  },
+  {
+    "emoji": "❣️",
+    "tags": [
+      "hjarta",
+      "rópitekn",
+      "teknseting"
+    ]
+  },
+  {
+    "emoji": "💔",
+    "tags": [
+      "brotið",
+      "hjarta",
+      "sorgarbundin"
+    ]
+  },
+  {
+    "emoji": "❤️‍🔥",
+    "tags": [
+      "brennur",
+      "girnd",
+      "hjarta",
+      "hjarta sum brennur",
+      "kærleiki"
+    ]
+  },
+  {
+    "emoji": "❤️‍🩹",
+    "tags": [
+      "hjarta",
+      "hjarta sum er lappa",
+      "lappa",
+      "umvæling"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "tags": [
+      "hjarta",
+      "reytt"
+    ]
+  },
+  {
+    "emoji": "🧡",
+    "tags": [
+      "appilsingult",
+      "hjarta"
+    ]
+  },
+  {
+    "emoji": "💛",
+    "tags": [
+      "gult",
+      "hjarta"
+    ]
+  },
+  {
+    "emoji": "💚",
+    "tags": [
+      "grønt",
+      "hjarta"
+    ]
+  },
+  {
+    "emoji": "💙",
+    "tags": [
+      "blátt",
+      "hjarta"
+    ]
+  },
+  {
+    "emoji": "💜",
+    "tags": [
+      "bláreytt",
+      "hjarta",
+      "korkalitt",
+      "lilla",
+      "lillafarva",
+      "purpurlitt",
+      "purpurreytt"
+    ]
+  },
+  {
+    "emoji": "🤎",
+    "tags": [
+      "brúnt",
+      "hjarta"
+    ]
+  },
+  {
+    "emoji": "🖤",
+    "tags": [
+      "hjarta",
+      "svart"
+    ]
+  },
+  {
+    "emoji": "🤍",
+    "tags": [
+      "hjarta",
+      "hvítt"
+    ]
+  },
+  {
+    "emoji": "💯",
+    "tags": [
+      "100",
+      "hundrað",
+      "stig",
+      "úrslit"
+    ]
+  },
+  {
+    "emoji": "💢",
+    "tags": [
+      "tekin",
+      "vreiði"
+    ]
+  },
+  {
+    "emoji": "💥",
+    "tags": [
+      "bang",
+      "samanbrestur",
+      "samanstoytur"
+    ]
+  },
+  {
+    "emoji": "💫",
+    "tags": [
+      "stjørna",
+      "stjørnuskot",
+      "svimbul",
+      "tekin"
+    ]
+  },
+  {
+    "emoji": "💦",
+    "tags": [
+      "dropar",
+      "sveitti",
+      "vatn"
+    ]
+  },
+  {
+    "emoji": "💨",
+    "tags": [
+      "fok",
+      "renna",
+      "vindur"
+    ]
+  },
+  {
+    "emoji": "🕳️",
+    "tags": [
+      "hol"
+    ]
+  },
+  {
+    "emoji": "💣",
+    "tags": [
+      "bumba",
+      "vopn"
+    ]
+  },
+  {
+    "emoji": "💬",
+    "tags": [
+      "bløðra",
+      "samtala",
+      "tala",
+      "talubløðra"
+    ]
+  },
+  {
+    "emoji": "🗨️",
+    "tags": [
+      "samtala",
+      "svørt talubløðra",
+      "tala"
+    ]
+  },
+  {
+    "emoji": "🗯️",
+    "tags": [
+      "ábreiðsla",
+      "átala",
+      "átalandi talubløðra",
+      "hartan",
+      "skeld",
+      "skelda",
+      "talubløðra"
+    ]
+  },
+  {
+    "emoji": "💭",
+    "tags": [
+      "hugskot",
+      "tankabløðra",
+      "tanki",
+      "umsorgan"
+    ]
+  },
+  {
+    "emoji": "💤",
+    "tags": [
+      "snorkar",
+      "svevur",
+      "zzz"
+    ]
+  },
+  {
+    "emoji": "👋",
+    "tags": [
+      "hond",
+      "veitra",
+      "veitrandi hond",
+      "vinka"
+    ]
+  },
+  {
+    "emoji": "🤚",
+    "tags": [
+      "handarbak"
+    ]
+  },
+  {
+    "emoji": "🖐️",
+    "tags": [
+      "fimm",
+      "fingrar",
+      "hond"
+    ]
+  },
+  {
+    "emoji": "✋",
+    "tags": [
+      "hond",
+      "lógvi"
+    ]
+  },
+  {
+    "emoji": "🖖",
+    "tags": [
+      "heilsan",
+      "spock",
+      "vulcan",
+      "vulkan"
+    ]
+  },
+  {
+    "emoji": "👌",
+    "tags": [
+      "gott",
+      "hond",
+      "ok",
+      "tekin",
+      "viðurkent"
+    ]
+  },
+  {
+    "emoji": "🤌",
+    "tags": [
+      "fingrar",
+      "hond",
+      "hondtekin",
+      "samlaðir fingrar"
+    ]
+  },
+  {
+    "emoji": "🤏",
+    "tags": [
+      "eitt sindur",
+      "fingrar",
+      "fingrar sum vísa ikki nógv",
+      "hond",
+      "hondtekin",
+      "ikki nógv",
+      "lítið"
+    ]
+  },
+  {
+    "emoji": "✌️",
+    "tags": [
+      "hond",
+      "sigur",
+      "sigurstekin",
+      "tekin"
+    ]
+  },
+  {
+    "emoji": "🤞",
+    "tags": [
+      "eydna",
+      "fingrar",
+      "hond",
+      "krossaðir fingrar"
+    ]
+  },
+  {
+    "emoji": "🤟",
+    "tags": [
+      "hond",
+      "kærleiki",
+      "kærleikshandabragd"
+    ]
+  },
+  {
+    "emoji": "🤘",
+    "tags": [
+      "horn",
+      "horntekin",
+      "rock",
+      "rokkur",
+      "tekin"
+    ]
+  },
+  {
+    "emoji": "🤙",
+    "tags": [
+      "hond",
+      "tekin",
+      "telefon",
+      "telefontekin"
+    ]
+  },
+  {
+    "emoji": "👈",
+    "tags": [
+      "fingur",
+      "fremstifingur",
+      "fremstifingur peikar til vinstru",
+      "hond",
+      "peikifingur",
+      "vinstru"
+    ]
+  },
+  {
+    "emoji": "👉",
+    "tags": [
+      "fingur",
+      "fremstifingur",
+      "fremstifingur peikar til høgru",
+      "høgru",
+      "hond",
+      "peikifingur"
+    ]
+  },
+  {
+    "emoji": "👆",
+    "tags": [
+      "fingur",
+      "fremstifingur",
+      "fremstifingur peikar uppeftir",
+      "hond",
+      "peikifingur",
+      "upp",
+      "uppeftir"
+    ]
+  },
+  {
+    "emoji": "🖕",
+    "tags": [
+      "fingur",
+      "hond",
+      "longutong",
+      "longutong peikar uppeftir",
+      "upp",
+      "uppeftir"
+    ]
+  },
+  {
+    "emoji": "👇",
+    "tags": [
+      "fingur",
+      "hond",
+      "longutong",
+      "longutong peikar niðureftir",
+      "niður",
+      "niðureftir"
+    ]
+  },
+  {
+    "emoji": "☝️",
+    "tags": [
+      "fingur",
+      "fremstifingur",
+      "hond",
+      "lógvi",
+      "lógvi og fremstifingur peikar uppeftir",
+      "peikifingur",
+      "upp",
+      "uppeftir"
+    ]
+  },
+  {
+    "emoji": "👍",
+    "tags": [
+      "gott",
+      "samdur",
+      "tummil",
+      "tummil upp"
+    ]
+  },
+  {
+    "emoji": "👎",
+    "tags": [
+      "niður",
+      "ósamdur",
+      "tummil",
+      "vánaligt"
+    ]
+  },
+  {
+    "emoji": "✊",
+    "tags": [
+      "knýttur",
+      "nevi"
+    ]
+  },
+  {
+    "emoji": "👊",
+    "tags": [
+      "knýttur",
+      "nevi",
+      "sláandi knýttur nevi",
+      "slær"
+    ]
+  },
+  {
+    "emoji": "🤛",
+    "tags": [
+      "knýttur",
+      "nevi",
+      "nevi í vendur til vinstru",
+      "vinstru"
+    ]
+  },
+  {
+    "emoji": "🤜",
+    "tags": [
+      "høgru",
+      "knýttur",
+      "nevi",
+      "nevi í vendur til høgru"
+    ]
+  },
+  {
+    "emoji": "👏",
+    "tags": [
+      "hendur",
+      "hond",
+      "klapp",
+      "klappandi hendur"
+    ]
+  },
+  {
+    "emoji": "🙌",
+    "tags": [
+      "hendur",
+      "hond",
+      "upp",
+      "upplyftar hendur"
+    ]
+  },
+  {
+    "emoji": "👐",
+    "tags": [
+      "hendur",
+      "hond",
+      "opin",
+      "opnar hendur"
+    ]
+  },
+  {
+    "emoji": "🤲",
+    "tags": [
+      "bøn",
+      "hendur",
+      "hond",
+      "lógvar",
+      "lógvar sum eru saman",
+      "lógvi",
+      "saman"
+    ]
+  },
+  {
+    "emoji": "🤝",
+    "tags": [
+      "hendur",
+      "hond",
+      "lógvatak",
+      "taka í"
+    ]
+  },
+  {
+    "emoji": "🙏",
+    "tags": [
+      "bøn",
+      "eggja saman hendur",
+      "falda",
+      "hendur"
+    ]
+  },
+  {
+    "emoji": "✍️",
+    "tags": [
+      "hond",
+      "skriva",
+      "skrivandi hond"
+    ]
+  },
+  {
+    "emoji": "💅",
+    "tags": [
+      "fríðkanarevni",
+      "negl",
+      "neglalakk",
+      "vakurleikarøkt"
+    ]
+  },
+  {
+    "emoji": "🤳",
+    "tags": [
+      "selfie",
+      "sjálvsmynd"
+    ]
+  },
+  {
+    "emoji": "💪",
+    "tags": [
+      "biseps",
+      "spentur",
+      "tvíhøvdavøddi"
+    ]
+  },
+  {
+    "emoji": "🦾",
+    "tags": [
+      "armur",
+      "kunstigur armur",
+      "maskinarmur",
+      "mekaniskur"
+    ]
+  },
+  {
+    "emoji": "🦿",
+    "tags": [
+      "bein",
+      "kunstigt bein",
+      "maskinbein",
+      "mekaniskt"
+    ]
+  },
+  {
+    "emoji": "🦵",
+    "tags": [
+      "bein",
+      "limur",
+      "sparka"
+    ]
+  },
+  {
+    "emoji": "🦶",
+    "tags": [
+      "fótur",
+      "limur",
+      "sparka",
+      "trampa"
+    ]
+  },
+  {
+    "emoji": "👂",
+    "tags": [
+      "kroppur",
+      "oyra"
+    ]
+  },
+  {
+    "emoji": "🦻",
+    "tags": [
+      "deyvur",
+      "hoyritól",
+      "oyra",
+      "oyra við hoyritólið"
+    ]
+  },
+  {
+    "emoji": "👃",
+    "tags": [
+      "kroppur",
+      "nøs"
+    ]
+  },
+  {
+    "emoji": "🧠",
+    "tags": [
+      "gløgg",
+      "gløggur",
+      "heili",
+      "klók",
+      "klókur",
+      "kroppur"
+    ]
+  },
+  {
+    "emoji": "🫀",
+    "tags": [
+      "hjarta",
+      "hjartasláttur",
+      "pulsur",
+      "yrkisgagn"
+    ]
+  },
+  {
+    "emoji": "🫁",
+    "tags": [
+      "andadráttur",
+      "lungur",
+      "yrkisgagn"
+    ]
+  },
+  {
+    "emoji": "🦷",
+    "tags": [
+      "tannlækni",
+      "tonn"
+    ]
+  },
+  {
+    "emoji": "🦴",
+    "tags": [
+      "bein",
+      "beinagrind",
+      "kjøtbein"
+    ]
+  },
+  {
+    "emoji": "👀",
+    "tags": [
+      "eyga",
+      "eygu"
+    ]
+  },
+  {
+    "emoji": "👁️",
+    "tags": [
+      "eyga",
+      "kroppur"
+    ]
+  },
+  {
+    "emoji": "👅",
+    "tags": [
+      "gálva",
+      "kroppur",
+      "tunga"
+    ]
+  },
+  {
+    "emoji": "👄",
+    "tags": [
+      "kroppur",
+      "munnur",
+      "varrar"
+    ]
+  },
+  {
+    "emoji": "👶",
+    "tags": [
+      "barn",
+      "pinkubarn"
+    ]
+  },
+  {
+    "emoji": "🧒",
+    "tags": [
+      "barn",
+      "óviti"
+    ]
+  },
+  {
+    "emoji": "👦",
+    "tags": [
+      "drongur",
+      "piltur",
+      "smádrongur"
+    ]
+  },
+  {
+    "emoji": "👧",
+    "tags": [
+      "genta",
+      "smágenta"
+    ]
+  },
+  {
+    "emoji": "🧑",
+    "tags": [
+      "persónur",
+      "vaksin"
+    ]
+  },
+  {
+    "emoji": "👱",
+    "tags": [
+      "fólk",
+      "ljóshærd",
+      "ljóshærdur",
+      "ljóshærdur persónur"
+    ]
+  },
+  {
+    "emoji": "👨",
+    "tags": [
+      "maður",
+      "mannfólk",
+      "vaksin"
+    ]
+  },
+  {
+    "emoji": "🧔",
+    "tags": [
+      "persónur",
+      "persónur við skeggi",
+      "skegg"
+    ]
+  },
+  {
+    "emoji": "🧔‍♂️",
+    "tags": [
+      "maður",
+      "maður við skeggi",
+      "skegg"
+    ]
+  },
+  {
+    "emoji": "👱‍♂️",
+    "tags": [
+      "ljóshærdur",
+      "maður"
+    ]
+  },
+  {
+    "emoji": "👩",
+    "tags": [
+      "kona",
+      "konufólk",
+      "kvinna",
+      "vaksin"
+    ]
+  },
+  {
+    "emoji": "🧔‍♀️",
+    "tags": [
+      "kona",
+      "kona við skeggi",
+      "konufólk",
+      "kvinna",
+      "skegg"
+    ]
+  },
+  {
+    "emoji": "👱‍♀️",
+    "tags": [
+      "kona",
+      "kvinna",
+      "ljóshærd"
+    ]
+  },
+  {
+    "emoji": "🧓",
+    "tags": [
+      "eldri",
+      "tilkomin"
+    ]
+  },
+  {
+    "emoji": "👴",
+    "tags": [
+      "eldri",
+      "gamal",
+      "maður",
+      "mannfólk"
+    ]
+  },
+  {
+    "emoji": "👵",
+    "tags": [
+      "eldri",
+      "gomul",
+      "kona",
+      "konufólk",
+      "kvinna"
+    ]
+  },
+  {
+    "emoji": "🙍",
+    "tags": [
+      "fólk",
+      "illbrýnt",
+      "illbrýntur persónur",
+      "persónur"
+    ]
+  },
+  {
+    "emoji": "🙍‍♂️",
+    "tags": [
+      "illbrýntur",
+      "maður"
+    ]
+  },
+  {
+    "emoji": "🙍‍♀️",
+    "tags": [
+      "illbrýnt",
+      "kona",
+      "kvinna"
+    ]
+  },
+  {
+    "emoji": "🙎",
+    "tags": [
+      "fólk",
+      "gron",
+      "persónur",
+      "persónur við gron"
+    ]
+  },
+  {
+    "emoji": "🙎‍♂️",
+    "tags": [
+      "gron",
+      "maður",
+      "maður við gron"
+    ]
+  },
+  {
+    "emoji": "🙎‍♀️",
+    "tags": [
+      "gron",
+      "kona",
+      "kvinna",
+      "kvinna við gron"
+    ]
+  },
+  {
+    "emoji": "🙅",
+    "tags": [
+      "fólk",
+      "nei",
+      "persónur",
+      "persónur sum veipar nei",
+      "veipar"
+    ]
+  },
+  {
+    "emoji": "🙅‍♂️",
+    "tags": [
+      "maður",
+      "maður sum veipar nei",
+      "nei",
+      "veipar"
+    ]
+  },
+  {
+    "emoji": "🙅‍♀️",
+    "tags": [
+      "kona",
+      "kvinna",
+      "kvinna sum veipar nei",
+      "nei",
+      "veipar"
+    ]
+  },
+  {
+    "emoji": "🙆",
+    "tags": [
+      "fólk",
+      "ok",
+      "persónur",
+      "persónur sum veipar ok",
+      "veipar"
+    ]
+  },
+  {
+    "emoji": "🙆‍♂️",
+    "tags": [
+      "maður",
+      "maður sum veipar ok",
+      "ok",
+      "veipar"
+    ]
+  },
+  {
+    "emoji": "🙆‍♀️",
+    "tags": [
+      "kona",
+      "kvinna",
+      "kvinna sum veipar ok",
+      "ok",
+      "veipar"
+    ]
+  },
+  {
+    "emoji": "💁",
+    "tags": [
+      "fólk",
+      "nertir við",
+      "persónur",
+      "persónur sum nertir við"
+    ]
+  },
+  {
+    "emoji": "💁‍♂️",
+    "tags": [
+      "maður",
+      "maður sum nertir við",
+      "nertir við"
+    ]
+  },
+  {
+    "emoji": "💁‍♀️",
+    "tags": [
+      "kona",
+      "kvinna",
+      "kvinna sum nertir við",
+      "nertir við"
+    ]
+  },
+  {
+    "emoji": "🙋",
+    "tags": [
+      "fólk",
+      "hond",
+      "lyft",
+      "persónur",
+      "persónur sum lyftur hondina upp",
+      "upp"
+    ]
+  },
+  {
+    "emoji": "🙋‍♂️",
+    "tags": [
+      "hond",
+      "lyft",
+      "maður",
+      "maður sum lyftur hondina upp",
+      "upp"
+    ]
+  },
+  {
+    "emoji": "🙋‍♀️",
+    "tags": [
+      "hond",
+      "kona",
+      "kvinna",
+      "kvinna sum lyftur hondina upp",
+      "lyft",
+      "upp"
+    ]
+  },
+  {
+    "emoji": "🧏",
+    "tags": [
+      "deyvur",
+      "persónur"
+    ]
+  },
+  {
+    "emoji": "🧏‍♂️",
+    "tags": [
+      "deyvur",
+      "maður"
+    ]
+  },
+  {
+    "emoji": "🧏‍♀️",
+    "tags": [
+      "deyv",
+      "kona",
+      "kvinna"
+    ]
+  },
+  {
+    "emoji": "🙇",
+    "tags": [
+      "bukkar",
+      "fólk",
+      "persónur",
+      "persónur sum bukkar"
+    ]
+  },
+  {
+    "emoji": "🙇‍♂️",
+    "tags": [
+      "bukkar",
+      "maður",
+      "maður sum bukkar"
+    ]
+  },
+  {
+    "emoji": "🙇‍♀️",
+    "tags": [
+      "bukkar",
+      "kona",
+      "kvinna",
+      "kvinna sum bukkar"
+    ]
+  },
+  {
+    "emoji": "🤦",
+    "tags": [
+      "facepalm",
+      "fólk",
+      "ørkymlan",
+      "persónur",
+      "vónbrot",
+      "vónbrotin persónur"
+    ]
+  },
+  {
+    "emoji": "🤦‍♂️",
+    "tags": [
+      "facepalm",
+      "maður",
+      "ørkymlan",
+      "ørkymlanfólk",
+      "persónur",
+      "vónbrot",
+      "vónbrotin maður"
+    ]
+  },
+  {
+    "emoji": "🤦‍♀️",
+    "tags": [
+      "facepalm",
+      "kona",
+      "kvinna",
+      "ørkymlan",
+      "ørkymlanfólk",
+      "persónur",
+      "vónbrot",
+      "vónbrotin kvinna"
+    ]
+  },
+  {
+    "emoji": "🤷",
+    "tags": [
+      "akslaypp",
+      "fólk",
+      "ivast",
+      "ivi",
+      "persónur",
+      "persónur sum yppur øksl",
+      "veit ikki",
+      "yppa øksl"
+    ]
+  },
+  {
+    "emoji": "🤷‍♂️",
+    "tags": [
+      "akslaypp",
+      "ivast",
+      "ivi",
+      "maður",
+      "maður um yppur øksl",
+      "veit ikki",
+      "yppa øksl"
+    ]
+  },
+  {
+    "emoji": "🤷‍♀️",
+    "tags": [
+      "akslaypp",
+      "ivast",
+      "ivi",
+      "kona",
+      "kvinna",
+      "kvinna um yppur øksl",
+      "veit ikki",
+      "yppa øksl"
+    ]
+  },
+  {
+    "emoji": "🧑‍⚕️",
+    "tags": [
+      "heilsuverkfrøðingur",
+      "lækni",
+      "lekifrøðingur",
+      "sjúkrarøktarfrøðingur",
+      "sjúkrasystir"
+    ]
+  },
+  {
+    "emoji": "👨‍⚕️",
+    "tags": [
+      "heilsurøkt",
+      "lækni",
+      "maður",
+      "mannligur lækni",
+      "sjúkrarøktarfrøðingur",
+      "sjúkrasystir",
+      "terapevtur"
+    ]
+  },
+  {
+    "emoji": "👩‍⚕️",
+    "tags": [
+      "heilsurøkt",
+      "kona",
+      "kvinna",
+      "kvinnuligur lækni",
+      "lækni",
+      "sjúkrarøktarfrøðingur",
+      "sjúkrasystir",
+      "terapevtur"
+    ]
+  },
+  {
+    "emoji": "🧑‍🎓",
+    "tags": [
+      "lesandi",
+      "næmingur",
+      "prógv",
+      "studentur"
+    ]
+  },
+  {
+    "emoji": "👨‍🎓",
+    "tags": [
+      "maður",
+      "mannligur studentur",
+      "studentur",
+      "útbúgvin"
+    ]
+  },
+  {
+    "emoji": "👩‍🎓",
+    "tags": [
+      "kona",
+      "kvinna",
+      "kvinnuligur studentur",
+      "studentur",
+      "útbúgvin"
+    ]
+  },
+  {
+    "emoji": "🧑‍🏫",
+    "tags": [
+      "lærari",
+      "professari",
+      "vegleiðari"
+    ]
+  },
+  {
+    "emoji": "👨‍🏫",
+    "tags": [
+      "lærari",
+      "maður",
+      "mannligur lærari",
+      "professari",
+      "vegleiðari"
+    ]
+  },
+  {
+    "emoji": "👩‍🏫",
+    "tags": [
+      "kona",
+      "kvinna",
+      "kvinnuligur lærari",
+      "lærari",
+      "lærarinna",
+      "professari",
+      "vegleiðari"
+    ]
+  },
+  {
+    "emoji": "🧑‍⚖️",
+    "tags": [
+      "dómari",
+      "rættvísi"
+    ]
+  },
+  {
+    "emoji": "👨‍⚖️",
+    "tags": [
+      "dómari",
+      "maður",
+      "mannligur dómari",
+      "rættvísi"
+    ]
+  },
+  {
+    "emoji": "👩‍⚖️",
+    "tags": [
+      "dómari",
+      "kona",
+      "kvinna",
+      "kvinnuligur dómari",
+      "rættvísi"
+    ]
+  },
+  {
+    "emoji": "🧑‍🌾",
+    "tags": [
+      "bóndi",
+      "urtagarðsmaður"
+    ]
+  },
+  {
+    "emoji": "👨‍🌾",
+    "tags": [
+      "bóndi",
+      "maður",
+      "mannligur bóndi"
+    ]
+  },
+  {
+    "emoji": "👩‍🌾",
+    "tags": [
+      "bóndi",
+      "kona",
+      "kvinna",
+      "kvinnuligur bóndi"
+    ]
+  },
+  {
+    "emoji": "🧑‍🍳",
+    "tags": [
+      "høvuðskokkur",
+      "kokkur",
+      "matgera"
+    ]
+  },
+  {
+    "emoji": "👨‍🍳",
+    "tags": [
+      "kokkur",
+      "maður",
+      "mannligur kokkur"
+    ]
+  },
+  {
+    "emoji": "👩‍🍳",
+    "tags": [
+      "kokkur",
+      "kona",
+      "kvinna",
+      "kvinnuligur kokkur"
+    ]
+  },
+  {
+    "emoji": "🧑‍🔧",
+    "tags": [
+      "maksinsmiður",
+      "mekanikari",
+      "rørsmiður",
+      "smiður"
+    ]
+  },
+  {
+    "emoji": "👨‍🔧",
+    "tags": [
+      "elektrikari",
+      "maður",
+      "mannligur mekanikari",
+      "mekanikari",
+      "rørsmiður"
+    ]
+  },
+  {
+    "emoji": "👩‍🔧",
+    "tags": [
+      "elektrikari",
+      "kona",
+      "kvinna",
+      "kvinnuligur mekanikari",
+      "mekanikari",
+      "rørsmiður"
+    ]
+  },
+  {
+    "emoji": "🧑‍🏭",
+    "tags": [
+      "arbeiðsfólk",
+      "sj´óðari",
+      "sveisari"
+    ]
+  },
+  {
+    "emoji": "👨‍🏭",
+    "tags": [
+      "arbeiðsmaður",
+      "maður",
+      "mannligur sveisari",
+      "sjóðari",
+      "sveisari"
+    ]
+  },
+  {
+    "emoji": "👩‍🏭",
+    "tags": [
+      "arbeiðskvinna",
+      "kona",
+      "kvinna",
+      "kvinnuligur sveisari",
+      "sj´óðari",
+      "sveisari"
+    ]
+  },
+  {
+    "emoji": "🧑‍💼",
+    "tags": [
+      "embætisfólk",
+      "handilsfólk",
+      "skrivstovufólk",
+      "starvsfólk"
+    ]
+  },
+  {
+    "emoji": "👨‍💼",
+    "tags": [
+      "arkitektur",
+      "deildarstjóri",
+      "løgfrøðingur",
+      "maður",
+      "skrivstova",
+      "skrivstovumaður",
+      "stjóri"
+    ]
+  },
+  {
+    "emoji": "👩‍💼",
+    "tags": [
+      "arkitektur",
+      "deildarstjóri",
+      "kona",
+      "kvinna",
+      "løgfrøðingur",
+      "skrivstova",
+      "skrivstovukvinna",
+      "stjóri"
+    ]
+  },
+  {
+    "emoji": "🧑‍🔬",
+    "tags": [
+      "alisfrøðingur",
+      "evnafrøðingur",
+      "lívsfrøðingur",
+      "náttúruvísindafólk"
+    ]
+  },
+  {
+    "emoji": "👨‍🔬",
+    "tags": [
+      "maður",
+      "náttúruvísindi",
+      "vísind",
+      "vísindamaður"
+    ]
+  },
+  {
+    "emoji": "👩‍🔬",
+    "tags": [
+      "kona",
+      "kvinna",
+      "náttúruvísindi",
+      "vísind",
+      "vísindakvinna"
+    ]
+  },
+  {
+    "emoji": "🧑‍💻",
+    "tags": [
+      "forritari",
+      "tøkni",
+      "tøknifrøðingur",
+      "uppfinnari"
+    ]
+  },
+  {
+    "emoji": "👨‍💻",
+    "tags": [
+      "forritari",
+      "maður",
+      "mannligur tøknifrøðingur",
+      "tøkni",
+      "uppfinnari"
+    ]
+  },
+  {
+    "emoji": "👩‍💻",
+    "tags": [
+      "forritari",
+      "kona",
+      "kvinna",
+      "kvinnuligur tøknifrøðingur",
+      "tøkni",
+      "uppfinnari"
+    ]
+  },
+  {
+    "emoji": "🧑‍🎤",
+    "tags": [
+      "rokk",
+      "sangari",
+      "stjørna",
+      "undirhaldari"
+    ]
+  },
+  {
+    "emoji": "👨‍🎤",
+    "tags": [
+      "maður",
+      "mannligur sangari",
+      "sangari",
+      "sjónleikari",
+      "skemtari",
+      "undirhaldari",
+      "vertur"
+    ]
+  },
+  {
+    "emoji": "👩‍🎤",
+    "tags": [
+      "kona",
+      "kvinna",
+      "kvinnuligur sangari",
+      "sangari",
+      "sangarinna",
+      "sjónleikari",
+      "skemtari",
+      "songkvinna",
+      "undirhaldari",
+      "vertur"
+    ]
+  },
+  {
+    "emoji": "🧑‍🎨",
+    "tags": [
+      "list",
+      "listafólk",
+      "listamálari"
+    ]
+  },
+  {
+    "emoji": "👨‍🎨",
+    "tags": [
+      "list",
+      "listamaður",
+      "listamálari",
+      "maður"
+    ]
+  },
+  {
+    "emoji": "👩‍🎨",
+    "tags": [
+      "kona",
+      "kvinna",
+      "list",
+      "listakona",
+      "listamálari"
+    ]
+  },
+  {
+    "emoji": "🧑‍✈️",
+    "tags": [
+      "flogskipari",
+      "pilotur"
+    ]
+  },
+  {
+    "emoji": "👨‍✈️",
+    "tags": [
+      "flogskipari",
+      "maður",
+      "mannligur flogskipari",
+      "pilotur",
+      "René"
+    ]
+  },
+  {
+    "emoji": "👩‍✈️",
+    "tags": [
+      "flogskipari",
+      "kona",
+      "kvinna",
+      "kvinnuligur flogskipari",
+      "pilotur"
+    ]
+  },
+  {
+    "emoji": "🧑‍🚀",
+    "tags": [
+      "astronautur",
+      "rúmdarskipari",
+      "rúmdin"
+    ]
+  },
+  {
+    "emoji": "👨‍🚀",
+    "tags": [
+      "astronautur",
+      "maður",
+      "mannligur astronautur",
+      "rúmdarskipari",
+      "rúmdin"
+    ]
+  },
+  {
+    "emoji": "👩‍🚀",
+    "tags": [
+      "astronautur",
+      "kona",
+      "kvinna",
+      "kvinnuligur astronautur",
+      "rúmdarskipari",
+      "rúmdin"
+    ]
+  },
+  {
+    "emoji": "🧑‍🚒",
+    "tags": [
+      "sløkkilið",
+      "sløkkiliðsfólk"
+    ]
+  },
+  {
+    "emoji": "👨‍🚒",
+    "tags": [
+      "maður",
+      "sløkkilið",
+      "sløkkiliðsmaður"
+    ]
+  },
+  {
+    "emoji": "👩‍🚒",
+    "tags": [
+      "kona",
+      "kvinna",
+      "sløkkilið",
+      "sløkkiliðskvinna"
+    ]
+  },
+  {
+    "emoji": "👮",
+    "tags": [
+      "løgregla",
+      "politistur"
+    ]
+  },
+  {
+    "emoji": "👮‍♂️",
+    "tags": [
+      "løgregla",
+      "løgreglumaður",
+      "maður"
+    ]
+  },
+  {
+    "emoji": "👮‍♀️",
+    "tags": [
+      "kona",
+      "kvinna",
+      "løgregla",
+      "løgreglukvinna"
+    ]
+  },
+  {
+    "emoji": "🕵️",
+    "tags": [
+      "detektivur",
+      "løgregla",
+      "njósnari",
+      "uppdagari"
+    ]
+  },
+  {
+    "emoji": "💂",
+    "tags": [
+      "vaktur"
+    ]
+  },
+  {
+    "emoji": "💂‍♂️",
+    "tags": [
+      "maður",
+      "vakt",
+      "vaktarmaður",
+      "vaktur"
+    ]
+  },
+  {
+    "emoji": "💂‍♀️",
+    "tags": [
+      "kona",
+      "kvinna",
+      "vakt",
+      "vaktarkvinna",
+      "vaktur"
+    ]
+  },
+  {
+    "emoji": "🥷",
+    "tags": [
+      "fjaldur",
+      "ninja",
+      "ninja andlit",
+      "sníkjandi",
+      "stríðsmaður"
+    ]
+  },
+  {
+    "emoji": "👷",
+    "tags": [
+      "bygging",
+      "byggiverkfrøðingur",
+      "smíð"
+    ]
+  },
+  {
+    "emoji": "👷‍♂️",
+    "tags": [
+      "bygging",
+      "byggiverkfrøðingur",
+      "maður",
+      "mannligur byggiverkfrøðingur",
+      "smíð"
+    ]
+  },
+  {
+    "emoji": "👷‍♀️",
+    "tags": [
+      "bygging",
+      "byggiverkfrøðingur",
+      "kona",
+      "kvinna",
+      "kvinnuligur byggiverkfrøðingur",
+      "smíð"
+    ]
+  },
+  {
+    "emoji": "🤴",
+    "tags": [
+      "fúrsti",
+      "kongssonur",
+      "prinsur"
+    ]
+  },
+  {
+    "emoji": "👸",
+    "tags": [
+      "fúrstakona",
+      "fúrstinna",
+      "kongsdóttir",
+      "prinsessa"
+    ]
+  },
+  {
+    "emoji": "👳",
+    "tags": [
+      "fólk",
+      "persónur við turban",
+      "turban"
+    ]
+  },
+  {
+    "emoji": "👳‍♂️",
+    "tags": [
+      "maður",
+      "maður við turban",
+      "turban"
+    ]
+  },
+  {
+    "emoji": "👳‍♀️",
+    "tags": [
+      "kona",
+      "kvinna",
+      "kvinna við turban",
+      "turban"
+    ]
+  },
+  {
+    "emoji": "👲",
+    "tags": [
+      "fólk",
+      "húgva",
+      "kinesisk",
+      "persónur við kinesiskari húgvu"
+    ]
+  },
+  {
+    "emoji": "🧕",
+    "tags": [
+      "hijab",
+      "kona",
+      "kvinna",
+      "kvinna við turriklæði",
+      "kvinnuplagg",
+      "mantilla",
+      "turriklæði"
+    ]
+  },
+  {
+    "emoji": "🤵",
+    "tags": [
+      "brúðgómur",
+      "persónur",
+      "persónur í smoking",
+      "smoking"
+    ]
+  },
+  {
+    "emoji": "🤵‍♂️",
+    "tags": [
+      "maður",
+      "maður í smoking",
+      "smoking"
+    ]
+  },
+  {
+    "emoji": "🤵‍♀️",
+    "tags": [
+      "kona",
+      "kona í smoking",
+      "konufólk",
+      "kvinna",
+      "smoking"
+    ]
+  },
+  {
+    "emoji": "👰",
+    "tags": [
+      "brúdleyp",
+      "brúður",
+      "persónur",
+      "persónur í sløri",
+      "slør"
+    ]
+  },
+  {
+    "emoji": "👰‍♂️",
+    "tags": [
+      "maður",
+      "maður í sløri",
+      "slør"
+    ]
+  },
+  {
+    "emoji": "👰‍♀️",
+    "tags": [
+      "kona",
+      "kona í sløri",
+      "kvinna",
+      "slør"
+    ]
+  },
+  {
+    "emoji": "🤰",
+    "tags": [
+      "kona",
+      "kvinna",
+      "kvinna við barn",
+      "upp á vegin",
+      "við barn"
+    ]
+  },
+  {
+    "emoji": "🤱",
+    "tags": [
+      "bróstaføði",
+      "bróstageving",
+      "geva bróst",
+      "pinkubarn"
+    ]
+  },
+  {
+    "emoji": "👼",
+    "tags": [
+      "ævintýr",
+      "andlit",
+      "eingil",
+      "pinkabarnaeingil",
+      "pinkubarn",
+      "trúgv"
+    ]
+  },
+  {
+    "emoji": "🎅",
+    "tags": [
+      "jól",
+      "jólamaður",
+      "jólamaðurin",
+      "maður"
+    ]
+  },
+  {
+    "emoji": "🤶",
+    "tags": [
+      "jól",
+      "jólakona",
+      "jólakonan",
+      "kona",
+      "kvinna"
+    ]
+  },
+  {
+    "emoji": "🦸",
+    "tags": [
+      "góður",
+      "hetja",
+      "super",
+      "superhetja",
+      "yvirnátúrligur"
+    ]
+  },
+  {
+    "emoji": "🦸‍♂️",
+    "tags": [
+      "góður",
+      "hetja",
+      "maður",
+      "mannlig superhetja",
+      "super",
+      "yvirnát´úrligur"
+    ]
+  },
+  {
+    "emoji": "🦸‍♀️",
+    "tags": [
+      "góð",
+      "hetja",
+      "kvinnulig superhetja",
+      "super",
+      "yvirnátúrlig"
+    ]
+  },
+  {
+    "emoji": "🦹",
+    "tags": [
+      "bakbeist",
+      "illmenni",
+      "óndur",
+      "skálkur",
+      "super",
+      "superskálkur"
+    ]
+  },
+  {
+    "emoji": "🦹‍♂️",
+    "tags": [
+      "bakbeist",
+      "illmenni",
+      "maður",
+      "mannligur superskálkur",
+      "óndur",
+      "skálkur",
+      "super"
+    ]
+  },
+  {
+    "emoji": "🦹‍♀️",
+    "tags": [
+      "bakbeist",
+      "illmenni",
+      "kona",
+      "kvinna",
+      "kvinnuligur superskálkur",
+      "ónd",
+      "skálkur",
+      "super"
+    ]
+  },
+  {
+    "emoji": "🧙",
+    "tags": [
+      "ævintýr",
+      "fólk",
+      "galdur",
+      "persónur sum dugir gand"
+    ]
+  },
+  {
+    "emoji": "🧙‍♂️",
+    "tags": [
+      "ævintýr",
+      "gandakallur",
+      "gandur",
+      "kallur",
+      "maður",
+      "trøllmaður"
+    ]
+  },
+  {
+    "emoji": "🧙‍♀️",
+    "tags": [
+      "ævintýr",
+      "gandakelling",
+      "gandakona",
+      "gandur",
+      "kelling",
+      "kona",
+      "kvinna"
+    ]
+  },
+  {
+    "emoji": "🧚",
+    "tags": [
+      "ævintýr",
+      "álva",
+      "álvur"
+    ]
+  },
+  {
+    "emoji": "🧚‍♂️",
+    "tags": [
+      "ævintýr",
+      "álvur",
+      "maður",
+      "mannligur álvur"
+    ]
+  },
+  {
+    "emoji": "🧚‍♀️",
+    "tags": [
+      "ævintýr",
+      "álva",
+      "álvadrotning",
+      "kona",
+      "kvinna",
+      "kvinnulig álva"
+    ]
+  },
+  {
+    "emoji": "🧛",
+    "tags": [
+      "blóðsúgvari",
+      "drakula",
+      "vampýrur"
+    ]
+  },
+  {
+    "emoji": "🧛‍♂️",
+    "tags": [
+      "blóðsúgvari",
+      "drakula",
+      "maður",
+      "mannligur vampýrur"
+    ]
+  },
+  {
+    "emoji": "🧛‍♀️",
+    "tags": [
+      "blóðsúgvari",
+      "drakula",
+      "kona",
+      "kvinna",
+      "kvinnuligur vampýrur"
+    ]
+  },
+  {
+    "emoji": "🧜",
+    "tags": [
+      "hav",
+      "havfólk",
+      "havfrúgv",
+      "havmaður"
+    ]
+  },
+  {
+    "emoji": "🧜‍♂️",
+    "tags": [
+      "havmaður",
+      "triton"
+    ]
+  },
+  {
+    "emoji": "🧜‍♀️",
+    "tags": [
+      "havfrúgv"
+    ]
+  },
+  {
+    "emoji": "🧝",
+    "tags": [
+      "ævintýr",
+      "álva",
+      "álvur"
+    ]
+  },
+  {
+    "emoji": "🧝‍♂️",
+    "tags": [
+      "ævintýr",
+      "álvur",
+      "maður",
+      "mannfólka álvur"
+    ]
+  },
+  {
+    "emoji": "🧝‍♀️",
+    "tags": [
+      "ævintýr",
+      "álva",
+      "konufólka álva",
+      "maður"
+    ]
+  },
+  {
+    "emoji": "🧞",
+    "tags": [
+      "ævintýr",
+      "andi"
+    ]
+  },
+  {
+    "emoji": "🧞‍♂️",
+    "tags": [
+      "ævintýr",
+      "andi",
+      "maður",
+      "mannligur andi"
+    ]
+  },
+  {
+    "emoji": "🧞‍♀️",
+    "tags": [
+      "ævintýr",
+      "andi",
+      "kona",
+      "kvinna",
+      "kvinnuligur andi"
+    ]
+  },
+  {
+    "emoji": "🧟",
+    "tags": [
+      "sombi",
+      "uppvakningur",
+      "zombie"
+    ]
+  },
+  {
+    "emoji": "🧟‍♂️",
+    "tags": [
+      "maður",
+      "mannligur sombi",
+      "sombi",
+      "uppvakningur",
+      "zombie"
+    ]
+  },
+  {
+    "emoji": "🧟‍♀️",
+    "tags": [
+      "kona",
+      "kvinna",
+      "kvinnuligur sombi",
+      "sombi",
+      "uppvakna",
+      "zombie"
+    ]
+  },
+  {
+    "emoji": "💆",
+    "tags": [
+      "fólk",
+      "massasja",
+      "persónur",
+      "persónur sum fær massasju"
+    ]
+  },
+  {
+    "emoji": "💆‍♂️",
+    "tags": [
+      "maður",
+      "maður sum fær massasju",
+      "massasja"
+    ]
+  },
+  {
+    "emoji": "💆‍♀️",
+    "tags": [
+      "kona",
+      "kvinna",
+      "kvinna sum fær massasju",
+      "massasja"
+    ]
+  },
+  {
+    "emoji": "💇",
+    "tags": [
+      "fólk",
+      "hár",
+      "hárklipping",
+      "hársnið",
+      "klipp",
+      "persónur",
+      "persónur sum fær klipt hári"
+    ]
+  },
+  {
+    "emoji": "💇‍♂️",
+    "tags": [
+      "hár",
+      "hárklipping",
+      "hársnið",
+      "klipp",
+      "maður",
+      "maður sum fær klipt hári"
+    ]
+  },
+  {
+    "emoji": "💇‍♀️",
+    "tags": [
+      "hár",
+      "hárklipping",
+      "hársnið",
+      "klipp",
+      "kona",
+      "kvinna",
+      "kvinna sum fær klipt hári"
+    ]
+  },
+  {
+    "emoji": "🚶",
+    "tags": [
+      "fólk",
+      "gongur",
+      "gongutúr",
+      "persónur",
+      "persónur sum gongur",
+      "til gongu"
+    ]
+  },
+  {
+    "emoji": "🚶‍♂️",
+    "tags": [
+      "gongur",
+      "gongutúr",
+      "maður",
+      "maður sum gongur",
+      "til gongu"
+    ]
+  },
+  {
+    "emoji": "🚶‍♀️",
+    "tags": [
+      "gongur",
+      "gongutúr",
+      "kona",
+      "kvinna",
+      "kvinna sum gongur",
+      "til gongu"
+    ]
+  },
+  {
+    "emoji": "🧍",
+    "tags": [
+      "persónur",
+      "persónur ið stendur",
+      "stendur"
+    ]
+  },
+  {
+    "emoji": "🧍‍♂️",
+    "tags": [
+      "maður",
+      "maður ið stendur",
+      "stendur"
+    ]
+  },
+  {
+    "emoji": "🧍‍♀️",
+    "tags": [
+      "kona",
+      "kvinna",
+      "kvinna ið stendur",
+      "stendur"
+    ]
+  },
+  {
+    "emoji": "🧎",
+    "tags": [
+      "á knæ",
+      "knæ",
+      "persónur",
+      "persónur á knæ"
+    ]
+  },
+  {
+    "emoji": "🧎‍♂️",
+    "tags": [
+      "á knæ",
+      "knæ",
+      "maður",
+      "maður á knæ"
+    ]
+  },
+  {
+    "emoji": "🧎‍♀️",
+    "tags": [
+      "á knæ",
+      "knæ",
+      "kona",
+      "kvinna",
+      "kvinna á knæ"
+    ]
+  },
+  {
+    "emoji": "🧑‍🦯",
+    "tags": [
+      "blind",
+      "blindastavur",
+      "blindur",
+      "persónur",
+      "persónur við blindastavi",
+      "stavur"
+    ]
+  },
+  {
+    "emoji": "👨‍🦯",
+    "tags": [
+      "blindastavur",
+      "blindur",
+      "maður",
+      "maður við blindastavi",
+      "stavur"
+    ]
+  },
+  {
+    "emoji": "👩‍🦯",
+    "tags": [
+      "blind",
+      "blindastavur",
+      "kona",
+      "kvinna",
+      "kvinna við blindastavi",
+      "stavur"
+    ]
+  },
+  {
+    "emoji": "🧑‍🦼",
+    "tags": [
+      "koyristólur",
+      "motorkoyristólur",
+      "persónur",
+      "persónur í motorkoyristóli"
+    ]
+  },
+  {
+    "emoji": "👨‍🦼",
+    "tags": [
+      "koyristólur",
+      "maður",
+      "maður í motorkoyristóli",
+      "motorkoyristólur"
+    ]
+  },
+  {
+    "emoji": "👩‍🦼",
+    "tags": [
+      "kona",
+      "koyristólur",
+      "kvinna",
+      "kvinna í motorkoyristóli",
+      "motorkoyristólur"
+    ]
+  },
+  {
+    "emoji": "🧑‍🦽",
+    "tags": [
+      "koyristólur",
+      "persónur",
+      "persónur í koyristóli"
+    ]
+  },
+  {
+    "emoji": "👨‍🦽",
+    "tags": [
+      "koyristólur",
+      "maður",
+      "maður í koyristóli"
+    ]
+  },
+  {
+    "emoji": "👩‍🦽",
+    "tags": [
+      "kona",
+      "koyristólur",
+      "kvinna",
+      "kvinna í koyristóli"
+    ]
+  },
+  {
+    "emoji": "🏃",
+    "tags": [
+      "fólk",
+      "maraton",
+      "persónur",
+      "persónur sum rennur",
+      "renn",
+      "rennur"
+    ]
+  },
+  {
+    "emoji": "🏃‍♂️",
+    "tags": [
+      "maður",
+      "maður sum rennur",
+      "maraton",
+      "renn",
+      "rennur"
+    ]
+  },
+  {
+    "emoji": "🏃‍♀️",
+    "tags": [
+      "kvinna",
+      "kvinna sum rennur",
+      "maraton",
+      "renn",
+      "rennur"
+    ]
+  },
+  {
+    "emoji": "💃",
+    "tags": [
+      "dansar",
+      "dansur",
+      "kona",
+      "kvinna",
+      "kvinna sum dansar"
+    ]
+  },
+  {
+    "emoji": "🕺",
+    "tags": [
+      "dansar",
+      "dansur",
+      "maður",
+      "maður sum dansar"
+    ]
+  },
+  {
+    "emoji": "🕴️",
+    "tags": [
+      "klædningur",
+      "maður",
+      "maður í klædningi sveimar",
+      "sveimar"
+    ]
+  },
+  {
+    "emoji": "👯",
+    "tags": [
+      "dansa",
+      "dansur",
+      "fólk",
+      "fólk við haruoyrum",
+      "haruoyru",
+      "persónar"
+    ]
+  },
+  {
+    "emoji": "👯‍♂️",
+    "tags": [
+      "dansa",
+      "dansur",
+      "haruoyru",
+      "menn",
+      "menn við haruoyrum"
+    ]
+  },
+  {
+    "emoji": "👯‍♀️",
+    "tags": [
+      "dansa",
+      "dansur",
+      "haruoyru",
+      "konur",
+      "kvinnur",
+      "kvinnur við haruoyrum"
+    ]
+  },
+  {
+    "emoji": "🧖",
+    "tags": [
+      "baðstova",
+      "fólk",
+      "persónur",
+      "persónur í sauna",
+      "sauna"
+    ]
+  },
+  {
+    "emoji": "🧖‍♂️",
+    "tags": [
+      "baðstova",
+      "maður",
+      "maður í sauna",
+      "sauna"
+    ]
+  },
+  {
+    "emoji": "🧖‍♀️",
+    "tags": [
+      "baðstova",
+      "kona",
+      "kvinna",
+      "kvinna í sauna",
+      "sauna"
+    ]
+  },
+  {
+    "emoji": "🧗",
+    "tags": [
+      "fólk",
+      "klatra",
+      "klintra",
+      "klíva",
+      "klúgva",
+      "persónur",
+      "persónur sum klatrar"
+    ]
+  },
+  {
+    "emoji": "🧗‍♂️",
+    "tags": [
+      "klatra",
+      "klintra",
+      "klíva",
+      "klúgva",
+      "maður",
+      "maður sum klatrar"
+    ]
+  },
+  {
+    "emoji": "🧗‍♀️",
+    "tags": [
+      "klatra",
+      "klintra",
+      "klíva",
+      "klúgva",
+      "kona",
+      "kvinna",
+      "kvinna sum klatrar"
+    ]
+  },
+  {
+    "emoji": "🤺",
+    "tags": [
+      "fektari",
+      "fiktar",
+      "fólk",
+      "persónur"
+    ]
+  },
+  {
+    "emoji": "🏇",
+    "tags": [
+      "fólk",
+      "hestur",
+      "jockey",
+      "kappríðari",
+      "kappríðing",
+      "persónur",
+      "ross"
+    ]
+  },
+  {
+    "emoji": "⛷️",
+    "tags": [
+      "fólk",
+      "kavi",
+      "persónur",
+      "skíð",
+      "skíðrennari"
+    ]
+  },
+  {
+    "emoji": "🏂",
+    "tags": [
+      "fólk",
+      "persónur",
+      "persónur sum stendur á snjófjøl",
+      "snjófjøl",
+      "snowboard",
+      "snowboarder"
+    ]
+  },
+  {
+    "emoji": "🏌️",
+    "tags": [
+      "fólk",
+      "golf",
+      "persónur",
+      "persónur sum spælir golf"
+    ]
+  },
+  {
+    "emoji": "🏄",
+    "tags": [
+      "brimfjøl",
+      "fólk",
+      "persónur",
+      "persónur sum skreiður á brimfjøl",
+      "surfa"
+    ]
+  },
+  {
+    "emoji": "🏄‍♂️",
+    "tags": [
+      "brimfjøl",
+      "maður",
+      "maður sum skreiður á brimfjøl",
+      "surfa"
+    ]
+  },
+  {
+    "emoji": "🏄‍♀️",
+    "tags": [
+      "brimfjøl",
+      "kona",
+      "kona sum skreiður á brimfjøl",
+      "kvinna",
+      "surfa"
+    ]
+  },
+  {
+    "emoji": "🚣",
+    "tags": [
+      "árabátur",
+      "fólk",
+      "persónur",
+      "persónur í árabáti",
+      "rógva",
+      "rør"
+    ]
+  },
+  {
+    "emoji": "🚣‍♂️",
+    "tags": [
+      "árabátur",
+      "maður",
+      "maður í árabáti",
+      "rógva",
+      "rør"
+    ]
+  },
+  {
+    "emoji": "🚣‍♀️",
+    "tags": [
+      "kvinna í árabáti"
+    ]
+  },
+  {
+    "emoji": "🏊",
+    "tags": [
+      "fólk",
+      "persónur",
+      "persónur sum svimur",
+      "svimjari",
+      "svimur"
+    ]
+  },
+  {
+    "emoji": "🏊‍♂️",
+    "tags": [
+      "maður",
+      "maður sum svimur",
+      "svimjari",
+      "svimur"
+    ]
+  },
+  {
+    "emoji": "🏊‍♀️",
+    "tags": [
+      "kona",
+      "kvinna",
+      "kvinna sum svimur",
+      "svimjari",
+      "svimur"
+    ]
+  },
+  {
+    "emoji": "⛹️",
+    "tags": [
+      "fólk",
+      "kurvabóltur",
+      "persónur",
+      "persónur sum spælir kurvabólt"
+    ]
+  },
+  {
+    "emoji": "🏋️",
+    "tags": [
+      "fólk",
+      "lyftingarítrótt",
+      "persónur",
+      "vektlyftari",
+      "vektlyfting"
+    ]
+  },
+  {
+    "emoji": "🚴",
+    "tags": [
+      "fólk",
+      "persónur",
+      "persónur sum súkklar",
+      "súkkla",
+      "súkklar",
+      "súkklari"
+    ]
+  },
+  {
+    "emoji": "🚴‍♂️",
+    "tags": [
+      "maður",
+      "maður sum súkklar",
+      "súkkla",
+      "súkklar",
+      "súkklari"
+    ]
+  },
+  {
+    "emoji": "🚴‍♀️",
+    "tags": [
+      "kona",
+      "kvinna",
+      "kvinna sum súkklar",
+      "súkkla",
+      "súkklar",
+      "súkklari"
+    ]
+  },
+  {
+    "emoji": "🚵",
+    "tags": [
+      "fjallasúkkla",
+      "fólk",
+      "persónur",
+      "persónur á fjallasúkklu",
+      "súkkla",
+      "súkklar",
+      "súkklari"
+    ]
+  },
+  {
+    "emoji": "🚵‍♂️",
+    "tags": [
+      "fjallasúkkla",
+      "maður",
+      "maður á fjallasúkklu",
+      "súkkla",
+      "súkklar",
+      "súkklari"
+    ]
+  },
+  {
+    "emoji": "🚵‍♀️",
+    "tags": [
+      "fjallasúkkla",
+      "kona",
+      "kvinna",
+      "kvinna á fjallasúkklu",
+      "súkkla",
+      "súkklar",
+      "súkklari"
+    ]
+  },
+  {
+    "emoji": "🤸",
+    "tags": [
+      "fimleik",
+      "fimleikur",
+      "fólk",
+      "myllulop",
+      "persónur",
+      "persónur sum ger myllulop"
+    ]
+  },
+  {
+    "emoji": "🤸‍♂️",
+    "tags": [
+      "fimleik",
+      "fimleikur",
+      "maður",
+      "maður sum ger myllulop",
+      "myllulop"
+    ]
+  },
+  {
+    "emoji": "🤸‍♀️",
+    "tags": [
+      "fimleik",
+      "fimleikur",
+      "kona",
+      "kvinna",
+      "kvinna sum ger myllulop",
+      "myllulop"
+    ]
+  },
+  {
+    "emoji": "🤼",
+    "tags": [
+      "fólk",
+      "glíma",
+      "glíming",
+      "glímingardystur",
+      "persónar"
+    ]
+  },
+  {
+    "emoji": "🤼‍♂️",
+    "tags": [
+      "glíma",
+      "glíming",
+      "glímingardystur",
+      "mannligur glímingardystur",
+      "menn"
+    ]
+  },
+  {
+    "emoji": "🤼‍♀️",
+    "tags": [
+      "glíma",
+      "glíming",
+      "glímingardystur",
+      "konur",
+      "kvinnuligur glímingardystur",
+      "kvinnur"
+    ]
+  },
+  {
+    "emoji": "🤽",
+    "tags": [
+      "fólk",
+      "persónur",
+      "persónur sum spælir vatnpolo",
+      "vatnpolo"
+    ]
+  },
+  {
+    "emoji": "🤽‍♂️",
+    "tags": [
+      "maður",
+      "maður sum spælir vatnpolo",
+      "vatnpolo"
+    ]
+  },
+  {
+    "emoji": "🤽‍♀️",
+    "tags": [
+      "kona",
+      "kona sum spælir vatnpolo",
+      "kvinna",
+      "vatnpolo"
+    ]
+  },
+  {
+    "emoji": "🤾",
+    "tags": [
+      "fólk",
+      "hondbólt",
+      "hondbóltur",
+      "persónur",
+      "persónur sum spælir hondbólt"
+    ]
+  },
+  {
+    "emoji": "🤾‍♂️",
+    "tags": [
+      "hondbólt",
+      "hondbóltur",
+      "maður",
+      "maður sum spælir hondbólt"
+    ]
+  },
+  {
+    "emoji": "🤾‍♀️",
+    "tags": [
+      "hondbólt",
+      "hondbóltur",
+      "kona",
+      "kvinna",
+      "kvinna sum spælir hondbólt"
+    ]
+  },
+  {
+    "emoji": "🤹",
+    "tags": [
+      "fimla",
+      "fimlari",
+      "fólk",
+      "persónur",
+      "persónur sum fimlar"
+    ]
+  },
+  {
+    "emoji": "🤹‍♂️",
+    "tags": [
+      "fimla",
+      "fimlari",
+      "maður",
+      "maður sum fimlar"
+    ]
+  },
+  {
+    "emoji": "🤹‍♀️",
+    "tags": [
+      "fimla",
+      "fimlari",
+      "kona",
+      "kvinna",
+      "kvinna sum fimlar"
+    ]
+  },
+  {
+    "emoji": "🧘",
+    "tags": [
+      "fólk",
+      "joga",
+      "lotus",
+      "lotusstøða",
+      "meditatión",
+      "persónur",
+      "persónur í lotusstøðu"
+    ]
+  },
+  {
+    "emoji": "🧘‍♂️",
+    "tags": [
+      "joga",
+      "lotus",
+      "lotusstøða",
+      "maður",
+      "maður í lotusstøðu",
+      "meditatión"
+    ]
+  },
+  {
+    "emoji": "🧘‍♀️",
+    "tags": [
+      "joga",
+      "kona",
+      "kvinna",
+      "kvinna í lotusstøðu",
+      "lotus",
+      "lotusstøða",
+      "meditatión"
+    ]
+  },
+  {
+    "emoji": "🛀",
+    "tags": [
+      "bað",
+      "baðikar",
+      "fólk",
+      "persónur",
+      "persónur í baðikari"
+    ]
+  },
+  {
+    "emoji": "🛌",
+    "tags": [
+      "fólk",
+      "persónur",
+      "persónur í song",
+      "song",
+      "svevur"
+    ]
+  },
+  {
+    "emoji": "🧑‍🤝‍🧑",
+    "tags": [
+      "fólk",
+      "leiðast",
+      "par"
+    ]
+  },
+  {
+    "emoji": "👭",
+    "tags": [
+      "konur",
+      "kvinnur",
+      "leiðast",
+      "par"
+    ]
+  },
+  {
+    "emoji": "👫",
+    "tags": [
+      "kona",
+      "kvinna",
+      "kvinna or maður leiðast",
+      "leiðast",
+      "maður",
+      "par"
+    ]
+  },
+  {
+    "emoji": "👬",
+    "tags": [
+      "leiðast",
+      "maður",
+      "menn",
+      "par",
+      "stjørnutekin",
+      "tvíburar",
+      "Tvíburarnir"
+    ]
+  },
+  {
+    "emoji": "💏",
+    "tags": [
+      "hjarta",
+      "muss",
+      "par",
+      "tvey íð mussast"
+    ]
+  },
+  {
+    "emoji": "💑",
+    "tags": [
+      "hjarta",
+      "kærleiki",
+      "par",
+      "par og hjarta"
+    ]
+  },
+  {
+    "emoji": "👪",
+    "tags": [
+      "barn",
+      "familja",
+      "foreldur"
+    ]
+  },
+  {
+    "emoji": "🗣️",
+    "tags": [
+      "høvd",
+      "høvd sum prátar",
+      "prát",
+      "prátar",
+      "skuggamynd",
+      "tosar"
+    ]
+  },
+  {
+    "emoji": "👤",
+    "tags": [
+      "bringumynd",
+      "skuggamynd",
+      "skuggamynd av bringumynd"
+    ]
+  },
+  {
+    "emoji": "👥",
+    "tags": [
+      "bringumynd",
+      "bryngumyndir",
+      "skuggamynd",
+      "skuggamynd av bringumyndum"
+    ]
+  },
+  {
+    "emoji": "🫂",
+    "tags": [
+      "bei",
+      "fólk sum klemmast",
+      "hey",
+      "klemm",
+      "takk"
+    ]
+  },
+  {
+    "emoji": "👣",
+    "tags": [
+      "fótaspor",
+      "føtur",
+      "il",
+      "slóð",
+      "spor"
+    ]
+  },
+  {
+    "emoji": "🐵",
+    "tags": [
+      "andlit",
+      "apa",
+      "apuandlit"
+    ]
+  },
+  {
+    "emoji": "🐒",
+    "tags": [
+      "apa",
+      "dýr"
+    ]
+  },
+  {
+    "emoji": "🦍",
+    "tags": [
+      "apa",
+      "dýr",
+      "gorilla"
+    ]
+  },
+  {
+    "emoji": "🦧",
+    "tags": [
+      "apa",
+      "orangutang"
+    ]
+  },
+  {
+    "emoji": "🐶",
+    "tags": [
+      "andlit",
+      "hundaandlit",
+      "hundur",
+      "kelidýr"
+    ]
+  },
+  {
+    "emoji": "🐕",
+    "tags": [
+      "dýr",
+      "hundur",
+      "kelidýr"
+    ]
+  },
+  {
+    "emoji": "🦮",
+    "tags": [
+      "blindur",
+      "førarahundur",
+      "hundur"
+    ]
+  },
+  {
+    "emoji": "🐕‍🦺",
+    "tags": [
+      "hjálp",
+      "hundur",
+      "tænasta",
+      "tænastuhundur"
+    ]
+  },
+  {
+    "emoji": "🐩",
+    "tags": [
+      "dýr",
+      "hundur",
+      "kelidýr",
+      "puddil",
+      "puddilhundur"
+    ]
+  },
+  {
+    "emoji": "🐺",
+    "tags": [
+      "andlit",
+      "úlvur"
+    ]
+  },
+  {
+    "emoji": "🦊",
+    "tags": [
+      "andlit",
+      "revaandlit",
+      "revur"
+    ]
+  },
+  {
+    "emoji": "🦝",
+    "tags": [
+      "forvitin",
+      "tváttarbjørn"
+    ]
+  },
+  {
+    "emoji": "🐱",
+    "tags": [
+      "andlit",
+      "ketta",
+      "kettuandlit"
+    ]
+  },
+  {
+    "emoji": "🐈",
+    "tags": [
+      "dýr",
+      "kelidýr",
+      "ketta",
+      "køttur"
+    ]
+  },
+  {
+    "emoji": "🐈‍⬛",
+    "tags": [
+      "ketta",
+      "óeydna",
+      "óheppin",
+      "svørt"
+    ]
+  },
+  {
+    "emoji": "🦁",
+    "tags": [
+      "andlit",
+      "leyva",
+      "leyvuandlit",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "🐯",
+    "tags": [
+      "andlit",
+      "tikaraandlit",
+      "tikari"
+    ]
+  },
+  {
+    "emoji": "🐅",
+    "tags": [
+      "dýr",
+      "tikari"
+    ]
+  },
+  {
+    "emoji": "🐆",
+    "tags": [
+      "dýr",
+      "leopardur"
+    ]
+  },
+  {
+    "emoji": "🐴",
+    "tags": [
+      "andlit",
+      "hestur",
+      "ross",
+      "rossaandlit"
+    ]
+  },
+  {
+    "emoji": "🐎",
+    "tags": [
+      "dýr",
+      "hestur",
+      "kappríðingarross",
+      "kelidýr",
+      "ross"
+    ]
+  },
+  {
+    "emoji": "🦄",
+    "tags": [
+      "andlit",
+      "einhyrningaandlit",
+      "einhyrningur"
+    ]
+  },
+  {
+    "emoji": "🦓",
+    "tags": [
+      "dýr",
+      "sebra",
+      "strípur"
+    ]
+  },
+  {
+    "emoji": "🦌",
+    "tags": [
+      "dýr",
+      "hjørtur"
+    ]
+  },
+  {
+    "emoji": "🦬",
+    "tags": [
+      "bisonur",
+      "fylgi",
+      "visundur"
+    ]
+  },
+  {
+    "emoji": "🐮",
+    "tags": [
+      "andlit",
+      "kúgv",
+      "kúgvaandlit",
+      "neyt"
+    ]
+  },
+  {
+    "emoji": "🐂",
+    "tags": [
+      "dýr",
+      "neyt",
+      "oksi",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "🐃",
+    "tags": [
+      "bisonur",
+      "búffil",
+      "dýr",
+      "visundur"
+    ]
+  },
+  {
+    "emoji": "🐄",
+    "tags": [
+      "dýr",
+      "kúgv",
+      "neyt"
+    ]
+  },
+  {
+    "emoji": "🐷",
+    "tags": [
+      "andlit",
+      "grísaandlit",
+      "grísur",
+      "svín"
+    ]
+  },
+  {
+    "emoji": "🐖",
+    "tags": [
+      "dýr",
+      "grísur",
+      "súgv",
+      "svín"
+    ]
+  },
+  {
+    "emoji": "🐗",
+    "tags": [
+      "andlit",
+      "gøltur",
+      "villsvín",
+      "villsvínaandlit"
+    ]
+  },
+  {
+    "emoji": "🐽",
+    "tags": [
+      "grísasnúti",
+      "grísur",
+      "snúti",
+      "svín"
+    ]
+  },
+  {
+    "emoji": "🐏",
+    "tags": [
+      "dýr",
+      "seyður",
+      "stjørnumerki",
+      "veðrur"
+    ]
+  },
+  {
+    "emoji": "🐑",
+    "tags": [
+      "ær",
+      "dýr",
+      "seyður"
+    ]
+  },
+  {
+    "emoji": "🐐",
+    "tags": [
+      "dýr",
+      "geit",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "🐪",
+    "tags": [
+      "bunga",
+      "dromedárur",
+      "dýr",
+      "kúla"
+    ]
+  },
+  {
+    "emoji": "🐫",
+    "tags": [
+      "bunga",
+      "dýr",
+      "kamelur",
+      "kúla"
+    ]
+  },
+  {
+    "emoji": "🦙",
+    "tags": [
+      "alpaka",
+      "lama"
+    ]
+  },
+  {
+    "emoji": "🦒",
+    "tags": [
+      "dýr",
+      "giraffur",
+      "prikkar"
+    ]
+  },
+  {
+    "emoji": "🐘",
+    "tags": [
+      "dýr",
+      "fílur"
+    ]
+  },
+  {
+    "emoji": "🦣",
+    "tags": [
+      "loðfílur",
+      "mammuttur",
+      "útdeyður",
+      "útdeytt"
+    ]
+  },
+  {
+    "emoji": "🦏",
+    "tags": [
+      "dýr",
+      "nashyrningur"
+    ]
+  },
+  {
+    "emoji": "🦛",
+    "tags": [
+      "áarross",
+      "vatnhestur"
+    ]
+  },
+  {
+    "emoji": "🐭",
+    "tags": [
+      "andlit",
+      "mús",
+      "músaandlit"
+    ]
+  },
+  {
+    "emoji": "🐁",
+    "tags": [
+      "dýr",
+      "mús"
+    ]
+  },
+  {
+    "emoji": "🐀",
+    "tags": [
+      "dýr",
+      "rotta"
+    ]
+  },
+  {
+    "emoji": "🐹",
+    "tags": [
+      "andlit",
+      "hamstaraandlit",
+      "hamstari"
+    ]
+  },
+  {
+    "emoji": "🐰",
+    "tags": [
+      "andlit",
+      "kanin",
+      "kaninandlit"
+    ]
+  },
+  {
+    "emoji": "🐇",
+    "tags": [
+      "dýr",
+      "kanin",
+      "kelidýr"
+    ]
+  },
+  {
+    "emoji": "🐿️",
+    "tags": [
+      "dýr",
+      "íkorn",
+      "jarðaríkorn"
+    ]
+  },
+  {
+    "emoji": "🦫",
+    "tags": [
+      "bævur"
+    ]
+  },
+  {
+    "emoji": "🦔",
+    "tags": [
+      "dýr",
+      "tindar",
+      "tindasvín",
+      "tornutur"
+    ]
+  },
+  {
+    "emoji": "🦇",
+    "tags": [
+      "blóðsúgvari",
+      "dýr",
+      "flogmús",
+      "vampýrur"
+    ]
+  },
+  {
+    "emoji": "🐻",
+    "tags": [
+      "andlit",
+      "bjarnarandlit",
+      "bjørn"
+    ]
+  },
+  {
+    "emoji": "🐻‍❄️",
+    "tags": [
+      "arktisk",
+      "bjørn",
+      "hvít",
+      "hvítabjørn",
+      "ísbjørn"
+    ]
+  },
+  {
+    "emoji": "🐨",
+    "tags": [
+      "andlit",
+      "koala",
+      "koalaandlit",
+      "pokabjørn"
+    ]
+  },
+  {
+    "emoji": "🐼",
+    "tags": [
+      "andlit",
+      "panda",
+      "pandaandlit"
+    ]
+  },
+  {
+    "emoji": "🦥",
+    "tags": [
+      "dovin",
+      "letidýr",
+      "sein",
+      "seinur"
+    ]
+  },
+  {
+    "emoji": "🦦",
+    "tags": [
+      "otur"
+    ]
+  },
+  {
+    "emoji": "🦨",
+    "tags": [
+      "skunkur",
+      "stinkdýr"
+    ]
+  },
+  {
+    "emoji": "🦘",
+    "tags": [
+      "Avstralia",
+      "kenguru",
+      "posadýr"
+    ]
+  },
+  {
+    "emoji": "🦡",
+    "tags": [
+      "grevlingur"
+    ]
+  },
+  {
+    "emoji": "🐾",
+    "tags": [
+      "labbar",
+      "labbaspor",
+      "slóð",
+      "spor"
+    ]
+  },
+  {
+    "emoji": "🦃",
+    "tags": [
+      "dýr",
+      "fuglur",
+      "kalkun"
+    ]
+  },
+  {
+    "emoji": "🐔",
+    "tags": [
+      "andlit",
+      "høna",
+      "hønuandlit",
+      "høsnarungi"
+    ]
+  },
+  {
+    "emoji": "🐓",
+    "tags": [
+      "dýr",
+      "fuglur",
+      "hani"
+    ]
+  },
+  {
+    "emoji": "🐣",
+    "tags": [
+      "eggjaskal",
+      "høsnarungi",
+      "høsnarungi í eggjaskali",
+      "klakt",
+      "kleking"
+    ]
+  },
+  {
+    "emoji": "🐤",
+    "tags": [
+      "andlit",
+      "høsnarungaandlit",
+      "høsnarungi"
+    ]
+  },
+  {
+    "emoji": "🐥",
+    "tags": [
+      "dýr",
+      "fuglur",
+      "høsnarungi"
+    ]
+  },
+  {
+    "emoji": "🐦",
+    "tags": [
+      "andlit",
+      "fuglaandlit",
+      "fuglur"
+    ]
+  },
+  {
+    "emoji": "🐧",
+    "tags": [
+      "andlit",
+      "pingvin",
+      "pingvinandlit"
+    ]
+  },
+  {
+    "emoji": "🕊️",
+    "tags": [
+      "dúgva",
+      "dúgva við oljugrein",
+      "dýr",
+      "friður",
+      "fuglur",
+      "oljugrein"
+    ]
+  },
+  {
+    "emoji": "🦅",
+    "tags": [
+      "dýr",
+      "fuglur",
+      "ørn"
+    ]
+  },
+  {
+    "emoji": "🦆",
+    "tags": [
+      "dunna",
+      "dýr",
+      "fuglur",
+      "steggi"
+    ]
+  },
+  {
+    "emoji": "🦢",
+    "tags": [
+      "fuglur",
+      "okn",
+      "svanur"
+    ]
+  },
+  {
+    "emoji": "🦉",
+    "tags": [
+      "dýr",
+      "fuglur",
+      "gløgg",
+      "klók",
+      "ugla"
+    ]
+  },
+  {
+    "emoji": "🦤",
+    "tags": [
+      "dronta",
+      "fuglur",
+      "Mauritius",
+      "útdeyður"
+    ]
+  },
+  {
+    "emoji": "🪶",
+    "tags": [
+      "fjaðurhamur",
+      "fjøður",
+      "fjøðurhamur",
+      "flúgva",
+      "fuglur",
+      "lætt"
+    ]
+  },
+  {
+    "emoji": "🦩",
+    "tags": [
+      "flamingo",
+      "fuglur",
+      "litfagur",
+      "tropiskur"
+    ]
+  },
+  {
+    "emoji": "🦚",
+    "tags": [
+      "erpin",
+      "fuglur",
+      "p´´afuglahøna",
+      "páfuglahani",
+      "páfuglur",
+      "reyp"
+    ]
+  },
+  {
+    "emoji": "🦜",
+    "tags": [
+      "fuglur",
+      "pappageykur",
+      "prát",
+      "sjórænari"
+    ]
+  },
+  {
+    "emoji": "🐸",
+    "tags": [
+      "andlit",
+      "froskaandlit",
+      "froskur"
+    ]
+  },
+  {
+    "emoji": "🐊",
+    "tags": [
+      "dýr",
+      "krokodilla"
+    ]
+  },
+  {
+    "emoji": "🐢",
+    "tags": [
+      "dýr",
+      "havskjaldbøka",
+      "landskjaldbøka",
+      "mýriskjaldbøka",
+      "skjaldbøka"
+    ]
+  },
+  {
+    "emoji": "🦎",
+    "tags": [
+      "dýr",
+      "edlur",
+      "ferføtlur",
+      "oydla"
+    ]
+  },
+  {
+    "emoji": "🐍",
+    "tags": [
+      "dýr",
+      "serpentin",
+      "slanga",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "🐲",
+    "tags": [
+      "ævintýr",
+      "andlit",
+      "andlit á dreka",
+      "dreki"
+    ]
+  },
+  {
+    "emoji": "🐉",
+    "tags": [
+      "ævintýr",
+      "dreki"
+    ]
+  },
+  {
+    "emoji": "🦕",
+    "tags": [
+      "apatosaurus",
+      "Brontosaurus",
+      "dinosaurur",
+      "dýr"
+    ]
+  },
+  {
+    "emoji": "🦖",
+    "tags": [
+      "dinosaurur",
+      "dýr",
+      "T-rex",
+      "Tyrannosaurus rex"
+    ]
+  },
+  {
+    "emoji": "🐳",
+    "tags": [
+      "dýr",
+      "goysa",
+      "hvalur",
+      "hvalur sum sprænur",
+      "spræna",
+      "vatn"
+    ]
+  },
+  {
+    "emoji": "🐋",
+    "tags": [
+      "dýr",
+      "hvalur"
+    ]
+  },
+  {
+    "emoji": "🐬",
+    "tags": [
+      "delfin",
+      "dýr"
+    ]
+  },
+  {
+    "emoji": "🦭",
+    "tags": [
+      "kópur",
+      "sjóljón"
+    ]
+  },
+  {
+    "emoji": "🐟",
+    "tags": [
+      "dýr",
+      "fiskur",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "🐠",
+    "tags": [
+      "dýr",
+      "fiskur",
+      "tropiskur"
+    ]
+  },
+  {
+    "emoji": "🐡",
+    "tags": [
+      "dýr",
+      "fiskur",
+      "ígulfiskur"
+    ]
+  },
+  {
+    "emoji": "🦈",
+    "tags": [
+      "dýr",
+      "hávur"
+    ]
+  },
+  {
+    "emoji": "🐙",
+    "tags": [
+      "áttaarmaður",
+      "áttermdur",
+      "dýr",
+      "høgguslokkur",
+      "høgguslokkur við átta ørmum"
+    ]
+  },
+  {
+    "emoji": "🐚",
+    "tags": [
+      "skel",
+      "sniglahús",
+      "snyril"
+    ]
+  },
+  {
+    "emoji": "🐌",
+    "tags": [
+      "snigil"
+    ]
+  },
+  {
+    "emoji": "🦋",
+    "tags": [
+      "firvaldur",
+      "skordýr",
+      "summarfuglur"
+    ]
+  },
+  {
+    "emoji": "🐛",
+    "tags": [
+      "skordýr"
+    ]
+  },
+  {
+    "emoji": "🐜",
+    "tags": [
+      "meyra",
+      "skordýr"
+    ]
+  },
+  {
+    "emoji": "🐝",
+    "tags": [
+      "býfluga",
+      "skordýr"
+    ]
+  },
+  {
+    "emoji": "🪲",
+    "tags": [
+      "klukka",
+      "skordýr"
+    ]
+  },
+  {
+    "emoji": "🐞",
+    "tags": [
+      "klukka",
+      "mariubjalla",
+      "mariuhøna",
+      "skordýr"
+    ]
+  },
+  {
+    "emoji": "🦗",
+    "tags": [
+      "grashoppa",
+      "veggjasmiður"
+    ]
+  },
+  {
+    "emoji": "🪳",
+    "tags": [
+      "farsótt",
+      "kakkulakkur",
+      "pest",
+      "skaðadýr",
+      "skaðakykt",
+      "skordýr"
+    ]
+  },
+  {
+    "emoji": "🕷️",
+    "tags": [
+      "eiturkoppur",
+      "skordýr"
+    ]
+  },
+  {
+    "emoji": "🕸️",
+    "tags": [
+      "eiturkoppanót",
+      "eiturkoppur",
+      "nót",
+      "vev"
+    ]
+  },
+  {
+    "emoji": "🦂",
+    "tags": [
+      "skorpión",
+      "sporðdreki",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "🦟",
+    "tags": [
+      "farsótt",
+      "fepur",
+      "malaria",
+      "moskito",
+      "mýggjabiti",
+      "pest"
+    ]
+  },
+  {
+    "emoji": "🪰",
+    "tags": [
+      "fluga",
+      "pest",
+      "rot",
+      "sjúka",
+      "spilt"
+    ]
+  },
+  {
+    "emoji": "🪱",
+    "tags": [
+      "maðkur",
+      "ormur",
+      "reyðmaðkur",
+      "skriðkykt",
+      "sníkur",
+      "snultidýr"
+    ]
+  },
+  {
+    "emoji": "🦠",
+    "tags": [
+      "amøba",
+      "bakteria",
+      "skaploysingur",
+      "smávera",
+      "virus"
+    ]
+  },
+  {
+    "emoji": "💐",
+    "tags": [
+      "blóma",
+      "blomstur",
+      "blómutyssi",
+      "buket"
+    ]
+  },
+  {
+    "emoji": "🌸",
+    "tags": [
+      "blóma",
+      "blomstur",
+      "kirsuber",
+      "kirsuberblóma"
+    ]
+  },
+  {
+    "emoji": "💮",
+    "tags": [
+      "blóma",
+      "blomstur",
+      "hvít blóma"
+    ]
+  },
+  {
+    "emoji": "🏵️",
+    "tags": [
+      "blóma",
+      "blomstur",
+      "planta",
+      "rósuprýði",
+      "stovnhviril"
+    ]
+  },
+  {
+    "emoji": "🌹",
+    "tags": [
+      "blóma",
+      "blomstur",
+      "rósa"
+    ]
+  },
+  {
+    "emoji": "🥀",
+    "tags": [
+      "blóma",
+      "blomstur",
+      "følna"
+    ]
+  },
+  {
+    "emoji": "🌺",
+    "tags": [
+      "blóma",
+      "blomstur",
+      "hawaiiblóma"
+    ]
+  },
+  {
+    "emoji": "🌻",
+    "tags": [
+      "blóma",
+      "blomstur",
+      "sólblóma"
+    ]
+  },
+  {
+    "emoji": "🌼",
+    "tags": [
+      "blóma",
+      "blomstur"
+    ]
+  },
+  {
+    "emoji": "🌷",
+    "tags": [
+      "blóma",
+      "blomstur",
+      "tulipán"
+    ]
+  },
+  {
+    "emoji": "🌱",
+    "tags": [
+      "fræ",
+      "fræplanta",
+      "planta"
+    ]
+  },
+  {
+    "emoji": "🪴",
+    "tags": [
+      "planta",
+      "pottaplanta",
+      "pottur",
+      "urtapottur",
+      "veksur"
+    ]
+  },
+  {
+    "emoji": "🌲",
+    "tags": [
+      "træ",
+      "veturgrønt"
+    ]
+  },
+  {
+    "emoji": "🌳",
+    "tags": [
+      "bløð",
+      "fellir",
+      "træ",
+      "træ sum fellir bløðini"
+    ]
+  },
+  {
+    "emoji": "🌴",
+    "tags": [
+      "pálmi",
+      "plámatræ",
+      "træ"
+    ]
+  },
+  {
+    "emoji": "🌵",
+    "tags": [
+      "kaktus",
+      "planta"
+    ]
+  },
+  {
+    "emoji": "🌾",
+    "tags": [
+      "hólgi",
+      "rís",
+      "ríshólgi"
+    ]
+  },
+  {
+    "emoji": "🌿",
+    "tags": [
+      "planta",
+      "urt"
+    ]
+  },
+  {
+    "emoji": "☘️",
+    "tags": [
+      "planta",
+      "smæra"
+    ]
+  },
+  {
+    "emoji": "🍀",
+    "tags": [
+      "4",
+      "fýra",
+      "smæra",
+      "smæra við fýra"
+    ]
+  },
+  {
+    "emoji": "🍁",
+    "tags": [
+      "ahornsblað"
+    ]
+  },
+  {
+    "emoji": "🍂",
+    "tags": [
+      "blað",
+      "falli",
+      "fallið blað"
+    ]
+  },
+  {
+    "emoji": "🍃",
+    "tags": [
+      "bløð",
+      "flagsandi",
+      "vindur"
+    ]
+  },
+  {
+    "emoji": "🍇",
+    "tags": [
+      "frukt",
+      "víndrúva",
+      "víndrúvur"
+    ]
+  },
+  {
+    "emoji": "🍈",
+    "tags": [
+      "frukt",
+      "melón"
+    ]
+  },
+  {
+    "emoji": "🍉",
+    "tags": [
+      "frukt",
+      "vatnmelón"
+    ]
+  },
+  {
+    "emoji": "🍊",
+    "tags": [
+      "frukt",
+      "mandarin"
+    ]
+  },
+  {
+    "emoji": "🍋",
+    "tags": [
+      "frukt",
+      "sitrón",
+      "sitrus"
+    ]
+  },
+  {
+    "emoji": "🍌",
+    "tags": [
+      "banan",
+      "frukt"
+    ]
+  },
+  {
+    "emoji": "🍍",
+    "tags": [
+      "ananas",
+      "frukt"
+    ]
+  },
+  {
+    "emoji": "🥭",
+    "tags": [
+      "frukt",
+      "mango",
+      "mangofrukt",
+      "tropisk"
+    ]
+  },
+  {
+    "emoji": "🍎",
+    "tags": [
+      "frukt",
+      "reytt",
+      "súrepli"
+    ]
+  },
+  {
+    "emoji": "🍏",
+    "tags": [
+      "frukt",
+      "grønt",
+      "súrepli"
+    ]
+  },
+  {
+    "emoji": "🍐",
+    "tags": [
+      "frukt",
+      "pera"
+    ]
+  },
+  {
+    "emoji": "🍑",
+    "tags": [
+      "ferska",
+      "frukt"
+    ]
+  },
+  {
+    "emoji": "🍒",
+    "tags": [
+      "ber",
+      "frukt",
+      "kirsuber"
+    ]
+  },
+  {
+    "emoji": "🍓",
+    "tags": [
+      "ber",
+      "frukt",
+      "jarðber"
+    ]
+  },
+  {
+    "emoji": "🫐",
+    "tags": [
+      "ber",
+      "blá",
+      "bláber",
+      "frukt"
+    ]
+  },
+  {
+    "emoji": "🥝",
+    "tags": [
+      "frukt",
+      "kivi"
+    ]
+  },
+  {
+    "emoji": "🍅",
+    "tags": [
+      "frukt",
+      "grønmeti",
+      "tomat"
+    ]
+  },
+  {
+    "emoji": "🫒",
+    "tags": [
+      "matur",
+      "olja",
+      "oljuber"
+    ]
+  },
+  {
+    "emoji": "🥥",
+    "tags": [
+      "kokusnøt",
+      "pálmi"
+    ]
+  },
+  {
+    "emoji": "🥑",
+    "tags": [
+      "avokado",
+      "frukt"
+    ]
+  },
+  {
+    "emoji": "🍆",
+    "tags": [
+      "aubergina",
+      "grønmeti"
+    ]
+  },
+  {
+    "emoji": "🥔",
+    "tags": [
+      "epli",
+      "grønmeti"
+    ]
+  },
+  {
+    "emoji": "🥕",
+    "tags": [
+      "grønmeti",
+      "gularót"
+    ]
+  },
+  {
+    "emoji": "🌽",
+    "tags": [
+      "aks",
+      "kolba",
+      "korn",
+      "mais",
+      "maisaks",
+      "maiskolba"
+    ]
+  },
+  {
+    "emoji": "🌶️",
+    "tags": [
+      "pipar",
+      "sterkt"
+    ]
+  },
+  {
+    "emoji": "🫑",
+    "tags": [
+      "grønmeti",
+      "pipar",
+      "piparfrukt"
+    ]
+  },
+  {
+    "emoji": "🥒",
+    "tags": [
+      "agurk",
+      "agurka",
+      "grønmeti"
+    ]
+  },
+  {
+    "emoji": "🥬",
+    "tags": [
+      "blað",
+      "grønkál",
+      "grønmeti",
+      "salat",
+      "salatblað"
+    ]
+  },
+  {
+    "emoji": "🥦",
+    "tags": [
+      "brokkoli",
+      "spergilkál"
+    ]
+  },
+  {
+    "emoji": "🧄",
+    "tags": [
+      "hvítleykur",
+      "matur",
+      "smakkur"
+    ]
+  },
+  {
+    "emoji": "🧅",
+    "tags": [
+      "leykur",
+      "matur",
+      "smakkur"
+    ]
+  },
+  {
+    "emoji": "🍄",
+    "tags": [
+      "hundaland",
+      "soppur"
+    ]
+  },
+  {
+    "emoji": "🥜",
+    "tags": [
+      "jarðnøtur",
+      "matur",
+      "nøt"
+    ]
+  },
+  {
+    "emoji": "🌰",
+    "tags": [
+      "kastanja",
+      "matur",
+      "nøt"
+    ]
+  },
+  {
+    "emoji": "🍞",
+    "tags": [
+      "breyð",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🥐",
+    "tags": [
+      "croissant",
+      "franskbreyðshorn",
+      "horn",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🥖",
+    "tags": [
+      "breyð",
+      "flute",
+      "matur",
+      "smábreyð"
+    ]
+  },
+  {
+    "emoji": "🫓",
+    "tags": [
+      "breyð",
+      "flatbreyð",
+      "naan",
+      "ósúrgað",
+      "pitabreyð"
+    ]
+  },
+  {
+    "emoji": "🥨",
+    "tags": [
+      "matur",
+      "saltkringla",
+      "saltstong"
+    ]
+  },
+  {
+    "emoji": "🥯",
+    "tags": [
+      "bagel",
+      "breyð",
+      "morgunbreyð"
+    ]
+  },
+  {
+    "emoji": "🥞",
+    "tags": [
+      "eggjakøka",
+      "matur",
+      "pannukaka"
+    ]
+  },
+  {
+    "emoji": "🧇",
+    "tags": [
+      "vafla"
+    ]
+  },
+  {
+    "emoji": "🧀",
+    "tags": [
+      "matur",
+      "osta stykki",
+      "ostur"
+    ]
+  },
+  {
+    "emoji": "🍖",
+    "tags": [
+      "bein",
+      "kjøt",
+      "kjøt á beini",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🍗",
+    "tags": [
+      "bein",
+      "høsnarungi",
+      "høsnaungalær",
+      "kjøt",
+      "lær",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🥩",
+    "tags": [
+      "búffur",
+      "kjøt",
+      "kotelett",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🥓",
+    "tags": [
+      "flesk",
+      "kjøt",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🍔",
+    "tags": [
+      "búfftvíflís",
+      "búffur",
+      "burgari",
+      "hamborgari",
+      "hamburgari",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🍟",
+    "tags": [
+      "kips",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🍕",
+    "tags": [
+      "flís",
+      "matur",
+      "pitsa",
+      "pitsaflís",
+      "pizza"
+    ]
+  },
+  {
+    "emoji": "🌭",
+    "tags": [
+      "hotdog",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🥪",
+    "tags": [
+      "breyð",
+      "matur",
+      "tvíflís"
+    ]
+  },
+  {
+    "emoji": "🌮",
+    "tags": [
+      "matur",
+      "meksikanskur",
+      "taco",
+      "tako"
+    ]
+  },
+  {
+    "emoji": "🌯",
+    "tags": [
+      "burrito",
+      "matur",
+      "meksikanskur"
+    ]
+  },
+  {
+    "emoji": "🫔",
+    "tags": [
+      "ball",
+      "matur",
+      "Meksiko",
+      "tamales"
+    ]
+  },
+  {
+    "emoji": "🥙",
+    "tags": [
+      "falafel",
+      "flatbreyð",
+      "fylt",
+      "kebabb",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🧆",
+    "tags": [
+      "falafel",
+      "kjøtfrikadella",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🥚",
+    "tags": [
+      "egg",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🍳",
+    "tags": [
+      "egg",
+      "matgerð",
+      "matur",
+      "panna",
+      "steikipanna",
+      "steikja"
+    ]
+  },
+  {
+    "emoji": "🥘",
+    "tags": [
+      "fat",
+      "grýta",
+      "grýturættur",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🍲",
+    "tags": [
+      "borðiskur",
+      "djúpur",
+      "djúpur tallerkur við mati",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🫕",
+    "tags": [
+      "fondue",
+      "matur",
+      "sjokuláta",
+      "smelta",
+      "Sveis"
+    ]
+  },
+  {
+    "emoji": "🥣",
+    "tags": [
+      "bolli við skeið",
+      "kornflykrur",
+      "matur",
+      "morgunmatur"
+    ]
+  },
+  {
+    "emoji": "🥗",
+    "tags": [
+      "grønmeti",
+      "matur",
+      "salat"
+    ]
+  },
+  {
+    "emoji": "🍿",
+    "tags": [
+      "matur",
+      "poppkorn"
+    ]
+  },
+  {
+    "emoji": "🧈",
+    "tags": [
+      "matur",
+      "mjólk",
+      "mjólkarvirki",
+      "rómi",
+      "smør"
+    ]
+  },
+  {
+    "emoji": "🧂",
+    "tags": [
+      "krydd",
+      "salt",
+      "saltílat"
+    ]
+  },
+  {
+    "emoji": "🥫",
+    "tags": [
+      "dós",
+      "dósamatur",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🍱",
+    "tags": [
+      "bento",
+      "matpakki",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🍘",
+    "tags": [
+      "kaka",
+      "matur",
+      "rís",
+      "ríssmákaka",
+      "smákaka"
+    ]
+  },
+  {
+    "emoji": "🍙",
+    "tags": [
+      "bolli",
+      "matur",
+      "rís",
+      "rísbolli"
+    ]
+  },
+  {
+    "emoji": "🍚",
+    "tags": [
+      "kóka",
+      "kókarís",
+      "matur",
+      "rís"
+    ]
+  },
+  {
+    "emoji": "🍛",
+    "tags": [
+      "karry",
+      "karryrís",
+      "matur",
+      "rís"
+    ]
+  },
+  {
+    "emoji": "🍜",
+    "tags": [
+      "matur",
+      "nudlur"
+    ]
+  },
+  {
+    "emoji": "🍝",
+    "tags": [
+      "matur",
+      "pasta",
+      "spagetti",
+      "spaghetti",
+      "tomatsós"
+    ]
+  },
+  {
+    "emoji": "🍠",
+    "tags": [
+      "epli",
+      "matur",
+      "søtt"
+    ]
+  },
+  {
+    "emoji": "🍢",
+    "tags": [
+      "grillspjót",
+      "kjøtpinnur",
+      "matpinnur",
+      "matur",
+      "pinnur",
+      "sprita",
+      "teinur"
+    ]
+  },
+  {
+    "emoji": "🍣",
+    "tags": [
+      "matur",
+      "sushi",
+      "susji"
+    ]
+  },
+  {
+    "emoji": "🍤",
+    "tags": [
+      "matur",
+      "rækja",
+      "steikt"
+    ]
+  },
+  {
+    "emoji": "🍥",
+    "tags": [
+      "fiskur",
+      "japansk",
+      "kaka",
+      "kamaboko",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🥮",
+    "tags": [
+      "hátíð",
+      "heyst",
+      "mánakaka",
+      "yuèbǐng"
+    ]
+  },
+  {
+    "emoji": "🍡",
+    "tags": [
+      "dango",
+      "dessert",
+      "japansk",
+      "matur",
+      "pinnur",
+      "søtt"
+    ]
+  },
+  {
+    "emoji": "🥟",
+    "tags": [
+      "empanada",
+      "gyōza",
+      "hveitibolli",
+      "jiaozi",
+      "matur",
+      "pierogi"
+    ]
+  },
+  {
+    "emoji": "🥠",
+    "tags": [
+      "eydnukaka",
+      "lukkukaka",
+      "matur",
+      "spádómur",
+      "spákaka"
+    ]
+  },
+  {
+    "emoji": "🥡",
+    "tags": [
+      "boks",
+      "matur",
+      "tak við heim boks",
+      "takeaway",
+      "takeout"
+    ]
+  },
+  {
+    "emoji": "🦀",
+    "tags": [
+      "dýr",
+      "havføði",
+      "krabbi",
+      "sjógæti",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "🦞",
+    "tags": [
+      "dýr",
+      "havføði",
+      "hummari",
+      "sjógæti"
+    ]
+  },
+  {
+    "emoji": "🦐",
+    "tags": [
+      "dýr",
+      "havføði",
+      "matur",
+      "rækja",
+      "sjógæti"
+    ]
+  },
+  {
+    "emoji": "🦑",
+    "tags": [
+      "dýr",
+      "høgguslokkur",
+      "høgguslokkur við tíggju ørmum",
+      "matur",
+      "tíggjuarmaður",
+      "tíggjuermdur"
+    ]
+  },
+  {
+    "emoji": "🦪",
+    "tags": [
+      "dýr",
+      "ostra",
+      "perla"
+    ]
+  },
+  {
+    "emoji": "🍦",
+    "tags": [
+      "ísur",
+      "kramarhús",
+      "kramarhúsísur",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🍧",
+    "tags": [
+      "dessert",
+      "ísur",
+      "ísur í skál",
+      "matur",
+      "skál"
+    ]
+  },
+  {
+    "emoji": "🍨",
+    "tags": [
+      "dessert",
+      "ísur",
+      "matur",
+      "rómaísur í skál",
+      "skál"
+    ]
+  },
+  {
+    "emoji": "🍩",
+    "tags": [
+      "berlinarbolli",
+      "donut",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🍪",
+    "tags": [
+      "matur",
+      "smákaka"
+    ]
+  },
+  {
+    "emoji": "🎂",
+    "tags": [
+      "føðingardagskaka",
+      "føðingardagur",
+      "kaka",
+      "ljós",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🍰",
+    "tags": [
+      "dessert",
+      "kaka",
+      "kakustykki",
+      "matur",
+      "stykki"
+    ]
+  },
+  {
+    "emoji": "🧁",
+    "tags": [
+      "formakaka",
+      "kaka",
+      "koppakaka",
+      "søtt"
+    ]
+  },
+  {
+    "emoji": "🥧",
+    "tags": [
+      "dessert",
+      "kaka",
+      "matur",
+      "pai"
+    ]
+  },
+  {
+    "emoji": "🍫",
+    "tags": [
+      "matur",
+      "pláta",
+      "sjokuláta",
+      "sjokulátapláta"
+    ]
+  },
+  {
+    "emoji": "🍬",
+    "tags": [
+      "bomm",
+      "góðgæti",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🍭",
+    "tags": [
+      "matur",
+      "sleikipinnur",
+      "sleikisneis",
+      "slikkipinnur"
+    ]
+  },
+  {
+    "emoji": "🍮",
+    "tags": [
+      "budingur",
+      "dessert",
+      "krem",
+      "lagkøka",
+      "matur"
+    ]
+  },
+  {
+    "emoji": "🍯",
+    "tags": [
+      "hunangur",
+      "matur",
+      "søtt"
+    ]
+  },
+  {
+    "emoji": "🍼",
+    "tags": [
+      "boppufløska",
+      "drykkur",
+      "fløska",
+      "mjólk"
+    ]
+  },
+  {
+    "emoji": "🥛",
+    "tags": [
+      "drykkur",
+      "glas",
+      "glas av mjólk",
+      "mjólk"
+    ]
+  },
+  {
+    "emoji": "☕",
+    "tags": [
+      "drykkur",
+      "heitur drykkur",
+      "kaffi",
+      "te"
+    ]
+  },
+  {
+    "emoji": "🫖",
+    "tags": [
+      "drykkur",
+      "te",
+      "tekanna"
+    ]
+  },
+  {
+    "emoji": "🍵",
+    "tags": [
+      "drykkur",
+      "grønt",
+      "koppur",
+      "koppur uttan handtak",
+      "te"
+    ]
+  },
+  {
+    "emoji": "🍶",
+    "tags": [
+      "drykkur",
+      "japanskt",
+      "rísbrennivín",
+      "sake"
+    ]
+  },
+  {
+    "emoji": "🍾",
+    "tags": [
+      "drykkur",
+      "fløska",
+      "fløska við tundurproppi",
+      "tundurproppur"
+    ]
+  },
+  {
+    "emoji": "🍷",
+    "tags": [
+      "drykkur",
+      "glas",
+      "reytt",
+      "vín",
+      "vínglas"
+    ]
+  },
+  {
+    "emoji": "🍸",
+    "tags": [
+      "barr",
+      "cocktail",
+      "drykkur",
+      "glas",
+      "vínbland",
+      "vínblandglas"
+    ]
+  },
+  {
+    "emoji": "🍹",
+    "tags": [
+      "barr",
+      "drykkur",
+      "tropiskur",
+      "tropiskurdrykkur"
+    ]
+  },
+  {
+    "emoji": "🍺",
+    "tags": [
+      "barr",
+      "drykkur",
+      "krúss",
+      "øl",
+      "ølkrúss"
+    ]
+  },
+  {
+    "emoji": "🍻",
+    "tags": [
+      "barr",
+      "drykkur",
+      "krúss",
+      "øl",
+      "ølkrúss",
+      "ølkrúss sum skála",
+      "skál"
+    ]
+  },
+  {
+    "emoji": "🥂",
+    "tags": [
+      "barr",
+      "drykkur",
+      "glas",
+      "gløs",
+      "gløs sum skála",
+      "hátíðarhald",
+      "skál"
+    ]
+  },
+  {
+    "emoji": "🥃",
+    "tags": [
+      "barr",
+      "drykkur",
+      "glas",
+      "sjussur",
+      "viski",
+      "whisky",
+      "whiskyglas"
+    ]
+  },
+  {
+    "emoji": "🥤",
+    "tags": [
+      "djús",
+      "drykkur",
+      "koppur við súgvirøri",
+      "saft",
+      "sodavatn"
+    ]
+  },
+  {
+    "emoji": "🧋",
+    "tags": [
+      "boba",
+      "Taivan",
+      "te"
+    ]
+  },
+  {
+    "emoji": "🧃",
+    "tags": [
+      "drykkur",
+      "saft",
+      "sevja",
+      "søtt",
+      "sunkist"
+    ]
+  },
+  {
+    "emoji": "🧉",
+    "tags": [
+      "drykkur",
+      "mate"
+    ]
+  },
+  {
+    "emoji": "🧊",
+    "tags": [
+      "ísfjall",
+      "ísterningur",
+      "ísur",
+      "kalt",
+      "terningur"
+    ]
+  },
+  {
+    "emoji": "🥢",
+    "tags": [
+      "etingarpinnar",
+      "pinnar"
+    ]
+  },
+  {
+    "emoji": "🍽️",
+    "tags": [
+      "borðbúnaður",
+      "borðiskur",
+      "gaffil",
+      "gaffil knívur og talerkur",
+      "knívur",
+      "talerkur"
+    ]
+  },
+  {
+    "emoji": "🍴",
+    "tags": [
+      "borðbúnaður",
+      "gaffil",
+      "gaffil og knívur",
+      "knívur"
+    ]
+  },
+  {
+    "emoji": "🥄",
+    "tags": [
+      "borðbúnaður",
+      "skeið"
+    ]
+  },
+  {
+    "emoji": "🔪",
+    "tags": [
+      "knívur",
+      "køksknívur",
+      "vápn"
+    ]
+  },
+  {
+    "emoji": "🏺",
+    "tags": [
+      "amfora",
+      "krukka",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "🌍",
+    "tags": [
+      "Afrika",
+      "Evropa",
+      "globus",
+      "globus har Evropa og Afrika síggjast",
+      "heimurin",
+      "jørðin",
+      "verðin"
+    ]
+  },
+  {
+    "emoji": "🌎",
+    "tags": [
+      "Amerika",
+      "globus",
+      "globus har Amerika sæst",
+      "heimurin",
+      "jørðin",
+      "verðin"
+    ]
+  },
+  {
+    "emoji": "🌏",
+    "tags": [
+      "Asia",
+      "Avstralia",
+      "globus",
+      "globus har Asia og Avstralia síggjast",
+      "heimurin",
+      "jørðin",
+      "verðin"
+    ]
+  },
+  {
+    "emoji": "🌐",
+    "tags": [
+      "globus",
+      "globus við longdarstigum",
+      "heimurin",
+      "jørðin",
+      "longdarstig",
+      "meridianur",
+      "verðin"
+    ]
+  },
+  {
+    "emoji": "🗺️",
+    "tags": [
+      "heimurin",
+      "jørðin",
+      "kort",
+      "verðin",
+      "verðinskort"
+    ]
+  },
+  {
+    "emoji": "🗾",
+    "tags": [
+      "Japan",
+      "kort",
+      "kort av Japan"
+    ]
+  },
+  {
+    "emoji": "🧭",
+    "tags": [
+      "ætt",
+      "kós",
+      "kumpass",
+      "tól"
+    ]
+  },
+  {
+    "emoji": "🏔️",
+    "tags": [
+      "fjall",
+      "fjall við kava á toppinum",
+      "kavi"
+    ]
+  },
+  {
+    "emoji": "⛰️",
+    "tags": [
+      "fjall"
+    ]
+  },
+  {
+    "emoji": "🌋",
+    "tags": [
+      "eldfjall",
+      "eldgos",
+      "gos",
+      "gosfjall",
+      "útbrot"
+    ]
+  },
+  {
+    "emoji": "🗻",
+    "tags": [
+      "fjall",
+      "fuji"
+    ]
+  },
+  {
+    "emoji": "🏕️",
+    "tags": [
+      "kampingpláss",
+      "legupláss",
+      "legutilvera",
+      "tjald",
+      "tjalding",
+      "tjaldlega",
+      "tjaldstaður"
+    ]
+  },
+  {
+    "emoji": "🏖️",
+    "tags": [
+      "sólskjól",
+      "sólskjól á strond",
+      "strond"
+    ]
+  },
+  {
+    "emoji": "🏜️",
+    "tags": [
+      "oyðimørk"
+    ]
+  },
+  {
+    "emoji": "🏝️",
+    "tags": [
+      "oyðin",
+      "oyggj",
+      "plámatræ"
+    ]
+  },
+  {
+    "emoji": "🏞️",
+    "tags": [
+      "friðað øki",
+      "park",
+      "tjóðarpark",
+      "tjóðgarður",
+      "tjóðlund"
+    ]
+  },
+  {
+    "emoji": "🏟️",
+    "tags": [
+      "ítróttastaður",
+      "ítróttavøllur",
+      "leikvøllur"
+    ]
+  },
+  {
+    "emoji": "🏛️",
+    "tags": [
+      "bygningur",
+      "klassiskur"
+    ]
+  },
+  {
+    "emoji": "🏗️",
+    "tags": [
+      "bygg",
+      "byggiídnaður",
+      "byggipláss"
+    ]
+  },
+  {
+    "emoji": "🧱",
+    "tags": [
+      "leirur",
+      "mørtil",
+      "múrkálk",
+      "múrsteinar",
+      "múrsteinur",
+      "veggur"
+    ]
+  },
+  {
+    "emoji": "🪨",
+    "tags": [
+      "grót",
+      "klettur",
+      "steinur",
+      "tungt"
+    ]
+  },
+  {
+    "emoji": "🪵",
+    "tags": [
+      "bjálki",
+      "timbur",
+      "træ",
+      "viður"
+    ]
+  },
+  {
+    "emoji": "🛖",
+    "tags": [
+      "heim",
+      "hús",
+      "smátta"
+    ]
+  },
+  {
+    "emoji": "🏘️",
+    "tags": [
+      "fleiri hús",
+      "hús"
+    ]
+  },
+  {
+    "emoji": "🏚️",
+    "tags": [
+      "hús",
+      "oyði",
+      "vanrøkt"
+    ]
+  },
+  {
+    "emoji": "🏠",
+    "tags": [
+      "heim",
+      "hús"
+    ]
+  },
+  {
+    "emoji": "🏡",
+    "tags": [
+      "havi",
+      "heim",
+      "hús",
+      "hús við hava"
+    ]
+  },
+  {
+    "emoji": "🏢",
+    "tags": [
+      "bygningur",
+      "skrivstova",
+      "skrivstovubygningur"
+    ]
+  },
+  {
+    "emoji": "🏣",
+    "tags": [
+      "japanskt",
+      "posthús",
+      "poststova",
+      "postverk"
+    ]
+  },
+  {
+    "emoji": "🏤",
+    "tags": [
+      "posthús",
+      "poststova",
+      "postverk"
+    ]
+  },
+  {
+    "emoji": "🏥",
+    "tags": [
+      "bygningur",
+      "sjúkrahús"
+    ]
+  },
+  {
+    "emoji": "🏦",
+    "tags": [
+      "banki",
+      "bygningur"
+    ]
+  },
+  {
+    "emoji": "🏨",
+    "tags": [
+      "bygningur",
+      "gistingarhús",
+      "hotell"
+    ]
+  },
+  {
+    "emoji": "🏩",
+    "tags": [
+      "bygningur",
+      "gistingarhús",
+      "hotell",
+      "kærleiki",
+      "kærleikshotell"
+    ]
+  },
+  {
+    "emoji": "🏪",
+    "tags": [
+      "bygningur",
+      "handil",
+      "nærhandil"
+    ]
+  },
+  {
+    "emoji": "🏫",
+    "tags": [
+      "bygningur",
+      "skúli"
+    ]
+  },
+  {
+    "emoji": "🏬",
+    "tags": [
+      "handil",
+      "stórhandil",
+      "vøruhús"
+    ]
+  },
+  {
+    "emoji": "🏭",
+    "tags": [
+      "verksmiðja",
+      "virki, bygningur, ídnaðarvirki"
+    ]
+  },
+  {
+    "emoji": "🏯",
+    "tags": [
+      "borg",
+      "japan",
+      "japanskt slott",
+      "slott"
+    ]
+  },
+  {
+    "emoji": "🏰",
+    "tags": [
+      "borg",
+      "slott"
+    ]
+  },
+  {
+    "emoji": "💒",
+    "tags": [
+      "brúdleyp",
+      "brúdleypshús",
+      "bygningur",
+      "kapel"
+    ]
+  },
+  {
+    "emoji": "🗼",
+    "tags": [
+      "Tokyo",
+      "torn",
+      "torn í Tokyo"
+    ]
+  },
+  {
+    "emoji": "🗽",
+    "tags": [
+      "frælsi",
+      "Frælsisgudinnan",
+      "standmynd"
+    ]
+  },
+  {
+    "emoji": "⛪",
+    "tags": [
+      "átrúnaður",
+      "átrúni",
+      "kirkja",
+      "kristin",
+      "religión",
+      "trúgv"
+    ]
+  },
+  {
+    "emoji": "🕌",
+    "tags": [
+      "átrúnaður",
+      "átrúni",
+      "bønhús",
+      "islamskt",
+      "moska",
+      "muslimur",
+      "religión",
+      "trúgv"
+    ]
+  },
+  {
+    "emoji": "🛕",
+    "tags": [
+      "hindui",
+      "hinduitempul",
+      "tempul"
+    ]
+  },
+  {
+    "emoji": "🕍",
+    "tags": [
+      "átrúnaður",
+      "átrúni",
+      "gýðingur",
+      "jødi",
+      "jødiskur",
+      "religión",
+      "samkomuhús",
+      "synagoga",
+      "trúgv"
+    ]
+  },
+  {
+    "emoji": "⛩️",
+    "tags": [
+      "átrúnaður",
+      "átrúni",
+      "halgidómur",
+      "halgimannagrøv",
+      "halgiskrín",
+      "japan",
+      "religión",
+      "shinto altar",
+      "trúgv"
+    ]
+  },
+  {
+    "emoji": "🕋",
+    "tags": [
+      "átrúnaður",
+      "átrúni",
+      "halgidómur",
+      "islam",
+      "islamskt",
+      "Kaaba",
+      "mekka",
+      "muslimur",
+      "religión",
+      "trúgv"
+    ]
+  },
+  {
+    "emoji": "⛲",
+    "tags": [
+      "gosbrunnur",
+      "gosvatn"
+    ]
+  },
+  {
+    "emoji": "⛺",
+    "tags": [
+      "kampingpláss",
+      "legupláss",
+      "legutilvera",
+      "tjald",
+      "tjalda",
+      "tjalding",
+      "tjaldlega",
+      "tjaldstaður"
+    ]
+  },
+  {
+    "emoji": "🌁",
+    "tags": [
+      "fjallatoppur",
+      "fjallatoppur og mjørki",
+      "mjørki",
+      "toka"
+    ]
+  },
+  {
+    "emoji": "🌃",
+    "tags": [
+      "kvøld",
+      "nátt",
+      "nátt við stjørnum",
+      "stjørnur"
+    ]
+  },
+  {
+    "emoji": "🏙️",
+    "tags": [
+      "býur",
+      "stórbýur"
+    ]
+  },
+  {
+    "emoji": "🌄",
+    "tags": [
+      "fjall",
+      "fjøll",
+      "morgun",
+      "sól",
+      "sólarris",
+      "sólarris ímillum fjøll"
+    ]
+  },
+  {
+    "emoji": "🌅",
+    "tags": [
+      "dagsbrún",
+      "lýsing",
+      "morgun",
+      "sól",
+      "sólarris"
+    ]
+  },
+  {
+    "emoji": "🌆",
+    "tags": [
+      "kvøld",
+      "myrkja",
+      "skýming",
+      "skýming í stórbýi",
+      "sólsetur",
+      "stórbýur"
+    ]
+  },
+  {
+    "emoji": "🌇",
+    "tags": [
+      "kvøld",
+      "myrkja",
+      "skýming",
+      "sólsetur"
+    ]
+  },
+  {
+    "emoji": "🌉",
+    "tags": [
+      "brúgv",
+      "brúgv á nátt",
+      "nátt"
+    ]
+  },
+  {
+    "emoji": "♨️",
+    "tags": [
+      "heit",
+      "kelda"
+    ]
+  },
+  {
+    "emoji": "🎠",
+    "tags": [
+      "hestur",
+      "karusell",
+      "karusellhestur",
+      "tivoli",
+      "undirhaldsgarður"
+    ]
+  },
+  {
+    "emoji": "🎡",
+    "tags": [
+      "parísarhjól",
+      "tivoli",
+      "undirhaldsgarður"
+    ]
+  },
+  {
+    "emoji": "🎢",
+    "tags": [
+      "glíðibreyt",
+      "øka",
+      "russjibani",
+      "tivoli",
+      "undirhaldsgarður"
+    ]
+  },
+  {
+    "emoji": "💈",
+    "tags": [
+      "hárklipping",
+      "hárskeraskelti",
+      "hárskering"
+    ]
+  },
+  {
+    "emoji": "🎪",
+    "tags": [
+      "sirkus",
+      "sirkustjald",
+      "tjald"
+    ]
+  },
+  {
+    "emoji": "🚂",
+    "tags": [
+      "lokomotiv",
+      "tok"
+    ]
+  },
+  {
+    "emoji": "🚃",
+    "tags": [
+      "jarnbreytarvognur",
+      "sporvognur",
+      "tokvognur",
+      "tráðbussur"
+    ]
+  },
+  {
+    "emoji": "🚄",
+    "tags": [
+      "háferðartok",
+      "tok"
+    ]
+  },
+  {
+    "emoji": "🚅",
+    "tags": [
+      "snartok",
+      "tok"
+    ]
+  },
+  {
+    "emoji": "🚆",
+    "tags": [
+      "jarnbreyt",
+      "tok"
+    ]
+  },
+  {
+    "emoji": "🚇",
+    "tags": [
+      "metro",
+      "undirgrundarbreyt"
+    ]
+  },
+  {
+    "emoji": "🚈",
+    "tags": [
+      "nærtok",
+      "tok"
+    ]
+  },
+  {
+    "emoji": "🚉",
+    "tags": [
+      "jarnbreyt",
+      "jarnbreytarstøð",
+      "støð",
+      "tok"
+    ]
+  },
+  {
+    "emoji": "🚊",
+    "tags": [
+      "gron á sporvogni",
+      "sporvognur",
+      "tráðbussur"
+    ]
+  },
+  {
+    "emoji": "🚝",
+    "tags": [
+      "einsporað jarnbreyt",
+      "tok"
+    ]
+  },
+  {
+    "emoji": "🚞",
+    "tags": [
+      "fjallajarnbreyt",
+      "jarnbreyt",
+      "tok"
+    ]
+  },
+  {
+    "emoji": "🚋",
+    "tags": [
+      "sporvognur",
+      "tráðbussur"
+    ]
+  },
+  {
+    "emoji": "🚌",
+    "tags": [
+      "bussur"
+    ]
+  },
+  {
+    "emoji": "🚍",
+    "tags": [
+      "bussur",
+      "gron á bussi"
+    ]
+  },
+  {
+    "emoji": "🚎",
+    "tags": [
+      "sporvognur",
+      "tráðbussur"
+    ]
+  },
+  {
+    "emoji": "🚐",
+    "tags": [
+      "bussur",
+      "minibussur"
+    ]
+  },
+  {
+    "emoji": "🚑",
+    "tags": [
+      "bilur",
+      "sjúkrabilur"
+    ]
+  },
+  {
+    "emoji": "🚒",
+    "tags": [
+      "bilur",
+      "eldur",
+      "sløkkibilur",
+      "sløkkilið"
+    ]
+  },
+  {
+    "emoji": "🚓",
+    "tags": [
+      "bilur",
+      "løgregla",
+      "løgreglubilur",
+      "politi"
+    ]
+  },
+  {
+    "emoji": "🚔",
+    "tags": [
+      "bilur",
+      "gron á løgreglubili",
+      "løgregla",
+      "politi"
+    ]
+  },
+  {
+    "emoji": "🚕",
+    "tags": [
+      "bilur",
+      "taxa",
+      "taxabilur"
+    ]
+  },
+  {
+    "emoji": "🚖",
+    "tags": [
+      "bilur",
+      "gron á taxabili",
+      "taxa"
+    ]
+  },
+  {
+    "emoji": "🚗",
+    "tags": [
+      "bilur"
+    ]
+  },
+  {
+    "emoji": "🚘",
+    "tags": [
+      "bilgron",
+      "bilur",
+      "gron"
+    ]
+  },
+  {
+    "emoji": "🚙",
+    "tags": [
+      "bilur",
+      "húsbilur"
+    ]
+  },
+  {
+    "emoji": "🛻",
+    "tags": [
+      "bilur",
+      "opin",
+      "opin vørubilur",
+      "pickup",
+      "vøruvognur"
+    ]
+  },
+  {
+    "emoji": "🚚",
+    "tags": [
+      "bilur",
+      "lastbilur",
+      "liðbussur",
+      "vørubilur",
+      "vøruvognur"
+    ]
+  },
+  {
+    "emoji": "🚛",
+    "tags": [
+      "bilur",
+      "lastbilur",
+      "liðbussur",
+      "liðlastbilur",
+      "vørubilur",
+      "vøruvognur"
+    ]
+  },
+  {
+    "emoji": "🚜",
+    "tags": [
+      "traktorur"
+    ]
+  },
+  {
+    "emoji": "🏎️",
+    "tags": [
+      "bilur",
+      "kappkoyring",
+      "kappkoyringarbilur",
+      "koyra kapp",
+      "rasarabilur"
+    ]
+  },
+  {
+    "emoji": "🏍️",
+    "tags": [
+      "kappkoyring",
+      "koyra kapp",
+      "motorsúkkla"
+    ]
+  },
+  {
+    "emoji": "🛵",
+    "tags": [
+      "prutl",
+      "skutari"
+    ]
+  },
+  {
+    "emoji": "🦽",
+    "tags": [
+      "hjólstólur",
+      "koyristólur",
+      "rullistólur"
+    ]
+  },
+  {
+    "emoji": "🦼",
+    "tags": [
+      "koyristólur",
+      "motorhjólstólur",
+      "motorkoyristólur",
+      "motorrullistólur"
+    ]
+  },
+  {
+    "emoji": "🛺",
+    "tags": [
+      "motor rickshaw",
+      "rickshaw",
+      "tuk tuk"
+    ]
+  },
+  {
+    "emoji": "🚲",
+    "tags": [
+      "súkkla"
+    ]
+  },
+  {
+    "emoji": "🛴",
+    "tags": [
+      "løpihjul",
+      "rennihjól"
+    ]
+  },
+  {
+    "emoji": "🛹",
+    "tags": [
+      "akfjøl",
+      "rennibretti",
+      "rennifjøl",
+      "rullibretti",
+      "skateboard",
+      "skíðifjøl",
+      "skoytufjøl"
+    ]
+  },
+  {
+    "emoji": "🛼",
+    "tags": [
+      "rulluskoyta"
+    ]
+  },
+  {
+    "emoji": "🚏",
+    "tags": [
+      "busssteðgipláss",
+      "bussstopp",
+      "bussstoppistað",
+      "steðgipláss"
+    ]
+  },
+  {
+    "emoji": "🛣️",
+    "tags": [
+      "høvuðsvegur",
+      "motorvegur",
+      "vegur"
+    ]
+  },
+  {
+    "emoji": "🛤️",
+    "tags": [
+      "jarnbreyt",
+      "tok"
+    ]
+  },
+  {
+    "emoji": "🛢️",
+    "tags": [
+      "brennievni",
+      "olja",
+      "oljutunna",
+      "tumma"
+    ]
+  },
+  {
+    "emoji": "⛽",
+    "tags": [
+      "bensinpumpa",
+      "brennievnispumpa",
+      "dieselpumpa",
+      "pumpa"
+    ]
+  },
+  {
+    "emoji": "🚨",
+    "tags": [
+      "blunkljós",
+      "ljós",
+      "løgregla"
+    ]
+  },
+  {
+    "emoji": "🚥",
+    "tags": [
+      "ferðsla",
+      "ferðsluljós",
+      "ljóskurv",
+      "vatnrætt ferðsluljós"
+    ]
+  },
+  {
+    "emoji": "🚦",
+    "tags": [
+      "ferðsla",
+      "ferðsluljós",
+      "ljóskurv"
+    ]
+  },
+  {
+    "emoji": "🛑",
+    "tags": [
+      "áttakantaður",
+      "steðgingarmerki",
+      "steðgitekn",
+      "stopp",
+      "stoppskelti"
+    ]
+  },
+  {
+    "emoji": "🚧",
+    "tags": [
+      "bummur",
+      "byrging",
+      "hindur",
+      "stongsil"
+    ]
+  },
+  {
+    "emoji": "⚓",
+    "tags": [
+      "akker",
+      "bátur",
+      "skip"
+    ]
+  },
+  {
+    "emoji": "⛵",
+    "tags": [
+      "bátur",
+      "segl",
+      "seglbátur",
+      "stuttleikabátur"
+    ]
+  },
+  {
+    "emoji": "🛶",
+    "tags": [
+      "bátur",
+      "eikja",
+      "holabátur",
+      "indiánabátur",
+      "kajakk",
+      "kano"
+    ]
+  },
+  {
+    "emoji": "🚤",
+    "tags": [
+      "bátur",
+      "rasarabátur",
+      "snarbátur"
+    ]
+  },
+  {
+    "emoji": "🛳️",
+    "tags": [
+      "ferðafólk",
+      "ferðamannaskip",
+      "skip"
+    ]
+  },
+  {
+    "emoji": "⛴️",
+    "tags": [
+      "bátur",
+      "ferðafólk",
+      "ferja"
+    ]
+  },
+  {
+    "emoji": "🛥️",
+    "tags": [
+      "bátur",
+      "maskinbátur",
+      "motorbátur"
+    ]
+  },
+  {
+    "emoji": "🚢",
+    "tags": [
+      "ferðafólk",
+      "skip"
+    ]
+  },
+  {
+    "emoji": "✈️",
+    "tags": [
+      "flogfar",
+      "flúgvari"
+    ]
+  },
+  {
+    "emoji": "🛩️",
+    "tags": [
+      "flogfar",
+      "flúgvari",
+      "lítið flogfar"
+    ]
+  },
+  {
+    "emoji": "🛫",
+    "tags": [
+      "farandi",
+      "flogfar",
+      "flúgvari",
+      "fráferð",
+      "startur"
+    ]
+  },
+  {
+    "emoji": "🛬",
+    "tags": [
+      "flogfar",
+      "flúgvari",
+      "koma",
+      "komandi flogfar",
+      "lending"
+    ]
+  },
+  {
+    "emoji": "🪂",
+    "tags": [
+      "fallskíggi",
+      "fallskíggjalop",
+      "loftkavari"
+    ]
+  },
+  {
+    "emoji": "💺",
+    "tags": [
+      "setur",
+      "stólur"
+    ]
+  },
+  {
+    "emoji": "🚁",
+    "tags": [
+      "tyrla"
+    ]
+  },
+  {
+    "emoji": "🚟",
+    "tags": [
+      "heingijarnbreyt",
+      "jarnbreyt",
+      "tok"
+    ]
+  },
+  {
+    "emoji": "🚠",
+    "tags": [
+      "fjallarennistrongur",
+      "gondol",
+      "strongur"
+    ]
+  },
+  {
+    "emoji": "🚡",
+    "tags": [
+      "gondol",
+      "rennistrongur",
+      "strongur"
+    ]
+  },
+  {
+    "emoji": "🛰️",
+    "tags": [
+      "fylgisveinur",
+      "rúmdin"
+    ]
+  },
+  {
+    "emoji": "🚀",
+    "tags": [
+      "rakett",
+      "rúmdin"
+    ]
+  },
+  {
+    "emoji": "🛸",
+    "tags": [
+      "flúgvandi diskur",
+      "ufo"
+    ]
+  },
+  {
+    "emoji": "🛎️",
+    "tags": [
+      "hotell",
+      "klokka",
+      "piccolo",
+      "piccoloklokka"
+    ]
+  },
+  {
+    "emoji": "🧳",
+    "tags": [
+      "bagasja",
+      "ferðast",
+      "pakka",
+      "viðføri"
+    ]
+  },
+  {
+    "emoji": "⌛",
+    "tags": [
+      "runnið",
+      "tímaglas"
+    ]
+  },
+  {
+    "emoji": "⏳",
+    "tags": [
+      "hálvrunnið",
+      "tímaglas"
+    ]
+  },
+  {
+    "emoji": "⌚",
+    "tags": [
+      "armbandsur",
+      "klokka",
+      "ur"
+    ]
+  },
+  {
+    "emoji": "⏰",
+    "tags": [
+      "klokka",
+      "vekjaraklokka",
+      "vekjari"
+    ]
+  },
+  {
+    "emoji": "⏱️",
+    "tags": [
+      "klokka",
+      "stoppur",
+      "taka tíð",
+      "tíðartøka"
+    ]
+  },
+  {
+    "emoji": "⏲️",
+    "tags": [
+      "eggjaur",
+      "klokka",
+      "køksur",
+      "stoppur",
+      "tíðarmálari",
+      "tíðartakari"
+    ]
+  },
+  {
+    "emoji": "🕰️",
+    "tags": [
+      "eldstaðarhill",
+      "eldstaðarhillklokka",
+      "eldstaðarkarmur",
+      "kaminhill",
+      "kaminkarmur",
+      "kaminumgerð",
+      "klokka"
+    ]
+  },
+  {
+    "emoji": "🕛",
+    "tags": [
+      "00:00",
+      "12",
+      "12:00",
+      "klokka",
+      "klokkan",
+      "tólv"
+    ]
+  },
+  {
+    "emoji": "🕧",
+    "tags": [
+      "00:30",
+      "12:30",
+      "eitt",
+      "hálvgun",
+      "klokka",
+      "klokkan"
+    ]
+  },
+  {
+    "emoji": "🕐",
+    "tags": [
+      "01:00",
+      "1",
+      "13:00",
+      "eitt",
+      "klokka",
+      "klokkan"
+    ]
+  },
+  {
+    "emoji": "🕜",
+    "tags": [
+      "01:30",
+      "13:30",
+      "hálvgun",
+      "klokka",
+      "klokkan",
+      "tvey"
+    ]
+  },
+  {
+    "emoji": "🕑",
+    "tags": [
+      "02:00",
+      "14:00",
+      "2",
+      "klokka",
+      "klokkan",
+      "tvey"
+    ]
+  },
+  {
+    "emoji": "🕝",
+    "tags": [
+      "02:30",
+      "14:30",
+      "hálvgun",
+      "klokka",
+      "klokkan",
+      "trý"
+    ]
+  },
+  {
+    "emoji": "🕒",
+    "tags": [
+      "03:00",
+      "15:00",
+      "3",
+      "klokka",
+      "klokkan",
+      "trý"
+    ]
+  },
+  {
+    "emoji": "🕞",
+    "tags": [
+      "03:30",
+      "15:30",
+      "fýra",
+      "hálvgun",
+      "klokka",
+      "klokkan"
+    ]
+  },
+  {
+    "emoji": "🕓",
+    "tags": [
+      "04:00",
+      "16:00",
+      "4",
+      "fýra",
+      "klokka",
+      "klokkan"
+    ]
+  },
+  {
+    "emoji": "🕟",
+    "tags": [
+      "04:30",
+      "16:30",
+      "fimm",
+      "hálvgun",
+      "klokka",
+      "klokkan"
+    ]
+  },
+  {
+    "emoji": "🕔",
+    "tags": [
+      "05:00",
+      "17:00",
+      "5",
+      "fimm",
+      "klokka",
+      "klokkan"
+    ]
+  },
+  {
+    "emoji": "🕠",
+    "tags": [
+      "05:30",
+      "17:30",
+      "hálvgun",
+      "klokka",
+      "klokkan",
+      "seks"
+    ]
+  },
+  {
+    "emoji": "🕕",
+    "tags": [
+      "06:00",
+      "18:00",
+      "6",
+      "klokka",
+      "klokkan",
+      "seks"
+    ]
+  },
+  {
+    "emoji": "🕡",
+    "tags": [
+      "06:30",
+      "18:30",
+      "hálvgun",
+      "klokka",
+      "klokkan",
+      "sjey"
+    ]
+  },
+  {
+    "emoji": "🕖",
+    "tags": [
+      "07:00",
+      "19:00",
+      "7",
+      "klokka",
+      "klokkan",
+      "sjey"
+    ]
+  },
+  {
+    "emoji": "🕢",
+    "tags": [
+      "07:30",
+      "19:30",
+      "átta",
+      "hálvgun",
+      "klokka",
+      "klokkan"
+    ]
+  },
+  {
+    "emoji": "🕗",
+    "tags": [
+      "08:00",
+      "20:00",
+      "8",
+      "átta",
+      "klokka",
+      "klokkan"
+    ]
+  },
+  {
+    "emoji": "🕣",
+    "tags": [
+      "08:30",
+      "20:30",
+      "hálvgun",
+      "klokka",
+      "klokkan",
+      "níggju"
+    ]
+  },
+  {
+    "emoji": "🕘",
+    "tags": [
+      "09:00",
+      "21:00",
+      "9",
+      "klokka",
+      "klokkan",
+      "níggju"
+    ]
+  },
+  {
+    "emoji": "🕤",
+    "tags": [
+      "09:30",
+      "21:30",
+      "hálvgun",
+      "klokka",
+      "klokkan",
+      "tíggju"
+    ]
+  },
+  {
+    "emoji": "🕙",
+    "tags": [
+      "10",
+      "10:00",
+      "22:00",
+      "klokka",
+      "klokkan",
+      "tíggju"
+    ]
+  },
+  {
+    "emoji": "🕥",
+    "tags": [
+      "10:30",
+      "22:30",
+      "ellivu",
+      "hálvgun",
+      "klokka",
+      "klokkan"
+    ]
+  },
+  {
+    "emoji": "🕚",
+    "tags": [
+      "11",
+      "11:00",
+      "23:00",
+      "ellivu",
+      "klokka",
+      "klokkan"
+    ]
+  },
+  {
+    "emoji": "🕦",
+    "tags": [
+      "11:30",
+      "23:30",
+      "hálvgun",
+      "klokka",
+      "klokkan",
+      "tólv"
+    ]
+  },
+  {
+    "emoji": "🌑",
+    "tags": [
+      "máni",
+      "nýmáni"
+    ]
+  },
+  {
+    "emoji": "🌒",
+    "tags": [
+      "hálvmáni",
+      "lítil vaksandi hálvmáni",
+      "máni",
+      "vaksandi"
+    ]
+  },
+  {
+    "emoji": "🌓",
+    "tags": [
+      "hálvmáni",
+      "máni",
+      "vaksandi"
+    ]
+  },
+  {
+    "emoji": "🌔",
+    "tags": [
+      "hálvmáni",
+      "máni",
+      "stórur vaksandi hálvmáni",
+      "vaksandi"
+    ]
+  },
+  {
+    "emoji": "🌕",
+    "tags": [
+      "fullmáni",
+      "máni"
+    ]
+  },
+  {
+    "emoji": "🌖",
+    "tags": [
+      "hálvmáni",
+      "máni",
+      "minkandi",
+      "stórur minkandi hálvmáni"
+    ]
+  },
+  {
+    "emoji": "🌗",
+    "tags": [
+      "hálvmáni",
+      "máni",
+      "minkandi"
+    ]
+  },
+  {
+    "emoji": "🌘",
+    "tags": [
+      "hálvmáni",
+      "lítil minkandi hálvmáni",
+      "máni",
+      "minkandi"
+    ]
+  },
+  {
+    "emoji": "🌙",
+    "tags": [
+      "hálvmáni",
+      "máni"
+    ]
+  },
+  {
+    "emoji": "🌚",
+    "tags": [
+      "andlit",
+      "andlit á nýmána",
+      "máni",
+      "nýmáni"
+    ]
+  },
+  {
+    "emoji": "🌛",
+    "tags": [
+      "andlit",
+      "andlit á vaksandi mána",
+      "hálvmáni",
+      "máni",
+      "vaksandi"
+    ]
+  },
+  {
+    "emoji": "🌜",
+    "tags": [
+      "andlit",
+      "andlit á minkandi mána",
+      "hálvmáni",
+      "máni",
+      "minkandi"
+    ]
+  },
+  {
+    "emoji": "🌡️",
+    "tags": [
+      "fepurstokkur",
+      "hitamálari",
+      "termometur"
+    ]
+  },
+  {
+    "emoji": "☀️",
+    "tags": [
+      "sól",
+      "sólskin"
+    ]
+  },
+  {
+    "emoji": "🌝",
+    "tags": [
+      "andlit",
+      "andlit á fullmána",
+      "fullmáni",
+      "máni"
+    ]
+  },
+  {
+    "emoji": "🌞",
+    "tags": [
+      "andlit",
+      "andlit á sól",
+      "sól"
+    ]
+  },
+  {
+    "emoji": "🪐",
+    "tags": [
+      "dapur",
+      "gongustjørna",
+      "gongustjørna við ringi",
+      "saturn",
+      "tunglyntur"
+    ]
+  },
+  {
+    "emoji": "⭐",
+    "tags": [
+      "hvit og gul stjørna",
+      "stjørna"
+    ]
+  },
+  {
+    "emoji": "🌟",
+    "tags": [
+      "glógvandi stjørna",
+      "stjørna"
+    ]
+  },
+  {
+    "emoji": "🌠",
+    "tags": [
+      "stjørna",
+      "stjørnuskot"
+    ]
+  },
+  {
+    "emoji": "🌌",
+    "tags": [
+      "mjólkarvegur",
+      "rúmdin",
+      "stjørnubreyt",
+      "vetrarbreytin"
+    ]
+  },
+  {
+    "emoji": "☁️",
+    "tags": [
+      "skýggj",
+      "veðrið",
+      "veður",
+      "yvirskýggja"
+    ]
+  },
+  {
+    "emoji": "⛅",
+    "tags": [
+      "sól",
+      "sólarglottar",
+      "sólglottur",
+      "sólin aftanfyri skyggj",
+      "veðrið",
+      "veður",
+      "yvirskýggja"
+    ]
+  },
+  {
+    "emoji": "⛈️",
+    "tags": [
+      "regn",
+      "skýggj",
+      "skýggj við regni og snarljósi",
+      "snarljós",
+      "tora",
+      "torusláttur",
+      "veðrið",
+      "veður"
+    ]
+  },
+  {
+    "emoji": "🌤️",
+    "tags": [
+      "sól",
+      "sólarglottar",
+      "sólglottur",
+      "sólin aftanfyri eitt lítið skýggj",
+      "sólskinsveður",
+      "veðrið",
+      "veður"
+    ]
+  },
+  {
+    "emoji": "🌥️",
+    "tags": [
+      "sól",
+      "sólarglottar",
+      "sólglottur",
+      "sólin aftanfyri eitt stórt skýggj",
+      "veðrið",
+      "veður",
+      "yvirskýggja"
+    ]
+  },
+  {
+    "emoji": "🌦️",
+    "tags": [
+      "æl",
+      "avfall",
+      "regn",
+      "sól",
+      "sólarglottar",
+      "sólglottur",
+      "sólin aftanfyri eitt regnskýggj",
+      "veðrið",
+      "veður",
+      "yvirskýggja"
+    ]
+  },
+  {
+    "emoji": "🌧️",
+    "tags": [
+      "æl",
+      "avfall",
+      "regn",
+      "skýggj og regn",
+      "veðrið",
+      "veður"
+    ]
+  },
+  {
+    "emoji": "🌨️",
+    "tags": [
+      "kavar",
+      "kavaveður",
+      "kavi",
+      "skýggj og kavi",
+      "veðrið",
+      "veður"
+    ]
+  },
+  {
+    "emoji": "🌩️",
+    "tags": [
+      "skýggj og snarljós",
+      "snarljós",
+      "tora",
+      "torusláttur",
+      "veðrið",
+      "veður"
+    ]
+  },
+  {
+    "emoji": "🌪️",
+    "tags": [
+      "hvirla",
+      "meldurhvirla",
+      "melduródn"
+    ]
+  },
+  {
+    "emoji": "🌫️",
+    "tags": [
+      "mjørki",
+      "toka"
+    ]
+  },
+  {
+    "emoji": "🌬️",
+    "tags": [
+      "andlit",
+      "andlit sum blæsur vind",
+      "blás",
+      "skýggj",
+      "vind"
+    ]
+  },
+  {
+    "emoji": "🌀",
+    "tags": [
+      "meldurhvirla",
+      "ódn",
+      "stormur",
+      "tropisk ódn",
+      "veðrið",
+      "veður"
+    ]
+  },
+  {
+    "emoji": "🌈",
+    "tags": [
+      "ælabogi"
+    ]
+  },
+  {
+    "emoji": "🌂",
+    "tags": [
+      "afturlatin paraplý",
+      "paraplý",
+      "regnskjól"
+    ]
+  },
+  {
+    "emoji": "☂️",
+    "tags": [
+      "paraplý",
+      "regnskjól"
+    ]
+  },
+  {
+    "emoji": "☔",
+    "tags": [
+      "dropar",
+      "paraplý",
+      "paraplý og regndropar",
+      "regn",
+      "regnskjól"
+    ]
+  },
+  {
+    "emoji": "⛱️",
+    "tags": [
+      "sólskermur",
+      "sólskjól",
+      "sóltjald"
+    ]
+  },
+  {
+    "emoji": "⚡",
+    "tags": [
+      "elektrisitet",
+      "ravmagn",
+      "snarljós",
+      "spenningur",
+      "tora",
+      "torusláttur"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "flykra",
+      "frost",
+      "kavaflykra",
+      "kavar",
+      "kavi",
+      "snjóflykra"
+    ]
+  },
+  {
+    "emoji": "☃️",
+    "tags": [
+      "kavamaður",
+      "kavi",
+      "snjókelling"
+    ]
+  },
+  {
+    "emoji": "⛄",
+    "tags": [
+      "kavamaður",
+      "kavamaður við hatti",
+      "kavi",
+      "snjókelling"
+    ]
+  },
+  {
+    "emoji": "☄️",
+    "tags": [
+      "halastjørna",
+      "komet",
+      "rúmdin"
+    ]
+  },
+  {
+    "emoji": "🔥",
+    "tags": [
+      "bál",
+      "eldsbruni",
+      "eldur",
+      "logi"
+    ]
+  },
+  {
+    "emoji": "💧",
+    "tags": [
+      "dropi",
+      "smádropi",
+      "sveitti",
+      "vatn",
+      "vatndropi"
+    ]
+  },
+  {
+    "emoji": "🌊",
+    "tags": [
+      "alda",
+      "brim",
+      "sjógvur"
+    ]
+  },
+  {
+    "emoji": "🎃",
+    "tags": [
+      "allahalgannaaftan",
+      "graskar",
+      "graskarhøvd",
+      "halloween",
+      "høvd",
+      "lanterna"
+    ]
+  },
+  {
+    "emoji": "🎄",
+    "tags": [
+      "jól",
+      "jólatræ",
+      "træ"
+    ]
+  },
+  {
+    "emoji": "🎆",
+    "tags": [
+      "eldverk",
+      "fýrverk",
+      "skreyteldur"
+    ]
+  },
+  {
+    "emoji": "🎇",
+    "tags": [
+      "stjørnukastari",
+      "stjørnuljós"
+    ]
+  },
+  {
+    "emoji": "🧨",
+    "tags": [
+      "dynamitt",
+      "eldverk",
+      "kinesari",
+      "skreyteldur",
+      "spreingievni"
+    ]
+  },
+  {
+    "emoji": "✨",
+    "tags": [
+      "glampi",
+      "glansur",
+      "glitran",
+      "glógvan",
+      "ljómi",
+      "neistafok",
+      "skyggjan"
+    ]
+  },
+  {
+    "emoji": "🎈",
+    "tags": [
+      "ballón",
+      "reyð"
+    ]
+  },
+  {
+    "emoji": "🎉",
+    "tags": [
+      "borðbumba",
+      "veitsla"
+    ]
+  },
+  {
+    "emoji": "🎊",
+    "tags": [
+      "konfetti"
+    ]
+  },
+  {
+    "emoji": "🎋",
+    "tags": [
+      "japanskt",
+      "tanabata",
+      "træ"
+    ]
+  },
+  {
+    "emoji": "🎍",
+    "tags": [
+      "furutræ",
+      "japanskt",
+      "kadomatsu"
+    ]
+  },
+  {
+    "emoji": "🎎",
+    "tags": [
+      "dukkur",
+      "japanskar"
+    ]
+  },
+  {
+    "emoji": "🎏",
+    "tags": [
+      "japanskt",
+      "Koinobori"
+    ]
+  },
+  {
+    "emoji": "🎐",
+    "tags": [
+      "vindharpa"
+    ]
+  },
+  {
+    "emoji": "🎑",
+    "tags": [
+      "japanskt",
+      "jugoya",
+      "otsukimi",
+      "tsukimi"
+    ]
+  },
+  {
+    "emoji": "🧧",
+    "tags": [
+      "brævbjálvi",
+      "gáva",
+      "hóngbāo",
+      "lai see",
+      "reyður brævbjálvi"
+    ]
+  },
+  {
+    "emoji": "🎀",
+    "tags": [
+      "band",
+      "prýðisrósa"
+    ]
+  },
+  {
+    "emoji": "🎁",
+    "tags": [
+      "gáva"
+    ]
+  },
+  {
+    "emoji": "🎗️",
+    "tags": [
+      "band",
+      "eftirtekt",
+      "eftirtektarband"
+    ]
+  },
+  {
+    "emoji": "🎟️",
+    "tags": [
+      "atgongd",
+      "atgongukort",
+      "atgongumerki",
+      "kort",
+      "merki"
+    ]
+  },
+  {
+    "emoji": "🎫",
+    "tags": [
+      "atgongd",
+      "atgongumerki",
+      "farseðil"
+    ]
+  },
+  {
+    "emoji": "🎖️",
+    "tags": [
+      "hernaðarmedalja",
+      "hervald",
+      "medalja"
+    ]
+  },
+  {
+    "emoji": "🏆",
+    "tags": [
+      "steyp"
+    ]
+  },
+  {
+    "emoji": "🏅",
+    "tags": [
+      "ítróttamedalja",
+      "ítróttur",
+      "medalja"
+    ]
+  },
+  {
+    "emoji": "🥇",
+    "tags": [
+      "gull",
+      "gullmedalja",
+      "medalja"
+    ]
+  },
+  {
+    "emoji": "🥈",
+    "tags": [
+      "medalja",
+      "silvur",
+      "silvurmedalja"
+    ]
+  },
+  {
+    "emoji": "🥉",
+    "tags": [
+      "bronsa",
+      "bronsumedalja",
+      "medalja"
+    ]
+  },
+  {
+    "emoji": "⚽",
+    "tags": [
+      "bóltur",
+      "fótbólt",
+      "fótbóltur"
+    ]
+  },
+  {
+    "emoji": "⚾",
+    "tags": [
+      "baseball",
+      "hornabóltur"
+    ]
+  },
+  {
+    "emoji": "🥎",
+    "tags": [
+      "softball"
+    ]
+  },
+  {
+    "emoji": "🏀",
+    "tags": [
+      "bóltur",
+      "kurvabóltur"
+    ]
+  },
+  {
+    "emoji": "🏐",
+    "tags": [
+      "bóltur",
+      "flogbóltur"
+    ]
+  },
+  {
+    "emoji": "🏈",
+    "tags": [
+      "amerikanskur fótbóltur",
+      "bóltur",
+      "nfl"
+    ]
+  },
+  {
+    "emoji": "🏉",
+    "tags": [
+      "bóltur",
+      "rugby",
+      "rugbybóltur"
+    ]
+  },
+  {
+    "emoji": "🎾",
+    "tags": [
+      "bóltur",
+      "tennis",
+      "tennisbóltur"
+    ]
+  },
+  {
+    "emoji": "🥏",
+    "tags": [
+      "diskur",
+      "flúgvandi diskur",
+      "frisbee"
+    ]
+  },
+  {
+    "emoji": "🎳",
+    "tags": [
+      "bowling",
+      "bowlingkúla",
+      "keyla"
+    ]
+  },
+  {
+    "emoji": "🏏",
+    "tags": [
+      "batt",
+      "bólttræ",
+      "cricket",
+      "krikket",
+      "krikketbatt"
+    ]
+  },
+  {
+    "emoji": "🏑",
+    "tags": [
+      "hokki",
+      "stavbóltur"
+    ]
+  },
+  {
+    "emoji": "🏒",
+    "tags": [
+      "íshokki",
+      "pukkur",
+      "stavur"
+    ]
+  },
+  {
+    "emoji": "🥍",
+    "tags": [
+      "lacrosse"
+    ]
+  },
+  {
+    "emoji": "🏓",
+    "tags": [
+      "batt",
+      "borðtennis",
+      "borðtennisbatt",
+      "ping pong"
+    ]
+  },
+  {
+    "emoji": "🏸",
+    "tags": [
+      "badminton",
+      "ketsjari"
+    ]
+  },
+  {
+    "emoji": "🥊",
+    "tags": [
+      "boksihandski",
+      "boxing"
+    ]
+  },
+  {
+    "emoji": "🥋",
+    "tags": [
+      "bardagaítróttur",
+      "búni",
+      "judo",
+      "karate",
+      "stríðsítróttarbúni",
+      "stríðsítróttur",
+      "taekwondo"
+    ]
+  },
+  {
+    "emoji": "🥅",
+    "tags": [
+      "mál",
+      "net"
+    ]
+  },
+  {
+    "emoji": "⛳",
+    "tags": [
+      "flagg",
+      "golf",
+      "hol"
+    ]
+  },
+  {
+    "emoji": "⛸️",
+    "tags": [
+      "ísskoyta",
+      "skoyta"
+    ]
+  },
+  {
+    "emoji": "🎣",
+    "tags": [
+      "fiskur",
+      "tráða"
+    ]
+  },
+  {
+    "emoji": "🤿",
+    "tags": [
+      "andingarpípa",
+      "kava",
+      "kavaramaska",
+      "kavari",
+      "luftpípa",
+      "maska",
+      "snorkul"
+    ]
+  },
+  {
+    "emoji": "🎽",
+    "tags": [
+      "frælsur",
+      "ítróttatroyggja",
+      "ítróttur",
+      "troyggja"
+    ]
+  },
+  {
+    "emoji": "🎿",
+    "tags": [
+      "skíð"
+    ]
+  },
+  {
+    "emoji": "🛷",
+    "tags": [
+      "skreiða",
+      "sleta"
+    ]
+  },
+  {
+    "emoji": "🥌",
+    "tags": [
+      "curling",
+      "steinur"
+    ]
+  },
+  {
+    "emoji": "🎯",
+    "tags": [
+      "beinrakið",
+      "bullseye",
+      "dart",
+      "kúgveyga"
+    ]
+  },
+  {
+    "emoji": "🪀",
+    "tags": [
+      "jojo",
+      "leika",
+      "yo yo",
+      "yo-yo",
+      "yoyo"
+    ]
+  },
+  {
+    "emoji": "🪁",
+    "tags": [
+      "dreki",
+      "flúgvandi dreki"
+    ]
+  },
+  {
+    "emoji": "🎱",
+    "tags": [
+      "billard",
+      "kúla",
+      "pool",
+      "pul"
+    ]
+  },
+  {
+    "emoji": "🔮",
+    "tags": [
+      "ævintýr",
+      "krystal",
+      "krystalkúla",
+      "kúla",
+      "lagna"
+    ]
+  },
+  {
+    "emoji": "🪄",
+    "tags": [
+      "gandakallur",
+      "gandakelling",
+      "gandastavur",
+      "gandur",
+      "rúnakelvi"
+    ]
+  },
+  {
+    "emoji": "🧿",
+    "tags": [
+      "amulett",
+      "eydnulutur",
+      "kúla",
+      "nasar",
+      "nasaramulett",
+      "nazar",
+      "verndargripur"
+    ]
+  },
+  {
+    "emoji": "🎮",
+    "tags": [
+      "controller",
+      "kontrollari",
+      "telduspæl",
+      "teldustýri"
+    ]
+  },
+  {
+    "emoji": "🕹️",
+    "tags": [
+      "joystick",
+      "stýripinnur",
+      "telduspæl"
+    ]
+  },
+  {
+    "emoji": "🎰",
+    "tags": [
+      "kasino",
+      "spæliautomat"
+    ]
+  },
+  {
+    "emoji": "🎲",
+    "tags": [
+      "terningar",
+      "terningur"
+    ]
+  },
+  {
+    "emoji": "🧩",
+    "tags": [
+      "brot",
+      "petti",
+      "puntur",
+      "putlispæl",
+      "putlispælbrot",
+      "spor"
+    ]
+  },
+  {
+    "emoji": "🧸",
+    "tags": [
+      "bamsa",
+      "leikatoy",
+      "spælitoy"
+    ]
+  },
+  {
+    "emoji": "🪅",
+    "tags": [
+      "pinata",
+      "piñata",
+      "veitsla"
+    ]
+  },
+  {
+    "emoji": "🪆",
+    "tags": [
+      "babusjka",
+      "matrjosjka",
+      "russisk dukka",
+      "Russland"
+    ]
+  },
+  {
+    "emoji": "♠️",
+    "tags": [
+      "kort",
+      "spaðari"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "hjartari",
+      "kort"
+    ]
+  },
+  {
+    "emoji": "♦️",
+    "tags": [
+      "kort",
+      "rútari"
+    ]
+  },
+  {
+    "emoji": "♣️",
+    "tags": [
+      "kleyvari",
+      "kort"
+    ]
+  },
+  {
+    "emoji": "♟️",
+    "tags": [
+      "finna",
+      "talv"
+    ]
+  },
+  {
+    "emoji": "🃏",
+    "tags": [
+      "jokari",
+      "kort"
+    ]
+  },
+  {
+    "emoji": "🀄",
+    "tags": [
+      "mah-jong",
+      "mahjong",
+      "spæl"
+    ]
+  },
+  {
+    "emoji": "🎴",
+    "tags": [
+      "hanafuda",
+      "japanskt",
+      "kort",
+      "spæl"
+    ]
+  },
+  {
+    "emoji": "🎭",
+    "tags": [
+      "ballett",
+      "leikhús",
+      "list",
+      "sjónleikur",
+      "útinnandi leiklistir"
+    ]
+  },
+  {
+    "emoji": "🖼️",
+    "tags": [
+      "innrammað",
+      "list",
+      "málningur",
+      "mynd"
+    ]
+  },
+  {
+    "emoji": "🎨",
+    "tags": [
+      "list",
+      "litaborð",
+      "litafjøl",
+      "mála",
+      "palett"
+    ]
+  },
+  {
+    "emoji": "🧵",
+    "tags": [
+      "nál",
+      "seyma",
+      "spoli",
+      "tráður"
+    ]
+  },
+  {
+    "emoji": "🪡",
+    "tags": [
+      "baldýring",
+      "íseyming",
+      "lappa",
+      "nál",
+      "seyminál",
+      "stingur"
+    ]
+  },
+  {
+    "emoji": "🧶",
+    "tags": [
+      "garn",
+      "noða",
+      "tógv"
+    ]
+  },
+  {
+    "emoji": "🪢",
+    "tags": [
+      "binda",
+      "knútur",
+      "knýta",
+      "reip",
+      "tog"
+    ]
+  },
+  {
+    "emoji": "👓",
+    "tags": [
+      "brillur",
+      "eyga"
+    ]
+  },
+  {
+    "emoji": "🕶️",
+    "tags": [
+      "brillur",
+      "sól",
+      "sólbrillur"
+    ]
+  },
+  {
+    "emoji": "🥽",
+    "tags": [
+      "brillur",
+      "skíðbrillur",
+      "verjubrillur"
+    ]
+  },
+  {
+    "emoji": "🥼",
+    "tags": [
+      "kittil",
+      "lækni",
+      "náttúruvísind",
+      "roynd"
+    ]
+  },
+  {
+    "emoji": "🦺",
+    "tags": [
+      "trygd",
+      "trygdarvestur",
+      "vestur"
+    ]
+  },
+  {
+    "emoji": "👔",
+    "tags": [
+      "klæði",
+      "skjúrta",
+      "slips"
+    ]
+  },
+  {
+    "emoji": "👕",
+    "tags": [
+      "klæði",
+      "skjúrta",
+      "t-shirt",
+      "tshirt"
+    ]
+  },
+  {
+    "emoji": "👖",
+    "tags": [
+      "buksur",
+      "cowboybuksur",
+      "klæði"
+    ]
+  },
+  {
+    "emoji": "🧣",
+    "tags": [
+      "háls",
+      "hálsturriklæði",
+      "klæði",
+      "turriklæði"
+    ]
+  },
+  {
+    "emoji": "🧤",
+    "tags": [
+      "handskar",
+      "hond",
+      "klæði",
+      "vøttur"
+    ]
+  },
+  {
+    "emoji": "🧥",
+    "tags": [
+      "frakki",
+      "jakki",
+      "klæði"
+    ]
+  },
+  {
+    "emoji": "🧦",
+    "tags": [
+      "hosur",
+      "klæði",
+      "sokkar"
+    ]
+  },
+  {
+    "emoji": "👗",
+    "tags": [
+      "kjóli",
+      "klæði"
+    ]
+  },
+  {
+    "emoji": "👘",
+    "tags": [
+      "kimono",
+      "klæði"
+    ]
+  },
+  {
+    "emoji": "🥻",
+    "tags": [
+      "búni",
+      "India",
+      "konufólkabúni",
+      "sari"
+    ]
+  },
+  {
+    "emoji": "🩱",
+    "tags": [
+      "svimjibúni",
+      "svimjing"
+    ]
+  },
+  {
+    "emoji": "🩲",
+    "tags": [
+      "trussur",
+      "undirklæðir"
+    ]
+  },
+  {
+    "emoji": "🩳",
+    "tags": [
+      "brøkur",
+      "shorts",
+      "stuttar"
+    ]
+  },
+  {
+    "emoji": "👙",
+    "tags": [
+      "bikini",
+      "klæði",
+      "svimjiklæðir"
+    ]
+  },
+  {
+    "emoji": "👚",
+    "tags": [
+      "klæði",
+      "kona",
+      "konufólk",
+      "konufólkaklæðir",
+      "kvinna",
+      "plagg"
+    ]
+  },
+  {
+    "emoji": "👛",
+    "tags": [
+      "klæði",
+      "myntir",
+      "pengar",
+      "pungur"
+    ]
+  },
+  {
+    "emoji": "👜",
+    "tags": [
+      "handtaska",
+      "hondtaska",
+      "klæði",
+      "taska"
+    ]
+  },
+  {
+    "emoji": "👝",
+    "tags": [
+      "handtaska",
+      "hondtaska",
+      "klæði",
+      "pungur",
+      "taska"
+    ]
+  },
+  {
+    "emoji": "🛍️",
+    "tags": [
+      "beriposar",
+      "beriposi",
+      "innkeyp",
+      "keyp",
+      "keypstaskur",
+      "posar",
+      "posi",
+      "shoppa",
+      "shopping"
+    ]
+  },
+  {
+    "emoji": "🎒",
+    "tags": [
+      "herðataska",
+      "skúlataska",
+      "skúli",
+      "taska"
+    ]
+  },
+  {
+    "emoji": "🩴",
+    "tags": [
+      "sandála",
+      "thong"
+    ]
+  },
+  {
+    "emoji": "👞",
+    "tags": [
+      "klæði",
+      "mannfólk",
+      "mannfólkaskógvur",
+      "skógvur"
+    ]
+  },
+  {
+    "emoji": "👟",
+    "tags": [
+      "ítrótt",
+      "klæði",
+      "renniskógvur",
+      "skógvur",
+      "tennisskógvur"
+    ]
+  },
+  {
+    "emoji": "🥾",
+    "tags": [
+      "fjakka",
+      "ganga",
+      "gangistilvi",
+      "gongutúr",
+      "stilvi",
+      "tjalding"
+    ]
+  },
+  {
+    "emoji": "🥿",
+    "tags": [
+      "flatbotnaður",
+      "flatur",
+      "skógvur"
+    ]
+  },
+  {
+    "emoji": "👠",
+    "tags": [
+      "høghælaður skógvur",
+      "klæði",
+      "kona",
+      "konufólk",
+      "kvinna",
+      "skógvur"
+    ]
+  },
+  {
+    "emoji": "👡",
+    "tags": [
+      "klæði",
+      "kona",
+      "konufólk",
+      "konufólkasandála",
+      "kvinna",
+      "sandála",
+      "skógvur"
+    ]
+  },
+  {
+    "emoji": "🩰",
+    "tags": [
+      "ballet",
+      "balletskógvar",
+      "dansa",
+      "dansiskógvar",
+      "skógvar"
+    ]
+  },
+  {
+    "emoji": "👢",
+    "tags": [
+      "klæði",
+      "kona",
+      "konufólk",
+      "konufólkastilvi",
+      "kvinna",
+      "skógvur",
+      "stivli"
+    ]
+  },
+  {
+    "emoji": "👑",
+    "tags": [
+      "drotning",
+      "kongur",
+      "krúna",
+      "prinsessa",
+      "prinsur"
+    ]
+  },
+  {
+    "emoji": "👒",
+    "tags": [
+      "hattur",
+      "klæði",
+      "kona",
+      "konufólk",
+      "konufólkahattur",
+      "kvinna"
+    ]
+  },
+  {
+    "emoji": "🎩",
+    "tags": [
+      "hattur",
+      "høgur",
+      "klæði"
+    ]
+  },
+  {
+    "emoji": "🎓",
+    "tags": [
+      "fráfaring",
+      "fráfaringarhúgva",
+      "hattur",
+      "húgva",
+      "klæði",
+      "próvtøka"
+    ]
+  },
+  {
+    "emoji": "🧢",
+    "tags": [
+      "baseball",
+      "hattur",
+      "hornabóltur",
+      "kaskettur",
+      "keppur"
+    ]
+  },
+  {
+    "emoji": "🪖",
+    "tags": [
+      "hereind",
+      "herhjálmur",
+      "hermaður",
+      "herur",
+      "hjálmur"
+    ]
+  },
+  {
+    "emoji": "⛑️",
+    "tags": [
+      "bjargingarhjálmur",
+      "hjálmur",
+      "hjálp",
+      "krossur",
+      "reyði"
+    ]
+  },
+  {
+    "emoji": "📿",
+    "tags": [
+      "átrúnaður",
+      "biðikransur",
+      "bøn",
+      "perlukransur",
+      "religión",
+      "rósukransur",
+      "trúgv"
+    ]
+  },
+  {
+    "emoji": "💄",
+    "tags": [
+      "fríðkanarevni",
+      "makeup",
+      "sminka",
+      "varrastift"
+    ]
+  },
+  {
+    "emoji": "💍",
+    "tags": [
+      "diamantur",
+      "ringur"
+    ]
+  },
+  {
+    "emoji": "💎",
+    "tags": [
+      "diamantur",
+      "gimsteinur"
+    ]
+  },
+  {
+    "emoji": "🔇",
+    "tags": [
+      "doyvdur",
+      "doyvt",
+      "einki ljóð",
+      "hátalari",
+      "ljóðleyst"
+    ]
+  },
+  {
+    "emoji": "🔈",
+    "tags": [
+      "hátalari",
+      "lág",
+      "lág ljóðstyrki á hátalara",
+      "ljóðstyrki"
+    ]
+  },
+  {
+    "emoji": "🔉",
+    "tags": [
+      "hátalari",
+      "ljóðstyrki",
+      "miðal",
+      "miðal ljóðstyrki á hátalara"
+    ]
+  },
+  {
+    "emoji": "🔊",
+    "tags": [
+      "hátalari",
+      "høg",
+      "høg ljóðstyrki á hátalara",
+      "ljóðstyrki"
+    ]
+  },
+  {
+    "emoji": "📢",
+    "tags": [
+      "megafon",
+      "rópari"
+    ]
+  },
+  {
+    "emoji": "📣",
+    "tags": [
+      "megafon",
+      "rópari"
+    ]
+  },
+  {
+    "emoji": "📯",
+    "tags": [
+      "horn",
+      "post",
+      "posthorn",
+      "postur"
+    ]
+  },
+  {
+    "emoji": "🔔",
+    "tags": [
+      "klokka",
+      "ljóð"
+    ]
+  },
+  {
+    "emoji": "🔕",
+    "tags": [
+      "doyvdur",
+      "doyvt",
+      "einki ljóð",
+      "klokka",
+      "klokka við skrástriku",
+      "ljóðleyst"
+    ]
+  },
+  {
+    "emoji": "🎼",
+    "tags": [
+      "fjølrøddabók",
+      "partiturur",
+      "tónleikur"
+    ]
+  },
+  {
+    "emoji": "🎵",
+    "tags": [
+      "nóti",
+      "tónleikur"
+    ]
+  },
+  {
+    "emoji": "🎶",
+    "tags": [
+      "nótar",
+      "tónleikur"
+    ]
+  },
+  {
+    "emoji": "🎙️",
+    "tags": [
+      "ljóðfatur",
+      "ljóðstovumikrofon",
+      "ljóðtak",
+      "mikrofon"
+    ]
+  },
+  {
+    "emoji": "🎚️",
+    "tags": [
+      "dragil",
+      "dragistýrari",
+      "ljóðstyrki",
+      "ljóðstyrkidragil",
+      "stýring",
+      "tónleikur"
+    ]
+  },
+  {
+    "emoji": "🎛️",
+    "tags": [
+      "stýring",
+      "stýringsknøttar",
+      "tónleikur"
+    ]
+  },
+  {
+    "emoji": "🎤",
+    "tags": [
+      "karaoke",
+      "ljóðfatur",
+      "ljóðtak",
+      "mikrofon"
+    ]
+  },
+  {
+    "emoji": "🎧",
+    "tags": [
+      "høvuðsett",
+      "høvuðtelefon",
+      "oyramikrofon"
+    ]
+  },
+  {
+    "emoji": "📻",
+    "tags": [
+      "útvarp"
+    ]
+  },
+  {
+    "emoji": "🎷",
+    "tags": [
+      "ljóðføri",
+      "saksofon",
+      "tónleikur"
+    ]
+  },
+  {
+    "emoji": "🪗",
+    "tags": [
+      "dans",
+      "dansur",
+      "harmonika",
+      "ljóðføri",
+      "tónleikur"
+    ]
+  },
+  {
+    "emoji": "🎸",
+    "tags": [
+      "gittari",
+      "ljóðføri",
+      "tónleikur"
+    ]
+  },
+  {
+    "emoji": "🎹",
+    "tags": [
+      "keyboard",
+      "ljóðføri",
+      "ljómborð",
+      "tónleikur"
+    ]
+  },
+  {
+    "emoji": "🎺",
+    "tags": [
+      "ljóðføri",
+      "tónleikur",
+      "trompet"
+    ]
+  },
+  {
+    "emoji": "🎻",
+    "tags": [
+      "ljóðføri",
+      "tónleikur",
+      "violin"
+    ]
+  },
+  {
+    "emoji": "🪕",
+    "tags": [
+      "banjo",
+      "ljóðføri",
+      "tónleikur"
+    ]
+  },
+  {
+    "emoji": "🥁",
+    "tags": [
+      "ljóðføri",
+      "tónleikur",
+      "trumma"
+    ]
+  },
+  {
+    "emoji": "🪘",
+    "tags": [
+      "ljóðføri",
+      "long trumma",
+      "tónleikur",
+      "trumma"
+    ]
+  },
+  {
+    "emoji": "📱",
+    "tags": [
+      "fartelefon",
+      "telefon"
+    ]
+  },
+  {
+    "emoji": "📲",
+    "tags": [
+      "fartelefon",
+      "fartelefon við píli",
+      "kall",
+      "uppkall",
+      "uppringing"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "tags": [
+      "telefon"
+    ]
+  },
+  {
+    "emoji": "📞",
+    "tags": [
+      "horn á telefon",
+      "telefonhorn",
+      "telefonrør"
+    ]
+  },
+  {
+    "emoji": "📟",
+    "tags": [
+      "persónleitari"
+    ]
+  },
+  {
+    "emoji": "📠",
+    "tags": [
+      "faks",
+      "telefaks"
+    ]
+  },
+  {
+    "emoji": "🔋",
+    "tags": [
+      "battarí",
+      "ravlað"
+    ]
+  },
+  {
+    "emoji": "🔌",
+    "tags": [
+      "elektrisitet",
+      "ravmagn",
+      "stikkari",
+      "stikkproppur"
+    ]
+  },
+  {
+    "emoji": "💻",
+    "tags": [
+      "fartelda",
+      "telda"
+    ]
+  },
+  {
+    "emoji": "🖥️",
+    "tags": [
+      "borðtelda",
+      "telda"
+    ]
+  },
+  {
+    "emoji": "🖨️",
+    "tags": [
+      "prentari"
+    ]
+  },
+  {
+    "emoji": "⌨️",
+    "tags": [
+      "knappaborð"
+    ]
+  },
+  {
+    "emoji": "🖱️",
+    "tags": [
+      "mús",
+      "teldumús"
+    ]
+  },
+  {
+    "emoji": "🖲️",
+    "tags": [
+      "stýrikúla"
+    ]
+  },
+  {
+    "emoji": "💽",
+    "tags": [
+      "diskur",
+      "teldudiskur"
+    ]
+  },
+  {
+    "emoji": "💾",
+    "tags": [
+      "disketta",
+      "diskil"
+    ]
+  },
+  {
+    "emoji": "💿",
+    "tags": [
+      "cd",
+      "diskur",
+      "sjónbandsfløga"
+    ]
+  },
+  {
+    "emoji": "📀",
+    "tags": [
+      "blu-ray",
+      "diskur",
+      "dvd",
+      "margfløga"
+    ]
+  },
+  {
+    "emoji": "🧮",
+    "tags": [
+      "abakus",
+      "kúluramma",
+      "roknibretti"
+    ]
+  },
+  {
+    "emoji": "🎥",
+    "tags": [
+      "biografur",
+      "filmstól",
+      "filmur",
+      "upptøkutól"
+    ]
+  },
+  {
+    "emoji": "🎞️",
+    "tags": [
+      "biografur",
+      "filmstrimmil",
+      "filmur",
+      "stakmynd"
+    ]
+  },
+  {
+    "emoji": "📽️",
+    "tags": [
+      "biografur",
+      "filmur",
+      "ljósvørpa",
+      "myndatól"
+    ]
+  },
+  {
+    "emoji": "🎬",
+    "tags": [
+      "filmur",
+      "klapptræ",
+      "upptøka"
+    ]
+  },
+  {
+    "emoji": "📺",
+    "tags": [
+      "sjónvarp",
+      "sjónvarpsskíggi"
+    ]
+  },
+  {
+    "emoji": "📷",
+    "tags": [
+      "fotografi",
+      "myndatól"
+    ]
+  },
+  {
+    "emoji": "📸",
+    "tags": [
+      "blits",
+      "fotografi",
+      "myndatól",
+      "myndatól við blits"
+    ]
+  },
+  {
+    "emoji": "📹",
+    "tags": [
+      "myndatól",
+      "sjónupptøkutól",
+      "upptøkutól",
+      "video"
+    ]
+  },
+  {
+    "emoji": "📼",
+    "tags": [
+      "band",
+      "sjónband",
+      "sjónbandshúsi",
+      "video"
+    ]
+  },
+  {
+    "emoji": "🔍",
+    "tags": [
+      "lesiglas",
+      "luppur",
+      "luppur á skák til vinstru",
+      "sjóneyka",
+      "størkingarglas"
+    ]
+  },
+  {
+    "emoji": "🔎",
+    "tags": [
+      "lesiglas",
+      "luppur",
+      "luppur á skák til høgru",
+      "sjóneyka",
+      "størkingarglas"
+    ]
+  },
+  {
+    "emoji": "🕯️",
+    "tags": [
+      "kertiljós",
+      "livandi ljós",
+      "ljós"
+    ]
+  },
+  {
+    "emoji": "💡",
+    "tags": [
+      "hugskot",
+      "ljós",
+      "ljóspera",
+      "pera"
+    ]
+  },
+  {
+    "emoji": "🔦",
+    "tags": [
+      "ljós",
+      "lummalykt",
+      "lykt",
+      "stavlykt"
+    ]
+  },
+  {
+    "emoji": "🏮",
+    "tags": [
+      "lanterna",
+      "ljós",
+      "pappírlanterna",
+      "reyð"
+    ]
+  },
+  {
+    "emoji": "🪔",
+    "tags": [
+      "diya",
+      "diyalampa",
+      "lampa",
+      "olja"
+    ]
+  },
+  {
+    "emoji": "📔",
+    "tags": [
+      "lummabók",
+      "lummabók við prýðiligari perma",
+      "perma",
+      "prýðilig",
+      "umslag"
+    ]
+  },
+  {
+    "emoji": "📕",
+    "tags": [
+      "afturlatin",
+      "bók"
+    ]
+  },
+  {
+    "emoji": "📖",
+    "tags": [
+      "bók",
+      "opin"
+    ]
+  },
+  {
+    "emoji": "📗",
+    "tags": [
+      "bók",
+      "grøn"
+    ]
+  },
+  {
+    "emoji": "📘",
+    "tags": [
+      "blá",
+      "bók"
+    ]
+  },
+  {
+    "emoji": "📙",
+    "tags": [
+      "appilsingul",
+      "bók"
+    ]
+  },
+  {
+    "emoji": "📚",
+    "tags": [
+      "bók",
+      "bøkur"
+    ]
+  },
+  {
+    "emoji": "📓",
+    "tags": [
+      "blokkur",
+      "bók",
+      "lummabók",
+      "minnisbók",
+      "skriviblokkur",
+      "uppritsbók",
+      "uppskrivingarbók"
+    ]
+  },
+  {
+    "emoji": "📒",
+    "tags": [
+      "høvuðsbók",
+      "lummabók"
+    ]
+  },
+  {
+    "emoji": "📃",
+    "tags": [
+      "bræv",
+      "krúlla",
+      "pappír",
+      "prógv",
+      "skjal"
+    ]
+  },
+  {
+    "emoji": "📜",
+    "tags": [
+      "bókarrulla",
+      "rulla",
+      "skriftrulla"
+    ]
+  },
+  {
+    "emoji": "📄",
+    "tags": [
+      "bræv",
+      "pappír",
+      "pappír sum vendur uppeftir",
+      "prógv",
+      "skjal"
+    ]
+  },
+  {
+    "emoji": "📰",
+    "tags": [
+      "blað",
+      "nýggjheitir",
+      "tíðindablað",
+      "tíðindi"
+    ]
+  },
+  {
+    "emoji": "🗞️",
+    "tags": [
+      "blað",
+      "nýggjheitir",
+      "samanrulla",
+      "tíðindablað",
+      "tíðindi"
+    ]
+  },
+  {
+    "emoji": "📑",
+    "tags": [
+      "bókamerki",
+      "bókamerkir"
+    ]
+  },
+  {
+    "emoji": "🔖",
+    "tags": [
+      "bókamerki",
+      "bókamerkir"
+    ]
+  },
+  {
+    "emoji": "🏷️",
+    "tags": [
+      "merkiseðil",
+      "navnaseðil",
+      "seðil",
+      "spjaldur"
+    ]
+  },
+  {
+    "emoji": "💰",
+    "tags": [
+      "dollarar",
+      "dollari",
+      "pengar",
+      "pengasekkur",
+      "peningasekkur",
+      "peningur",
+      "sekkur"
+    ]
+  },
+  {
+    "emoji": "🪙",
+    "tags": [
+      "gull",
+      "myntur",
+      "pengar",
+      "pengi",
+      "skattur"
+    ]
+  },
+  {
+    "emoji": "💴",
+    "tags": [
+      "gjaldoyra",
+      "jenn",
+      "jennur",
+      "pengaseðil",
+      "seðil"
+    ]
+  },
+  {
+    "emoji": "💵",
+    "tags": [
+      "dollarar",
+      "dollari",
+      "gjaldoyra",
+      "pengaseðil",
+      "seðil"
+    ]
+  },
+  {
+    "emoji": "💶",
+    "tags": [
+      "evra",
+      "evrur",
+      "gjaldoyra",
+      "pengaseðil",
+      "seðil"
+    ]
+  },
+  {
+    "emoji": "💷",
+    "tags": [
+      "gjaldoyra",
+      "pengaseðil",
+      "pund",
+      "seðil"
+    ]
+  },
+  {
+    "emoji": "💸",
+    "tags": [
+      "dollarar",
+      "dollari",
+      "gjaldoyra",
+      "pengar við veingjum",
+      "pengaseðil",
+      "seðil",
+      "veingjar"
+    ]
+  },
+  {
+    "emoji": "💳",
+    "tags": [
+      "keypskort",
+      "kontukort",
+      "kredittkort",
+      "kritkort",
+      "pengar",
+      "peningur"
+    ]
+  },
+  {
+    "emoji": "🧾",
+    "tags": [
+      "keyp",
+      "kvittan",
+      "prógv",
+      "søla"
+    ]
+  },
+  {
+    "emoji": "💹",
+    "tags": [
+      "gjaldoyra",
+      "hækkadi",
+      "hækkan",
+      "jenn",
+      "jennur",
+      "marknaður",
+      "strikumynd",
+      "strikumynd við jenn tekni"
+    ]
+  },
+  {
+    "emoji": "✉️",
+    "tags": [
+      "bræv",
+      "brævbjálvi",
+      "t-postur",
+      "teldupostur"
+    ]
+  },
+  {
+    "emoji": "📧",
+    "tags": [
+      "bræv",
+      "postur",
+      "t-postur",
+      "teldupostur"
+    ]
+  },
+  {
+    "emoji": "📨",
+    "tags": [
+      "bræv",
+      "brævbjálvi",
+      "innkomandi",
+      "komandi",
+      "postur",
+      "t-postur",
+      "teldupostur"
+    ]
+  },
+  {
+    "emoji": "📩",
+    "tags": [
+      "bræv",
+      "brævbjálvi",
+      "brævbjálvi og pílur",
+      "postur",
+      "t-postur",
+      "teldupostur"
+    ]
+  },
+  {
+    "emoji": "📤",
+    "tags": [
+      "bræv",
+      "brævabakki",
+      "postur",
+      "t-postur",
+      "teldupostur",
+      "útgangandi"
+    ]
+  },
+  {
+    "emoji": "📥",
+    "tags": [
+      "bræv",
+      "brævabakki",
+      "innkomandi",
+      "postur",
+      "t-postur",
+      "teldupostur"
+    ]
+  },
+  {
+    "emoji": "📦",
+    "tags": [
+      "boks",
+      "eskja",
+      "farmavøra",
+      "kolli",
+      "pakki",
+      "vøra"
+    ]
+  },
+  {
+    "emoji": "📫",
+    "tags": [
+      "afturlatin",
+      "afturlatin postkassi við standandi flaggi",
+      "bræv",
+      "flagg",
+      "post",
+      "postkassi",
+      "postur",
+      "standandi"
+    ]
+  },
+  {
+    "emoji": "📪",
+    "tags": [
+      "afturlatin",
+      "afturlatin postkassi við liggjandi flaggi",
+      "bræv",
+      "flagg",
+      "liggjandi",
+      "post",
+      "postkassi",
+      "postur"
+    ]
+  },
+  {
+    "emoji": "📬",
+    "tags": [
+      "bræv",
+      "flagg",
+      "opin",
+      "opin postkassi við standandi flaggi",
+      "post",
+      "postkassi",
+      "postur",
+      "standandi"
+    ]
+  },
+  {
+    "emoji": "📭",
+    "tags": [
+      "bræv",
+      "flagg",
+      "liggjandi",
+      "opin",
+      "opin postkassi við liggjandi flaggi",
+      "post",
+      "postkassi",
+      "postur"
+    ]
+  },
+  {
+    "emoji": "📮",
+    "tags": [
+      "bræv",
+      "post",
+      "postkassi",
+      "postur"
+    ]
+  },
+  {
+    "emoji": "🗳️",
+    "tags": [
+      "atkvøða",
+      "atkvøðukassi",
+      "kassi",
+      "stemma",
+      "val"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "blýantur",
+      "skriva"
+    ]
+  },
+  {
+    "emoji": "✒️",
+    "tags": [
+      "oddur",
+      "pennur",
+      "svarur oddur á penni"
+    ]
+  },
+  {
+    "emoji": "🖋️",
+    "tags": [
+      "fyllipennur",
+      "pennur"
+    ]
+  },
+  {
+    "emoji": "🖊️",
+    "tags": [
+      "kúlupennur",
+      "pennur"
+    ]
+  },
+  {
+    "emoji": "🖌️",
+    "tags": [
+      "mála",
+      "málingarkustur",
+      "pensil"
+    ]
+  },
+  {
+    "emoji": "🖍️",
+    "tags": [
+      "kolstift",
+      "litblýantur"
+    ]
+  },
+  {
+    "emoji": "📝",
+    "tags": [
+      "greinargerð",
+      "skrivlig viðmerking",
+      "upprit",
+      "uppskrift"
+    ]
+  },
+  {
+    "emoji": "💼",
+    "tags": [
+      "mappa",
+      "skjalamappa",
+      "taska"
+    ]
+  },
+  {
+    "emoji": "📁",
+    "tags": [
+      "faldari",
+      "fíl",
+      "lummi",
+      "mappa",
+      "skjalalummi",
+      "skjalamappa"
+    ]
+  },
+  {
+    "emoji": "📂",
+    "tags": [
+      "faldari",
+      "fíl",
+      "lummi i skjalalummi",
+      "mappa",
+      "opin",
+      "opin skjalalummi",
+      "skjalamappa"
+    ]
+  },
+  {
+    "emoji": "🗂️",
+    "tags": [
+      "bókamerki",
+      "indeks",
+      "seðlaskrá",
+      "seðlaskrábókamerki"
+    ]
+  },
+  {
+    "emoji": "📅",
+    "tags": [
+      "álmanakki",
+      "dagfesting",
+      "dagseting",
+      "dato",
+      "kalendari",
+      "tíðarfesting",
+      "tíðarmerking"
+    ]
+  },
+  {
+    "emoji": "📆",
+    "tags": [
+      "álmanakki",
+      "dagfesting",
+      "dagseting",
+      "dato",
+      "kalendari",
+      "kalendari sum kann skræðast úr",
+      "skræða",
+      "tíðarfesting",
+      "tíðarmerking"
+    ]
+  },
+  {
+    "emoji": "🗒️",
+    "tags": [
+      "blokkur",
+      "skriviblokkur",
+      "snyril",
+      "spiralheftur",
+      "spiralur"
+    ]
+  },
+  {
+    "emoji": "🗓️",
+    "tags": [
+      "álmanakki",
+      "dagfesting",
+      "dagseting",
+      "dato",
+      "kalendari",
+      "spiralheftur",
+      "tíðarfesting",
+      "tíðarmerking"
+    ]
+  },
+  {
+    "emoji": "📇",
+    "tags": [
+      "kartotek",
+      "kortsavn",
+      "seðlasavn",
+      "seðlaskrá"
+    ]
+  },
+  {
+    "emoji": "📈",
+    "tags": [
+      "diagramm",
+      "rásmynd",
+      "strikumynd",
+      "strikumynd við vøkstri",
+      "upp",
+      "veksur",
+      "vøkstur"
+    ]
+  },
+  {
+    "emoji": "📉",
+    "tags": [
+      "diagramm",
+      "lækkar",
+      "lækking",
+      "minkar",
+      "minking",
+      "niður",
+      "rásmynd",
+      "strikumynd",
+      "strikumynd við lækking"
+    ]
+  },
+  {
+    "emoji": "📊",
+    "tags": [
+      "diagramm",
+      "rásmynd",
+      "stabbamynd",
+      "strikumynd"
+    ]
+  },
+  {
+    "emoji": "📋",
+    "tags": [
+      "klemmuspjald",
+      "setiborð"
+    ]
+  },
+  {
+    "emoji": "📌",
+    "tags": [
+      "nál",
+      "nipsnál"
+    ]
+  },
+  {
+    "emoji": "📍",
+    "tags": [
+      "nál",
+      "nipsnál",
+      "rund nipsnál"
+    ]
+  },
+  {
+    "emoji": "📎",
+    "tags": [
+      "klips",
+      "pappírsklemma"
+    ]
+  },
+  {
+    "emoji": "🖇️",
+    "tags": [
+      "klips",
+      "klips sum hanga saman",
+      "pappírsklemmur"
+    ]
+  },
+  {
+    "emoji": "📏",
+    "tags": [
+      "lineal",
+      "strikfjøl"
+    ]
+  },
+  {
+    "emoji": "📐",
+    "tags": [
+      "lineal",
+      "strikfjøl",
+      "tríkanta lineal",
+      "tríkantur"
+    ]
+  },
+  {
+    "emoji": "✂️",
+    "tags": [
+      "klipp",
+      "saksur"
+    ]
+  },
+  {
+    "emoji": "🗃️",
+    "tags": [
+      "kartotek",
+      "kortsavn",
+      "savnskassi",
+      "seðlasavn",
+      "seðlaskrá"
+    ]
+  },
+  {
+    "emoji": "🗄️",
+    "tags": [
+      "kartotek",
+      "kortsavn",
+      "savnskassi",
+      "savnsskáp",
+      "savnsskipan",
+      "seðlasavn",
+      "seðlaskrá",
+      "skáp"
+    ]
+  },
+  {
+    "emoji": "🗑️",
+    "tags": [
+      "pappírskurv",
+      "pappírsleypur",
+      "skrell"
+    ]
+  },
+  {
+    "emoji": "🔒",
+    "tags": [
+      "afturlati",
+      "heingilás",
+      "læst",
+      "lás",
+      "stongt"
+    ]
+  },
+  {
+    "emoji": "🔓",
+    "tags": [
+      "heingilás",
+      "lás",
+      "ólæst",
+      "opi"
+    ]
+  },
+  {
+    "emoji": "🔏",
+    "tags": [
+      "afturlati",
+      "fyllipennur",
+      "heingilás",
+      "læst",
+      "lás",
+      "lás og fyllipennur",
+      "pennur",
+      "stongt"
+    ]
+  },
+  {
+    "emoji": "🔐",
+    "tags": [
+      "afturlati",
+      "ás",
+      "heingilás",
+      "heingilás og lykil",
+      "læst",
+      "lykil",
+      "stongt"
+    ]
+  },
+  {
+    "emoji": "🔑",
+    "tags": [
+      "lás",
+      "loyniorð",
+      "lykil"
+    ]
+  },
+  {
+    "emoji": "🗝️",
+    "tags": [
+      "gamal lykil",
+      "lás",
+      "lykil"
+    ]
+  },
+  {
+    "emoji": "🔨",
+    "tags": [
+      "amboð",
+      "hamari",
+      "smíða"
+    ]
+  },
+  {
+    "emoji": "🪓",
+    "tags": [
+      "amboð",
+      "høgg",
+      "høgga",
+      "hondøks",
+      "øks"
+    ]
+  },
+  {
+    "emoji": "⛏️",
+    "tags": [
+      "amboð",
+      "hakkari",
+      "nám",
+      "námídnaður",
+      "námvinna",
+      "námvirki"
+    ]
+  },
+  {
+    "emoji": "⚒️",
+    "tags": [
+      "amboð",
+      "hakkari",
+      "hamari",
+      "hamari og hakkari"
+    ]
+  },
+  {
+    "emoji": "🛠️",
+    "tags": [
+      "amboð",
+      "hamari",
+      "hamari og skrúvulykil",
+      "skiftilykil",
+      "skrúvulykil"
+    ]
+  },
+  {
+    "emoji": "🗡️",
+    "tags": [
+      "dolkur",
+      "knívur",
+      "stutt svørð",
+      "svørð",
+      "vápn"
+    ]
+  },
+  {
+    "emoji": "⚔️",
+    "tags": [
+      "krossa",
+      "svørð",
+      "vápn"
+    ]
+  },
+  {
+    "emoji": "🔫",
+    "tags": [
+      "handvápn",
+      "pistólur",
+      "revolvari",
+      "skotvápn",
+      "vápn"
+    ]
+  },
+  {
+    "emoji": "🪃",
+    "tags": [
+      "Avstralia",
+      "bomerang",
+      "boomerang",
+      "kastivápn"
+    ]
+  },
+  {
+    "emoji": "🏹",
+    "tags": [
+      "Bogamaður",
+      "bogaskjótari",
+      "bogaskjóting",
+      "bogi",
+      "bogi of pílur",
+      "ørvargarpur",
+      "pílur",
+      "stjørnumerki",
+      "vápn"
+    ]
+  },
+  {
+    "emoji": "🛡️",
+    "tags": [
+      "skjøldur",
+      "vápn",
+      "verja",
+      "vernd"
+    ]
+  },
+  {
+    "emoji": "🪚",
+    "tags": [
+      "amboð",
+      "hondsag",
+      "sag"
+    ]
+  },
+  {
+    "emoji": "🔧",
+    "tags": [
+      "amboð",
+      "skiftilykil",
+      "skrúvulykil"
+    ]
+  },
+  {
+    "emoji": "🪛",
+    "tags": [
+      "amboð",
+      "skrúva",
+      "skrúvublað"
+    ]
+  },
+  {
+    "emoji": "🔩",
+    "tags": [
+      "amboð",
+      "boltur",
+      "møtrikkur",
+      "møtrikkur og boltur"
+    ]
+  },
+  {
+    "emoji": "⚙️",
+    "tags": [
+      "amboð",
+      "gir",
+      "tannhjól"
+    ]
+  },
+  {
+    "emoji": "🗜️",
+    "tags": [
+      "amboð",
+      "skrúvustikka",
+      "skrúvutvinga",
+      "spenniskrúva",
+      "tvinga"
+    ]
+  },
+  {
+    "emoji": "⚖️",
+    "tags": [
+      "amboð",
+      "rættvísi",
+      "stjørnumerki",
+      "Vágmerkið",
+      "vágskál",
+      "vekt"
+    ]
+  },
+  {
+    "emoji": "🦯",
+    "tags": [
+      "blind",
+      "blindastavur",
+      "blindur",
+      "brek",
+      "handikapp",
+      "stavur"
+    ]
+  },
+  {
+    "emoji": "🔗",
+    "tags": [
+      "leinkja",
+      "liður",
+      "samband",
+      "sambinding",
+      "sambindingarliður"
+    ]
+  },
+  {
+    "emoji": "⛓️",
+    "tags": [
+      "keta",
+      "leinkja",
+      "liður",
+      "samband",
+      "sambinding",
+      "sambindingarliður"
+    ]
+  },
+  {
+    "emoji": "🪝",
+    "tags": [
+      "krókur"
+    ]
+  },
+  {
+    "emoji": "🧰",
+    "tags": [
+      "amboð",
+      "amboðskassi",
+      "kassi"
+    ]
+  },
+  {
+    "emoji": "🧲",
+    "tags": [
+      "magnet",
+      "magnetisk",
+      "magnetiskur",
+      "sigul"
+    ]
+  },
+  {
+    "emoji": "🪜",
+    "tags": [
+      "klatra",
+      "stig",
+      "stigi",
+      "upp"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "amboð",
+      "dropadríva",
+      "evnafrøði",
+      "kemi"
+    ]
+  },
+  {
+    "emoji": "🧪",
+    "tags": [
+      "evnafrøði",
+      "náttúruvísind",
+      "roynd",
+      "royndarglas"
+    ]
+  },
+  {
+    "emoji": "🧫",
+    "tags": [
+      "lívfrøði",
+      "náttúruvísind",
+      "petriskál",
+      "tilbúningarglas",
+      "tilbúningsglas"
+    ]
+  },
+  {
+    "emoji": "🧬",
+    "tags": [
+      "arvaeind",
+      "dna",
+      "ílega",
+      "lív",
+      "lívfrøði",
+      "lívmenning",
+      "náttúruvísind"
+    ]
+  },
+  {
+    "emoji": "🔬",
+    "tags": [
+      "mikroskop",
+      "náttúruvísindi",
+      "sjóneyka",
+      "vísind"
+    ]
+  },
+  {
+    "emoji": "🔭",
+    "tags": [
+      "kikari",
+      "náttúruvísindi",
+      "spegilskikari",
+      "stjørnukikari",
+      "teleskop",
+      "vísindfjarvísi"
+    ]
+  },
+  {
+    "emoji": "📡",
+    "tags": [
+      "antenna",
+      "parabolur",
+      "skálkampur"
+    ]
+  },
+  {
+    "emoji": "💉",
+    "tags": [
+      "amboð",
+      "heilivágur",
+      "innspræning",
+      "lækni",
+      "medisin",
+      "nál",
+      "sjúka",
+      "sproyta"
+    ]
+  },
+  {
+    "emoji": "🩸",
+    "tags": [
+      "blóð",
+      "blóðdropi",
+      "blóðgáva",
+      "blóðgevi",
+      "dropi"
+    ]
+  },
+  {
+    "emoji": "💊",
+    "tags": [
+      "heilivágur",
+      "lækni",
+      "medisin",
+      "pillari",
+      "sjúka"
+    ]
+  },
+  {
+    "emoji": "🩹",
+    "tags": [
+      "heftiplástur",
+      "plástur"
+    ]
+  },
+  {
+    "emoji": "🩺",
+    "tags": [
+      "læknalurt",
+      "læknapípa",
+      "lurt",
+      "stetoskop"
+    ]
+  },
+  {
+    "emoji": "🚪",
+    "tags": [
+      "hurð"
+    ]
+  },
+  {
+    "emoji": "🛗",
+    "tags": [
+      "elevatorur",
+      "lyfta"
+    ]
+  },
+  {
+    "emoji": "🪞",
+    "tags": [
+      "spegil",
+      "spegilsmynd",
+      "spegl",
+      "speglast",
+      "sýna",
+      "vísa"
+    ]
+  },
+  {
+    "emoji": "🪟",
+    "tags": [
+      "gluggi",
+      "rútar",
+      "rútur",
+      "vindeyga"
+    ]
+  },
+  {
+    "emoji": "🛏️",
+    "tags": [
+      "song",
+      "sova"
+    ]
+  },
+  {
+    "emoji": "🛋️",
+    "tags": [
+      "lampa",
+      "sofa",
+      "sofa og lampa"
+    ]
+  },
+  {
+    "emoji": "🪑",
+    "tags": [
+      "sæti",
+      "sessur",
+      "setur",
+      "stólur"
+    ]
+  },
+  {
+    "emoji": "🚽",
+    "tags": [
+      "kumma",
+      "toilett",
+      "ves"
+    ]
+  },
+  {
+    "emoji": "🪠",
+    "tags": [
+      "kumma",
+      "súgvari",
+      "toilett",
+      "typt",
+      "ves"
+    ]
+  },
+  {
+    "emoji": "🚿",
+    "tags": [
+      "brúsa",
+      "brúsubað",
+      "vatn"
+    ]
+  },
+  {
+    "emoji": "🛁",
+    "tags": [
+      "bað",
+      "baðikar"
+    ]
+  },
+  {
+    "emoji": "🪤",
+    "tags": [
+      "fella",
+      "lokkingarmatur",
+      "músafella"
+    ]
+  },
+  {
+    "emoji": "🪒",
+    "tags": [
+      "barberblað",
+      "knívur",
+      "raka",
+      "rakiblað",
+      "rakiknívur"
+    ]
+  },
+  {
+    "emoji": "🧴",
+    "tags": [
+      "fløska",
+      "húðkrem",
+      "lotión",
+      "lotiónfløska",
+      "smyrsl"
+    ]
+  },
+  {
+    "emoji": "🧷",
+    "tags": [
+      "læsinál",
+      "nál",
+      "trygdarnál"
+    ]
+  },
+  {
+    "emoji": "🧹",
+    "tags": [
+      "gandakelling",
+      "kelling",
+      "kustur",
+      "sópa",
+      "vaska"
+    ]
+  },
+  {
+    "emoji": "🧺",
+    "tags": [
+      "kurv"
+    ]
+  },
+  {
+    "emoji": "🧻",
+    "tags": [
+      "kukka",
+      "toilettpappír",
+      "ves",
+      "vesipappír"
+    ]
+  },
+  {
+    "emoji": "🪣",
+    "tags": [
+      "oysa",
+      "pøs",
+      "spann"
+    ]
+  },
+  {
+    "emoji": "🧼",
+    "tags": [
+      "hendur",
+      "hond",
+      "hondsápa",
+      "sápa",
+      "vaska"
+    ]
+  },
+  {
+    "emoji": "🪥",
+    "tags": [
+      "busta",
+      "tannbust",
+      "tannrøkt",
+      "tenn"
+    ]
+  },
+  {
+    "emoji": "🧽",
+    "tags": [
+      "holutur",
+      "svampur",
+      "vaska"
+    ]
+  },
+  {
+    "emoji": "🧯",
+    "tags": [
+      "eld",
+      "eldskøkkjari",
+      "eldur",
+      "sløkkja",
+      "trygd"
+    ]
+  },
+  {
+    "emoji": "🛒",
+    "tags": [
+      "innkeyp",
+      "innkeypsvognur",
+      "keypsvognur",
+      "vognur"
+    ]
+  },
+  {
+    "emoji": "🚬",
+    "tags": [
+      "royking",
+      "roykja",
+      "roykur",
+      "sigarett",
+      "tendra sigarett",
+      "tubbak"
+    ]
+  },
+  {
+    "emoji": "⚰️",
+    "tags": [
+      "andlát",
+      "deyði",
+      "gravarferð",
+      "jarðarferð",
+      "kista",
+      "lík",
+      "líkkista"
+    ]
+  },
+  {
+    "emoji": "🪦",
+    "tags": [
+      "deyði",
+      "gravsteinur",
+      "grøv",
+      "kirkjugarður"
+    ]
+  },
+  {
+    "emoji": "⚱️",
+    "tags": [
+      "andlát",
+      "deyði",
+      "gravarferð",
+      "jarðarferð",
+      "krukka",
+      "øska",
+      "øskukrukka"
+    ]
+  },
+  {
+    "emoji": "🗿",
+    "tags": [
+      "moai",
+      "Páskaoyggin",
+      "standmynd"
+    ]
+  },
+  {
+    "emoji": "🪧",
+    "tags": [
+      "kunnger",
+      "mótmæli",
+      "plakat",
+      "skelti",
+      "uppslag"
+    ]
+  },
+  {
+    "emoji": "🏧",
+    "tags": [
+      "automat",
+      "pengar",
+      "sjálvtøka",
+      "sjálvtøkuskeltið",
+      "út"
+    ]
+  },
+  {
+    "emoji": "🚮",
+    "tags": [
+      "burturkast",
+      "órudd",
+      "rusk",
+      "ruskílatskelti"
+    ]
+  },
+  {
+    "emoji": "🚰",
+    "tags": [
+      "drekkandi",
+      "drekkingarvatn",
+      "drekkivatn",
+      "vatn"
+    ]
+  },
+  {
+    "emoji": "♿",
+    "tags": [
+      "atgongd",
+      "hjólstólur",
+      "koyristólur symbol",
+      "rullistólur"
+    ]
+  },
+  {
+    "emoji": "🚹",
+    "tags": [
+      "maður",
+      "mannfólkaves",
+      "ves",
+      "wc"
+    ]
+  },
+  {
+    "emoji": "🚺",
+    "tags": [
+      "kona",
+      "konufólkaves",
+      "kvinna",
+      "ves",
+      "wc"
+    ]
+  },
+  {
+    "emoji": "🚻",
+    "tags": [
+      "ves",
+      "ves symbol",
+      "wc"
+    ]
+  },
+  {
+    "emoji": "🚼",
+    "tags": [
+      "pinkubarna symbol",
+      "skiftingarrúm",
+      "skiftirúm"
+    ]
+  },
+  {
+    "emoji": "🚾",
+    "tags": [
+      "ves",
+      "vesi",
+      "wc",
+      "wc symbol"
+    ]
+  },
+  {
+    "emoji": "🛂",
+    "tags": [
+      "eftirlit",
+      "landamark",
+      "pass",
+      "passeftirlit"
+    ]
+  },
+  {
+    "emoji": "🛃",
+    "tags": [
+      "eftirlit",
+      "toll",
+      "tolleftirlit",
+      "tollur",
+      "tollverk"
+    ]
+  },
+  {
+    "emoji": "🛄",
+    "tags": [
+      "útflýggjan",
+      "viðføri",
+      "viðførisútflýggjan"
+    ]
+  },
+  {
+    "emoji": "🛅",
+    "tags": [
+      "gloymt",
+      "viðføri"
+    ]
+  },
+  {
+    "emoji": "⚠️",
+    "tags": [
+      "ávaring"
+    ]
+  },
+  {
+    "emoji": "🚸",
+    "tags": [
+      "ávaring",
+      "barnagonguteigur",
+      "børn",
+      "gonguteigur"
+    ]
+  },
+  {
+    "emoji": "⛔",
+    "tags": [
+      "ávaring",
+      "forboð",
+      "innkoyring forboðið"
+    ]
+  },
+  {
+    "emoji": "🚫",
+    "tags": [
+      "atgongd",
+      "bannað",
+      "forboð"
+    ]
+  },
+  {
+    "emoji": "🚳",
+    "tags": [
+      "forboð",
+      "ongar súkklur",
+      "súkkla"
+    ]
+  },
+  {
+    "emoji": "🚭",
+    "tags": [
+      "bannað",
+      "forboði",
+      "royking"
+    ]
+  },
+  {
+    "emoji": "🚯",
+    "tags": [
+      "bannað",
+      "blaka",
+      "burturkast",
+      "forboð",
+      "ikki tveita burturkast",
+      "órudd",
+      "rusk",
+      "tveita"
+    ]
+  },
+  {
+    "emoji": "🚱",
+    "tags": [
+      "drekkivatn",
+      "ikki drekkandi vatn",
+      "vatn"
+    ]
+  },
+  {
+    "emoji": "🚷",
+    "tags": [
+      "bannað",
+      "bannað fyri gangandi fólki",
+      "forboð",
+      "ganga"
+    ]
+  },
+  {
+    "emoji": "📵",
+    "tags": [
+      "bannað",
+      "fartelefon",
+      "fartelefon ikki loyvd",
+      "forboð"
+    ]
+  },
+  {
+    "emoji": "🔞",
+    "tags": [
+      "18",
+      "aldursmark",
+      "átjan",
+      "átjanára aldursmark",
+      "bannað",
+      "forboð"
+    ]
+  },
+  {
+    "emoji": "☢️",
+    "tags": [
+      "ávaring",
+      "geislavirki",
+      "geislavirkin"
+    ]
+  },
+  {
+    "emoji": "☣️",
+    "tags": [
+      "ávaring",
+      "lívfrøðili",
+      "lívfrøðiligur vandi",
+      "vandi"
+    ]
+  },
+  {
+    "emoji": "⬆️",
+    "tags": [
+      "ætt",
+      "k´ós",
+      "norður",
+      "pílur",
+      "pílur sum peikar uppeftir"
+    ]
+  },
+  {
+    "emoji": "↗️",
+    "tags": [
+      "ætt",
+      "k´ós",
+      "landnyrðingur",
+      "pílur",
+      "pílur sum peikar uppeftir og til høgru"
+    ]
+  },
+  {
+    "emoji": "➡️",
+    "tags": [
+      "ætt",
+      "eystur",
+      "k´ós",
+      "pílur",
+      "pílur sum peikar til høgru"
+    ]
+  },
+  {
+    "emoji": "↘️",
+    "tags": [
+      "ætt",
+      "k´ós",
+      "landsynningur",
+      "pílur",
+      "pílur sum peikar niðureftir og til høgru"
+    ]
+  },
+  {
+    "emoji": "⬇️",
+    "tags": [
+      "ætt",
+      "k´ós",
+      "niður",
+      "pílur",
+      "pílur sum peikar niðureftir",
+      "suður"
+    ]
+  },
+  {
+    "emoji": "↙️",
+    "tags": [
+      "ætt",
+      "k´ós",
+      "pílur",
+      "pílur sum peikar niðureftir og til vinstru",
+      "útsynningur"
+    ]
+  },
+  {
+    "emoji": "⬅️",
+    "tags": [
+      "ætt",
+      "k´ós",
+      "pílur",
+      "pílur sum peikar til vinstru",
+      "vestur"
+    ]
+  },
+  {
+    "emoji": "↖️",
+    "tags": [
+      "ætt",
+      "k´ós",
+      "pílur",
+      "pílur sum peikar uppeftir og til vinstru",
+      "útnyrðingur"
+    ]
+  },
+  {
+    "emoji": "↕️",
+    "tags": [
+      "pílur",
+      "pílur sum peikar upp og niður"
+    ]
+  },
+  {
+    "emoji": "↔️",
+    "tags": [
+      "pílur",
+      "pílur sum peikar til høgru og vinstu"
+    ]
+  },
+  {
+    "emoji": "↩️",
+    "tags": [
+      "bogin",
+      "bogin pílur sum peikar til vinstru",
+      "pílur"
+    ]
+  },
+  {
+    "emoji": "↪️",
+    "tags": [
+      "bogin",
+      "bogin pílur sum peikar til høgru",
+      "pílur"
+    ]
+  },
+  {
+    "emoji": "⤴️",
+    "tags": [
+      "bogin",
+      "bogin pílur sum peikar uppeftir",
+      "pílur"
+    ]
+  },
+  {
+    "emoji": "⤵️",
+    "tags": [
+      "bogin",
+      "bogin pílur sum peikar niðureftir",
+      "pílur"
+    ]
+  },
+  {
+    "emoji": "🔃",
+    "tags": [
+      "loddrættir pílar sum ganga við urinum",
+      "lodrættir",
+      "pílar",
+      "við urinum"
+    ]
+  },
+  {
+    "emoji": "🔄",
+    "tags": [
+      "ímóti urinum",
+      "pílar",
+      "vatnrættir",
+      "vatnrættir pílar sum ganga ímóti urinum"
+    ]
+  },
+  {
+    "emoji": "🔙",
+    "tags": [
+      "back",
+      "BACK pílur",
+      "pílur"
+    ]
+  },
+  {
+    "emoji": "🔚",
+    "tags": [
+      "end",
+      "END pílur",
+      "pílur"
+    ]
+  },
+  {
+    "emoji": "🔛",
+    "tags": [
+      "on",
+      "ON! pílur",
+      "pílur"
+    ]
+  },
+  {
+    "emoji": "🔜",
+    "tags": [
+      "pílur",
+      "soon",
+      "SOON pílur"
+    ]
+  },
+  {
+    "emoji": "🔝",
+    "tags": [
+      "pílur top",
+      "TOP pílur"
+    ]
+  },
+  {
+    "emoji": "🛐",
+    "tags": [
+      "átrúnaður",
+      "bøn",
+      "bønarstað",
+      "religión",
+      "trúgv"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "ateistur",
+      "atom",
+      "atom symbol",
+      "gudloysingur",
+      "gudsnoktari"
+    ]
+  },
+  {
+    "emoji": "🕉️",
+    "tags": [
+      "átrúnaður",
+      "aúm",
+      "hindui",
+      "om",
+      "religión",
+      "trúgv"
+    ]
+  },
+  {
+    "emoji": "✡️",
+    "tags": [
+      "dávidsstjørna",
+      "gýðingastjørna",
+      "gýðingur",
+      "jødi",
+      "jødiskur",
+      "stjørna"
+    ]
+  },
+  {
+    "emoji": "☸️",
+    "tags": [
+      "átrúnaður",
+      "buddistur",
+      "dharmahjól",
+      "religión",
+      "trúgv"
+    ]
+  },
+  {
+    "emoji": "☯️",
+    "tags": [
+      "jin yang",
+      "yang taoisma",
+      "yin"
+    ]
+  },
+  {
+    "emoji": "✝️",
+    "tags": [
+      "átrúnaður",
+      "kristin",
+      "krossur",
+      "latínskur krossur",
+      "religión",
+      "trúgv"
+    ]
+  },
+  {
+    "emoji": "☦️",
+    "tags": [
+      "átrúnaður",
+      "kristin",
+      "krossur",
+      "ortodoksur krossur",
+      "religión",
+      "trúgv"
+    ]
+  },
+  {
+    "emoji": "☪️",
+    "tags": [
+      "átrúnaður",
+      "islam",
+      "muslimur",
+      "religión",
+      "stjørna og hálvmáni",
+      "trúgv"
+    ]
+  },
+  {
+    "emoji": "☮️",
+    "tags": [
+      "frið",
+      "friðarsymbol",
+      "friður"
+    ]
+  },
+  {
+    "emoji": "🕎",
+    "tags": [
+      "átrúnaður",
+      "ljósastaki",
+      "menorah",
+      "religión",
+      "trúgv"
+    ]
+  },
+  {
+    "emoji": "🔯",
+    "tags": [
+      "eydna",
+      "lagna",
+      "stjørna",
+      "stjørna við seks spískum"
+    ]
+  },
+  {
+    "emoji": "♈",
+    "tags": [
+      "stjørnumerki",
+      "veðramerki",
+      "veðrur",
+      "Veðrurin"
+    ]
+  },
+  {
+    "emoji": "♉",
+    "tags": [
+      "oksi",
+      "stjørnumerki",
+      "tarvsmerkið",
+      "tarvur",
+      "Tarvurin"
+    ]
+  },
+  {
+    "emoji": "♊",
+    "tags": [
+      "stjørnumerki",
+      "tvíburamerki",
+      "tvíburar",
+      "Tvíburarnir"
+    ]
+  },
+  {
+    "emoji": "♋",
+    "tags": [
+      "krabbamerkið",
+      "krabbi",
+      "Krabbin",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "♌",
+    "tags": [
+      "leyva",
+      "Ljónið",
+      "ljónsmerkið",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "♍",
+    "tags": [
+      "moyarmerkið",
+      "Moyggin",
+      "moyggj",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "♎",
+    "tags": [
+      "stjørnumerki",
+      "Vágin",
+      "vágmerkið",
+      "vágskál",
+      "vekt"
+    ]
+  },
+  {
+    "emoji": "♏",
+    "tags": [
+      "skorpión",
+      "sporðdrekamerkið",
+      "Sporðdrekin",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "♐",
+    "tags": [
+      "bogamaður",
+      "Bogamaðurin",
+      "skotmaður",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "♑",
+    "tags": [
+      "geit",
+      "steingeitarmerki",
+      "Steingeitin",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "♒",
+    "tags": [
+      "berari",
+      "stjørnumerki",
+      "vatn",
+      "Vatnberin"
+    ]
+  },
+  {
+    "emoji": "♓",
+    "tags": [
+      "fiskamerkið",
+      "Fiskarnir",
+      "fiskur",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "⛎",
+    "tags": [
+      "berari",
+      "Ormberin",
+      "ormur",
+      "slanga",
+      "stjørnumerki"
+    ]
+  },
+  {
+    "emoji": "🔀",
+    "tags": [
+      "blanda",
+      "blanda knappur"
+    ]
+  },
+  {
+    "emoji": "🔁",
+    "tags": [
+      "endurtak",
+      "endurtak knappur",
+      "endurtøka",
+      "umaftur"
+    ]
+  },
+  {
+    "emoji": "🔂",
+    "tags": [
+      "einaferð",
+      "endurtak",
+      "endurtak einaferð knappur",
+      "endurtøka",
+      "umaftur"
+    ]
+  },
+  {
+    "emoji": "▶️",
+    "tags": [
+      "spæl",
+      "spæl knappur"
+    ]
+  },
+  {
+    "emoji": "⏩",
+    "tags": [
+      "fram",
+      "skjótt",
+      "spola",
+      "spola skjótt fram knappur"
+    ]
+  },
+  {
+    "emoji": "⏭️",
+    "tags": [
+      "næsta",
+      "næsta knappur",
+      "næsti"
+    ]
+  },
+  {
+    "emoji": "⏯️",
+    "tags": [
+      "pausa",
+      "spæl",
+      "spæl ella pausa knappur"
+    ]
+  },
+  {
+    "emoji": "◀️",
+    "tags": [
+      "aftur",
+      "spola",
+      "spola aftur knappur"
+    ]
+  },
+  {
+    "emoji": "⏪",
+    "tags": [
+      "aftur",
+      "skjótt",
+      "spola",
+      "spola skjótt aftur knappur"
+    ]
+  },
+  {
+    "emoji": "⏮️",
+    "tags": [
+      "undanfari",
+      "undanfari knappur",
+      "undanfarna",
+      "undanfarni"
+    ]
+  },
+  {
+    "emoji": "🔼",
+    "tags": [
+      "upp",
+      "upp knappur"
+    ]
+  },
+  {
+    "emoji": "⏫",
+    "tags": [
+      "skjótt",
+      "skjótt upp knappur",
+      "upp"
+    ]
+  },
+  {
+    "emoji": "🔽",
+    "tags": [
+      "niður",
+      "niður knappur"
+    ]
+  },
+  {
+    "emoji": "⏬",
+    "tags": [
+      "niður",
+      "skjótt",
+      "skjótt niður knappur"
+    ]
+  },
+  {
+    "emoji": "⏸️",
+    "tags": [
+      "hvíld",
+      "pausa",
+      "pausaknappur"
+    ]
+  },
+  {
+    "emoji": "⏹️",
+    "tags": [
+      "steðgiknappur",
+      "stopp",
+      "stoppknappur"
+    ]
+  },
+  {
+    "emoji": "⏺️",
+    "tags": [
+      "taka upp",
+      "upptøka",
+      "upptøkuknappur"
+    ]
+  },
+  {
+    "emoji": "⏏️",
+    "tags": [
+      "út",
+      "varpa út",
+      "varpa út knappur"
+    ]
+  },
+  {
+    "emoji": "🎦",
+    "tags": [
+      "biograf",
+      "filmur",
+      "sjónbandsupptakari"
+    ]
+  },
+  {
+    "emoji": "🔅",
+    "tags": [
+      "dimma",
+      "dimma knappur",
+      "káma",
+      "skýma"
+    ]
+  },
+  {
+    "emoji": "🔆",
+    "tags": [
+      "ger ljósari knappur",
+      "klárna",
+      "ljósari",
+      "lýsa"
+    ]
+  },
+  {
+    "emoji": "📶",
+    "tags": [
+      "antenna",
+      "antennstabbar",
+      "fartelefon",
+      "samband",
+      "stabbi"
+    ]
+  },
+  {
+    "emoji": "📳",
+    "tags": [
+      "fartelefon",
+      "støða",
+      "vibratión",
+      "vibratiónstøða"
+    ]
+  },
+  {
+    "emoji": "📴",
+    "tags": [
+      "fartelefon",
+      "sløk",
+      "sløk fartelefonina"
+    ]
+  },
+  {
+    "emoji": "⚧️",
+    "tags": [
+      "tvørkynd",
+      "tvørkyndtekin",
+      "tvørkyndur"
+    ]
+  },
+  {
+    "emoji": "✖️",
+    "tags": [
+      "×",
+      "annullera",
+      "falda",
+      "ganga",
+      "x"
+    ]
+  },
+  {
+    "emoji": "➕",
+    "tags": [
+      "+",
+      "matematikk",
+      "pluss",
+      "plussmerki",
+      "rokning",
+      "støddfrøði"
+    ]
+  },
+  {
+    "emoji": "➖",
+    "tags": [
+      "-",
+      "−",
+      "matematikk",
+      "minus",
+      "minusmerki",
+      "rokning",
+      "støddfrøði"
+    ]
+  },
+  {
+    "emoji": "➗",
+    "tags": [
+      "÷",
+      "býti",
+      "deila",
+      "matematikk",
+      "rokning",
+      "støddfrøði"
+    ]
+  },
+  {
+    "emoji": "♾️",
+    "tags": [
+      "endaleyst",
+      "í allar ævir",
+      "óendalig",
+      "óendaligt"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "dupult",
+      "rópitekn",
+      "teknseting"
+    ]
+  },
+  {
+    "emoji": "⁉️",
+    "tags": [
+      "rópitekn",
+      "rópitekn og spurnartekn",
+      "spurnartekn",
+      "teknseting"
+    ]
+  },
+  {
+    "emoji": "❓",
+    "tags": [
+      "spurnartekn",
+      "spurningur",
+      "teknseting"
+    ]
+  },
+  {
+    "emoji": "❔",
+    "tags": [
+      "greinarmerki",
+      "hvítt spurnartekn",
+      "spurnartekn",
+      "teknseting"
+    ]
+  },
+  {
+    "emoji": "❕",
+    "tags": [
+      "greinarmerki",
+      "hvítt rópitekn",
+      "rópitekn",
+      "teknseting"
+    ]
+  },
+  {
+    "emoji": "❗",
+    "tags": [
+      "greinarmerki",
+      "rópitekn",
+      "teknseting"
+    ]
+  },
+  {
+    "emoji": "〰️",
+    "tags": [
+      "aldandi",
+      "greinarmerki",
+      "tankastrika",
+      "teknseting"
+    ]
+  },
+  {
+    "emoji": "💱",
+    "tags": [
+      "børs",
+      "gjaldoyra",
+      "gjaldoyraveksil",
+      "veksil"
+    ]
+  },
+  {
+    "emoji": "💲",
+    "tags": [
+      "dollarar",
+      "dollari",
+      "dollartekn",
+      "gjaldoyra",
+      "pengar",
+      "peningur",
+      "stórt dollartekn"
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "tags": [
+      "endurnýtsla",
+      "endurnýtslasymbol"
+    ]
+  },
+  {
+    "emoji": "⚜️",
+    "tags": [
+      "liljumynd",
+      "liljumynd sum skjaldarmerki",
+      "skjaldarmerki",
+      "svørðlilja"
+    ]
+  },
+  {
+    "emoji": "🔱",
+    "tags": [
+      "kvísl",
+      "Poseidon",
+      "trítindað kvísl",
+      "trítindakvísl",
+      "trítindur"
+    ]
+  },
+  {
+    "emoji": "📛",
+    "tags": [
+      "navn",
+      "navnaspjaldur",
+      "spjaldur"
+    ]
+  },
+  {
+    "emoji": "🔰",
+    "tags": [
+      "byrjandi",
+      "byrjari",
+      "japanskt",
+      "japanskt symbol fyri byrjandi"
+    ]
+  },
+  {
+    "emoji": "⭕",
+    "tags": [
+      "innanopin reyður sirkul",
+      "o",
+      "reyður",
+      "reytt",
+      "ringur",
+      "sirkul"
+    ]
+  },
+  {
+    "emoji": "✅",
+    "tags": [
+      "flugubein",
+      "hvítt tjúkt flugubein"
+    ]
+  },
+  {
+    "emoji": "☑️",
+    "tags": [
+      "flugubein",
+      "flugubein í fýrakanti",
+      "fýrakantur"
+    ]
+  },
+  {
+    "emoji": "✔️",
+    "tags": [
+      "flugubein",
+      "tjúkt flugubein"
+    ]
+  },
+  {
+    "emoji": "❌",
+    "tags": [
+      "annullera",
+      "falda",
+      "ganga",
+      "kross",
+      "kross symbol",
+      "strika",
+      "x"
+    ]
+  },
+  {
+    "emoji": "❎",
+    "tags": [
+      "annullera",
+      "falda",
+      "ganga",
+      "kross",
+      "kross symbol knappur",
+      "strika",
+      "x"
+    ]
+  },
+  {
+    "emoji": "➰",
+    "tags": [
+      "bukt",
+      "lykkja",
+      "sloyfa",
+      "snar"
+    ]
+  },
+  {
+    "emoji": "➿",
+    "tags": [
+      "bukt",
+      "dupult",
+      "lykkja",
+      "sloyfa",
+      "snar"
+    ]
+  },
+  {
+    "emoji": "〽️",
+    "tags": [
+      "broytin",
+      "frábregði",
+      "umskifti",
+      "umskiftistekn"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "áttatinda stjørna",
+      "stjørna"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "áttaspíska stjørna",
+      "stjørna"
+    ]
+  },
+  {
+    "emoji": "❇️",
+    "tags": [
+      "glampa",
+      "glampi",
+      "glitra",
+      "glógva",
+      "ljóma",
+      "skyggja",
+      "stjørna"
+    ]
+  },
+  {
+    "emoji": "©️",
+    "tags": [
+      "c",
+      "upphavsrætt",
+      "upphavsrættur"
+    ]
+  },
+  {
+    "emoji": "®️",
+    "tags": [
+      "r",
+      "skrásett",
+      "skrásettur"
+    ]
+  },
+  {
+    "emoji": "™️",
+    "tags": [
+      "fyritøkumerki",
+      "fyritøkurættindi",
+      "virkismerki",
+      "virkisrættindi",
+      "vøruheiti",
+      "vørumerki"
+    ]
+  },
+  {
+    "emoji": "🔠",
+    "tags": [
+      "ABCD",
+      "stórir bókstavir"
+    ]
+  },
+  {
+    "emoji": "🔡",
+    "tags": [
+      "abcd",
+      "smáir bókstavir"
+    ]
+  },
+  {
+    "emoji": "🔢",
+    "tags": [
+      "1234",
+      "tøl"
+    ]
+  },
+  {
+    "emoji": "🔣",
+    "tags": [
+      "〒♪&amp;%",
+      "symbol"
+    ]
+  },
+  {
+    "emoji": "🔤",
+    "tags": [
+      "abc",
+      "alfabet",
+      "bókstavarað",
+      "bókstavir",
+      "stavrað"
+    ]
+  },
+  {
+    "emoji": "🅰️",
+    "tags": [
+      "a",
+      "A knappur (blóðflokkur)",
+      "blóðflokkur",
+      "blóðtypa",
+      "knappur",
+      "knøttur"
+    ]
+  },
+  {
+    "emoji": "🆎",
+    "tags": [
+      "ab",
+      "AB knappur (blóðflokkur)",
+      "blóðflokkur",
+      "blóðtypa",
+      "knappur",
+      "knøttur"
+    ]
+  },
+  {
+    "emoji": "🅱️",
+    "tags": [
+      "b",
+      "B knappur (blóðflokkur)",
+      "blóðflokkur",
+      "blóðtypa",
+      "knappur",
+      "knøttur"
+    ]
+  },
+  {
+    "emoji": "🆑",
+    "tags": [
+      "cl",
+      "CL knappur",
+      "knappur",
+      "knøttur"
+    ]
+  },
+  {
+    "emoji": "🆒",
+    "tags": [
+      "cool",
+      "COOL knappur",
+      "knappur",
+      "knøttur"
+    ]
+  },
+  {
+    "emoji": "🆓",
+    "tags": [
+      "free",
+      "FREE knappur",
+      "knappur",
+      "knøttur"
+    ]
+  },
+  {
+    "emoji": "ℹ️",
+    "tags": [
+      "i",
+      "kunning",
+      "kunningarstova",
+      "leiðbeining",
+      "upplýsing"
+    ]
+  },
+  {
+    "emoji": "🆔",
+    "tags": [
+      "id",
+      "ID knappur",
+      "identitetur",
+      "knappur",
+      "knøttur",
+      "samleiki"
+    ]
+  },
+  {
+    "emoji": "Ⓜ️",
+    "tags": [
+      "m",
+      "M í sirkuli",
+      "sirkul"
+    ]
+  },
+  {
+    "emoji": "🆕",
+    "tags": [
+      "knappur",
+      "knøttur",
+      "new",
+      "NEW knappur"
+    ]
+  },
+  {
+    "emoji": "🆖",
+    "tags": [
+      "knappur",
+      "knøttur",
+      "ng",
+      "NG knappur"
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "tags": [
+      "blóðflokkur",
+      "blóðtypa",
+      "knappur",
+      "knøttur",
+      "o",
+      "O knappur (blóðflokkur)"
+    ]
+  },
+  {
+    "emoji": "🆗",
+    "tags": [
+      "knappur",
+      "knøttur",
+      "ok",
+      "OK knappur"
+    ]
+  },
+  {
+    "emoji": "🅿️",
+    "tags": [
+      "knappur",
+      "knøttur",
+      "ok",
+      "P knappur",
+      "parkering",
+      "parkeringarbásur",
+      "parkeringarpláss",
+      "parkeringarskiva"
+    ]
+  },
+  {
+    "emoji": "🆘",
+    "tags": [
+      "hjálp",
+      "knappur",
+      "knøttur",
+      "neyðarkall",
+      "neyðarróp",
+      "sos",
+      "SOS knappur"
+    ]
+  },
+  {
+    "emoji": "🆙",
+    "tags": [
+      "knappur",
+      "knøttur",
+      "up!",
+      "UP! knappur",
+      "upp"
+    ]
+  },
+  {
+    "emoji": "🆚",
+    "tags": [
+      "ímóti",
+      "knappur",
+      "knøttur",
+      "vs",
+      "VS knappur"
+    ]
+  },
+  {
+    "emoji": "🈁",
+    "tags": [
+      "&quot;her&quot;",
+      "japanskur",
+      "japanskur &quot;her&quot; knappur",
+      "katakana",
+      "ココ"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "&quot;avgreiðslugjald&quot;",
+      "&quot;borðreiðingargjald&quot;",
+      "japanskur",
+      "japanskur &quot;avgreiðslugjald&quot; knappur",
+      "katakana",
+      "サ"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "&quot;mánaðarlig upphædd&quot;",
+      "hugtaksskrift",
+      "ideografi",
+      "japanskur",
+      "japanskur &quot;mánaðarlig upphædd&quot; knappur",
+      "月"
+    ]
+  },
+  {
+    "emoji": "🈶",
+    "tags": [
+      "&quot;ikki ókeypis&quot;",
+      "hugtaksskrift",
+      "ideografi",
+      "japanskur",
+      "japanskur &quot;ikki ókeypis&quot; knappur",
+      "有"
+    ]
+  },
+  {
+    "emoji": "🈯",
+    "tags": [
+      "&quot;bílagt&quot;",
+      "hugtaksskrift",
+      "ideografi",
+      "japanskur",
+      "japanskur &quot;bílagt&quot; knappur",
+      "指"
+    ]
+  },
+  {
+    "emoji": "🉐",
+    "tags": [
+      "&quot;gott keyp&quot;",
+      "&quot;kvett&quot;",
+      "hugtaksskrift",
+      "ideografi",
+      "japanskur",
+      "japanskur &quot;kvett&quot; knappur",
+      "得"
+    ]
+  },
+  {
+    "emoji": "🈹",
+    "tags": [
+      "&quot;avsláttur&quot;",
+      "hugtaksskrift",
+      "ideografi",
+      "japanskur",
+      "japanskur &quot;avsláttur&quot; knappur",
+      "割"
+    ]
+  },
+  {
+    "emoji": "🈚",
+    "tags": [
+      "&quot;ókeypis&quot;",
+      "hugtaksskrift",
+      "ideografi",
+      "japanskur",
+      "japanskur &quot;ókeypis&quot; knappur",
+      "無"
+    ]
+  },
+  {
+    "emoji": "🈲",
+    "tags": [
+      "&quot;bannað&quot;",
+      "&quot;forboð&quot;",
+      "hugtaksskrift",
+      "ideografi",
+      "japanskur",
+      "japanskur &quot;bannað&quot; knappur",
+      "禁"
+    ]
+  },
+  {
+    "emoji": "🉑",
+    "tags": [
+      "&quot;hóskandi&quot;",
+      "&quot;ok&quot;",
+      "hugtaksskrift",
+      "ideografi",
+      "japanskur",
+      "japanskur &quot;hóskandi&quot; knappur",
+      "可"
+    ]
+  },
+  {
+    "emoji": "🈸",
+    "tags": [
+      "&quot;áheitan&quot;",
+      "&quot;umsókn&quot;",
+      "hugtaksskrift",
+      "ideografi",
+      "japanskur",
+      "japanskur &quot;umsókn&quot; knappur",
+      "申"
+    ]
+  },
+  {
+    "emoji": "🈴",
+    "tags": [
+      "&quot;nøktandi avrik&quot;",
+      "hugtaksskrift",
+      "ideografi",
+      "japanskur",
+      "japanskur &quot;nøktandi avrik&quot; knappur",
+      "合"
+    ]
+  },
+  {
+    "emoji": "🈳",
+    "tags": [
+      "&quot;leyst&quot;",
+      "hugtaksskrift",
+      "ideografi",
+      "japanskur",
+      "japanskur &quot;leyst&quot; knappur",
+      "空"
+    ]
+  },
+  {
+    "emoji": "㊗️",
+    "tags": [
+      "&quot;lukkuynsking&quot;",
+      "&quot;til lukku&quot;",
+      "&quot;tillukku&quot;",
+      "hugtaksskrift",
+      "ideografi",
+      "japanskur",
+      "japanskur &quot;lukkuynsking&quot; knappur",
+      "祝"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "&quot;loyndarmál&quot;",
+      "hugtaksskrift",
+      "ideografi",
+      "japanskur",
+      "japanskur &quot;loyndarmál&quot; knappur",
+      "秘"
+    ]
+  },
+  {
+    "emoji": "🈺",
+    "tags": [
+      "&quot;opið&quot;",
+      "&quot;opin&quot;",
+      "hugtaksskrift",
+      "ideografi",
+      "japanskur",
+      "japanskur &quot;opið&quot; knappur",
+      "営"
+    ]
+  },
+  {
+    "emoji": "🈵",
+    "tags": [
+      "&quot;einki leyst&quot;",
+      "hugtaksskrift",
+      "ideografi",
+      "japanskur",
+      "japanskur &quot;einki leyst&quot; knappur",
+      "満"
+    ]
+  },
+  {
+    "emoji": "🔴",
+    "tags": [
+      "reyður",
+      "reytt",
+      "sirkul"
+    ]
+  },
+  {
+    "emoji": "🟠",
+    "tags": [
+      "appilsingult",
+      "appilsingulur",
+      "sirkul"
+    ]
+  },
+  {
+    "emoji": "🟡",
+    "tags": [
+      "gult",
+      "gulur",
+      "sirkul"
+    ]
+  },
+  {
+    "emoji": "🟢",
+    "tags": [
+      "grønt",
+      "grønur",
+      "sirkul"
+    ]
+  },
+  {
+    "emoji": "🔵",
+    "tags": [
+      "blátt",
+      "bláur",
+      "sirkul"
+    ]
+  },
+  {
+    "emoji": "🟣",
+    "tags": [
+      "korkalitt",
+      "korkalittur",
+      "korkalitur",
+      "lillafarva",
+      "lillafarvaður",
+      "reyðblátt",
+      "reyðbláur",
+      "sirkul"
+    ]
+  },
+  {
+    "emoji": "🟤",
+    "tags": [
+      "brúnt",
+      "brúnur",
+      "sirkul"
+    ]
+  },
+  {
+    "emoji": "⚫",
+    "tags": [
+      "mátingarfrøði",
+      "sirkul",
+      "svartur"
+    ]
+  },
+  {
+    "emoji": "⚪",
+    "tags": [
+      "hvítur",
+      "mátingarfrøði",
+      "sirkul"
+    ]
+  },
+  {
+    "emoji": "🟥",
+    "tags": [
+      "fýrakantur",
+      "reyður",
+      "reytt"
+    ]
+  },
+  {
+    "emoji": "🟧",
+    "tags": [
+      "appilsingult",
+      "appilsingulur",
+      "fýrakantur"
+    ]
+  },
+  {
+    "emoji": "🟨",
+    "tags": [
+      "fýrakantur",
+      "gult",
+      "gulur"
+    ]
+  },
+  {
+    "emoji": "🟩",
+    "tags": [
+      "fýrakantur",
+      "grønt",
+      "grønur"
+    ]
+  },
+  {
+    "emoji": "🟦",
+    "tags": [
+      "blátt",
+      "bláur",
+      "blaúr fýrakantur",
+      "fýrakantur"
+    ]
+  },
+  {
+    "emoji": "🟪",
+    "tags": [
+      "fýrakantur",
+      "korkalitt",
+      "korkalittur",
+      "korkalitur",
+      "lillafarva",
+      "lillafarvaður",
+      "reyðblátt",
+      "reyðbláur"
+    ]
+  },
+  {
+    "emoji": "🟫",
+    "tags": [
+      "brúnt",
+      "brúnur",
+      "fýrakantur"
+    ]
+  },
+  {
+    "emoji": "⬛",
+    "tags": [
+      "fýrakantur",
+      "mátingarfrøðiligur",
+      "stórur svartur fýrakantur"
+    ]
+  },
+  {
+    "emoji": "⬜",
+    "tags": [
+      "fýrakantur",
+      "mátingarfrøðiligur",
+      "stórur hvítur fýrakantur"
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "tags": [
+      "fýrakantur",
+      "mátingarfrøðiligur",
+      "svartur fýrakantur"
+    ]
+  },
+  {
+    "emoji": "◻️",
+    "tags": [
+      "fýrakantur",
+      "hvítur fýrakantur",
+      "mátingarfrøðiligur"
+    ]
+  },
+  {
+    "emoji": "◾",
+    "tags": [
+      "fýrakantur",
+      "mátingarfrøðiligur",
+      "svartur miðalstórur fýrakantur"
+    ]
+  },
+  {
+    "emoji": "◽",
+    "tags": [
+      "fýrakantur",
+      "hvítur miðalstórur fýrakantur",
+      "mátingarfrøðiligur"
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "tags": [
+      "fýrakantur",
+      "lítil svartur fýrakantur",
+      "mátingarfrøðiligur"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "fýrakantur",
+      "lítil hvítur fýrakantur",
+      "mátingarfrøðiligur"
+    ]
+  },
+  {
+    "emoji": "🔶",
+    "tags": [
+      "diamantur",
+      "mátingarfrøðiligur",
+      "stórur appilsingulur diamantur"
+    ]
+  },
+  {
+    "emoji": "🔷",
+    "tags": [
+      "diamantur",
+      "mátingarfrøðiligur",
+      "stórur bláur diamantur"
+    ]
+  },
+  {
+    "emoji": "🔸",
+    "tags": [
+      "diamantur",
+      "lítil appilsingulur diamantur",
+      "mátingarfrøðiligur"
+    ]
+  },
+  {
+    "emoji": "🔹",
+    "tags": [
+      "diamantur",
+      "lítil bláur diamantur",
+      "mátingarfrøðiligur"
+    ]
+  },
+  {
+    "emoji": "🔺",
+    "tags": [
+      "mátingarfrøðiligur",
+      "reyður tríkantur sum peikar uppeftir",
+      "tríkantur"
+    ]
+  },
+  {
+    "emoji": "🔻",
+    "tags": [
+      "mátingarfrøðiligur",
+      "reyður tríkantur sum peikar niðureftir",
+      "tríkantur"
+    ]
+  },
+  {
+    "emoji": "💠",
+    "tags": [
+      "diamantur",
+      "krossaður diamantur",
+      "mátingarfrøðiligur"
+    ]
+  },
+  {
+    "emoji": "🔘",
+    "tags": [
+      "radioknappur",
+      "radioknøttur"
+    ]
+  },
+  {
+    "emoji": "🔳",
+    "tags": [
+      "fýrakantur",
+      "hvítur fýrakantaður karmur",
+      "karmur",
+      "mátingarfrøðiligur",
+      "rútur"
+    ]
+  },
+  {
+    "emoji": "🔲",
+    "tags": [
+      "fýrakantur",
+      "karmur",
+      "mátingarfrøðiligur",
+      "rútur",
+      "svartur fýrakantaður karmur"
+    ]
+  },
+  {
+    "emoji": "🏁",
+    "tags": [
+      "flagg",
+      "puntut",
+      "rútut"
+    ]
+  },
+  {
+    "emoji": "🚩",
+    "tags": [
+      "flagg",
+      "tríkanta"
+    ]
+  },
+  {
+    "emoji": "🎌",
+    "tags": [
+      "fløgg",
+      "japan",
+      "krossa fløgg"
+    ]
+  },
+  {
+    "emoji": "🏴",
+    "tags": [
+      "flagg",
+      "svart flagg"
+    ]
+  },
+  {
+    "emoji": "🏳️",
+    "tags": [
+      "flagg",
+      "hvítt flagg"
+    ]
+  },
+  {
+    "emoji": "🏳️‍🌈",
+    "tags": [
+      "ælaboga flagg",
+      "ælabogi",
+      "flagg"
+    ]
+  },
+  {
+    "emoji": "🏴‍☠️",
+    "tags": [
+      "Jolly Roger",
+      "rán",
+      "sjórænaraflagg",
+      "sjórænari",
+      "sjórán",
+      "skattur"
+    ]
+  }
+]

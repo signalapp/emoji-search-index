@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[signal-emoji.CustomTags]
+file_filter = .translations/<lang>.json
+source_file = .translations/en_US.json
+source_lang = en
+type = STRUCTURED_JSON

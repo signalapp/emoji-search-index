@@ -1,0 +1,654 @@
+[
+  {
+    "emoji": "😀",
+    "tags": [
+      "facie",
+      "surridente",
+      "surriso",
+      "visage",
+      "visage con grande surriso"
+    ]
+  },
+  {
+    "emoji": "😃",
+    "tags": [
+      "aperte",
+      "bucca",
+      "facie",
+      "grande surriso con grande oculos",
+      "surriso",
+      "visage"
+    ]
+  },
+  {
+    "emoji": "😄",
+    "tags": [
+      "aperte",
+      "facie",
+      "grande surriso con oculos surridente",
+      "oculos",
+      "surridente",
+      "visage"
+    ]
+  },
+  {
+    "emoji": "😁",
+    "tags": [
+      "facie",
+      "radiante",
+      "surridente",
+      "surriso",
+      "visage",
+      "visage radiante con oculos surridente"
+    ]
+  },
+  {
+    "emoji": "😆",
+    "tags": [
+      "facie",
+      "grande surriso con oculos clause",
+      "satisfacite",
+      "satisfaction",
+      "surridente",
+      "visage"
+    ]
+  },
+  {
+    "emoji": "😅",
+    "tags": [
+      "aperte",
+      "facie",
+      "frigide",
+      "grande surriso con gutta de sudor",
+      "sudor",
+      "visage"
+    ]
+  },
+  {
+    "emoji": "🤣",
+    "tags": [
+      "facie",
+      "lacrimas",
+      "ridente",
+      "riso",
+      "rolante se per terra de rider",
+      "visage"
+    ]
+  },
+  {
+    "emoji": "😂",
+    "tags": [
+      "facie",
+      "gaudio",
+      "joia",
+      "lacrimas",
+      "visage",
+      "visage plorante de riso"
+    ]
+  },
+  {
+    "emoji": "😉",
+    "tags": [
+      "batter",
+      "facie",
+      "palpebras",
+      "visage",
+      "visage que batte le palpebras"
+    ]
+  },
+  {
+    "emoji": "😊",
+    "tags": [
+      "facie",
+      "rubescer",
+      "rubor",
+      "surridente",
+      "surriso con oculos surridente",
+      "visage"
+    ]
+  },
+  {
+    "emoji": "😍",
+    "tags": [
+      "corde",
+      "facie",
+      "oculo",
+      "surridente",
+      "surriso con oculos in forma de corde",
+      "visage"
+    ]
+  },
+  {
+    "emoji": "😋",
+    "tags": [
+      "alimento",
+      "deliciose",
+      "facie",
+      "mangiar",
+      "visage",
+      "visage que sapora un bon repasto"
+    ]
+  },
+  {
+    "emoji": "😎",
+    "tags": [
+      "berillos",
+      "facie",
+      "sol",
+      "surriso",
+      "surriso con oculares de sol",
+      "visage"
+    ]
+  },
+  {
+    "emoji": "💪",
+    "tags": [
+      "biceps",
+      "biceps contrahite",
+      "biceps flectite",
+      "flexion",
+      "forte",
+      "musculo"
+    ]
+  },
+  {
+    "emoji": "🦾",
+    "tags": [
+      "accessibilitate",
+      "bracio mechanic",
+      "prothese",
+      "prothesis"
+    ]
+  },
+  {
+    "emoji": "🦿",
+    "tags": [
+      "accessibilitate",
+      "gamba mechanic",
+      "prothese",
+      "prothesis"
+    ]
+  },
+  {
+    "emoji": "🦵",
+    "tags": [
+      "colpo de pede",
+      "gamba",
+      "membro"
+    ]
+  },
+  {
+    "emoji": "🦶",
+    "tags": [
+      "colpo de pede",
+      "pede"
+    ]
+  },
+  {
+    "emoji": "👂",
+    "tags": [
+      "audientia",
+      "audita",
+      "audition",
+      "aural",
+      "aure",
+      "auricular",
+      "corpore"
+    ]
+  },
+  {
+    "emoji": "🦻",
+    "tags": [
+      "accessibilitate",
+      "aure con audiophono",
+      "debile de audito",
+      "dur de aure"
+    ]
+  },
+  {
+    "emoji": "👃",
+    "tags": [
+      "corpore",
+      "naso"
+    ]
+  },
+  {
+    "emoji": "🧠",
+    "tags": [
+      "cerebro",
+      "intelligente"
+    ]
+  },
+  {
+    "emoji": "🫀",
+    "tags": [
+      "battimento del corde",
+      "centro",
+      "corde",
+      "organo",
+      "pulsation",
+      "rhythmo cardiac",
+      "rhythmo del corde"
+    ]
+  },
+  {
+    "emoji": "🫁",
+    "tags": [
+      "exhalation",
+      "halito",
+      "inhalation",
+      "organo",
+      "pulmones",
+      "respiration",
+      "sufflo"
+    ]
+  },
+  {
+    "emoji": "🦷",
+    "tags": [
+      "dental",
+      "dentari",
+      "dente",
+      "dentista",
+      "odontologia",
+      "orthodontista"
+    ]
+  },
+  {
+    "emoji": "🦴",
+    "tags": [
+      "osso",
+      "osteologia",
+      "skeleto"
+    ]
+  },
+  {
+    "emoji": "👀",
+    "tags": [
+      "facie",
+      "ocular",
+      "oculo",
+      "oculos",
+      "ophthalmologia",
+      "vision",
+      "visual"
+    ]
+  },
+  {
+    "emoji": "👁️",
+    "tags": [
+      "corpore",
+      "ocular",
+      "oculo",
+      "ophthalmologia",
+      "vision",
+      "visual"
+    ]
+  },
+  {
+    "emoji": "👅",
+    "tags": [
+      "corpore",
+      "lingua",
+      "lingual"
+    ]
+  },
+  {
+    "emoji": "👄",
+    "tags": [
+      "bucca",
+      "labial",
+      "labios",
+      "oral",
+      "ore"
+    ]
+  },
+  {
+    "emoji": "🤵",
+    "tags": [
+      "fidantiato",
+      "homine",
+      "marito",
+      "persona in tuxedo",
+      "sponso",
+      "sposo",
+      "tuxedo"
+    ]
+  },
+  {
+    "emoji": "👰",
+    "tags": [
+      "femina",
+      "fidantiata",
+      "marita",
+      "persona con vela",
+      "sponsa",
+      "sposa",
+      "vela"
+    ]
+  },
+  {
+    "emoji": "🏧",
+    "tags": [
+      "automatic",
+      "banca",
+      "billetes",
+      "cassa",
+      "distributor",
+      "signo de cassa automatic"
+    ]
+  },
+  {
+    "emoji": "🚮",
+    "tags": [
+      "immunditias",
+      "jectar",
+      "receptaculo",
+      "recipiente",
+      "signo de receptaculo de immunditias"
+    ]
+  },
+  {
+    "emoji": "🚰",
+    "tags": [
+      "aqua",
+      "biber",
+      "bibibile",
+      "potabile"
+    ]
+  },
+  {
+    "emoji": "♿",
+    "tags": [
+      "accesso",
+      "rolante",
+      "rotas",
+      "sede",
+      "sedia",
+      "symbolo de sedia rolante"
+    ]
+  },
+  {
+    "emoji": "🚹",
+    "tags": [
+      "cabinetto",
+      "homine",
+      "lavatorio",
+      "lavatorio pro homines",
+      "toilette",
+      "wc"
+    ]
+  },
+  {
+    "emoji": "🚺",
+    "tags": [
+      "cabinetto",
+      "femina",
+      "lavatorio",
+      "lavatorio pro feminas",
+      "toilette",
+      "wc"
+    ]
+  },
+  {
+    "emoji": "🚻",
+    "tags": [
+      "cabinetto",
+      "lavatorio",
+      "toilette",
+      "toilettes",
+      "wc"
+    ]
+  },
+  {
+    "emoji": "🚼",
+    "tags": [
+      "baby",
+      "bebe",
+      "cambiar",
+      "fascia",
+      "neonato",
+      "symbolo de bebe"
+    ]
+  },
+  {
+    "emoji": "🚾",
+    "tags": [
+      "aqua",
+      "cabinetto",
+      "lavatorio",
+      "toilette",
+      "water-closet",
+      "wc"
+    ]
+  },
+  {
+    "emoji": "🛂",
+    "tags": [
+      "controlo",
+      "controlo de passaportos",
+      "passaporto"
+    ]
+  },
+  {
+    "emoji": "🛃",
+    "tags": [
+      "doana"
+    ]
+  },
+  {
+    "emoji": "🛄",
+    "tags": [
+      "bagage",
+      "collecta",
+      "collecta de bagage",
+      "reception",
+      "retiro"
+    ]
+  },
+  {
+    "emoji": "🛅",
+    "tags": [
+      "bagage",
+      "consigna",
+      "deposito",
+      "deposito de bagage"
+    ]
+  },
+  {
+    "emoji": "⚠️",
+    "tags": [
+      "advertimento",
+      "attention",
+      "aviso"
+    ]
+  },
+  {
+    "emoji": "🚸",
+    "tags": [
+      "infante",
+      "passage",
+      "pedones",
+      "traffico",
+      "transversata",
+      "transversata de infantes"
+    ]
+  },
+  {
+    "emoji": "⛔",
+    "tags": [
+      "direction unic",
+      "entrata prohibite",
+      "senso unic",
+      "traffico",
+      "unidirectional"
+    ]
+  },
+  {
+    "emoji": "🚫",
+    "tags": [
+      "entrata",
+      "no",
+      "non",
+      "prohibite",
+      "sin"
+    ]
+  },
+  {
+    "emoji": "🚳",
+    "tags": [
+      "bicycletta",
+      "bicyclettas prohibite",
+      "bicyclo",
+      "no",
+      "prohibite",
+      "sin"
+    ]
+  },
+  {
+    "emoji": "🚭",
+    "tags": [
+      "fumar",
+      "fumo",
+      "no",
+      "non",
+      "prohibite"
+    ]
+  },
+  {
+    "emoji": "🚯",
+    "tags": [
+      "immunditias",
+      "jectar",
+      "lassar cader",
+      "non abandonar immunditias",
+      "prohibite"
+    ]
+  },
+  {
+    "emoji": "🚱",
+    "tags": [
+      "aqua",
+      "aqua non potabile",
+      "non bibibile",
+      "non potabile"
+    ]
+  },
+  {
+    "emoji": "🚷",
+    "tags": [
+      "accesso",
+      "interdicite",
+      "pedon",
+      "pedones",
+      "prohibite",
+      "prohibite al pedones"
+    ]
+  },
+  {
+    "emoji": "📵",
+    "tags": [
+      "interdicite",
+      "mobile",
+      "portabile",
+      "prohibite",
+      "telephono",
+      "telephonos mobile prohibite"
+    ]
+  },
+  {
+    "emoji": "✖️",
+    "tags": [
+      "multiplication"
+    ]
+  },
+  {
+    "emoji": "➕",
+    "tags": [
+      "plus"
+    ]
+  },
+  {
+    "emoji": "➖",
+    "tags": [
+      "minus"
+    ]
+  },
+  {
+    "emoji": "➗",
+    "tags": [
+      "÷",
+      "divider",
+      "division",
+      "mathematica",
+      "signo"
+    ]
+  },
+  {
+    "emoji": "🏁",
+    "tags": [
+      "bandiera",
+      "bandiera a quadros",
+      "currer",
+      "cursa",
+      "quadrettos",
+      "quadros"
+    ]
+  },
+  {
+    "emoji": "🚩",
+    "tags": [
+      "bandiera triangular",
+      "palo"
+    ]
+  },
+  {
+    "emoji": "🎌",
+    "tags": [
+      "bandieras cruciate",
+      "celebration",
+      "cruce",
+      "cruciate",
+      "japonese"
+    ]
+  },
+  {
+    "emoji": "🏴",
+    "tags": [
+      "agitante",
+      "bandiera nigre",
+      "flottante",
+      "undulante"
+    ]
+  },
+  {
+    "emoji": "🏳️",
+    "tags": [
+      "agitante",
+      "bandiera blanc",
+      "flottante",
+      "undulante"
+    ]
+  },
+  {
+    "emoji": "🏳️‍🌈",
+    "tags": [
+      "arco del celo",
+      "bandiera iride",
+      "bandiera iris",
+      "iride",
+      "iris"
+    ]
+  },
+  {
+    "emoji": "🏴‍☠️",
+    "tags": [
+      "bandiera de pirata",
+      "cranio",
+      "ossos",
+      "piliage",
+      "pirata",
+      "tresor"
+    ]
+  }
+]
