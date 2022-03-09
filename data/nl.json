@@ -4,7 +4,10 @@
     "tags": [
       "gezicht",
       "grijns",
-      "grijnzend gezicht"
+      "grijnzend gezicht",
+      "lach",
+      "lachend",
+      "blij"
     ]
   },
   {
@@ -14,7 +17,9 @@
       "grijnzend gezicht met grote ogen",
       "lach",
       "mond",
-      "open"
+      "open",
+      "lachend",
+      "blij"
     ]
   },
   {
@@ -25,7 +30,8 @@
       "lach",
       "mond",
       "oog",
-      "open"
+      "open",
+      "lachend"
     ]
   },
   {
@@ -35,7 +41,9 @@
       "grijns",
       "lach",
       "oog",
-      "stralend gezicht met lachende ogen"
+      "stralend gezicht met lachende ogen",
+      "lachend",
+      "blij"
     ]
   },
   {
@@ -47,7 +55,10 @@
       "lach",
       "mond",
       "open",
-      "tevreden"
+      "tevreden",
+      "lachend",
+      "dichtgeknepen ogen",
+      "blij"
     ]
   },
   {
@@ -58,7 +69,10 @@
       "koud",
       "lach",
       "open",
-      "zweet"
+      "zweet",
+      "grijnzend gezicht met zweetdruppel",
+      "lachend",
+      "grappig"
     ]
   },
   {
@@ -68,7 +82,14 @@
       "gezicht dat op de grond rolt van het lachen",
       "grond",
       "lachen",
-      "rollen"
+      "rollen",
+      "rofl",
+      "lach",
+      "rollend",
+      "rolt lachend over de grond",
+      "rotfl",
+      "grappig",
+      "huilen"
     ]
   },
   {
@@ -78,7 +99,9 @@
       "gezicht met tranen van vreugde",
       "lach",
       "traan",
-      "vreugde"
+      "vreugde",
+      "grappig",
+      "huilen"
     ]
   },
   {
@@ -86,7 +109,9 @@
     "tags": [
       "enigszins lachend gezicht",
       "gezicht",
-      "glimlach"
+      "glimlach",
+      "lachend",
+      "lach"
     ]
   },
   {
@@ -95,7 +120,11 @@
       "gezicht",
       "omgekeerd gezicht",
       "ondersteboven",
-      "op de kop"
+      "op de kop",
+      "sarcasme",
+      "dom",
+      "sarcastisch",
+      "oh oh"
     ]
   },
   {
@@ -113,7 +142,8 @@
       "gezicht",
       "glimlach",
       "lachend gezicht met lachende ogen",
-      "oog"
+      "oog",
+      "lach"
     ]
   },
   {
@@ -144,7 +174,9 @@
       "glimlach",
       "lachend gezicht met hartvormige ogen",
       "liefde",
-      "oog"
+      "oog",
+      "lach",
+      "hartjes"
     ]
   },
   {
@@ -154,7 +186,8 @@
       "grijnzend",
       "ogen",
       "ster",
-      "sterren in de ogen"
+      "sterren in de ogen",
+      "onder de indruk"
     ]
   },
   {
@@ -162,7 +195,9 @@
     "tags": [
       "gezicht",
       "gezicht dat kus toeblaast",
-      "kus"
+      "kus",
+      "verleid",
+      "kus mer hart"
     ]
   },
   {
@@ -170,7 +205,8 @@
     "tags": [
       "gezicht",
       "kus",
-      "kussend gezicht"
+      "kussend gezicht",
+      "pruilmond"
     ]
   },
   {
@@ -190,7 +226,8 @@
       "gezicht",
       "kus",
       "kussend gezicht met gesloten ogen",
-      "oog"
+      "oog",
+      "zoenen"
     ]
   },
   {
@@ -200,7 +237,9 @@
       "glimlach",
       "kus",
       "kussend gezicht met lachende ogen",
-      "oog"
+      "oog",
+      "kussend gezicht met lachenden ogen",
+      "lach"
     ]
   },
   {
@@ -212,7 +251,8 @@
       "lachend gezicht met traan",
       "opgelucht",
       "traan",
-      "trots"
+      "trots",
+      "lachend"
     ]
   },
   {
@@ -224,7 +264,9 @@
       "jammie",
       "lachend gezicht dat lippen likt",
       "lekker",
-      "mmm"
+      "mmm",
+      "heerlijk",
+      "lach"
     ]
   },
   {
@@ -232,7 +274,8 @@
     "tags": [
       "gezicht",
       "gezicht met uitgestoken tong",
-      "tong"
+      "tong",
+      "gezicht met tong"
     ]
   },
   {
@@ -252,7 +295,9 @@
       "gek gezicht",
       "groot",
       "klein",
-      "oog"
+      "oog",
+      "gek",
+      "dom"
     ]
   },
   {
@@ -263,7 +308,8 @@
       "oog",
       "smaak",
       "tong",
-      "vreselijk"
+      "vreselijk",
+      "vies"
     ]
   },
   {
@@ -273,7 +319,8 @@
       "geldmond",
       "gezicht",
       "gezicht met geld in de mond",
-      "mond"
+      "mond",
+      "ogen"
     ]
   },
   {
@@ -282,14 +329,18 @@
       "blij gezicht met handen uitgestoken voor een knuffel",
       "gezicht",
       "knuffel",
-      "knuffelen"
+      "knuffelen",
+      "omhelzing",
+      "omhelzen"
     ]
   },
   {
     "emoji": "🤭",
     "tags": [
       "gezicht met hand over de mond",
-      "oeps"
+      "oeps",
+      "stil",
+      "sst"
     ]
   },
   {
@@ -297,7 +348,8 @@
     "tags": [
       "gezicht dat tot stilte maant",
       "sst",
-      "stil"
+      "stil",
+      "rustig"
     ]
   },
   {
@@ -314,7 +366,8 @@
       "gezicht",
       "gezicht met een rits als mond",
       "mond",
-      "rits"
+      "rits",
+      "sst"
     ]
   },
   {
@@ -322,7 +375,9 @@
     "tags": [
       "gezicht met opgeheven wenkbrauw",
       "sceptisch",
-      "wantrouwen"
+      "wantrouwen",
+      "gezicht met opgetrokken wenkbrauwen",
+      "onzeker"
     ]
   },
   {
@@ -330,7 +385,9 @@
     "tags": [
       "gezicht",
       "neutraal",
-      "uitgestreken"
+      "uitgestreken",
+      "neutraal gezicht",
+      "meh"
     ]
   },
   {
@@ -339,7 +396,9 @@
       "geen commentaar",
       "geen uitdrukking",
       "gezicht",
-      "uitdrukkingsloos"
+      "uitdrukkingsloos",
+      "uitdrukkingsloos gezicht",
+      "meh"
     ]
   },
   {
@@ -366,7 +425,8 @@
     "tags": [
       "gezicht",
       "gniffelen",
-      "gniffelend gezicht"
+      "gniffelend gezicht",
+      "gniffelend"
     ]
   },
   {
@@ -376,7 +436,8 @@
       "gezicht",
       "niet blij",
       "niet leuk",
-      "ongelukkig"
+      "ongelukkig",
+      "chagrijnig"
     ]
   },
   {
@@ -385,7 +446,8 @@
       "gezicht",
       "gezicht met rollende ogen",
       "ogen",
-      "rollen"
+      "rollen",
+      "rollende ogen"
     ]
   },
   {
@@ -393,7 +455,8 @@
     "tags": [
       "gezicht",
       "gezicht met grimas",
-      "grimas"
+      "grimas",
+      "mond vol tanden"
     ]
   },
   {
@@ -405,7 +468,12 @@
       "kreunen",
       "naar adem snakken",
       "opgelucht",
-      "uitademen"
+      "uitademen",
+      "kreun",
+      "blazen",
+      "opluchting",
+      "fluister",
+      "fluit"
     ]
   },
   {
@@ -414,7 +482,8 @@
       "gezicht",
       "liegen",
       "liegend gezicht",
-      "pinokkio"
+      "pinokkio",
+      "leugen"
     ]
   },
   {
@@ -429,7 +498,8 @@
     "tags": [
       "gezicht",
       "moedeloos",
-      "peinzend"
+      "peinzend",
+      "neerslachtig"
     ]
   },
   {
@@ -437,7 +507,8 @@
     "tags": [
       "gezicht",
       "slaap",
-      "slaperig gezicht"
+      "slaperig gezicht",
+      "snurk"
     ]
   },
   {
@@ -454,7 +525,8 @@
       "gezicht",
       "slaap",
       "slapend gezicht",
-      "zzz"
+      "zzz",
+      "moe"
     ]
   },
   {
@@ -466,7 +538,11 @@
       "koud",
       "masker",
       "medicijn",
-      "ziek"
+      "ziek",
+      "arts",
+      "gezicht met medisch mondmasker",
+      "mondkapje",
+      "misselijk"
     ]
   },
   {
@@ -476,7 +552,8 @@
       "gezicht met thermometer",
       "niet lekker",
       "thermometer",
-      "ziek"
+      "ziek",
+      "misselijk"
     ]
   },
   {
@@ -496,7 +573,9 @@
     "tags": [
       "gezicht",
       "misselijk",
-      "overgeven"
+      "overgeven",
+      "ziek",
+      "kots"
     ]
   },
   {
@@ -504,7 +583,11 @@
     "tags": [
       "braaksel",
       "brakend gezicht",
-      "ziek"
+      "ziek",
+      "kotsend gezicht",
+      "kotsen",
+      "kots",
+      "overgeven"
     ]
   },
   {
@@ -513,7 +596,8 @@
       "gezicht",
       "gezondheid",
       "niezen",
-      "niezend gezicht"
+      "niezend gezicht",
+      "ziek"
     ]
   },
   {
@@ -524,7 +608,8 @@
       "koortsig",
       "rood gezicht",
       "zonnesteek",
-      "zweten"
+      "zweten",
+      "koortsachtig"
     ]
   },
   {
@@ -535,7 +620,8 @@
       "ijspegels",
       "koud",
       "koud gezicht",
-      "vriezen"
+      "vriezen",
+      "bevries"
     ]
   },
   {
@@ -546,14 +632,18 @@
       "duizelig",
       "golvende mond",
       "oneven ogen",
-      "wazig gezicht"
+      "wazig gezicht",
+      "ongelijke ogen"
     ]
   },
   {
     "emoji": "😵",
     "tags": [
       "duizelig",
-      "gezicht"
+      "gezicht",
+      "dood",
+      "uitgeschakeld gezicht",
+      "knock-out"
     ]
   },
   {
@@ -564,14 +654,19 @@
       "gezicht met spiraalvormige ogen",
       "probleem",
       "spiraalvormig",
-      "wow"
+      "wow",
+      "gezicht met draaiende ogen",
+      "draaiende",
+      "problemen"
     ]
   },
   {
     "emoji": "🤯",
     "tags": [
       "geschokt",
-      "ontploffend hoofd"
+      "ontploffend hoofd",
+      "explosie",
+      "mind blown"
     ]
   },
   {
@@ -591,7 +686,9 @@
       "feestend gezicht",
       "hoedje",
       "roltong",
-      "viering"
+      "viering",
+      "hoed",
+      "toeter"
     ]
   },
   {
@@ -602,7 +699,8 @@
       "incognito",
       "neus",
       "vermomd gezicht",
-      "vermomming"
+      "vermomming",
+      "vermomd"
     ]
   },
   {
@@ -613,7 +711,10 @@
       "lachend gezicht met zonnebril",
       "zon",
       "zonnebril",
-      "zonnig"
+      "zonnig",
+      "helder",
+      "gaaf",
+      "lachend gezicht met zonnebril "
     ]
   },
   {
@@ -623,7 +724,9 @@
       "gezicht",
       "nerd",
       "nerderig",
-      "nerdgezicht"
+      "nerdgezicht",
+      "bril",
+      "slim"
     ]
   },
   {
@@ -637,14 +740,16 @@
     "emoji": "😕",
     "tags": [
       "gezicht",
-      "verward"
+      "verward",
+      "meh"
     ]
   },
   {
     "emoji": "😟",
     "tags": [
       "bezorgd",
-      "gezicht"
+      "gezicht",
+      "verdrietig"
     ]
   },
   {
@@ -653,7 +758,9 @@
       "frons",
       "fronsend",
       "gezicht",
-      "licht fronsend gezicht"
+      "licht fronsend gezicht",
+      "fronsen",
+      "verdrietig"
     ]
   },
   {
@@ -671,7 +778,8 @@
       "gezicht met open mond",
       "mond",
       "open",
-      "sympathie"
+      "sympathie",
+      "wow"
     ]
   },
   {
@@ -680,7 +788,9 @@
       "gezicht",
       "verbaasd",
       "verrast",
-      "verstomd"
+      "verstomd",
+      "verbaast",
+      "versteld"
     ]
   },
   {
@@ -690,7 +800,10 @@
       "geschokt",
       "gezicht",
       "totaal gechoqueerd",
-      "verbaasd gezicht"
+      "verbaasd gezicht",
+      "verbijsterd",
+      "totaal",
+      "wow"
     ]
   },
   {
@@ -698,7 +811,9 @@
     "tags": [
       "blozend",
       "gezicht",
-      "verbijsterd"
+      "verbijsterd",
+      "versuft",
+      "blozen"
     ]
   },
   {
@@ -707,7 +822,11 @@
       "genade",
       "smeken",
       "smekend gezicht",
-      "zielig gezicht"
+      "zielig gezicht",
+      "smekend",
+      "puppy ogen",
+      "smekende ogen",
+      "schattig"
     ]
   },
   {
@@ -717,7 +836,8 @@
       "fronsend gezicht met open mond",
       "gezicht",
       "mond",
-      "open"
+      "open",
+      "fronsen"
     ]
   },
   {
@@ -725,7 +845,8 @@
     "tags": [
       "gekweld gezicht",
       "gezicht",
-      "lijdend"
+      "lijdend",
+      "aangedaan"
     ]
   },
   {
@@ -745,7 +866,8 @@
       "gehaast",
       "gezicht",
       "koud",
-      "zweet"
+      "zweet",
+      "angstig gezicht met zweet"
     ]
   },
   {
@@ -755,7 +877,10 @@
       "oef",
       "opgelucht",
       "teleurgesteld",
-      "teleurgesteld maar opgelucht gezicht"
+      "teleurgesteld maar opgelucht gezicht",
+      "verdrietig maar opgelucht gezicht",
+      "verdrietig",
+      "pff"
     ]
   },
   {
@@ -765,7 +890,8 @@
       "gezicht",
       "huilen",
       "huilend gezicht",
-      "traan"
+      "traan",
+      "verdrietig"
     ]
   },
   {
@@ -776,7 +902,9 @@
       "hard huilend gezicht",
       "huilen",
       "snikken",
-      "traan"
+      "traan",
+      "verdrietig",
+      "tranen"
     ]
   },
   {
@@ -788,7 +916,9 @@
       "bang",
       "gezicht",
       "munch",
-      "schreeuw"
+      "schreeuw",
+      "gezicht schreeuwt uit angst",
+      "smakken"
     ]
   },
   {
@@ -802,7 +932,9 @@
     "emoji": "😣",
     "tags": [
       "gezicht",
-      "volhardend"
+      "volhardend",
+      "geschokt",
+      "geschokt gezicht"
     ]
   },
   {
@@ -810,7 +942,8 @@
     "tags": [
       "gezicht",
       "teleurgesteld gezicht",
-      "teleurstelling"
+      "teleurstelling",
+      "teleurgesteld"
     ]
   },
   {
@@ -827,7 +960,8 @@
     "tags": [
       "gezicht",
       "moe",
-      "vermoeid"
+      "vermoeid",
+      "wanhopig"
     ]
   },
   {
@@ -835,7 +969,8 @@
     "tags": [
       "gezicht",
       "moe",
-      "vermoeid"
+      "vermoeid",
+      "wanhopig"
     ]
   },
   {
@@ -844,7 +979,8 @@
       "gaap",
       "gapend gezicht",
       "vermoeid",
-      "verveeld"
+      "verveeld",
+      "moe"
     ]
   },
   {
@@ -853,7 +989,9 @@
       "gewonnen",
       "gezicht",
       "gezicht blazend van woede",
-      "triomf"
+      "triomf",
+      "gezicht met stoom uit de neus",
+      "boos"
     ]
   },
   {
@@ -864,7 +1002,9 @@
       "kwaad",
       "pruilend",
       "rood",
-      "woede"
+      "woede",
+      "kloppend",
+      "woest"
     ]
   },
   {
@@ -872,14 +1012,17 @@
     "tags": [
       "boos",
       "gezicht",
-      "kwaad"
+      "kwaad",
+      "boosheid"
     ]
   },
   {
     "emoji": "🤬",
     "tags": [
       "gezicht met symbolen op mond",
-      "vloeken"
+      "vloeken",
+      "gezicht met symbolen over de mond",
+      "schelden"
     ]
   },
   {
@@ -903,7 +1046,8 @@
       "fantasie",
       "gezicht",
       "kleine duivel",
-      "sprookje"
+      "sprookje",
+      "imp"
     ]
   },
   {
@@ -913,7 +1057,8 @@
       "gezicht",
       "monster",
       "schedel",
-      "sprookje"
+      "sprookje",
+      "grappig"
     ]
   },
   {
@@ -932,7 +1077,12 @@
     "tags": [
       "drol",
       "grappig",
-      "monster"
+      "monster",
+      "schijt",
+      "gezicht",
+      "hoop stront",
+      "stront",
+      "poep"
     ]
   },
   {
@@ -940,7 +1090,8 @@
     "tags": [
       "clown",
       "clownsgezicht",
-      "gezicht"
+      "gezicht",
+      "dom"
     ]
   },
   {
@@ -951,7 +1102,10 @@
       "gezicht",
       "monster",
       "sprookje",
-      "wezen"
+      "wezen",
+      "oger",
+      "duivel",
+      "demon"
     ]
   },
   {
@@ -962,7 +1116,10 @@
       "kobold",
       "monster",
       "sprookje",
-      "wezen"
+      "wezen",
+      "aardman",
+      "duivel",
+      "demon"
     ]
   },
   {
@@ -973,7 +1130,10 @@
       "monster",
       "spook",
       "sprookje",
-      "wezen"
+      "wezen",
+      "geest",
+      "boe",
+      "spookachtig"
     ]
   },
   {
@@ -985,7 +1145,8 @@
       "monster",
       "sprookje",
       "ufo",
-      "wezen"
+      "wezen",
+      "alien"
     ]
   },
   {
@@ -1016,7 +1177,8 @@
       "kat",
       "lach",
       "mond",
-      "open"
+      "open",
+      "grijnzend"
     ]
   },
   {
@@ -1060,7 +1222,9 @@
       "ironisch",
       "kat",
       "lach",
-      "spottend"
+      "spottend",
+      "kat met wrang gezicht",
+      "wrang"
     ]
   },
   {
@@ -1081,7 +1245,8 @@
       "oh nee",
       "vermoeid",
       "vermoeide kat",
-      "verrast"
+      "verrast",
+      "oh"
     ]
   },
   {
@@ -1101,7 +1266,8 @@
       "gezicht",
       "kat",
       "pruilen",
-      "pruilende kat"
+      "pruilende kat",
+      "pruilend"
     ]
   },
   {
@@ -1112,7 +1278,8 @@
       "gezicht",
       "kwaad",
       "verboden",
-      "zie"
+      "zie",
+      "kwaadaardig"
     ]
   },
   {
@@ -1123,7 +1290,9 @@
       "gezicht",
       "horen",
       "kwaad",
-      "verboden"
+      "verboden",
+      "kwaadaardig",
+      "hoor"
     ]
   },
   {
@@ -1134,7 +1303,9 @@
       "gezicht",
       "kwaad",
       "spreken",
-      "verboden"
+      "verboden",
+      "kwaadaardig",
+      "spreek"
     ]
   },
   {
@@ -1142,7 +1313,8 @@
     "tags": [
       "kus",
       "lipafdruk",
-      "lippen"
+      "lippen",
+      "kus-afdruk"
     ]
   },
   {
@@ -1168,7 +1340,9 @@
     "tags": [
       "hart met strik",
       "strik",
-      "valentijn"
+      "valentijn",
+      "hart met lint",
+      "lint"
     ]
   },
   {
@@ -1176,7 +1350,8 @@
     "tags": [
       "fonkelend",
       "fonkelend hart",
-      "spannend"
+      "spannend",
+      "verheugd"
     ]
   },
   {
@@ -1186,7 +1361,9 @@
       "groeiend hart",
       "hartslag",
       "nerveus",
-      "spannend"
+      "spannend",
+      "verheugd",
+      "pompend"
     ]
   },
   {
@@ -1195,7 +1372,9 @@
       "hartslag",
       "kloppen",
       "kloppend hart",
-      "slaan"
+      "slaan",
+      "kloppend",
+      "pulserend"
     ]
   },
   {
@@ -1203,7 +1382,8 @@
     "tags": [
       "draaien",
       "hart",
-      "ronddraaiende harten"
+      "ronddraaiende harten",
+      "draaiend"
     ]
   },
   {
@@ -1217,7 +1397,8 @@
     "emoji": "💟",
     "tags": [
       "decoratief hart",
-      "hart"
+      "hart",
+      "hartversiering"
     ]
   },
   {
@@ -1234,7 +1415,8 @@
     "tags": [
       "breken",
       "gebroken",
-      "gebroken hart"
+      "gebroken hart",
+      "breek"
     ]
   },
   {
@@ -1245,7 +1427,9 @@
       "hart in vuur en vlam",
       "heilig hart",
       "liefde",
-      "lust"
+      "lust",
+      "brand",
+      "brandend hart"
     ]
   },
   {
@@ -1257,7 +1441,10 @@
       "helend hart",
       "herstellen",
       "herstellend",
-      "verbeterend"
+      "verbeterend",
+      "beter worden",
+      "herstellend hart",
+      "beterend"
     ]
   },
   {
@@ -1315,7 +1502,8 @@
       "slecht",
       "verdorven",
       "zwart",
-      "zwart hart"
+      "zwart hart",
+      "kwaadaardig"
     ]
   },
   {
@@ -1331,7 +1519,11 @@
       "100",
       "100 punten",
       "maximumscore",
-      "score"
+      "score",
+      "volledig",
+      "honderd punten",
+      "honderd",
+      "stand"
     ]
   },
   {
@@ -1340,7 +1532,8 @@
       "boos",
       "kwaad",
       "strip",
-      "woedesymbool"
+      "woedesymbool",
+      "boos symbool"
     ]
   },
   {
@@ -1365,7 +1558,8 @@
       "druppels",
       "strip",
       "zweet",
-      "zweetdruppels"
+      "zweetdruppels",
+      "spetterend"
     ]
   },
   {
@@ -1373,7 +1567,9 @@
     "tags": [
       "rennen",
       "strip",
-      "wegrennen"
+      "wegrennen",
+      "sprint",
+      "sprinten"
     ]
   },
   {
@@ -1397,7 +1593,8 @@
       "spraak",
       "spraakballon",
       "strip",
-      "tekstballon"
+      "tekstballon",
+      "bubbel"
     ]
   },
   {
@@ -1415,7 +1612,10 @@
       "boze spraakballon naar rechts",
       "kwaad",
       "woede",
-      "woedeballon"
+      "woedeballon",
+      "boos",
+      "bubbel",
+      "gevaar"
     ]
   },
   {
@@ -1425,7 +1625,9 @@
       "denkwolkje",
       "gedachteballon",
       "gedachten",
-      "strip"
+      "strip",
+      "bubbel",
+      "gedachte"
     ]
   },
   {
@@ -1433,7 +1635,9 @@
     "tags": [
       "slaapsymbool",
       "slapen",
-      "strip"
+      "strip",
+      "slaap",
+      "zzz"
     ]
   },
   {
@@ -1442,7 +1646,8 @@
       "hand",
       "zwaai",
       "zwaaien",
-      "zwaaiende hand"
+      "zwaaiende hand",
+      "zwaaiend"
     ]
   },
   {
@@ -1451,7 +1656,9 @@
       "achterkant van opgeheven hand",
       "hand",
       "handrug",
-      "opgestoken"
+      "opgestoken",
+      "achterhands",
+      "opgestoken hand van achter"
     ]
   },
   {
@@ -1460,14 +1667,18 @@
       "gespreid",
       "hand",
       "opgeheven hand met uitgestoken vingers",
-      "vinger"
+      "vinger",
+      "hand met gespreide vingers"
     ]
   },
   {
     "emoji": "✋",
     "tags": [
       "hand",
-      "opgeheven hand"
+      "opgeheven hand",
+      "high 5",
+      "opgestoken hand",
+      "high five"
     ]
   },
   {
@@ -1477,7 +1688,8 @@
       "spock",
       "vinger",
       "Vulcaanse groet",
-      "vulcan"
+      "vulcan",
+      "vulcan groet"
     ]
   },
   {
@@ -1485,7 +1697,8 @@
     "tags": [
       "hand",
       "OK",
-      "OK-handgebaar"
+      "OK-handgebaar",
+      "ok"
     ]
   },
   {
@@ -1495,14 +1708,18 @@
       "ondervraging",
       "samengeknepen",
       "sarcastisch",
-      "vingers"
+      "vingers",
+      "verhoor"
     ]
   },
   {
     "emoji": "🤏",
     "tags": [
       "gebaar voor kleine hoeveelheid",
-      "hand met samengeknepen vingers"
+      "hand met samengeknepen vingers",
+      "knijpende hand",
+      "snufje",
+      "klein"
     ]
   },
   {
@@ -1511,7 +1728,8 @@
       "hand",
       "v",
       "vredesteken",
-      "winnende hand"
+      "winnende hand",
+      "succes"
     ]
   },
   {
@@ -1529,7 +1747,9 @@
     "tags": [
       "hand",
       "ik-hou-van-je-gebaar",
-      "ILY"
+      "ILY",
+      "love you",
+      "ik houd van je gebaar"
     ]
   },
   {
@@ -1539,7 +1759,10 @@
       "hand",
       "hoorns",
       "rock on",
-      "vinger"
+      "vinger",
+      "rock",
+      "hoorns-gebaar",
+      "metal"
     ]
   },
   {
@@ -1547,7 +1770,11 @@
     "tags": [
       "bel me-gebaar",
       "bellen",
-      "hand"
+      "hand",
+      "bel me-hand",
+      "maar net gebaar",
+      "ga zo door",
+      "bedankt"
     ]
   },
   {
@@ -1559,7 +1786,9 @@
       "hand",
       "vinger",
       "wijsvinger",
-      "wijzen"
+      "wijzen",
+      "achterhands",
+      "achterhandse wijsvinger naar links"
     ]
   },
   {
@@ -1571,7 +1800,9 @@
       "hand",
       "vinger",
       "wijsvinger",
-      "wijzen"
+      "wijzen",
+      "achterhands",
+      "achterhandse wijsvinger naar rechts"
     ]
   },
   {
@@ -1583,7 +1814,9 @@
       "omhoog",
       "vinger",
       "wijsvinger",
-      "wijzen"
+      "wijzen",
+      "achterhands",
+      "achterhandse wijsvinger omhoog"
     ]
   },
   {
@@ -1603,7 +1836,10 @@
       "omlaag",
       "vinger",
       "wijsvinger",
-      "wijzen"
+      "wijzen",
+      "achterhands",
+      "achterhandse wijsvinger naar beneden",
+      "naar beneden"
     ]
   },
   {
@@ -1614,7 +1850,8 @@
       "omhoog wijzende wijsvinger",
       "vinger",
       "wijsvinger",
-      "wijzen"
+      "wijzen",
+      "wijsvinger omhoog"
     ]
   },
   {
@@ -1623,7 +1860,8 @@
       "+1",
       "duim",
       "hand",
-      "omhoog"
+      "omhoog",
+      "duim omhoog"
     ]
   },
   {
@@ -1633,7 +1871,8 @@
       "duim",
       "hand",
       "lichaam",
-      "omlaag"
+      "omlaag",
+      "duim omlaag"
     ]
   },
   {
@@ -1643,7 +1882,10 @@
       "hand",
       "opgeheven vuist",
       "stoot",
-      "vuist"
+      "vuist",
+      "gebalde",
+      "slaan",
+      "opgestoken vuist"
     ]
   },
   {
@@ -1653,7 +1895,9 @@
       "hand",
       "stoot",
       "stotende vuist",
-      "vuist"
+      "vuist",
+      "vuistslag",
+      "slaan"
     ]
   },
   {
@@ -1661,7 +1905,9 @@
     "tags": [
       "linksom",
       "naar links gerichte vuist",
-      "vuist"
+      "vuist",
+      "stoot",
+      "links"
     ]
   },
   {
@@ -1669,7 +1915,9 @@
     "tags": [
       "naar rechts gerichte vuist",
       "rechtsom",
-      "vuist"
+      "vuist",
+      "stoot",
+      "rechts"
     ]
   },
   {
@@ -1688,7 +1936,9 @@
       "hoera",
       "juichend omhooggestoken handen",
       "omhoog",
-      "viering"
+      "viering",
+      "opgestoken",
+      "handen omhoog"
     ]
   },
   {
@@ -1696,14 +1946,16 @@
     "tags": [
       "hand",
       "open",
-      "open handen"
+      "open handen",
+      "gespreide handen"
     ]
   },
   {
     "emoji": "🤲",
     "tags": [
       "beide handpalmen omhoog",
-      "gebed"
+      "gebed",
+      "handen omhoog"
     ]
   },
   {
@@ -1713,7 +1965,10 @@
       "hand",
       "handdruk",
       "ontmoeting",
-      "overeenkomst"
+      "overeenkomst",
+      "eens",
+      "handen schudden",
+      "schudden"
     ]
   },
   {
@@ -1724,7 +1979,12 @@
       "bidden",
       "gevouwen handen",
       "hand",
-      "vragen"
+      "vragen",
+      "vraag",
+      "handen tegen elkaar",
+      "high 5",
+      "high five",
+      "dankjewel"
     ]
   },
   {
@@ -1761,7 +2021,10 @@
       "spannen",
       "spier",
       "spierballen",
-      "strip"
+      "strip",
+      "gebalde armspier",
+      "gespannen",
+      "sterk"
     ]
   },
   {
@@ -1769,7 +2032,10 @@
     "tags": [
       "armprothese",
       "prothese",
-      "toegankelijkheid"
+      "toegankelijkheid",
+      "mechanische arm",
+      "metaal",
+      "sterk"
     ]
   },
   {
@@ -1777,7 +2043,9 @@
     "tags": [
       "beenprothese",
       "prothese",
-      "toegankelijkheid"
+      "toegankelijkheid",
+      "mechanisch been",
+      "metaal"
     ]
   },
   {
@@ -1785,7 +2053,8 @@
     "tags": [
       "been",
       "ledemaat",
-      "schoppen"
+      "schoppen",
+      "schop"
     ]
   },
   {
@@ -1793,7 +2062,8 @@
     "tags": [
       "schoppen",
       "stampen",
-      "voet"
+      "voet",
+      "schop"
     ]
   },
   {
@@ -1832,7 +2102,8 @@
       "cardiologie",
       "hart",
       "orgaan",
-      "polsslag"
+      "polsslag",
+      "pompend"
     ]
   },
   {
@@ -1843,14 +2114,17 @@
       "inademen",
       "longen",
       "orgaan",
-      "uitademen"
+      "uitademen",
+      "inhaleren",
+      "inhalering"
     ]
   },
   {
     "emoji": "🦷",
     "tags": [
       "tand",
-      "tandarts"
+      "tandarts",
+      "and"
     ]
   },
   {
@@ -1865,14 +2139,17 @@
     "tags": [
       "gezicht",
       "ogen",
-      "oog"
+      "oog",
+      "kijken",
+      "staren"
     ]
   },
   {
     "emoji": "👁️",
     "tags": [
       "lichaam",
-      "oog"
+      "oog",
+      "staren"
     ]
   },
   {
@@ -1901,7 +2178,9 @@
     "tags": [
       "genderneutraal",
       "jong",
-      "kind"
+      "kind",
+      "gender-neutraal",
+      "ongedefinieerd geslacht"
     ]
   },
   {
@@ -1917,14 +2196,20 @@
       "jong",
       "maagd",
       "meisje",
-      "sterrenbeeld"
+      "sterrenbeeld",
+      "eisje",
+      "Maagd",
+      "dierenriem"
     ]
   },
   {
     "emoji": "🧑",
     "tags": [
       "genderneutraal",
-      "volwassene"
+      "volwassene",
+      "volwassen",
+      "ongedefinieerd geslacht",
+      "persoon"
     ]
   },
   {
@@ -1932,13 +2217,16 @@
     "tags": [
       "blond",
       "haar",
-      "persoon met blond haar"
+      "persoon met blond haar",
+      "blond-harig persoon",
+      "persoon: blond haar"
     ]
   },
   {
     "emoji": "👨",
     "tags": [
-      "man"
+      "man",
+      "volwassen"
     ]
   },
   {
@@ -1963,13 +2251,16 @@
       "blond",
       "haar",
       "man",
-      "man met blond haar"
+      "man met blond haar",
+      "blond-harige man",
+      "man: blond haar"
     ]
   },
   {
     "emoji": "👩",
     "tags": [
-      "vrouw"
+      "vrouw",
+      "volwassen"
     ]
   },
   {
@@ -1986,7 +2277,10 @@
       "blond",
       "haar",
       "vrouw",
-      "vrouw met blond haar"
+      "vrouw met blond haar",
+      "blod-harige vrouw",
+      "blondine",
+      "vrouw: blond haar"
     ]
   },
   {
@@ -1997,7 +2291,10 @@
       "oud",
       "ouder persoon",
       "oudere persoon",
-      "volwassene"
+      "volwassene",
+      "volwassen",
+      "gender-neutraal",
+      "ongedefinieerd geslacht"
     ]
   },
   {
@@ -2006,7 +2303,8 @@
       "man",
       "oud",
       "oude man",
-      "ouder"
+      "ouder",
+      "volwassen"
     ]
   },
   {
@@ -2015,7 +2313,8 @@
       "oud",
       "oude vrouw",
       "ouder",
-      "vrouw"
+      "vrouw",
+      "volwassen"
     ]
   },
   {
@@ -2023,7 +2322,9 @@
     "tags": [
       "frons",
       "fronsend persoon",
-      "uitdrukking"
+      "uitdrukking",
+      "gebaar",
+      "man"
     ]
   },
   {
@@ -2032,7 +2333,9 @@
       "frons",
       "fronsende man",
       "man",
-      "uitdrukking"
+      "uitdrukking",
+      "fronsen",
+      "gebaar"
     ]
   },
   {
@@ -2041,7 +2344,9 @@
       "frons",
       "fronsende vrouw",
       "uitdrukking",
-      "vrouw"
+      "vrouw",
+      "fronsen",
+      "gebaar"
     ]
   },
   {
@@ -2049,7 +2354,8 @@
     "tags": [
       "pruilen",
       "pruilend persoon",
-      "uitdrukking"
+      "uitdrukking",
+      "gebaar"
     ]
   },
   {
@@ -2058,7 +2364,8 @@
       "man",
       "pruilen",
       "pruilende man",
-      "uitdrukking"
+      "uitdrukking",
+      "gebaar"
     ]
   },
   {
@@ -2067,7 +2374,9 @@
       "pruilen",
       "pruilende vrouw",
       "uitdrukking",
-      "vrouw"
+      "vrouw",
+      "gebaar",
+      "pruilend"
     ]
   },
   {
@@ -2077,7 +2386,9 @@
       "hand",
       "illegaal",
       "persoon die nee-gebaar maakt",
-      "verboden"
+      "verboden",
+      "niet toegestaan",
+      "X"
     ]
   },
   {
@@ -2088,7 +2399,9 @@
       "man",
       "man die nee-gebaar maakt",
       "nee",
-      "verboden"
+      "verboden",
+      "niet toegestaan",
+      "X"
     ]
   },
   {
@@ -2099,7 +2412,9 @@
       "illegaal",
       "verboden",
       "vrouw",
-      "vrouw die nee-gebaar maakt"
+      "vrouw die nee-gebaar maakt",
+      "niet toegestaan",
+      "X"
     ]
   },
   {
@@ -2139,7 +2454,10 @@
       "hulp",
       "informatie",
       "knikken",
-      "persoon achter informatiebalie"
+      "persoon achter informatiebalie",
+      "help",
+      "persoon die een onthullend handgebaar maakt",
+      "onthullen"
     ]
   },
   {
@@ -2148,7 +2466,9 @@
       "brutaal",
       "man",
       "man achter informatiebalie",
-      "pols knikken"
+      "pols knikken",
+      "man die een onthullend handgebaar maakt",
+      "onthullend handgebaar"
     ]
   },
   {
@@ -2157,7 +2477,9 @@
       "brutaal",
       "pols knikken",
       "vrouw",
-      "vrouw achter informatiebalie"
+      "vrouw achter informatiebalie",
+      "onthullend handgebaar",
+      "vrouw die een onthullend handgebaar maakt"
     ]
   },
   {
@@ -2167,7 +2489,9 @@
       "gebaar",
       "hand",
       "omhoog",
-      "persoon met opgeheven hand"
+      "persoon met opgeheven hand",
+      "persoon die hand opsteekt",
+      "opgestoken"
     ]
   },
   {
@@ -2176,7 +2500,8 @@
       "gebaar",
       "hand opsteken",
       "man",
-      "man met opgeheven hand"
+      "man met opgeheven hand",
+      "man die hand opsteekt"
     ]
   },
   {
@@ -2185,7 +2510,8 @@
       "gebaar",
       "hand opsteken",
       "vrouw",
-      "vrouw met opgeheven hand"
+      "vrouw met opgeheven hand",
+      "vrouw die hand opsteekt"
     ]
   },
   {
@@ -2195,7 +2521,8 @@
       "doof persoon",
       "horen",
       "oor",
-      "toegankelijkheid"
+      "toegankelijkheid",
+      "hoor"
     ]
   },
   {
@@ -2203,7 +2530,9 @@
     "tags": [
       "doof",
       "dove man",
-      "man"
+      "man",
+      "oor",
+      "hoor"
     ]
   },
   {
@@ -2211,7 +2540,9 @@
     "tags": [
       "doof",
       "dove vrouw",
-      "vrouw"
+      "vrouw",
+      "oor",
+      "horen"
     ]
   },
   {
@@ -2221,7 +2552,8 @@
       "buiging",
       "excuses",
       "gebaar",
-      "sorry"
+      "sorry",
+      "persoon buigt"
     ]
   },
   {
@@ -2233,7 +2565,8 @@
       "gebaar",
       "gunst",
       "man",
-      "sorry"
+      "sorry",
+      "dienst"
     ]
   },
   {
@@ -2245,7 +2578,8 @@
       "gebaar",
       "gunst",
       "sorry",
-      "vrouw"
+      "vrouw",
+      "dienst"
     ]
   },
   {
@@ -2255,7 +2589,8 @@
       "gezicht",
       "ongeloof",
       "palm",
-      "persoon die het gezicht met de hand bedekt"
+      "persoon die het gezicht met de hand bedekt",
+      "persoon die gezicht met hand bedekt"
     ]
   },
   {
@@ -2265,7 +2600,8 @@
       "facepalm",
       "man",
       "man die het gezicht met de hand bedekt",
-      "ongeloof"
+      "ongeloof",
+      "man die gezicht met hand bedekt"
     ]
   },
   {
@@ -2275,7 +2611,8 @@
       "facepalm",
       "ongeloof",
       "vrouw",
-      "vrouw die het gezicht met de hand bedekt"
+      "vrouw die het gezicht met de hand bedekt",
+      "vrouw die gezicht met hand bedekt"
     ]
   },
   {
@@ -2285,7 +2622,12 @@
       "onwetendheid",
       "persoon die schouders ophaalt",
       "schouderophalen",
-      "twijfel"
+      "twijfel",
+      "onzeker",
+      "onwetend",
+      "persoon haalt schouders op",
+      "onverschillig",
+      "schouders ophalen"
     ]
   },
   {
@@ -2296,7 +2638,14 @@
       "onverschilligheid",
       "onwetendheid",
       "schouderophalen",
-      "twijfel"
+      "twijfel",
+      "onzeker",
+      "onwetend",
+      "onverschillig",
+      "man haalt schouders op",
+      "schouders ophalen",
+      "idk",
+      "weet het niet"
     ]
   },
   {
@@ -2307,7 +2656,14 @@
       "schouderophalen",
       "twijfel",
       "vrouw",
-      "vrouw die schouders ophaalt"
+      "vrouw die schouders ophaalt",
+      "onzeker",
+      "onwetend",
+      "schouders ophalen",
+      "onverschillig",
+      "vrouw haalt schouders op",
+      "idk",
+      "weet niet"
     ]
   },
   {
@@ -2317,7 +2673,9 @@
       "gezondheidsmedewerker",
       "gezondheidszorg",
       "therapeut",
-      "verpleegster"
+      "verpleegster",
+      "arts",
+      "zorgmedewerker"
     ]
   },
   {
@@ -2328,7 +2686,10 @@
       "man",
       "mannelijke gezondheidsmedewerker",
       "therapeut",
-      "verpleger"
+      "verpleger",
+      "arts",
+      "mannelijke zorgmedewerker",
+      "verpleegkundige"
     ]
   },
   {
@@ -2339,14 +2700,19 @@
       "gezondheidszorg",
       "therapeute",
       "verpleegster",
-      "vrouw"
+      "vrouw",
+      "arts",
+      "therapeut",
+      "verpleegkundige",
+      "vrouwelijke zorgmedewerker"
     ]
   },
   {
     "emoji": "🧑‍🎓",
     "tags": [
       "scholier",
-      "student"
+      "student",
+      "afstuderen"
     ]
   },
   {
@@ -2355,7 +2721,8 @@
       "man",
       "mannelijke student",
       "scholier",
-      "student"
+      "student",
+      "afstuderen"
     ]
   },
   {
@@ -2363,7 +2730,9 @@
     "tags": [
       "scholiere",
       "studente",
-      "vrouw"
+      "vrouw",
+      "afstuderen",
+      "student"
     ]
   },
   {
@@ -2371,7 +2740,8 @@
     "tags": [
       "docent",
       "leraar",
-      "professor"
+      "professor",
+      "instructeur"
     ]
   },
   {
@@ -2381,7 +2751,9 @@
       "leraar",
       "mannelijke docent",
       "meester",
-      "professor"
+      "professor",
+      "instructeur",
+      "man"
     ]
   },
   {
@@ -2390,14 +2762,20 @@
       "docente",
       "juf",
       "lerares",
-      "professor"
+      "professor",
+      "instructeur",
+      "vrouw",
+      "leraar"
     ]
   },
   {
     "emoji": "🧑‍⚖️",
     "tags": [
       "rechter",
-      "weegschaal"
+      "weegschaal",
+      "gerechtigheid",
+      "rechten",
+      "rechtbank"
     ]
   },
   {
@@ -2405,7 +2783,11 @@
     "tags": [
       "man",
       "mannelijke rechter",
-      "rechter"
+      "rechter",
+      "gerechtigheid",
+      "weegschaal",
+      "wet",
+      "rechtbank"
     ]
   },
   {
@@ -2413,7 +2795,11 @@
     "tags": [
       "rechter",
       "vrouw",
-      "vrouwelijke rechter"
+      "vrouwelijke rechter",
+      "gerechtigheid",
+      "balans",
+      "wet",
+      "rechtbank"
     ]
   },
   {
@@ -2440,7 +2826,8 @@
       "boerin",
       "tuinder",
       "veehouder",
-      "vrouw"
+      "vrouw",
+      "boer"
     ]
   },
   {
@@ -2464,7 +2851,8 @@
     "tags": [
       "chef-kok",
       "kokkin",
-      "vrouw"
+      "vrouw",
+      "kok"
     ]
   },
   {
@@ -2473,7 +2861,8 @@
       "elektricien",
       "handelsman",
       "loodgieter",
-      "monteur"
+      "monteur",
+      "handelaar"
     ]
   },
   {
@@ -2484,7 +2873,8 @@
       "loodgieter",
       "man",
       "mannelijke monteur",
-      "monteur"
+      "monteur",
+      "handelaar"
     ]
   },
   {
@@ -2494,7 +2884,9 @@
       "handelsvrouw",
       "loodgieter",
       "monteuse",
-      "vrouw"
+      "vrouw",
+      "monteur",
+      "handelaar"
     ]
   },
   {
@@ -2515,7 +2907,8 @@
       "industrieel",
       "lopende band",
       "man",
-      "mannelijke fabrieksarbeider"
+      "mannelijke fabrieksarbeider",
+      "medewerker"
     ]
   },
   {
@@ -2526,7 +2919,8 @@
       "fabrieksarbeidster",
       "industrieel",
       "lopende band",
-      "vrouw"
+      "vrouw",
+      "medewerker"
     ]
   },
   {
@@ -2535,7 +2929,9 @@
       "architect",
       "bedrijf",
       "kantoormedewerker",
-      "manager"
+      "manager",
+      "zaken",
+      "administratief medewerker"
     ]
   },
   {
@@ -2547,7 +2943,8 @@
       "kantoormedewerker",
       "man",
       "manager",
-      "mannelijke kantoormedewerker"
+      "mannelijke kantoormedewerker",
+      "business"
     ]
   },
   {
@@ -2558,7 +2955,10 @@
       "kantoor",
       "kantoormedewerkster",
       "manager",
-      "vrouw"
+      "vrouw",
+      "architect",
+      "kantoormedewerker",
+      "vrouwelijke kantoormedewerker"
     ]
   },
   {
@@ -2568,7 +2968,8 @@
       "ingenieur",
       "natuurkundige",
       "scheikundige",
-      "wetenschapper"
+      "wetenschapper",
+      "chemicus"
     ]
   },
   {
@@ -2580,7 +2981,8 @@
       "mannelijke wetenschapper",
       "natuurkundige",
       "scheikundige",
-      "wetenschapper"
+      "wetenschapper",
+      "chemicus"
     ]
   },
   {
@@ -2591,7 +2993,10 @@
       "natuurkundige",
       "scheikundige",
       "vrouw",
-      "wetenschapster"
+      "wetenschapster",
+      "bioloog",
+      "chemicus",
+      "wetenschapper"
     ]
   },
   {
@@ -2601,7 +3006,8 @@
       "programmeur",
       "techneut",
       "technoloog",
-      "uitvinder"
+      "uitvinder",
+      "software"
     ]
   },
   {
@@ -2612,7 +3018,9 @@
       "ontwikkelaar",
       "programmeur",
       "techneut",
-      "technoloog"
+      "technoloog",
+      "uitvinder",
+      "software"
     ]
   },
   {
@@ -2622,7 +3030,9 @@
       "programmeur",
       "techneut",
       "technologe",
-      "vrouw"
+      "vrouw",
+      "software",
+      "uitvinder"
     ]
   },
   {
@@ -2644,7 +3054,8 @@
       "mannelijke zanger",
       "rock",
       "ster",
-      "zanger"
+      "zanger",
+      "zonger"
     ]
   },
   {
@@ -2655,7 +3066,9 @@
       "rock",
       "ster",
       "vrouw",
-      "zangeres"
+      "zangeres",
+      "acteur",
+      "zonger"
     ]
   },
   {
@@ -2679,7 +3092,8 @@
     "tags": [
       "kunstenares",
       "palet",
-      "vrouw"
+      "vrouw",
+      "kunstenaar"
     ]
   },
   {
@@ -2703,7 +3117,8 @@
     "tags": [
       "pilote",
       "vliegtuig",
-      "vrouw"
+      "vrouw",
+      "piloot"
     ]
   },
   {
@@ -2727,14 +3142,17 @@
     "tags": [
       "astronaute",
       "raket",
-      "vrouw"
+      "vrouw",
+      "astronaut"
     ]
   },
   {
     "emoji": "🧑‍🚒",
     "tags": [
       "brandweerman",
-      "brandweerwagen"
+      "brandweerwagen",
+      "brandweer",
+      "brandweerauto"
     ]
   },
   {
@@ -2743,7 +3161,8 @@
       "brandweerman",
       "brandweerwagen",
       "man",
-      "mannelijke brandweerman"
+      "mannelijke brandweerman",
+      "brandweerauto"
     ]
   },
   {
@@ -2751,7 +3170,9 @@
     "tags": [
       "brandweervrouw",
       "brandweerwagen",
-      "vrouw"
+      "vrouw",
+      "brandweerman",
+      "brandweer"
     ]
   },
   {
@@ -2759,7 +3180,8 @@
     "tags": [
       "agent",
       "politie",
-      "politieagent"
+      "politieagent",
+      "officier"
     ]
   },
   {
@@ -2768,7 +3190,8 @@
       "agent",
       "man",
       "politie",
-      "politieman"
+      "politieman",
+      "officier"
     ]
   },
   {
@@ -2777,7 +3200,8 @@
       "agent",
       "politie",
       "politievrouw",
-      "vrouw"
+      "vrouw",
+      "officier"
     ]
   },
   {
@@ -2825,7 +3249,8 @@
       "bouw",
       "bouwvakker",
       "helm",
-      "klusser"
+      "klusser",
+      "hoofddeksel"
     ]
   },
   {
@@ -2849,7 +3274,9 @@
   {
     "emoji": "🤴",
     "tags": [
-      "prins"
+      "prins",
+      "koning",
+      "royal"
     ]
   },
   {
@@ -2857,14 +3284,17 @@
     "tags": [
       "fantasie",
       "prinses",
-      "sprookje"
+      "sprookje",
+      "koningin",
+      "royal"
     ]
   },
   {
     "emoji": "👳",
     "tags": [
       "persoon met tulband",
-      "tulband"
+      "tulband",
+      "persoon die tulband draagt"
     ]
   },
   {
@@ -2872,7 +3302,8 @@
     "tags": [
       "man",
       "man met tulband",
-      "tulband"
+      "tulband",
+      "man die tulband draagt"
     ]
   },
   {
@@ -2880,7 +3311,8 @@
     "tags": [
       "tulband",
       "vrouw",
-      "vrouw met tulband"
+      "vrouw met tulband",
+      "vrouw die tulband draagt"
     ]
   },
   {
@@ -2889,7 +3321,11 @@
       "gua pi mao",
       "hoed",
       "man",
-      "man met Chinees petje"
+      "man met Chinees petje",
+      "hoofddeksel",
+      "persoon",
+      "persoon met Chinees hoofddeksel",
+      "Chinees hoofddeksel"
     ]
   },
   {
@@ -2898,7 +3334,9 @@
       "hidjab",
       "hoofddoek",
       "mantilla",
-      "vrouw met hoofddoek"
+      "vrouw met hoofddoek",
+      "hijab",
+      "tichel"
     ]
   },
   {
@@ -2907,7 +3345,8 @@
       "bruidegom",
       "persoon",
       "persoon in smoking",
-      "smoking"
+      "smoking",
+      "huwlijk"
     ]
   },
   {
@@ -2915,7 +3354,9 @@
     "tags": [
       "man",
       "man in smoking",
-      "smoking"
+      "smoking",
+      "bruidegom",
+      "huwlijk"
     ]
   },
   {
@@ -2923,7 +3364,9 @@
     "tags": [
       "smoking",
       "vrouw",
-      "vrouw in smoking"
+      "vrouw in smoking",
+      "bruidegom",
+      "huwlijk"
     ]
   },
   {
@@ -2933,7 +3376,8 @@
       "huwelijk",
       "persoon",
       "persoon met sluier",
-      "sluier"
+      "sluier",
+      "bruiloft"
     ]
   },
   {
@@ -2941,7 +3385,8 @@
     "tags": [
       "man",
       "man met sluier",
-      "sluier"
+      "sluier",
+      "bruid"
     ]
   },
   {
@@ -2949,7 +3394,8 @@
     "tags": [
       "sluier",
       "vrouw",
-      "vrouw met sluier"
+      "vrouw met sluier",
+      "bruid"
     ]
   },
   {
@@ -2957,7 +3403,8 @@
     "tags": [
       "vrouw",
       "zwanger",
-      "zwangere vrouw"
+      "zwangere vrouw",
+      "baby"
     ]
   },
   {
@@ -2966,7 +3413,8 @@
       "baby",
       "borst",
       "borstvoeding",
-      "de borst geven"
+      "de borst geven",
+      "verzorgen"
     ]
   },
   {
@@ -2976,7 +3424,9 @@
       "borstvoeding",
       "voeding",
       "vrouw",
-      "vrouw die een baby voedt"
+      "vrouw die een baby voedt",
+      "fles geven",
+      "verzorgen"
     ]
   },
   {
@@ -2986,7 +3436,9 @@
       "borstvoeding",
       "man",
       "man die een baby voedt",
-      "voeding"
+      "voeding",
+      "voeden",
+      "verzorgen"
     ]
   },
   {
@@ -2996,7 +3448,9 @@
       "borstvoeding",
       "persoon",
       "persoon die een baby voedt",
-      "voeding"
+      "voeding",
+      "voeden",
+      "verzorgen"
     ]
   },
   {
@@ -3015,7 +3469,10 @@
     "tags": [
       "kerstman",
       "Kerstmis",
-      "viering"
+      "viering",
+      "kerst",
+      "vader",
+      "man"
     ]
   },
   {
@@ -3023,14 +3480,21 @@
     "tags": [
       "kerstmis",
       "kerstvrouw",
-      "moedertje kerst"
+      "moedertje kerst",
+      "viering",
+      "kerst",
+      "moeder",
+      "mevrouw",
+      "vrouw"
     ]
   },
   {
     "emoji": "🧑‍🎄",
     "tags": [
       "Kerstman, kerst",
-      "kersttransgender"
+      "kersttransgender",
+      "kerstman, kerst",
+      "kerstman"
     ]
   },
   {
@@ -3040,7 +3504,8 @@
       "held",
       "heldin",
       "superheld",
-      "superkrachten"
+      "superkrachten",
+      "superkracht"
     ]
   },
   {
@@ -3050,7 +3515,8 @@
       "held",
       "man",
       "mannelijke superheld",
-      "superkrachten"
+      "superkrachten",
+      "superkracht"
     ]
   },
   {
@@ -3061,7 +3527,8 @@
       "heldin",
       "superkrachten",
       "vrouw",
-      "vrouwelijke superheld"
+      "vrouwelijke superheld",
+      "superkracht"
     ]
   },
   {
@@ -3071,7 +3538,10 @@
       "crimineel",
       "slecht",
       "superkrachten",
-      "superschurk"
+      "superschurk",
+      "kwaadaardig",
+      "superkracht",
+      "schurk"
     ]
   },
   {
@@ -3082,7 +3552,10 @@
       "man",
       "mannelijke superschurk",
       "slecht",
-      "superkrachten"
+      "superkrachten",
+      "kwaadaardig",
+      "superkracht",
+      "schurk"
     ]
   },
   {
@@ -3093,7 +3566,10 @@
       "slecht",
       "superkrachten",
       "vrouw",
-      "vrouwelijke superschurk"
+      "vrouwelijke superschurk",
+      "kwaadaardig",
+      "schurk",
+      "superkracht"
     ]
   },
   {
@@ -3102,7 +3578,8 @@
       "heks",
       "magiër",
       "tovenaar",
-      "tovenares"
+      "tovenares",
+      "tovernaar"
     ]
   },
   {
@@ -3110,7 +3587,9 @@
     "tags": [
       "heksenmeester",
       "mannelijke magiër",
-      "tovenaar"
+      "tovenaar",
+      "man",
+      "tovernaar"
     ]
   },
   {
@@ -3118,7 +3597,9 @@
     "tags": [
       "heks",
       "tovenares",
-      "vrouwelijke magiër"
+      "vrouwelijke magiër",
+      "vrouw",
+      "tovernaar"
     ]
   },
   {
@@ -3127,7 +3608,9 @@
       "elfje",
       "Oberon",
       "Puck",
-      "Titania"
+      "Titania",
+      "fee",
+      "puck"
     ]
   },
   {
@@ -3135,14 +3618,21 @@
     "tags": [
       "mannelijk elfje",
       "Oberon",
-      "Puck"
+      "Puck",
+      "mannelijke fee",
+      "man",
+      "puck",
+      "fee"
     ]
   },
   {
     "emoji": "🧚‍♀️",
     "tags": [
       "Titania",
-      "vrouwelijk elfje"
+      "vrouwelijk elfje",
+      "vrouwelijke fee",
+      "vrouw",
+      "fee"
     ]
   },
   {
@@ -3158,14 +3648,17 @@
     "tags": [
       "Dracula",
       "mannelijke vampier",
-      "ondode"
+      "ondode",
+      "man"
     ]
   },
   {
     "emoji": "🧛‍♀️",
     "tags": [
       "ondode",
-      "vrouwelijke vampier"
+      "vrouwelijke vampier",
+      "vrouw",
+      "Dracula"
     ]
   },
   {
@@ -3174,63 +3667,80 @@
       "meerman",
       "meermin",
       "sirene",
-      "zeemeermin"
+      "zeemeermin",
+      "zeemeermeisje",
+      "zeemeerman",
+      "zeemeerpersoon"
     ]
   },
   {
     "emoji": "🧜‍♂️",
     "tags": [
       "Triton",
-      "zeemeerman"
+      "zeemeerman",
+      "man"
     ]
   },
   {
     "emoji": "🧜‍♀️",
     "tags": [
       "meermin",
-      "sirene"
+      "sirene",
+      "zeemeermeisje",
+      "zeemeerman",
+      "vrouw"
     ]
   },
   {
     "emoji": "🧝",
     "tags": [
       "elf",
-      "magisch"
+      "magisch",
+      "magische"
     ]
   },
   {
     "emoji": "🧝‍♂️",
     "tags": [
       "magisch",
-      "mannelijke elf"
+      "mannelijke elf",
+      "magische",
+      "man"
     ]
   },
   {
     "emoji": "🧝‍♀️",
     "tags": [
       "magisch",
-      "vrouwelijke elf"
+      "vrouwelijke elf",
+      "magische",
+      "vrouw"
     ]
   },
   {
     "emoji": "🧞",
     "tags": [
       "djinn",
-      "geest in de fles"
+      "geest in de fles",
+      "geest"
     ]
   },
   {
     "emoji": "🧞‍♂️",
     "tags": [
       "djinn",
-      "mannelijke geest in de fles"
+      "mannelijke geest in de fles",
+      "mannelijke geest",
+      "man"
     ]
   },
   {
     "emoji": "🧞‍♀️",
     "tags": [
       "djinn",
-      "vrouwelijke geest in de fles"
+      "vrouwelijke geest in de fles",
+      "vrouwelijke geest",
+      "vrouw"
     ]
   },
   {
@@ -3246,7 +3756,8 @@
     "tags": [
       "lopende dode",
       "mannelijke zombie",
-      "ondode"
+      "ondode",
+      "man"
     ]
   },
   {
@@ -3254,7 +3765,8 @@
     "tags": [
       "lopende dode",
       "ondode",
-      "vrouwelijke zombie"
+      "vrouwelijke zombie",
+      "vrouw"
     ]
   },
   {
@@ -3263,7 +3775,8 @@
       "gezicht",
       "massage",
       "persoon die hoofdmassage krijgt",
-      "salon"
+      "salon",
+      "persoon die een massage krijgt"
     ]
   },
   {
@@ -3272,7 +3785,8 @@
       "gezicht",
       "man",
       "man die hoofdmassage krijgt",
-      "massage"
+      "massage",
+      "man die een massage krijgt"
     ]
   },
   {
@@ -3281,7 +3795,8 @@
       "gezicht",
       "massage",
       "vrouw",
-      "vrouw die hoofdmassage krijgt"
+      "vrouw die hoofdmassage krijgt",
+      "vrouw die een massage krijgt"
     ]
   },
   {
@@ -3291,7 +3806,9 @@
       "kapsel",
       "persoon die wordt geknipt",
       "salon",
-      "schoonheid"
+      "schoonheid",
+      "lounge",
+      "haar van persoon wordt geknipt"
     ]
   },
   {
@@ -3299,7 +3816,8 @@
     "tags": [
       "kapsel",
       "man",
-      "man die wordt geknipt"
+      "man die wordt geknipt",
+      "haar van man wordt geknipt"
     ]
   },
   {
@@ -3307,7 +3825,8 @@
     "tags": [
       "kapsel",
       "vrouw",
-      "vrouw die wordt geknipt"
+      "vrouw die wordt geknipt",
+      "haar van vrouw wordt geknipt"
     ]
   },
   {
@@ -3316,7 +3835,10 @@
       "lopen",
       "voetganger",
       "wandelaar",
-      "wandelen"
+      "wandelen",
+      "wandel",
+      "persoon loops",
+      "loop"
     ]
   },
   {
@@ -3325,7 +3847,10 @@
       "lopen",
       "man",
       "wandelen",
-      "wandelende man"
+      "wandelende man",
+      "wandel",
+      "loop",
+      "man loopt"
     ]
   },
   {
@@ -3334,7 +3859,10 @@
       "lopen",
       "vrouw",
       "wandelen",
-      "wandelende vrouw"
+      "wandelende vrouw",
+      "wandel",
+      "loop",
+      "lopende vrouw"
     ]
   },
   {
@@ -3342,7 +3870,8 @@
     "tags": [
       "sta",
       "staan",
-      "staande persoon"
+      "staande persoon",
+      "staat"
     ]
   },
   {
@@ -3350,7 +3879,8 @@
     "tags": [
       "man",
       "staand",
-      "staande man"
+      "staande man",
+      "staant"
     ]
   },
   {
@@ -3358,7 +3888,8 @@
     "tags": [
       "staand",
       "staande vrouw",
-      "vrouw"
+      "vrouw",
+      "staant"
     ]
   },
   {
@@ -3366,7 +3897,8 @@
     "tags": [
       "kniel",
       "knielen",
-      "knielende persoon"
+      "knielende persoon",
+      "persoon knielt"
     ]
   },
   {
@@ -3374,7 +3906,8 @@
     "tags": [
       "knielend",
       "knielende man",
-      "man"
+      "man",
+      "knielende"
     ]
   },
   {
@@ -3382,7 +3915,8 @@
     "tags": [
       "knielend",
       "knielende vrouw",
-      "vrouw"
+      "vrouw",
+      "knielende"
     ]
   },
   {
@@ -3390,7 +3924,8 @@
     "tags": [
       "blind",
       "persoon met taststok",
-      "toegankelijkheid"
+      "toegankelijkheid",
+      "persoon met stok"
     ]
   },
   {
@@ -3399,7 +3934,8 @@
       "blind",
       "man",
       "man met taststok",
-      "toegankelijkheid"
+      "toegankelijkheid",
+      "man met witte stok"
     ]
   },
   {
@@ -3408,7 +3944,8 @@
       "blind",
       "toegankelijkheid",
       "vrouw",
-      "vrouw met taststok"
+      "vrouw met taststok",
+      "vrouw met witte stok"
     ]
   },
   {
@@ -3442,7 +3979,8 @@
     "tags": [
       "persoon in rolstoel",
       "rolstoel",
-      "toegankelijkheid"
+      "toegankelijkheid",
+      "persoon in handmatige rolstoel"
     ]
   },
   {
@@ -3451,7 +3989,8 @@
       "man",
       "man in rolstoel",
       "rolstoel",
-      "toegankelijkheid"
+      "toegankelijkheid",
+      "man in handmatige rolstoel"
     ]
   },
   {
@@ -3460,7 +3999,8 @@
       "rolstoel",
       "toegankelijkheid",
       "vrouw",
-      "vrouw in rolstoel"
+      "vrouw in rolstoel",
+      "vrouw in handmatige rolstoel"
     ]
   },
   {
@@ -3468,7 +4008,8 @@
     "tags": [
       "hardlopen",
       "hardloper",
-      "marathon"
+      "marathon",
+      "persoon loopt hard"
     ]
   },
   {
@@ -3478,7 +4019,8 @@
       "man",
       "marathon",
       "rennen",
-      "rennende man"
+      "rennende man",
+      "racen"
     ]
   },
   {
@@ -3488,7 +4030,8 @@
       "marathon",
       "rennen",
       "rennende vrouw",
-      "vrouw"
+      "vrouw",
+      "racen"
     ]
   },
   {
@@ -3496,7 +4039,8 @@
     "tags": [
       "dansen",
       "dansende vrouw",
-      "vrouw"
+      "vrouw",
+      "dans"
     ]
   },
   {
@@ -3504,7 +4048,8 @@
     "tags": [
       "dansen",
       "dansende man",
-      "man"
+      "man",
+      "dans"
     ]
   },
   {
@@ -3513,7 +4058,8 @@
       "man",
       "pak",
       "zaken",
-      "zwevende man in pak"
+      "zwevende man in pak",
+      "persoon"
     ]
   },
   {
@@ -3522,7 +4068,8 @@
       "danser",
       "feesten",
       "konijnenoor",
-      "mensen met konijnenoren"
+      "mensen met konijnenoren",
+      "konijnenoren"
     ]
   },
   {
@@ -3532,7 +4079,10 @@
       "feesten",
       "konijnenoor",
       "mannen",
-      "mannen met konijnenoren"
+      "mannen met konijnenoren",
+      "konijnenoren",
+      "danser",
+      "man met konijnenoren"
     ]
   },
   {
@@ -3542,7 +4092,9 @@
       "feesten",
       "konijnenoor",
       "vrouwen",
-      "vrouwen met konijnenoren"
+      "vrouwen met konijnenoren",
+      "konijnenoren",
+      "feestende"
     ]
   },
   {
@@ -3550,7 +4102,9 @@
     "tags": [
       "persoon in ruimte vol stoom",
       "sauna",
-      "stoomruimte"
+      "stoomruimte",
+      "persoon in stoomcabine",
+      "stoomcabine"
     ]
   },
   {
@@ -3558,7 +4112,10 @@
     "tags": [
       "man in ruimte vol stoom",
       "sauna",
-      "stoomruimte"
+      "stoomruimte",
+      "man in stoomcabine",
+      "man",
+      "stoomcabine"
     ]
   },
   {
@@ -3566,28 +4123,36 @@
     "tags": [
       "sauna",
       "stoomruimte",
-      "vrouw in ruimte vol stoom"
+      "vrouw in ruimte vol stoom",
+      "stoomcabine",
+      "vrouw",
+      "vrouw in stoomcabine"
     ]
   },
   {
     "emoji": "🧗",
     "tags": [
       "klimmende persoon",
-      "klimmer"
+      "klimmer",
+      "persoon kilmt"
     ]
   },
   {
     "emoji": "🧗‍♂️",
     "tags": [
       "klimmende man",
-      "klimmer"
+      "klimmer",
+      "man klimt",
+      "man"
     ]
   },
   {
     "emoji": "🧗‍♀️",
     "tags": [
       "klimmende vrouw",
-      "klimmer"
+      "klimmer",
+      "vrouw klimt",
+      "vrouw"
     ]
   },
   {
@@ -3600,7 +4165,9 @@
       "schermen",
       "schermer",
       "schermsport",
-      "sport"
+      "sport",
+      "zwaard",
+      "persoon schermt"
     ]
   },
   {
@@ -3627,7 +4194,9 @@
       "ski",
       "sneeuw",
       "snowboard",
-      "snowboarder"
+      "snowboarder",
+      "sneeuwborder",
+      "sneeuwbord"
     ]
   },
   {
@@ -3635,14 +4204,17 @@
     "tags": [
       "bal",
       "golf",
-      "golfer"
+      "golfer",
+      "golfen",
+      "persoon golft"
     ]
   },
   {
     "emoji": "🏄",
     "tags": [
       "surfen",
-      "surfer"
+      "surfer",
+      "persoon golft"
     ]
   },
   {
@@ -3666,7 +4238,8 @@
     "tags": [
       "boot",
       "persoon in roeiboot",
-      "roeiboot"
+      "roeiboot",
+      "persoon roeit"
     ]
   },
   {
@@ -3675,7 +4248,8 @@
       "boot",
       "man",
       "man in roeiboot",
-      "roeiboot"
+      "roeiboot",
+      "man roeit"
     ]
   },
   {
@@ -3684,14 +4258,17 @@
       "boot",
       "roeiboot",
       "vrouw",
-      "vrouw in roeiboot"
+      "vrouw in roeiboot",
+      "vrouw roeit"
     ]
   },
   {
     "emoji": "🏊",
     "tags": [
       "zwemmen",
-      "zwemmende persoon"
+      "zwemmende persoon",
+      "persoon zwemt",
+      "zwem"
     ]
   },
   {
@@ -3699,7 +4276,9 @@
     "tags": [
       "man",
       "zwemmen",
-      "zwemmende man"
+      "zwemmende man",
+      "man zwemt",
+      "zwemt"
     ]
   },
   {
@@ -3707,7 +4286,9 @@
     "tags": [
       "vrouw",
       "zwemmen",
-      "zwemmende vrouw"
+      "zwemmende vrouw",
+      "zwemt",
+      "vrouw zwemt"
     ]
   },
   {
@@ -3722,7 +4303,8 @@
     "tags": [
       "gewicht",
       "gewichtheffer",
-      "heffer"
+      "heffer",
+      "persoon tilt gewicht op"
     ]
   },
   {
@@ -3732,7 +4314,8 @@
       "fietsen",
       "fietsende persoon",
       "wielrennen",
-      "wielrenner"
+      "wielrenner",
+      "fietser"
     ]
   },
   {
@@ -3742,7 +4325,8 @@
       "fietsen",
       "fietsende man",
       "man",
-      "wielrenner"
+      "wielrenner",
+      "fietser"
     ]
   },
   {
@@ -3752,7 +4336,8 @@
       "fietsen",
       "fietsende vrouw",
       "vrouw",
-      "wielrenner"
+      "wielrenner",
+      "fietser"
     ]
   },
   {
@@ -3763,7 +4348,8 @@
       "fietsen",
       "fietser",
       "persoon op mountainbike",
-      "wielrenner"
+      "wielrenner",
+      "mountainbiker"
     ]
   },
   {
@@ -3774,7 +4360,9 @@
       "fietsen",
       "fietser",
       "man",
-      "man op mountainbike"
+      "man op mountainbike",
+      "fioets",
+      "mannelijk mountainbiker"
     ]
   },
   {
@@ -3794,7 +4382,9 @@
     "tags": [
       "gymnastiek",
       "persoon die een radslag doet",
-      "radslag"
+      "radslag",
+      "ratslag",
+      "persoon doet ratslag"
     ]
   },
   {
@@ -3803,7 +4393,9 @@
       "gymnastiek",
       "man",
       "man die een radslag doet",
-      "radslag"
+      "radslag",
+      "ratslag",
+      "man doet ratslag"
     ]
   },
   {
@@ -3812,7 +4404,9 @@
       "gymnastiek",
       "radslag",
       "vrouw",
-      "vrouw die een radslag doet"
+      "vrouw die een radslag doet",
+      "ratslag",
+      "vrouw doet ratslag"
     ]
   },
   {
@@ -3820,7 +4414,8 @@
     "tags": [
       "personen die worstelen",
       "worstelaar",
-      "worstelen"
+      "worstelen",
+      "personen worstelen"
     ]
   },
   {
@@ -3828,7 +4423,8 @@
     "tags": [
       "mannen",
       "worstelen",
-      "worstelende mannen"
+      "worstelende mannen",
+      "mannen worstelen"
     ]
   },
   {
@@ -3836,7 +4432,8 @@
     "tags": [
       "vrouwen",
       "worstelen",
-      "worstelende vrouwen"
+      "worstelende vrouwen",
+      "vrouwen worstelen"
     ]
   },
   {
@@ -3844,7 +4441,8 @@
     "tags": [
       "persoon die waterpolo speelt",
       "polo",
-      "water"
+      "water",
+      "persoon speelt waterpolo"
     ]
   },
   {
@@ -3852,7 +4450,8 @@
     "tags": [
       "man",
       "man die waterpolo speelt",
-      "waterpolo"
+      "waterpolo",
+      "man speelt waterpolo"
     ]
   },
   {
@@ -3860,7 +4459,8 @@
     "tags": [
       "vrouw",
       "vrouw die waterpolo speelt",
-      "waterpolo"
+      "waterpolo",
+      "vrouw speelt waterpolo"
     ]
   },
   {
@@ -3868,7 +4468,8 @@
     "tags": [
       "bal",
       "handbal",
-      "persoon die handbal speelt"
+      "persoon die handbal speelt",
+      "persoon speelt handbal"
     ]
   },
   {
@@ -3876,7 +4477,9 @@
     "tags": [
       "handballen",
       "man",
-      "man die handbal speelt"
+      "man die handbal speelt",
+      "handbal",
+      "man speelt handbal"
     ]
   },
   {
@@ -3884,7 +4487,9 @@
     "tags": [
       "handballen",
       "vrouw",
-      "vrouw die handbal speelt"
+      "vrouw die handbal speelt",
+      "handbal",
+      "vrouw speelt handbal"
     ]
   },
   {
@@ -3894,7 +4499,8 @@
       "jongleur",
       "multitasken",
       "persoon die jongleert",
-      "vaardigheid"
+      "vaardigheid",
+      "persoon die aan het jongleren is"
     ]
   },
   {
@@ -3920,7 +4526,8 @@
     "tags": [
       "meditatie",
       "persoon in lotushouding",
-      "yoga"
+      "yoga",
+      "mediteren"
     ]
   },
   {
@@ -3928,7 +4535,9 @@
     "tags": [
       "man in lotushouding",
       "meditatie",
-      "yoga"
+      "yoga",
+      "man",
+      "mediteren"
     ]
   },
   {
@@ -3936,7 +4545,9 @@
     "tags": [
       "meditatie",
       "vrouw in lotushouding",
-      "yoga"
+      "yoga",
+      "vrouw",
+      "mediteren"
     ]
   },
   {
@@ -3944,7 +4555,9 @@
     "tags": [
       "bad",
       "badkuip",
-      "persoon in badkuip"
+      "persoon in badkuip",
+      "persoon in bad",
+      "wassen"
     ]
   },
   {
@@ -3952,7 +4565,10 @@
     "tags": [
       "hotel",
       "persoon in bed",
-      "slapen"
+      "slapen",
+      "slaap",
+      "bed",
+      "slapend"
     ]
   },
   {
@@ -3963,7 +4579,10 @@
       "personen hand in hand",
       "persoon",
       "stel",
-      "vasthouden"
+      "vasthouden",
+      "echtpaar",
+      "hand vasthouden",
+      "personen houden hand vast"
     ]
   },
   {
@@ -3973,7 +4592,11 @@
       "hand in hand",
       "stel",
       "vrouwen",
-      "vrouwen hand in hand"
+      "vrouwen hand in hand",
+      "echtpaar",
+      "hand vasthouden",
+      "vrouwen houden elkaars hand vast",
+      "vrouw"
     ]
   },
   {
@@ -3985,7 +4608,10 @@
       "man en vrouw hand in hand",
       "stel",
       "vasthouden",
-      "vrouw"
+      "vrouw",
+      "echtpaar",
+      "handen vasthouden",
+      "man en vrouw houden elkaars hand vast"
     ]
   },
   {
@@ -3998,14 +4624,19 @@
       "stel",
       "sterrenbeeld",
       "tweeling",
-      "Tweelingen"
+      "Tweelingen",
+      "echtpaar",
+      "hand vasthouden",
+      "mannen houden elkaars hand vast",
+      "dierenriem"
     ]
   },
   {
     "emoji": "💏",
     "tags": [
       "kus",
-      "stelletje"
+      "stelletje",
+      "echtpaar"
     ]
   },
   {
@@ -4013,7 +4644,9 @@
     "tags": [
       "liefde",
       "stel met hart",
-      "stelletje"
+      "stelletje",
+      "echtpaar",
+      "echtpaar met hart"
     ]
   },
   {
@@ -4023,7 +4656,8 @@
       "kind",
       "mensen",
       "moeder",
-      "vader"
+      "vader",
+      "familie"
     ]
   },
   {
@@ -4036,7 +4670,10 @@
       "silhouet",
       "silhouet van sprekend hoofd",
       "spreken",
-      "sprekend"
+      "sprekend",
+      "spraak",
+      "schaduw",
+      "schreeuw"
     ]
   },
   {
@@ -4044,7 +4681,9 @@
     "tags": [
       "buste",
       "silhouet",
-      "silhouet van persoon"
+      "silhouet van persoon",
+      "silhouet van een persoon",
+      "schaduw"
     ]
   },
   {
@@ -4052,7 +4691,8 @@
     "tags": [
       "buste",
       "silhouet",
-      "silhouet van twee personen"
+      "silhouet van twee personen",
+      "schaduw"
     ]
   },
   {
@@ -4062,7 +4702,10 @@
       "dag",
       "hallo",
       "omhelzing",
-      "personen in een omhelzing"
+      "personen in een omhelzing",
+      "vaarwel",
+      "personen omhelzen",
+      "schaduw"
     ]
   },
   {
@@ -4098,7 +4741,9 @@
     "emoji": "🦧",
     "tags": [
       "aap",
-      "orang-oetang"
+      "orang-oetang",
+      "mensaap",
+      "Orang-oetan"
     ]
   },
   {
@@ -4107,14 +4752,17 @@
       "gezicht",
       "hond",
       "hondengezicht",
-      "huisdier"
+      "huisdier",
+      "puppy"
     ]
   },
   {
     "emoji": "🐕",
     "tags": [
       "hond",
-      "huisdier"
+      "huisdier",
+      "dog",
+      "puppy"
     ]
   },
   {
@@ -4123,7 +4771,12 @@
       "blind",
       "blin­den­ge­leide­hond",
       "geleide",
-      "toegankelijkheid"
+      "toegankelijkheid",
+      "geleidehond",
+      "hulp",
+      "hond",
+      "assistentie",
+      "dienst"
     ]
   },
   {
@@ -4133,7 +4786,8 @@
       "as­sis­ten­tie­hond",
       "hond",
       "hulp",
-      "toegankelijkheid"
+      "toegankelijkheid",
+      "dienstverlening"
     ]
   },
   {
@@ -4171,14 +4825,18 @@
       "gezicht",
       "huisdier",
       "kat",
-      "kattengezicht"
+      "kattengezicht",
+      "kitten",
+      "poesje"
     ]
   },
   {
     "emoji": "🐈",
     "tags": [
       "huisdier",
-      "kat"
+      "kat",
+      "kitten",
+      "poesje"
     ]
   },
   {
@@ -4187,7 +4845,9 @@
       "kat",
       "ongeluk",
       "zwart",
-      "zwarte kat"
+      "zwarte kat",
+      "poesje",
+      "kitten"
     ]
   },
   {
@@ -4196,7 +4856,9 @@
       "gezicht",
       "leeuw",
       "Leo",
-      "sterrenbeeld"
+      "sterrenbeeld",
+      "Leeuw",
+      "dierenriem"
     ]
   },
   {
@@ -4216,7 +4878,10 @@
   {
     "emoji": "🐆",
     "tags": [
-      "luipaard"
+      "luipaard",
+      "jachtluipaard",
+      "jaguar",
+      "panter"
     ]
   },
   {
@@ -4233,7 +4898,8 @@
       "paard",
       "racen",
       "renpaard",
-      "ruitersport"
+      "ruitersport",
+      "ruiter"
     ]
   },
   {
@@ -4253,7 +4919,11 @@
   {
     "emoji": "🦌",
     "tags": [
-      "hert"
+      "hert",
+      "wapiti",
+      "eland",
+      "antilope",
+      "rendier"
     ]
   },
   {
@@ -4270,7 +4940,8 @@
     "tags": [
       "gezicht",
       "koe",
-      "koeiengezicht"
+      "koeiengezicht",
+      "moe"
     ]
   },
   {
@@ -4279,7 +4950,10 @@
       "os",
       "sterrenbeeld",
       "stier",
-      "Taurus"
+      "Taurus",
+      "dierenriem",
+      "Stier",
+      "koe"
     ]
   },
   {
@@ -4293,7 +4967,8 @@
   {
     "emoji": "🐄",
     "tags": [
-      "koe"
+      "koe",
+      "moe"
     ]
   },
   {
@@ -4301,21 +4976,24 @@
     "tags": [
       "gezicht",
       "varken",
-      "varkensgezicht"
+      "varkensgezicht",
+      "varkentje"
     ]
   },
   {
     "emoji": "🐖",
     "tags": [
       "varken",
-      "zeug"
+      "zeug",
+      "varkentje"
     ]
   },
   {
     "emoji": "🐗",
     "tags": [
       "varken",
-      "zwijn"
+      "zwijn",
+      "varkentje"
     ]
   },
   {
@@ -4324,7 +5002,9 @@
       "gezicht",
       "neus",
       "varken",
-      "varkensneus"
+      "varkensneus",
+      "snuit",
+      "varkentje"
     ]
   },
   {
@@ -4334,7 +5014,10 @@
       "mannelijk",
       "ram",
       "schaap",
-      "sterrenbeeld"
+      "sterrenbeeld",
+      "Ram",
+      "man",
+      "dierenriem"
     ]
   },
   {
@@ -4342,7 +5025,8 @@
     "tags": [
       "ooi",
       "schaap",
-      "vrouwelijk"
+      "vrouwelijk",
+      "vrouw"
     ]
   },
   {
@@ -4350,7 +5034,9 @@
     "tags": [
       "geit",
       "steenbok",
-      "sterrenbeeld"
+      "sterrenbeeld",
+      "Steenbok",
+      "dierenriem"
     ]
   },
   {
@@ -4358,7 +5044,10 @@
     "tags": [
       "bult",
       "dromedaris",
-      "kameel met één bult"
+      "kameel met één bult",
+      "kameel",
+      "bobbel",
+      "woestijn"
     ]
   },
   {
@@ -4366,7 +5055,10 @@
     "tags": [
       "bult",
       "kameel",
-      "kameel met twee bulten"
+      "kameel met twee bulten",
+      "Bactrische",
+      "camel",
+      "woestijn"
     ]
   },
   {
@@ -4383,7 +5075,9 @@
     "emoji": "🦒",
     "tags": [
       "giraffe",
-      "vlekken"
+      "vlekken",
+      "giraf",
+      "stippen"
     ]
   },
   {
@@ -4405,7 +5099,8 @@
   {
     "emoji": "🦏",
     "tags": [
-      "neushoorn"
+      "neushoorn",
+      "rinoceros"
     ]
   },
   {
@@ -4440,7 +5135,10 @@
     "tags": [
       "gezicht",
       "hamster",
-      "huisdier"
+      "huisdier",
+      "gerbil",
+      "chinchilla",
+      "cavia"
     ]
   },
   {
@@ -4464,7 +5162,10 @@
   {
     "emoji": "🐿️",
     "tags": [
-      "eekhoorn"
+      "eekhoorn",
+      "aardeekhoorn",
+      "noten",
+      "eikennoot"
     ]
   },
   {
@@ -4492,7 +5193,8 @@
     "emoji": "🐻",
     "tags": [
       "beer",
-      "gezicht"
+      "gezicht",
+      "bear"
     ]
   },
   {
@@ -4501,7 +5203,9 @@
       "beer",
       "ijsbeer",
       "noordpool",
-      "wit"
+      "wit",
+      "arctische",
+      "jsbeer"
     ]
   },
   {
@@ -4515,7 +5219,8 @@
     "emoji": "🐼",
     "tags": [
       "gezicht",
-      "panda"
+      "panda",
+      "beer"
     ]
   },
   {
@@ -4523,7 +5228,9 @@
     "tags": [
       "lui",
       "luiaard",
-      "traag"
+      "traag",
+      "luipaard",
+      "langzaam"
     ]
   },
   {
@@ -4538,7 +5245,9 @@
     "emoji": "🦨",
     "tags": [
       "stink­dier",
-      "stinken"
+      "stinken",
+      "stinkdier",
+      "stank"
     ]
   },
   {
@@ -4548,7 +5257,8 @@
       "buideldier",
       "kangoeroe",
       "springen",
-      "wallaby"
+      "wallaby",
+      "baby kangoeroe"
     ]
   },
   {
@@ -4556,7 +5266,8 @@
     "tags": [
       "das",
       "honingdas",
-      "kwellen"
+      "kwellen",
+      "honigdas"
     ]
   },
   {
@@ -4572,21 +5283,27 @@
     "emoji": "🦃",
     "tags": [
       "gevogelte",
-      "kalkoen"
+      "kalkoen",
+      "vogel"
     ]
   },
   {
     "emoji": "🐔",
     "tags": [
       "gevogelte",
-      "kip"
+      "kip",
+      "vogel",
+      "hen"
     ]
   },
   {
     "emoji": "🐓",
     "tags": [
       "gevogelte",
-      "haan"
+      "haan",
+      "vogel",
+      "hen",
+      "kip"
     ]
   },
   {
@@ -4596,7 +5313,9 @@
       "gevogelte",
       "kuiken",
       "kuiken uit ei",
-      "uit ei komen"
+      "uit ei komen",
+      "vogel",
+      "uitkomen"
     ]
   },
   {
@@ -4605,7 +5324,8 @@
       "baby",
       "gevogelte",
       "kuiken",
-      "kuikentje"
+      "kuikentje",
+      "vogel"
     ]
   },
   {
@@ -4614,7 +5334,8 @@
       "baby",
       "gevogelte",
       "kuiken",
-      "naar voren kijkend kuikentje"
+      "naar voren kijkend kuikentje",
+      "vogel"
     ]
   },
   {
@@ -4660,7 +5381,8 @@
       "lelijk eendje",
       "vogel",
       "zwaan",
-      "zwanenjong"
+      "zwanenjong",
+      "lelijk eentje"
     ]
   },
   {
@@ -4687,7 +5409,10 @@
       "licht",
       "pluimage",
       "veer",
-      "vliegen"
+      "vliegen",
+      "vogel",
+      "vlugt",
+      "pluim"
     ]
   },
   {
@@ -4695,7 +5420,8 @@
     "tags": [
       "flamboyant",
       "flamingo",
-      "tropisch"
+      "tropisch",
+      "tropische"
     ]
   },
   {
@@ -4714,7 +5440,8 @@
       "papegaai",
       "piraat",
       "praten",
-      "vogel"
+      "vogel",
+      "spreken"
     ]
   },
   {
@@ -4734,7 +5461,9 @@
     "emoji": "🐢",
     "tags": [
       "schildpad",
-      "waterschildpad"
+      "waterschildpad",
+      "terrapin",
+      "landschildpad"
     ]
   },
   {
@@ -4752,7 +5481,10 @@
       "serpent",
       "slang",
       "slangendrager",
-      "sterrenbeeld"
+      "sterrenbeeld",
+      "drager",
+      "Slangendrager",
+      "dierenriem"
     ]
   },
   {
@@ -4777,14 +5509,16 @@
       "brachiosaurus",
       "brontosaurus",
       "diplodocus",
-      "sauropode"
+      "sauropode",
+      "dinosaur"
     ]
   },
   {
     "emoji": "🦖",
     "tags": [
       "T-Rex",
-      "Tyrannosaurus Rex"
+      "Tyrannosaurus Rex",
+      "dinosaur"
     ]
   },
   {
@@ -4793,7 +5527,8 @@
       "gezicht",
       "spuitend",
       "spuitende walvis",
-      "walvis"
+      "walvis",
+      "spuiten"
     ]
   },
   {
@@ -4821,7 +5556,9 @@
     "tags": [
       "sterrenbeeld",
       "vis",
-      "vissen"
+      "vissen",
+      "Vissen",
+      "dierenriem"
     ]
   },
   {
@@ -4829,7 +5566,8 @@
     "tags": [
       "tropisch",
       "tropische vis",
-      "vis"
+      "vis",
+      "tropische"
     ]
   },
   {
@@ -4925,7 +5663,8 @@
       "bakkerstor",
       "insect",
       "kakkerlak",
-      "ongedierte"
+      "ongedierte",
+      "pest"
     ]
   },
   {
@@ -4948,7 +5687,8 @@
     "tags": [
       "schorpioen",
       "Scorpio",
-      "sterrenbeeld"
+      "sterrenbeeld",
+      "dierenriem"
     ]
   },
   {
@@ -4959,7 +5699,8 @@
       "malaria",
       "mug",
       "virus",
-      "ziekte"
+      "ziekte",
+      "pest"
     ]
   },
   {
@@ -4971,7 +5712,9 @@
       "rottend",
       "tseetseevlieg",
       "vlieg",
-      "ziekte"
+      "ziekte",
+      "pest",
+      "rottende"
     ]
   },
   {
@@ -4996,7 +5739,8 @@
     "emoji": "💐",
     "tags": [
       "bloem",
-      "boeket"
+      "boeket",
+      "bouquet"
     ]
   },
   {
@@ -5082,7 +5826,8 @@
       "plant",
       "potplant",
       "saai",
-      "verzorgen"
+      "verzorgen",
+      "groei"
     ]
   },
   {
@@ -5098,7 +5843,8 @@
       "bladeren verliezen",
       "boom",
       "loof verliezen",
-      "loofboom"
+      "loofboom",
+      "vallende bladeren"
     ]
   },
   {
@@ -5155,7 +5901,8 @@
       "blad",
       "esdoorn",
       "esdoornblad",
-      "vallend"
+      "vallend",
+      "vallende"
     ]
   },
   {
@@ -5163,7 +5910,8 @@
     "tags": [
       "blad",
       "vallend",
-      "vallende bladeren"
+      "vallende bladeren",
+      "vallend blad"
     ]
   },
   {
@@ -5173,7 +5921,10 @@
       "blad in de wind",
       "waaiend",
       "waait",
-      "wind"
+      "wind",
+      "waaien",
+      "wapperen",
+      "blad wappert in de wind"
     ]
   },
   {
@@ -5211,7 +5962,8 @@
     "tags": [
       "citroen",
       "citrus",
-      "fruit"
+      "fruit",
+      "citrusvrucht"
     ]
   },
   {
@@ -5242,7 +5994,8 @@
       "appel",
       "fruit",
       "rode appel",
-      "rood"
+      "rood",
+      "rode"
     ]
   },
   {
@@ -5251,7 +6004,8 @@
       "appel",
       "fruit",
       "groen",
-      "groene appel"
+      "groene appel",
+      "groene"
     ]
   },
   {
@@ -5273,7 +6027,9 @@
     "tags": [
       "fruit",
       "kers",
-      "kersen"
+      "kersen",
+      "bessen",
+      "rode"
     ]
   },
   {
@@ -5281,7 +6037,8 @@
     "tags": [
       "aardbei",
       "bes",
-      "fruit"
+      "fruit",
+      "aardbij"
     ]
   },
   {
@@ -5291,7 +6048,10 @@
       "blauw",
       "blauwbes",
       "bosbes",
-      "bosbessen"
+      "bosbessen",
+      "blauwe bessen",
+      "blauwe",
+      "blauwe bes"
     ]
   },
   {
@@ -5299,7 +6059,8 @@
     "tags": [
       "fruit",
       "kiwi",
-      "voedsel"
+      "voedsel",
+      "eten"
     ]
   },
   {
@@ -5314,7 +6075,8 @@
     "emoji": "🫒",
     "tags": [
       "olijf",
-      "voedsel"
+      "voedsel",
+      "eten"
     ]
   },
   {
@@ -5322,7 +6084,8 @@
     "tags": [
       "kokosnoot",
       "palm",
-      "pina colada"
+      "pina colada",
+      "piña colada"
     ]
   },
   {
@@ -5330,7 +6093,8 @@
     "tags": [
       "avocado",
       "fruit",
-      "voedsel"
+      "voedsel",
+      "eten"
     ]
   },
   {
@@ -5345,7 +6109,8 @@
     "tags": [
       "aardappel",
       "groente",
-      "voedsel"
+      "voedsel",
+      "eten"
     ]
   },
   {
@@ -5353,7 +6118,8 @@
     "tags": [
       "groente",
       "voedsel",
-      "wortel"
+      "wortel",
+      "eten"
     ]
   },
   {
@@ -5361,7 +6127,10 @@
     "tags": [
       "kolf",
       "maïskolf",
-      "plant"
+      "plant",
+      "maïs",
+      "maiskolf",
+      "doolhof"
     ]
   },
   {
@@ -5369,7 +6138,8 @@
     "tags": [
       "heet",
       "hete peper",
-      "peper"
+      "peper",
+      "hete"
     ]
   },
   {
@@ -5387,7 +6157,8 @@
       "augurk",
       "groente",
       "komkommer",
-      "voedsel"
+      "voedsel",
+      "eten"
     ]
   },
   {
@@ -5435,7 +6206,9 @@
       "noot",
       "pinda",
       "pinda’s",
-      "voedsel"
+      "voedsel",
+      "eten",
+      "pinda's"
     ]
   },
   {
@@ -5457,7 +6230,11 @@
       "brood",
       "croissant",
       "frans",
-      "voedsel"
+      "voedsel",
+      "ontbijt",
+      "eten",
+      "Frans",
+      "rol"
     ]
   },
   {
@@ -5466,7 +6243,10 @@
       "brood",
       "frans",
       "stokbrood",
-      "voedsel"
+      "voedsel",
+      "baguette",
+      "Frans",
+      "eten"
     ]
   },
   {
@@ -5491,7 +6271,8 @@
     "tags": [
       "bagel",
       "bakkerij",
-      "spread"
+      "spread",
+      "ontbijt"
     ]
   },
   {
@@ -5501,7 +6282,10 @@
       "flensjes",
       "pannenkoek",
       "pannenkoeken",
-      "voedsel"
+      "voedsel",
+      "ontbijt",
+      "flensje",
+      "eten"
     ]
   },
   {
@@ -5509,7 +6293,10 @@
     "tags": [
       "ijzer",
       "wafel",
-      "weifelend"
+      "weifelend",
+      "ontbijt",
+      "wavel",
+      "wavelijzer"
     ]
   },
   {
@@ -5524,7 +6311,8 @@
     "tags": [
       "bot",
       "vlees",
-      "vlees met bot"
+      "vlees met bot",
+      "vlees op bot"
     ]
   },
   {
@@ -5534,7 +6322,8 @@
       "gevogelte",
       "kip",
       "kippenpoot",
-      "poot"
+      "poot",
+      "bout"
     ]
   },
   {
@@ -5552,7 +6341,9 @@
     "tags": [
       "bacon",
       "vlees",
-      "voedsel"
+      "voedsel",
+      "ontbijt",
+      "eten"
     ]
   },
   {
@@ -5567,7 +6358,8 @@
     "tags": [
       "frans",
       "frietjes",
-      "patat"
+      "patat",
+      "friet"
     ]
   },
   {
@@ -5575,7 +6367,9 @@
     "tags": [
       "kaas",
       "pizzapunt",
-      "punt"
+      "punt",
+      "pizza",
+      "stuk"
     ]
   },
   {
@@ -5583,21 +6377,24 @@
     "tags": [
       "frankfurter",
       "hotdog",
-      "worst"
+      "worst",
+      "worstenbroodje"
     ]
   },
   {
     "emoji": "🥪",
     "tags": [
       "boterham",
-      "brood"
+      "brood",
+      "sandwich"
     ]
   },
   {
     "emoji": "🌮",
     "tags": [
       "mexicaans",
-      "taco"
+      "taco",
+      "Mexicaanse"
     ]
   },
   {
@@ -5605,7 +6402,8 @@
     "tags": [
       "burrito",
       "mexicaans",
-      "wrap"
+      "wrap",
+      "Mexicaanse"
     ]
   },
   {
@@ -5613,7 +6411,9 @@
     "tags": [
       "gevuld",
       "Mexicaans",
-      "tamale"
+      "tamale",
+      "Mexicaanse",
+      "opgerold"
     ]
   },
   {
@@ -5625,7 +6425,11 @@
       "gyro",
       "kebab",
       "pitabrood",
-      "voedsel"
+      "voedsel",
+      "platbrood",
+      "gyros",
+      "eten",
+      "pita"
     ]
   },
   {
@@ -5640,7 +6444,9 @@
     "emoji": "🥚",
     "tags": [
       "ei",
-      "voedsel"
+      "voedsel",
+      "ontbijt",
+      "eten"
     ]
   },
   {
@@ -5650,7 +6456,9 @@
       "ei",
       "koekenpan",
       "koken",
-      "ontbijt"
+      "ontbijt",
+      "frituren",
+      "pan"
     ]
   },
   {
@@ -5661,14 +6469,19 @@
       "paellapan",
       "pan",
       "voedsel",
-      "wok"
+      "wok",
+      "eten",
+      "wokpan"
     ]
   },
   {
     "emoji": "🍲",
     "tags": [
       "eenpansgerecht",
-      "stoofschotel"
+      "stoofschotel",
+      "pot",
+      "pot met eten",
+      "soep"
     ]
   },
   {
@@ -5679,7 +6492,11 @@
       "gesmolten",
       "kaas",
       "pan",
-      "Zwitsers"
+      "Zwitsers",
+      "kaasfondue",
+      "chocoladefondue",
+      "pot",
+      "Zwitserse"
     ]
   },
   {
@@ -5688,7 +6505,10 @@
       "cornflakes",
       "kom met lepel",
       "muesli",
-      "ontbijt"
+      "ontbijt",
+      "pot met lepel",
+      "rijstepap",
+      "ontbijtgranen"
     ]
   },
   {
@@ -5697,7 +6517,9 @@
       "groen",
       "groene salade",
       "salade",
-      "voedsel"
+      "voedsel",
+      "eten",
+      "groene"
     ]
   },
   {
@@ -5725,7 +6547,8 @@
     "emoji": "🥫",
     "tags": [
       "blik",
-      "blikvoedsel"
+      "blikvoedsel",
+      "eten uit blik"
     ]
   },
   {
@@ -5750,7 +6573,8 @@
       "balletje",
       "japans",
       "rijst",
-      "rijstballetje"
+      "rijstballetje",
+      "Japans"
     ]
   },
   {
@@ -5758,7 +6582,8 @@
     "tags": [
       "gekookt",
       "gekookte rijst",
-      "rijst"
+      "rijst",
+      "gekookte"
     ]
   },
   {
@@ -5776,7 +6601,9 @@
       "dampende kom",
       "kom",
       "noedels",
-      "ramen"
+      "ramen",
+      "noedel",
+      "stomen"
     ]
   },
   {
@@ -5792,7 +6619,9 @@
       "aardappel",
       "gepoft",
       "gepofte zoete aardappel",
-      "zoet"
+      "zoet",
+      "geroosterde",
+      "zoetigheid"
     ]
   },
   {
@@ -5802,7 +6631,8 @@
       "oden",
       "spies",
       "stokje",
-      "zeevruchten"
+      "zeevruchten",
+      "stok"
     ]
   },
   {
@@ -5827,7 +6657,8 @@
       "krul",
       "vis",
       "viskoekje",
-      "viskoekje met krul"
+      "viskoekje met krul",
+      "gebak"
     ]
   },
   {
@@ -5847,7 +6678,11 @@
       "japans",
       "spies",
       "stokje",
-      "zoet"
+      "zoet",
+      "nagerecht",
+      "Japans",
+      "stok",
+      "zoetigheid"
     ]
   },
   {
@@ -5857,7 +6692,9 @@
       "gyoza",
       "jiaozi",
       "knoedel",
-      "pirog"
+      "pirog",
+      "gyōza",
+      "potsticker"
     ]
   },
   {
@@ -5879,7 +6716,9 @@
     "tags": [
       "krab",
       "kreeft",
-      "sterrenbeeld"
+      "sterrenbeeld",
+      "Kreeft",
+      "dierenriem"
     ]
   },
   {
@@ -5897,7 +6736,8 @@
       "garnaal",
       "klein",
       "schaaldier",
-      "voedsel"
+      "voedsel",
+      "eten"
     ]
   },
   {
@@ -5906,7 +6746,8 @@
       "calamaris",
       "inktvis",
       "voedsel",
-      "weekdier"
+      "weekdier",
+      "eten"
     ]
   },
   {
@@ -5925,7 +6766,11 @@
       "roomijs",
       "softijs",
       "zacht",
-      "zoet"
+      "zoet",
+      "slagroom",
+      "nagerecht",
+      "soft",
+      "zoetigheid"
     ]
   },
   {
@@ -5934,7 +6779,9 @@
       "dessert",
       "geschaafd",
       "ijs",
-      "zoet"
+      "zoet",
+      "nagerecht",
+      "zoetigheid"
     ]
   },
   {
@@ -5943,7 +6790,9 @@
       "dessert",
       "ijs",
       "room",
-      "zoet"
+      "zoet",
+      "nagerecht",
+      "zoetigheid"
     ]
   },
   {
@@ -5951,7 +6800,10 @@
     "tags": [
       "dessert",
       "donut",
-      "zoet"
+      "zoet",
+      "ontbijt",
+      "nagerecht",
+      "zoetigheid"
     ]
   },
   {
@@ -5959,7 +6811,11 @@
     "tags": [
       "dessert",
       "koekje",
-      "zoet"
+      "zoet",
+      "koek",
+      "nagerecht",
+      "chocolade",
+      "zoetigheid"
     ]
   },
   {
@@ -5971,7 +6827,10 @@
       "taart",
       "verjaardag",
       "verjaardagstaart",
-      "zoet"
+      "zoet",
+      "nagerecht",
+      "viering",
+      "zoetigheid"
     ]
   },
   {
@@ -5982,7 +6841,10 @@
       "gebak",
       "plak",
       "taart",
-      "zoet"
+      "zoet",
+      "nagerecht",
+      "plakje",
+      "zoetigheid"
     ]
   },
   {
@@ -5990,7 +6852,8 @@
     "tags": [
       "bakkerij",
       "cupcake",
-      "zoet"
+      "zoet",
+      "zoetigheid"
     ]
   },
   {
@@ -5998,7 +6861,8 @@
     "tags": [
       "gebakje",
       "taart",
-      "vulling"
+      "vulling",
+      "gebak"
     ]
   },
   {
@@ -6008,7 +6872,9 @@
       "chocoladereep",
       "dessert",
       "reep",
-      "zoet"
+      "zoet",
+      "zoetigheid",
+      "nagerecht"
     ]
   },
   {
@@ -6016,7 +6882,9 @@
     "tags": [
       "dessert",
       "snoep",
-      "zoet"
+      "zoet",
+      "nagerecht",
+      "zoetigheid"
     ]
   },
   {
@@ -6025,7 +6893,9 @@
       "dessert",
       "lolly",
       "snoep",
-      "zoet"
+      "zoet",
+      "nagerecht",
+      "zoetigheid"
     ]
   },
   {
@@ -6034,7 +6904,9 @@
       "dessert",
       "pudding",
       "vla",
-      "zoet"
+      "zoet",
+      "nagerecht",
+      "zoetigheid"
     ]
   },
   {
@@ -6043,7 +6915,9 @@
       "honing",
       "honingpot",
       "pot",
-      "zoet"
+      "zoet",
+      "oning",
+      "zoetigheid"
     ]
   },
   {
@@ -6053,7 +6927,8 @@
       "babyflesje",
       "drinken",
       "flesje",
-      "melk"
+      "melk",
+      "fles"
     ]
   },
   {
@@ -6061,7 +6936,9 @@
     "tags": [
       "drank",
       "glas",
-      "melk"
+      "melk",
+      "drinken",
+      "glas melk"
     ]
   },
   {
@@ -6073,7 +6950,10 @@
       "stomend",
       "thee",
       "warm",
-      "warme drank"
+      "warme drank",
+      "drank",
+      "heet",
+      "stomende"
     ]
   },
   {
@@ -6093,7 +6973,10 @@
       "kop",
       "thee",
       "theekopje",
-      "theekopje zonder oor"
+      "theekopje zonder oor",
+      "drank",
+      "theekop",
+      "theekop zonder oor"
     ]
   },
   {
@@ -6104,7 +6987,9 @@
       "drinken",
       "fles",
       "kopje",
-      "sake"
+      "sake",
+      "drank",
+      "kop"
     ]
   },
   {
@@ -6126,7 +7011,8 @@
       "drinken",
       "glas",
       "wijn",
-      "wijnglas"
+      "wijnglas",
+      "drank"
     ]
   },
   {
@@ -6166,7 +7052,9 @@
       "drinken",
       "glas",
       "klinkende bierglazen",
-      "proosten"
+      "proosten",
+      "proost",
+      "bierglas"
     ]
   },
   {
@@ -6176,7 +7064,8 @@
       "glas",
       "klinken",
       "klinkende glazen",
-      "vieren"
+      "vieren",
+      "proost"
     ]
   },
   {
@@ -6188,7 +7077,9 @@
       "tumbler",
       "tumblerglas",
       "whiskey",
-      "whisky"
+      "whisky",
+      "likeur",
+      "shot"
     ]
   },
   {
@@ -6196,7 +7087,8 @@
     "tags": [
       "beker met rietje",
       "frisdrank",
-      "sap"
+      "sap",
+      "kop met rietje"
     ]
   },
   {
@@ -6206,7 +7098,8 @@
       "bubbelthee",
       "melk",
       "parel",
-      "thee"
+      "thee",
+      "bubbe"
     ]
   },
   {
@@ -6217,14 +7110,17 @@
       "pakje drinken",
       "rietje",
       "sap",
-      "zoet"
+      "zoet",
+      "drank",
+      "zoetigheid"
     ]
   },
   {
     "emoji": "🧉",
     "tags": [
       "drank",
-      "maté"
+      "maté",
+      "drinken"
     ]
   },
   {
@@ -6232,14 +7128,17 @@
     "tags": [
       "ijsberg",
       "ijsklontje",
-      "koud"
+      "koud",
+      "ijs",
+      "iijsblokje"
     ]
   },
   {
     "emoji": "🥢",
     "tags": [
       "chopsticks",
-      "eetstokjes"
+      "eetstokjes",
+      "stokjes"
     ]
   },
   {
@@ -6249,7 +7148,9 @@
       "koken",
       "mes",
       "mes en vork met bord",
-      "vork"
+      "vork",
+      "oken",
+      "vork en mes met bord"
     ]
   },
   {
@@ -6258,7 +7159,9 @@
       "koken",
       "mes",
       "mes en vork",
-      "vork"
+      "vork",
+      "bestek",
+      "vork en mes"
     ]
   },
   {
@@ -6275,7 +7178,9 @@
       "keukenmes",
       "koken",
       "mes",
-      "wapen"
+      "wapen",
+      "hochomes",
+      "gereedschap"
     ]
   },
   {
@@ -6286,7 +7191,10 @@
       "koken",
       "kruik",
       "sterrenbeeld",
-      "waterman"
+      "waterman",
+      "amphora",
+      "Waterman",
+      "dierenriem"
     ]
   },
   {
@@ -6297,7 +7205,9 @@
       "Europa",
       "wereld",
       "wereldbol",
-      "wereldbol met Europa-Afrika"
+      "wereldbol met Europa-Afrika",
+      "aardbol",
+      "wereldbol waarop Europa en Afrika te zien zijn"
     ]
   },
   {
@@ -6307,7 +7217,10 @@
       "Noord- en Zuid-Amerika",
       "wereld",
       "wereldbol",
-      "wereldbol met Noord- en Zuid-Amerika"
+      "wereldbol met Noord- en Zuid-Amerika",
+      "Amerika",
+      "wereldbol waarop Noord- en Zuid-Amerika te zien zijn",
+      "aardbol"
     ]
   },
   {
@@ -6318,7 +7231,9 @@
       "Azië",
       "wereld",
       "wereldbol",
-      "wereldbol met Azië-Australië"
+      "wereldbol met Azië-Australië",
+      "aardbol",
+      "wereldbol waarop Azië en Oceanië te zien zijn"
     ]
   },
   {
@@ -6328,7 +7243,8 @@
       "meridianen",
       "wereld",
       "wereldbol",
-      "wereldbol met meridianen"
+      "wereldbol met meridianen",
+      "aardbol"
     ]
   },
   {
@@ -6353,7 +7269,8 @@
       "kompas",
       "magnetisch",
       "navigatie",
-      "oriëntatielopen"
+      "oriëntatielopen",
+      "oriënteren"
     ]
   },
   {
@@ -6362,7 +7279,8 @@
       "berg",
       "berg met besneeuwde toppen",
       "koud",
-      "sneeuw"
+      "sneeuw",
+      "berg met sneeuwtop"
     ]
   },
   {
@@ -6376,20 +7294,25 @@
     "tags": [
       "berg",
       "vulkaan",
-      "vulkaanuitbarsting"
+      "vulkaanuitbarsting",
+      "uitbarsting",
+      "volcaan"
     ]
   },
   {
     "emoji": "🗻",
     "tags": [
       "berg",
-      "Fuji"
+      "Fuji",
+      "fuji",
+      "fuji-berg"
     ]
   },
   {
     "emoji": "🏕️",
     "tags": [
-      "kamperen"
+      "kamperen",
+      "camping"
     ]
   },
   {
@@ -6397,7 +7320,8 @@
     "tags": [
       "parasol",
       "strand",
-      "strand met parasol"
+      "strand met parasol",
+      "strad"
     ]
   },
   {
@@ -6410,7 +7334,9 @@
     "emoji": "🏝️",
     "tags": [
       "eiland",
-      "onbewoond"
+      "onbewoond",
+      "woestijn",
+      "ijland"
     ]
   },
   {
@@ -6423,21 +7349,24 @@
   {
     "emoji": "🏟️",
     "tags": [
-      "stadion"
+      "stadion",
+      "stadium"
     ]
   },
   {
     "emoji": "🏛️",
     "tags": [
       "klassiek",
-      "klassiek gebouw"
+      "klassiek gebouw",
+      "klassiek bouwerk"
     ]
   },
   {
     "emoji": "🏗️",
     "tags": [
       "bouw",
-      "woningbouw"
+      "woningbouw",
+      "constructie"
     ]
   },
   {
@@ -6447,7 +7376,9 @@
       "bakstenen",
       "cement",
       "klei",
-      "muur"
+      "muur",
+      "mortel",
+      "klein"
     ]
   },
   {
@@ -6455,7 +7386,9 @@
     "tags": [
       "rots",
       "rotsblok",
-      "steen"
+      "steen",
+      "zwaar",
+      "solide"
     ]
   },
   {
@@ -6464,7 +7397,8 @@
       "balk",
       "boomstam",
       "hout",
-      "timmerhout"
+      "timmerhout",
+      "houtblok"
     ]
   },
   {
@@ -6517,7 +7451,8 @@
     "tags": [
       "Japans",
       "Japans postkantoor",
-      "post"
+      "post",
+      "Japanse postbus"
     ]
   },
   {
@@ -6525,7 +7460,8 @@
     "tags": [
       "Europees",
       "post",
-      "postkantoor"
+      "postkantoor",
+      "europees"
     ]
   },
   {
@@ -6533,7 +7469,9 @@
     "tags": [
       "dokter",
       "medicijnen",
-      "ziekenhuis"
+      "ziekenhuis",
+      "huisarts",
+      "medicijn"
     ]
   },
   {
@@ -6563,7 +7501,8 @@
     "tags": [
       "boodschappen",
       "supermarkt",
-      "winkel"
+      "winkel",
+      "gemak"
     ]
   },
   {
@@ -6578,7 +7517,8 @@
     "tags": [
       "warenhuis",
       "winkel",
-      "winkelen"
+      "winkelen",
+      "departement"
     ]
   },
   {
@@ -6599,7 +7539,8 @@
     "emoji": "🏰",
     "tags": [
       "europees",
-      "kasteel"
+      "kasteel",
+      "Europees"
     ]
   },
   {
@@ -6607,7 +7548,9 @@
     "tags": [
       "bruiloft",
       "kapel",
-      "romantiek"
+      "romantiek",
+      "romantisch",
+      "huwlijk"
     ]
   },
   {
@@ -6615,7 +7558,8 @@
     "tags": [
       "Tokio",
       "Tokio-toren",
-      "toren"
+      "toren",
+      "Tokyo"
     ]
   },
   {
@@ -6623,7 +7567,9 @@
     "tags": [
       "beeld",
       "vrijheid",
-      "vrijheidsbeeld"
+      "vrijheidsbeeld",
+      "standbeeld",
+      "Vrijheidsbeeld"
     ]
   },
   {
@@ -6632,7 +7578,9 @@
       "christelijk",
       "geloof",
       "kerk",
-      "kruis"
+      "kruis",
+      "christen",
+      "religie"
     ]
   },
   {
@@ -6641,7 +7589,8 @@
       "geloof",
       "islam",
       "moskee",
-      "moslim"
+      "moslim",
+      "religie"
     ]
   },
   {
@@ -6659,7 +7608,8 @@
       "jood",
       "joods",
       "synagoge",
-      "tempel"
+      "tempel",
+      "religie"
     ]
   },
   {
@@ -6668,7 +7618,8 @@
       "geloof",
       "shinto",
       "shinto-tempel",
-      "tempel"
+      "tempel",
+      "religie"
     ]
   },
   {
@@ -6677,7 +7628,8 @@
       "geloof",
       "islam",
       "kaäba",
-      "moslim"
+      "moslim",
+      "religie"
     ]
   },
   {
@@ -6690,7 +7642,8 @@
     "emoji": "⛺",
     "tags": [
       "kamperen",
-      "tent"
+      "tent",
+      "camping"
     ]
   },
   {
@@ -6705,14 +7658,17 @@
     "tags": [
       "nacht",
       "sterren",
-      "sterrenhemel"
+      "sterrenhemel",
+      "nacht met sterren",
+      "ster"
     ]
   },
   {
     "emoji": "🏙️",
     "tags": [
       "stad",
-      "stadsgezicht"
+      "stadsgezicht",
+      "stadslandschap"
     ]
   },
   {
@@ -6722,7 +7678,10 @@
       "ochtend",
       "zon",
       "zonsopgang",
-      "zonsopgang in de bergen"
+      "zonsopgang in de bergen",
+      "morgen",
+      "zonsopkomst",
+      "zonsopkomst boven bergen"
     ]
   },
   {
@@ -6730,7 +7689,8 @@
     "tags": [
       "ochtend",
       "zon",
-      "zonsopgang"
+      "zonsopgang",
+      "zonsopkomst"
     ]
   },
   {
@@ -6741,7 +7701,9 @@
       "schemer",
       "stad",
       "stad bij schemering",
-      "zonsondergang"
+      "zonsondergang",
+      "stadslandschap bij zonsopkomst",
+      "zonsopkomst"
     ]
   },
   {
@@ -6749,7 +7711,8 @@
     "tags": [
       "schemer",
       "zon",
-      "zonsondergang"
+      "zonsondergang",
+      "zonsopkomst"
     ]
   },
   {
@@ -6757,7 +7720,8 @@
     "tags": [
       "brug",
       "brug bij nacht",
-      "nacht"
+      "nacht",
+      "brug in de nacht"
     ]
   },
   {
@@ -6782,7 +7746,8 @@
     "tags": [
       "pretpark",
       "rad",
-      "reuzenrad"
+      "reuzenrad",
+      "attractiepark"
     ]
   },
   {
@@ -6790,7 +7755,9 @@
     "tags": [
       "achtbaan",
       "baan",
-      "pretpark"
+      "pretpark",
+      "attractiepark",
+      "coaster"
     ]
   },
   {
@@ -6799,7 +7766,9 @@
       "kapper",
       "kapperspaal",
       "kapsel",
-      "paal"
+      "paal",
+      "haar knippen",
+      "pool"
     ]
   },
   {
@@ -6817,7 +7786,8 @@
       "spoor",
       "stoom",
       "trein",
-      "voertuig"
+      "voertuig",
+      "motor"
     ]
   },
   {
@@ -6829,7 +7799,8 @@
       "trein",
       "treinwagon",
       "trolleybus",
-      "wagon"
+      "wagon",
+      "auto"
     ]
   },
   {
@@ -6839,7 +7810,9 @@
       "shinkansen",
       "snelheid",
       "spoor",
-      "trein"
+      "trein",
+      "hoogesnelheidstrein",
+      "kogeltrein"
     ]
   },
   {
@@ -6850,7 +7823,9 @@
       "Shinkansen",
       "snelheid",
       "spoorweg",
-      "trein"
+      "trein",
+      "kogel",
+      "spoor"
     ]
   },
   {
@@ -6879,14 +7854,16 @@
     "tags": [
       "spoor",
       "trein",
-      "treinstation"
+      "treinstation",
+      "station"
     ]
   },
   {
     "emoji": "🚊",
     "tags": [
       "tram",
-      "trolleybus"
+      "trolleybus",
+      "trein"
     ]
   },
   {
@@ -6902,7 +7879,8 @@
       "berg",
       "bergspoor",
       "spoor",
-      "wagon"
+      "wagon",
+      "auto"
     ]
   },
   {
@@ -6911,7 +7889,8 @@
       "tram",
       "tramwagon",
       "trolleybus",
-      "wagon"
+      "wagon",
+      "auto"
     ]
   },
   {
@@ -6926,7 +7905,8 @@
     "tags": [
       "bus",
       "naderend",
-      "naderende bus"
+      "naderende bus",
+      "arriverend"
     ]
   },
   {
@@ -6958,7 +7938,10 @@
       "auto",
       "brand",
       "brandweerauto",
-      "voertuig"
+      "voertuig",
+      "motor",
+      "vuur",
+      "vrachtwagen"
     ]
   },
   {
@@ -6967,7 +7950,8 @@
       "auto",
       "politie",
       "politieauto",
-      "politiewagen"
+      "politiewagen",
+      "patrouille"
     ]
   },
   {
@@ -6976,7 +7960,8 @@
       "auto",
       "naderend",
       "naderende politieauto",
-      "politie"
+      "politie",
+      "arriverend"
     ]
   },
   {
@@ -6991,7 +7976,8 @@
     "tags": [
       "naderend",
       "naderende taxi",
-      "taxi"
+      "taxi",
+      "arriverend"
     ]
   },
   {
@@ -7007,7 +7993,8 @@
       "auto",
       "automobiel",
       "naderend",
-      "naderende auto"
+      "naderende auto",
+      "arriverend"
     ]
   },
   {
@@ -7016,7 +8003,10 @@
       "auto",
       "kampeerauto",
       "SUV",
-      "voertuig"
+      "voertuig",
+      "recreatie",
+      "terreinwagen",
+      "sportieve terreinwagen"
     ]
   },
   {
@@ -7024,7 +8014,9 @@
     "tags": [
       "bestelbak",
       "laadbakwagen",
-      "pick-up"
+      "pick-up",
+      "pickup",
+      "laadbak"
     ]
   },
   {
@@ -7032,7 +8024,8 @@
     "tags": [
       "bestelbus",
       "bezorging",
-      "bus"
+      "bus",
+      "bezorgen"
     ]
   },
   {
@@ -7063,7 +8056,8 @@
     "emoji": "🏍️",
     "tags": [
       "motor",
-      "racen"
+      "racen",
+      "race"
     ]
   },
   {
@@ -7078,21 +8072,25 @@
     "emoji": "🦽",
     "tags": [
       "rolstoel",
-      "toegankelijkheid"
+      "toegankelijkheid",
+      "handmatige rolstoel"
     ]
   },
   {
     "emoji": "🦼",
     "tags": [
       "elektrische rolstoel",
-      "toegankelijkheid"
+      "toegankelijkheid",
+      "gemotoriseerde rolstoel"
     ]
   },
   {
     "emoji": "🛺",
     "tags": [
       "rik­sja",
-      "tuktuk"
+      "tuktuk",
+      "riksja",
+      "tuk tuk"
     ]
   },
   {
@@ -7107,21 +8105,26 @@
     "tags": [
       "autoped",
       "step",
-      "steppen"
+      "steppen",
+      "scooter"
     ]
   },
   {
     "emoji": "🛹",
     "tags": [
       "deck",
-      "skateboard"
+      "skateboard",
+      "bord",
+      "skatebord"
     ]
   },
   {
     "emoji": "🛼",
     "tags": [
       "rollerskate",
-      "rolschaats"
+      "rolschaats",
+      "roller",
+      "schaats"
     ]
   },
   {
@@ -7129,7 +8132,8 @@
     "tags": [
       "bus",
       "bushalte",
-      "halte"
+      "halte",
+      "stop"
     ]
   },
   {
@@ -7137,7 +8141,8 @@
     "tags": [
       "autosnelweg",
       "snelweg",
-      "weg"
+      "weg",
+      "autoweg"
     ]
   },
   {
@@ -7145,7 +8150,8 @@
     "tags": [
       "spoor",
       "trein",
-      "treinspoor"
+      "treinspoor",
+      "rail"
     ]
   },
   {
@@ -7164,7 +8170,10 @@
       "benzinestation",
       "brandstof",
       "pomp",
-      "station"
+      "station",
+      "diesel",
+      "gas",
+      "brandstofpomp"
     ]
   },
   {
@@ -7175,7 +8184,13 @@
       "licht",
       "politie",
       "sein",
-      "zwaailicht van politieauto"
+      "zwaailicht van politieauto",
+      "baken",
+      "zwaai",
+      "alert",
+      "alarm",
+      "ongeval",
+      "siren"
     ]
   },
   {
@@ -7184,7 +8199,8 @@
       "horizontaal verkeerslicht",
       "licht",
       "verkeer",
-      "verkeerslichten"
+      "verkeerslichten",
+      "signaal"
     ]
   },
   {
@@ -7193,7 +8209,8 @@
       "licht",
       "verkeer",
       "verkeerslichten",
-      "verticaal verkeerslicht"
+      "verticaal verkeerslicht",
+      "signaal"
     ]
   },
   {
@@ -7210,7 +8227,8 @@
     "emoji": "🚧",
     "tags": [
       "barricade",
-      "bouwwerkzaamheden"
+      "bouwwerkzaamheden",
+      "bouw"
     ]
   },
   {
@@ -7218,7 +8236,8 @@
     "tags": [
       "anker",
       "hulpmiddel",
-      "schip"
+      "schip",
+      "gereedschap"
     ]
   },
   {
@@ -7228,7 +8247,9 @@
       "jacht",
       "jachthaven",
       "zee",
-      "zeilboot"
+      "zeilboot",
+      "resort",
+      "zeilschip"
     ]
   },
   {
@@ -7242,7 +8263,8 @@
     "emoji": "🚤",
     "tags": [
       "boot",
-      "speedboot"
+      "speedboot",
+      "motorboot"
     ]
   },
   {
@@ -7288,7 +8310,9 @@
     "tags": [
       "vliegmachine",
       "vliegtuig",
-      "vliegtuigje"
+      "vliegtuigje",
+      "luchtvaartuig",
+      "klein vliegtuig"
     ]
   },
   {
@@ -7299,7 +8323,9 @@
       "vertrek van vliegtuig",
       "vertrekken",
       "vliegmachine",
-      "vliegtuig"
+      "vliegtuig",
+      "luchtvaartuig",
+      "vertrekkend"
     ]
   },
   {
@@ -7310,7 +8336,10 @@
       "aankomst van vliegtuig",
       "landen",
       "vliegmachine",
-      "vliegtuig"
+      "vliegtuig",
+      "luchtvaartuig",
+      "aankomst vlucht",
+      "landing"
     ]
   },
   {
@@ -7319,13 +8348,16 @@
       "hanggliden",
       "parachute",
       "parasailen",
-      "skydiven"
+      "skydiven",
+      "deltavliegen",
+      "parasail"
     ]
   },
   {
     "emoji": "💺",
     "tags": [
-      "stoel"
+      "stoel",
+      "zitting"
     ]
   },
   {
@@ -7340,7 +8372,8 @@
     "tags": [
       "spoor",
       "zweeftrein",
-      "zwevend"
+      "zwevend",
+      "ophanging"
     ]
   },
   {
@@ -7349,7 +8382,8 @@
       "berg",
       "bergkabelbaan",
       "gondel",
-      "kabel"
+      "kabel",
+      "gondellift"
     ]
   },
   {
@@ -7359,7 +8393,9 @@
       "gondel",
       "kabel",
       "kabelbaan",
-      "transportbaan"
+      "transportbaan",
+      "gondellift",
+      "bakje"
     ]
   },
   {
@@ -7373,14 +8409,16 @@
     "emoji": "🚀",
     "tags": [
       "raket",
-      "ruimte"
+      "ruimte",
+      "ruimtevaartuig"
     ]
   },
   {
     "emoji": "🛸",
     "tags": [
       "ufo",
-      "vliegende schotel"
+      "vliegende schotel",
+      "UFO"
     ]
   },
   {
@@ -7397,7 +8435,8 @@
     "tags": [
       "bagage",
       "inpakken",
-      "reizen"
+      "reizen",
+      "verpakking"
     ]
   },
   {
@@ -7405,7 +8444,9 @@
     "tags": [
       "timer",
       "zand",
-      "zandloper"
+      "zandloper",
+      "afgelopen zandloper",
+      "tijd"
     ]
   },
   {
@@ -7414,7 +8455,9 @@
       "timer",
       "zand",
       "zandloper",
-      "zandloper met stromend zand"
+      "zandloper met stromend zand",
+      "lopende zandloper",
+      "tijdspanne"
     ]
   },
   {
@@ -7444,13 +8487,15 @@
     "tags": [
       "keukenwekker",
       "klok",
-      "timer"
+      "timer",
+      "tijdspanne"
     ]
   },
   {
     "emoji": "🕰️",
     "tags": [
-      "klok"
+      "klok",
+      "haardklok"
     ]
   },
   {
@@ -7461,7 +8506,9 @@
       "12:00",
       "klok",
       "twaalf",
-      "uur"
+      "uur",
+      "0",
+      "twaaf"
     ]
   },
   {
@@ -7472,7 +8519,9 @@
       "30",
       "dertig",
       "half één",
-      "twaalf"
+      "twaalf",
+      "half",
+      "klok"
     ]
   },
   {
@@ -7483,7 +8532,8 @@
       "1:00",
       "één",
       "klok",
-      "uur"
+      "uur",
+      "0"
     ]
   },
   {
@@ -7494,7 +8544,8 @@
       "dertig",
       "één",
       "half twee",
-      "klok"
+      "klok",
+      "half"
     ]
   },
   {
@@ -7505,7 +8556,9 @@
       "2:00",
       "klok",
       "twee",
-      "uur"
+      "uur",
+      "0",
+      "ur"
     ]
   },
   {
@@ -7516,7 +8569,8 @@
       "dertig",
       "half drie",
       "klok",
-      "twee"
+      "twee",
+      "half"
     ]
   },
   {
@@ -7527,7 +8581,8 @@
       "3:00",
       "drie",
       "klok",
-      "uur"
+      "uur",
+      "0"
     ]
   },
   {
@@ -7538,7 +8593,8 @@
       "dertig",
       "drie",
       "half vier",
-      "klok"
+      "klok",
+      "half"
     ]
   },
   {
@@ -7549,7 +8605,8 @@
       "4:00",
       "klok",
       "uur",
-      "vier"
+      "vier",
+      "0"
     ]
   },
   {
@@ -7560,7 +8617,8 @@
       "dertig",
       "half vijf",
       "klok",
-      "vier"
+      "vier",
+      "half"
     ]
   },
   {
@@ -7571,7 +8629,8 @@
       "5:00",
       "klok",
       "uur",
-      "vijf"
+      "vijf",
+      "0"
     ]
   },
   {
@@ -7582,7 +8641,8 @@
       "dertig",
       "half zes",
       "klok",
-      "vijf"
+      "vijf",
+      "half"
     ]
   },
   {
@@ -7593,7 +8653,8 @@
       "6:00",
       "klok",
       "uur",
-      "zes"
+      "zes",
+      "0"
     ]
   },
   {
@@ -7604,7 +8665,8 @@
       "dertig",
       "half zeven",
       "klok",
-      "zes"
+      "zes",
+      "half"
     ]
   },
   {
@@ -7615,7 +8677,8 @@
       "7:00",
       "klok",
       "uur",
-      "zeven"
+      "zeven",
+      "0"
     ]
   },
   {
@@ -7626,7 +8689,8 @@
       "dertig",
       "half acht",
       "klok",
-      "zeven"
+      "zeven",
+      "half"
     ]
   },
   {
@@ -7637,7 +8701,8 @@
       "8:00",
       "acht",
       "klok",
-      "uur"
+      "uur",
+      "0"
     ]
   },
   {
@@ -7648,7 +8713,8 @@
       "acht",
       "dertig",
       "half negen",
-      "klok"
+      "klok",
+      "half"
     ]
   },
   {
@@ -7659,7 +8725,8 @@
       "9:00",
       "klok",
       "negen",
-      "uur"
+      "uur",
+      "0"
     ]
   },
   {
@@ -7670,7 +8737,8 @@
       "dertig",
       "half tien",
       "klok",
-      "negen"
+      "negen",
+      "half"
     ]
   },
   {
@@ -7681,7 +8749,8 @@
       "10:00",
       "klok",
       "tien",
-      "uur"
+      "uur",
+      "0"
     ]
   },
   {
@@ -7692,7 +8761,9 @@
       "dertig",
       "half elf",
       "klok",
-      "tien"
+      "tien",
+      "half 11",
+      "half"
     ]
   },
   {
@@ -7703,7 +8774,8 @@
       "11:00",
       "elf",
       "klok",
-      "uur"
+      "uur",
+      "0"
     ]
   },
   {
@@ -7714,7 +8786,8 @@
       "dertig",
       "elf",
       "half twaalf",
-      "klok"
+      "klok",
+      "half"
     ]
   },
   {
@@ -7731,7 +8804,8 @@
       "jonge maansikkel",
       "maan",
       "sikkel",
-      "wassend"
+      "wassend",
+      "wassende maan"
     ]
   },
   {
@@ -7748,7 +8822,8 @@
       "bolvormig",
       "maan",
       "wassend",
-      "wassende maan"
+      "wassende maan",
+      "bolvormige"
     ]
   },
   {
@@ -7756,7 +8831,8 @@
     "tags": [
       "maan",
       "vol",
-      "volle maan"
+      "volle maan",
+      "volle"
     ]
   },
   {
@@ -7765,7 +8841,8 @@
       "afnemend",
       "afnemende maan",
       "bolvormig",
-      "maan"
+      "maan",
+      "bolvormige"
     ]
   },
   {
@@ -7782,7 +8859,8 @@
       "afnemend",
       "asgrauwe maan",
       "maan",
-      "sikkel"
+      "sikkel",
+      "afnemende maan"
     ]
   },
   {
@@ -7807,7 +8885,8 @@
       "gezicht",
       "kwartier",
       "maan",
-      "maan met gezicht in eerste kwartier"
+      "maan met gezicht in eerste kwartier",
+      "maan in eerste kwartier met gezicht"
     ]
   },
   {
@@ -7816,7 +8895,8 @@
       "gezicht",
       "kwartier",
       "maan",
-      "maan met gezicht in laatste kwartier"
+      "maan met gezicht in laatste kwartier",
+      "maan in laatste kwartier met gezicht"
     ]
   },
   {
@@ -7842,7 +8922,8 @@
       "helder",
       "maan",
       "vol",
-      "volle maan met gezicht"
+      "volle maan met gezicht",
+      "voldaan"
     ]
   },
   {
@@ -7877,7 +8958,11 @@
       "schittering",
       "ster",
       "stralen",
-      "stralende ster"
+      "stralende ster",
+      "glitterende",
+      "gloed",
+      "stralende",
+      "gloeiende ster"
     ]
   },
   {
@@ -7886,7 +8971,9 @@
       "ster",
       "vallen",
       "vallend",
-      "vallende ster"
+      "vallende ster",
+      "vallende",
+      "schietende"
     ]
   },
   {
@@ -7917,7 +9004,8 @@
       "onweer",
       "regen",
       "wolk",
-      "wolk met bliksem en regen"
+      "wolk met bliksem en regen",
+      "donder"
     ]
   },
   {
@@ -7959,7 +9047,8 @@
       "koud",
       "sneeuw",
       "wolk",
-      "wolk met sneeuw"
+      "wolk met sneeuw",
+      "kou"
     ]
   },
   {
@@ -7975,7 +9064,8 @@
     "tags": [
       "tornado",
       "wervelwind",
-      "wolk"
+      "wolk",
+      "windhoos"
     ]
   },
   {
@@ -7992,7 +9082,8 @@
       "gezicht",
       "gezicht dat wind blaast",
       "wind",
-      "wolk"
+      "wolk",
+      "waaien"
     ]
   },
   {
@@ -8001,7 +9092,8 @@
       "cycloon",
       "duizelig",
       "twister",
-      "tyfoon"
+      "tyfoon",
+      "orkaan"
     ]
   },
   {
@@ -8017,7 +9109,8 @@
       "ingevouwen paraplu",
       "kleding",
       "paraplu",
-      "regen"
+      "regen",
+      "gesloten paraplu"
     ]
   },
   {
@@ -8035,7 +9128,8 @@
       "kleding",
       "paraplu",
       "paraplu met regendruppels",
-      "regen"
+      "regen",
+      "druppel"
     ]
   },
   {
@@ -8044,7 +9138,8 @@
       "parasol",
       "regen",
       "strandparasol",
-      "zon"
+      "zon",
+      "parasol op de grond"
     ]
   },
   {
@@ -8055,7 +9150,9 @@
       "gevaar",
       "hoog voltage",
       "schok",
-      "voltage"
+      "voltage",
+      "hoogspanning",
+      "spanning"
     ]
   },
   {
@@ -8080,7 +9177,8 @@
       "koud",
       "sneeuw",
       "sneeuwpop",
-      "sneeuwpop zonder sneeuwvlokken"
+      "sneeuwpop zonder sneeuwvlokken",
+      "sneeuwpop zonder sneeuw"
     ]
   },
   {
@@ -8095,7 +9193,8 @@
     "tags": [
       "hulpmiddel",
       "vlam",
-      "vuur"
+      "vuur",
+      "gereedschap"
     ]
   },
   {
@@ -8104,7 +9203,9 @@
       "druppel",
       "koud",
       "strip",
-      "zweet"
+      "zweet",
+      "kou",
+      "water"
     ]
   },
   {
@@ -8122,7 +9223,10 @@
       "halloween",
       "halloweenlantaarn",
       "lantaarn",
-      "pompoen"
+      "pompoen",
+      "viering",
+      "jack-o-lantaarn",
+      "jack"
     ]
   },
   {
@@ -8131,14 +9235,16 @@
       "boom",
       "kerstboom",
       "Kerstmis",
-      "viering"
+      "viering",
+      "kerst"
     ]
   },
   {
     "emoji": "🎆",
     "tags": [
       "feest",
-      "vuurwerk"
+      "vuurwerk",
+      "viering"
     ]
   },
   {
@@ -8147,7 +9253,9 @@
       "feest",
       "sterretje",
       "vuurwerk",
-      "vuurwerksterretje"
+      "vuurwerksterretje",
+      "viering",
+      "sterretjes"
     ]
   },
   {
@@ -8165,14 +9273,16 @@
       "*",
       "glinsteren",
       "ster",
-      "sterretjes"
+      "sterretjes",
+      "vonkje"
     ]
   },
   {
     "emoji": "🎈",
     "tags": [
       "ballon",
-      "feest"
+      "feest",
+      "viering"
     ]
   },
   {
@@ -8182,7 +9292,9 @@
       "feestknaller",
       "hoera",
       "knaller",
-      "viering"
+      "viering",
+      "tadaa",
+      "confetti"
     ]
   },
   {
@@ -8191,7 +9303,8 @@
       "bal",
       "confetti",
       "confettibal",
-      "viering"
+      "viering",
+      "feest"
     ]
   },
   {
@@ -8201,7 +9314,10 @@
       "feest",
       "japans",
       "papierlinten",
-      "tanabataboom"
+      "tanabataboom",
+      "banier",
+      "viering",
+      "Japans"
     ]
   },
   {
@@ -8211,7 +9327,10 @@
       "den",
       "dennenboomversiering",
       "feest",
-      "japans"
+      "japans",
+      "viering",
+      "Japans",
+      "denneboomversiering"
     ]
   },
   {
@@ -8221,7 +9340,9 @@
       "festival",
       "japans",
       "Japanse poppen",
-      "pop"
+      "pop",
+      "viering",
+      "Japans"
     ]
   },
   {
@@ -8230,7 +9351,9 @@
       "feest",
       "karper",
       "karperslinger",
-      "slinger"
+      "slinger",
+      "carper",
+      "viering"
     ]
   },
   {
@@ -8240,7 +9363,8 @@
       "feest",
       "klokkenspel",
       "wind",
-      "windorgel"
+      "windorgel",
+      "viering"
     ]
   },
   {
@@ -8249,7 +9373,8 @@
       "ceremonie",
       "feest",
       "maan",
-      "maanobservatieceremonie"
+      "maanobservatieceremonie",
+      "viering"
     ]
   },
   {
@@ -8267,7 +9392,9 @@
     "emoji": "🎀",
     "tags": [
       "feest",
-      "strik"
+      "strik",
+      "viering",
+      "lint"
     ]
   },
   {
@@ -8277,7 +9404,9 @@
       "cadeautje",
       "feest",
       "ingepakt",
-      "verpakking"
+      "verpakking",
+      "viering",
+      "gift"
     ]
   },
   {
@@ -8286,7 +9415,8 @@
       "bewustzijnslintje",
       "herinnering",
       "lintje",
-      "viering"
+      "viering",
+      "lint"
     ]
   },
   {
@@ -8294,14 +9424,18 @@
     "tags": [
       "entree",
       "entreekaartjes",
-      "kaartje"
+      "kaartje",
+      "toegang",
+      "toegangsbewijs"
     ]
   },
   {
     "emoji": "🎫",
     "tags": [
       "entree",
-      "ticket"
+      "ticket",
+      "toelating",
+      "kaartje"
     ]
   },
   {
@@ -8310,21 +9444,28 @@
       "medaille",
       "militair",
       "militaire medaille",
-      "viering"
+      "viering",
+      "militaire",
+      "award"
     ]
   },
   {
     "emoji": "🏆",
     "tags": [
       "prijs",
-      "trofee"
+      "trofee",
+      "onderscheiding",
+      "award",
+      "win"
     ]
   },
   {
     "emoji": "🏅",
     "tags": [
       "medaille",
-      "sportmedaille"
+      "sportmedaille",
+      "ster",
+      "win"
     ]
   },
   {
@@ -8334,7 +9475,12 @@
       "goud",
       "gouden",
       "medaille",
-      "medaille 1e plaats"
+      "medaille 1e plaats",
+      "1st plaats-medaille",
+      "1",
+      "award",
+      "onderscheiding",
+      "win"
     ]
   },
   {
@@ -8343,7 +9489,12 @@
       "medaille",
       "medaille 2e plaats",
       "tweede",
-      "zilver"
+      "zilver",
+      "2e plaats-medaille",
+      "2",
+      "award",
+      "onderscheiding",
+      "win"
     ]
   },
   {
@@ -8353,7 +9504,12 @@
       "bronzen",
       "derde",
       "medaille",
-      "medaille 3e plaats"
+      "medaille 3e plaats",
+      "3rde plaats-medaille",
+      "3",
+      "award",
+      "onderscheiding",
+      "win"
     ]
   },
   {
@@ -8384,7 +9540,8 @@
     "tags": [
       "bal",
       "basket",
-      "basketbal"
+      "basketbal",
+      "hoepel"
     ]
   },
   {
@@ -8392,7 +9549,9 @@
     "tags": [
       "bal",
       "volleybal",
-      "wedstrijd"
+      "wedstrijd",
+      "spel",
+      "volleyball"
     ]
   },
   {
@@ -8401,7 +9560,8 @@
       "american football",
       "amerikaans",
       "bal",
-      "football"
+      "football",
+      "rugbybal"
     ]
   },
   {
@@ -8409,7 +9569,8 @@
     "tags": [
       "bal",
       "rugby",
-      "voetbal"
+      "voetbal",
+      "rugbybal"
     ]
   },
   {
@@ -8417,14 +9578,16 @@
     "tags": [
       "bal",
       "tennis",
-      "tennisracket"
+      "tennisracket",
+      "racket"
     ]
   },
   {
     "emoji": "🥏",
     "tags": [
       "frisbee",
-      "ultiem"
+      "ultiem",
+      "discus"
     ]
   },
   {
@@ -8441,7 +9604,9 @@
       "bal",
       "bat",
       "cricket",
-      "wedstrijd"
+      "wedstrijd",
+      "knuppel",
+      "spel"
     ]
   },
   {
@@ -8451,7 +9616,9 @@
       "hockey",
       "stick",
       "veld",
-      "wedstrijd"
+      "wedstrijd",
+      "spel",
+      "hokeystick"
     ]
   },
   {
@@ -8462,7 +9629,10 @@
       "ijshockeystick en puck",
       "puck",
       "stick",
-      "wedstrijd"
+      "wedstrijd",
+      "spel",
+      "hockey",
+      "puk"
     ]
   },
   {
@@ -8482,7 +9652,10 @@
       "batje",
       "pingpong",
       "tafeltennis",
-      "wedstrijd"
+      "wedstrijd",
+      "pad",
+      "peddel",
+      "spel"
     ]
   },
   {
@@ -8492,7 +9665,8 @@
       "pluimbal",
       "racket",
       "shuttle",
-      "wedstrijd"
+      "wedstrijd",
+      "spel"
     ]
   },
   {
@@ -8500,7 +9674,8 @@
     "tags": [
       "boksen",
       "bokshandschoen",
-      "handschoen"
+      "handschoen",
+      "boxen"
     ]
   },
   {
@@ -8551,7 +9726,9 @@
       "duikbril",
       "duiken",
       "scubaduiken",
-      "snorkelen"
+      "snorkelen",
+      "duikmasker",
+      "scuba"
     ]
   },
   {
@@ -8561,7 +9738,8 @@
       "hardloopshirt",
       "hardlopen",
       "shirt",
-      "sjerp"
+      "sjerp",
+      "streep"
     ]
   },
   {
@@ -8569,7 +9747,8 @@
     "tags": [
       "ski",
       "ski’s",
-      "sneeuw"
+      "sneeuw",
+      "ski's"
     ]
   },
   {
@@ -8577,7 +9756,8 @@
     "tags": [
       "slede",
       "slee",
-      "sleetje"
+      "sleetje",
+      "sneeuwslee"
     ]
   },
   {
@@ -8585,7 +9765,9 @@
     "tags": [
       "curlingsteen",
       "kei",
-      "spel"
+      "spel",
+      "curling-steen",
+      "steen"
     ]
   },
   {
@@ -8596,7 +9778,12 @@
       "directe treffer",
       "doelwit",
       "spel",
-      "treffer"
+      "treffer",
+      "roos",
+      "pijltje",
+      "in de roos",
+      "raak",
+      "doel"
     ]
   },
   {
@@ -8623,7 +9810,8 @@
       "acht",
       "bal",
       "biljart",
-      "spel"
+      "spel",
+      "8 bal"
     ]
   },
   {
@@ -8633,7 +9821,13 @@
       "kristal",
       "kristallen bol",
       "waarzeggen",
-      "waarzeggerij"
+      "waarzeggerij",
+      "bal",
+      "cristal",
+      "fantasie",
+      "sprookje",
+      "voorspoed",
+      "gereedschap"
     ]
   },
   {
@@ -8642,7 +9836,9 @@
       "heks",
       "magie",
       "tovenaar",
-      "toverstok"
+      "toverstok",
+      "toveren",
+      "tovernaar"
     ]
   },
   {
@@ -8661,7 +9857,9 @@
     "tags": [
       "controller",
       "game",
-      "videogame"
+      "videogame",
+      "spel",
+      "videospel"
     ]
   },
   {
@@ -8669,14 +9867,18 @@
     "tags": [
       "game",
       "joystick",
-      "videogame"
+      "videogame",
+      "spel",
+      "stuurknuppel",
+      "videospel"
     ]
   },
   {
     "emoji": "🎰",
     "tags": [
       "fruitautomaat",
-      "spel"
+      "spel",
+      "sleuf"
     ]
   },
   {
@@ -8694,7 +9896,9 @@
       "gekoppeld",
       "legpuzzel",
       "puzzel",
-      "puzzelstukje"
+      "puzzelstukje",
+      "hint",
+      "stukje"
     ]
   },
   {
@@ -8721,7 +9925,10 @@
       "matroesjka",
       "pop",
       "poppetjes",
-      "rusland"
+      "rusland",
+      "in elkaar",
+      "Rusland",
+      "in elkaar passende poppen"
     ]
   },
   {
@@ -8793,7 +10000,9 @@
       "kaart",
       "speelkaarten",
       "spel",
-      "spelen"
+      "spelen",
+      "Japans",
+      "speel"
     ]
   },
   {
@@ -8815,7 +10024,8 @@
       "lijst",
       "lijst met afbeelding",
       "museum",
-      "schilderij"
+      "schilderij",
+      "omlijste afbeelding"
     ]
   },
   {
@@ -8825,7 +10035,8 @@
       "museum",
       "palet",
       "schilderij",
-      "schilderspalet"
+      "schilderspalet",
+      "schilderen"
     ]
   },
   {
@@ -8835,7 +10046,9 @@
       "garen",
       "klos",
       "naaien",
-      "naald"
+      "naald",
+      "sprik",
+      "spoel"
     ]
   },
   {
@@ -8846,7 +10059,8 @@
       "hechtingen",
       "kleermaken",
       "naaien",
-      "naald"
+      "naald",
+      "stiksels"
     ]
   },
   {
@@ -8855,7 +10069,9 @@
       "bal",
       "breien",
       "haken",
-      "wol"
+      "wol",
+      "gare",
+      "knot"
     ]
   },
   {
@@ -8866,7 +10082,9 @@
       "knopen",
       "kronkel",
       "streng",
-      "touw"
+      "touw",
+      "verweven",
+      "verstrengeld"
     ]
   },
   {
@@ -8875,7 +10093,9 @@
       "bril",
       "brillen",
       "kleding",
-      "oog"
+      "oog",
+      "oogbescherming",
+      "brillenglazen"
     ]
   },
   {
@@ -8885,7 +10105,8 @@
       "brillen",
       "donker",
       "oog",
-      "zonnebril"
+      "zonnebril",
+      "oogbescherming"
     ]
   },
   {
@@ -8894,7 +10115,8 @@
       "lassen",
       "oogbescherming",
       "oogscherm",
-      "zwemmen"
+      "zwemmen",
+      "zwembril"
     ]
   },
   {
@@ -8903,7 +10125,9 @@
       "dokter",
       "experiment",
       "labjas",
-      "wetenschapper"
+      "wetenschapper",
+      "arts",
+      "proef"
     ]
   },
   {
@@ -8912,14 +10136,17 @@
       "noodgeval",
       "veiligheid",
       "veilig­heids­vest",
-      "vest"
+      "vest",
+      "ongeval",
+      "veiligheids"
     ]
   },
   {
     "emoji": "👔",
     "tags": [
       "kleding",
-      "stropdas"
+      "stropdas",
+      "das"
     ]
   },
   {
@@ -8927,7 +10154,9 @@
     "tags": [
       "kleding",
       "shirt",
-      "T-shirt"
+      "T-shirt",
+      "tshirt",
+      "t-shirt"
     ]
   },
   {
@@ -8935,7 +10164,9 @@
     "tags": [
       "jeans",
       "kleding",
-      "spijkerbroek"
+      "spijkerbroek",
+      "broek",
+      "chino"
     ]
   },
   {
@@ -8956,7 +10187,8 @@
     "emoji": "🧥",
     "tags": [
       "blazer",
-      "jas"
+      "jas",
+      "jack"
     ]
   },
   {
@@ -8992,7 +10224,8 @@
     "emoji": "🩱",
     "tags": [
       "badpak",
-      "zwempak"
+      "zwempak",
+      "badkleding"
     ]
   },
   {
@@ -9002,7 +10235,10 @@
       "ondergoed",
       "slip",
       "zwembroek",
-      "zwemkleding"
+      "zwemkleding",
+      "badkleding",
+      "zwempak",
+      "badpak"
     ]
   },
   {
@@ -9011,7 +10247,10 @@
       "korte broek",
       "onderbroek",
       "shorts",
-      "zwembroek"
+      "zwembroek",
+      "badkleding",
+      "broek",
+      "ondergoed"
     ]
   },
   {
@@ -9019,7 +10258,8 @@
     "tags": [
       "bikini",
       "kleding",
-      "zwemmen"
+      "zwemmen",
+      "zwem"
     ]
   },
   {
@@ -9027,7 +10267,9 @@
     "tags": [
       "dames",
       "dameskleding",
-      "kleding"
+      "kleding",
+      "vrouw",
+      "vrouwenkleding"
     ]
   },
   {
@@ -9043,7 +10285,8 @@
     "tags": [
       "handtas",
       "kleding",
-      "tas"
+      "tas",
+      "zak"
     ]
   },
   {
@@ -9052,7 +10295,10 @@
       "enveloptas",
       "kleding",
       "tas",
-      "tasje"
+      "tasje",
+      "zak",
+      "ts",
+      "handtas"
     ]
   },
   {
@@ -9061,7 +10307,9 @@
       "boodschappentassen",
       "hotel",
       "tas",
-      "winkelen"
+      "winkelen",
+      "zak",
+      "winkeltas"
     ]
   },
   {
@@ -9070,7 +10318,9 @@
       "rugzak",
       "school",
       "schooltas",
-      "tas"
+      "tas",
+      "rugtas",
+      "zak"
     ]
   },
   {
@@ -9080,7 +10330,11 @@
       "strandslipper",
       "teenslipper",
       "teenslof",
-      "zori"
+      "zori",
+      "slippers",
+      "teenslippers",
+      "sandaal",
+      "zōri"
     ]
   },
   {
@@ -9089,7 +10343,9 @@
       "herenschoen",
       "kleding",
       "man",
-      "schoen"
+      "schoen",
+      "shoe",
+      "manneschoen"
     ]
   },
   {
@@ -9099,7 +10355,8 @@
       "kleding",
       "schoen",
       "sneaker",
-      "sportschoen"
+      "sportschoen",
+      "hardloopschoen"
     ]
   },
   {
@@ -9117,7 +10374,10 @@
       "ballerina",
       "instapper",
       "platte schoen",
-      "slip-on"
+      "slip-on",
+      "balletschoen",
+      "slipper",
+      "instapschoen"
     ]
   },
   {
@@ -9127,7 +10387,8 @@
       "kleding",
       "schoen",
       "schoen met hoge hak",
-      "vrouw"
+      "vrouw",
+      "hoge hakken"
     ]
   },
   {
@@ -9145,7 +10406,8 @@
     "tags": [
       "ballet",
       "balletschoenen",
-      "dans"
+      "dans",
+      "balletschoen"
     ]
   },
   {
@@ -9155,7 +10417,8 @@
       "kleding",
       "laars",
       "schoen",
-      "vrouw"
+      "vrouw",
+      "damesschoen"
     ]
   },
   {
@@ -9192,14 +10455,17 @@
       "eindexamen",
       "hoed",
       "kleding",
-      "viering"
+      "viering",
+      "baret",
+      "afstuderen"
     ]
   },
   {
     "emoji": "🧢",
     "tags": [
       "baseballcap",
-      "pet"
+      "pet",
+      "basketbalpet"
     ]
   },
   {
@@ -9210,7 +10476,8 @@
       "legerhelm",
       "militair",
       "soldaat",
-      "vechter"
+      "vechter",
+      "krijger"
     ]
   },
   {
@@ -9221,7 +10488,8 @@
       "helm van reddingswerker",
       "hoed",
       "hulp",
-      "kruis"
+      "kruis",
+      "pet"
     ]
   },
   {
@@ -9232,7 +10500,9 @@
       "geloof",
       "ketting",
       "kleding",
-      "kralen"
+      "kralen",
+      "gebeds",
+      "religie"
     ]
   },
   {
@@ -9240,7 +10510,9 @@
     "tags": [
       "cosmetica",
       "lippenstift",
-      "make-up"
+      "make-up",
+      "lipstick",
+      "makeup"
     ]
   },
   {
@@ -9256,7 +10528,8 @@
       "diamant",
       "edelsteen",
       "juweel",
-      "romantiek"
+      "romantiek",
+      "edel"
     ]
   },
   {
@@ -9266,28 +10539,36 @@
       "luidspreker",
       "speaker uit",
       "stil",
-      "volume"
+      "volume",
+      "gedempt",
+      "gedempte luidspreker",
+      "rustig"
     ]
   },
   {
     "emoji": "🔈",
     "tags": [
       "speaker",
-      "volume"
+      "volume",
+      "zacht",
+      "speaker op laag volume"
     ]
   },
   {
     "emoji": "🔉",
     "tags": [
       "speaker",
-      "speaker aan"
+      "speaker aan",
+      "gemiddeld",
+      "speaker op gemiddeld volume"
     ]
   },
   {
     "emoji": "🔊",
     "tags": [
       "luid",
-      "speaker luid"
+      "speaker luid",
+      "speaker op hoog volume"
     ]
   },
   {
@@ -9295,14 +10576,16 @@
     "tags": [
       "luid",
       "luidspreker",
-      "toespraak"
+      "toespraak",
+      "publiek toespreken"
     ]
   },
   {
     "emoji": "📣",
     "tags": [
       "juichen",
-      "megafoon"
+      "megafoon",
+      "juigen"
     ]
   },
   {
@@ -9328,7 +10611,10 @@
       "geen",
       "geluid uit",
       "niet toegestaan",
-      "stil"
+      "stil",
+      "gedempt",
+      "verboden",
+      "rustig"
     ]
   },
   {
@@ -9336,7 +10622,8 @@
     "tags": [
       "muziek",
       "notenschift",
-      "partituur"
+      "partituur",
+      "bladmuziek"
     ]
   },
   {
@@ -9353,7 +10640,8 @@
       "muziek",
       "muzieknoten",
       "noot",
-      "noten"
+      "noten",
+      "muzieknoot"
     ]
   },
   {
@@ -9362,7 +10650,8 @@
       "microfoon",
       "muziek",
       "studio",
-      "studiomicrofoon"
+      "studiomicrofoon",
+      "mic"
     ]
   },
   {
@@ -9370,7 +10659,8 @@
     "tags": [
       "muziek",
       "niveau",
-      "schuifregelaar"
+      "schuifregelaar",
+      "schuifknop"
     ]
   },
   {
@@ -9379,28 +10669,32 @@
       "bediening",
       "controleknoppen",
       "knoppen",
-      "muziek"
+      "muziek",
+      "controle"
     ]
   },
   {
     "emoji": "🎤",
     "tags": [
       "karaoke",
-      "microfoon"
+      "microfoon",
+      "mic"
     ]
   },
   {
     "emoji": "🎧",
     "tags": [
       "hoofdtelefoon",
-      "oordopje"
+      "oordopje",
+      "oortje"
     ]
   },
   {
     "emoji": "📻",
     "tags": [
       "muziek",
-      "radio"
+      "radio",
+      "video"
     ]
   },
   {
@@ -9436,7 +10730,8 @@
       "keyboard",
       "muziek",
       "muziekinstrument",
-      "piano"
+      "piano",
+      "toetsenbord"
     ]
   },
   {
@@ -9469,7 +10764,9 @@
       "drummen",
       "muziek",
       "trommel",
-      "trommelstokken"
+      "trommelstokken",
+      "drum",
+      "drumstokken"
     ]
   },
   {
@@ -9479,7 +10776,8 @@
       "conga",
       "drummen",
       "hoge trom",
-      "ritme"
+      "ritme",
+      "drum"
     ]
   },
   {
@@ -9498,7 +10796,8 @@
       "mobiele telefoon",
       "ontvangen",
       "pijl",
-      "telefoon"
+      "telefoon",
+      "mobiele telefoon met pijl"
     ]
   },
   {
@@ -9512,13 +10811,15 @@
     "tags": [
       "hoorn",
       "telefoon",
-      "telefoonhoorn"
+      "telefoonhoorn",
+      "ontvanger"
     ]
   },
   {
     "emoji": "📟",
     "tags": [
-      "pager"
+      "pager",
+      "pieper"
     ]
   },
   {
@@ -9548,14 +10849,16 @@
       "computer",
       "laptop",
       "pc",
-      "personal computer"
+      "personal computer",
+      "persoonlijke"
     ]
   },
   {
     "emoji": "🖥️",
     "tags": [
       "computer",
-      "desktop"
+      "desktop",
+      "bureaublad"
     ]
   },
   {
@@ -9592,7 +10895,10 @@
       "computer",
       "disk",
       "harddisk",
-      "optisch"
+      "optisch",
+      "schijf",
+      "optische",
+      "minischijf"
     ]
   },
   {
@@ -9601,7 +10907,10 @@
       "disk",
       "diskette",
       "floppy",
-      "floppydisk"
+      "floppydisk",
+      "computer",
+      "schijf",
+      "opslaan"
     ]
   },
   {
@@ -9611,7 +10920,8 @@
       "computer",
       "optisch",
       "optische schijf",
-      "schijf"
+      "schijf",
+      "optische"
     ]
   },
   {
@@ -9621,7 +10931,8 @@
       "computer",
       "dvd",
       "optisch",
-      "schijf"
+      "schijf",
+      "optische"
     ]
   },
   {
@@ -9629,7 +10940,8 @@
     "tags": [
       "abacus",
       "berekenen",
-      "telraam"
+      "telraam",
+      "berekening"
     ]
   },
   {
@@ -9658,7 +10970,9 @@
       "film",
       "filmprojector",
       "projector",
-      "video"
+      "video",
+      "camera",
+      "blauw"
     ]
   },
   {
@@ -9674,7 +10988,8 @@
     "tags": [
       "beeld",
       "televisie",
-      "tv"
+      "tv",
+      "video"
     ]
   },
   {
@@ -9690,7 +11005,9 @@
       "camera",
       "camera met flitser",
       "flitser",
-      "video"
+      "video",
+      "camera met flits",
+      "flits"
     ]
   },
   {
@@ -9707,7 +11024,8 @@
       "band",
       "vhs",
       "video",
-      "videoband"
+      "videoband",
+      "videocassette"
     ]
   },
   {
@@ -9717,7 +11035,10 @@
       "glas",
       "vergrootglas naar links gericht",
       "vergroten",
-      "zoeken"
+      "zoeken",
+      "vergrootglas",
+      "vergroot",
+      "vergrootglas naar links gekanteld"
     ]
   },
   {
@@ -9744,7 +11065,9 @@
       "gloeilamp",
       "idee",
       "licht",
-      "strip"
+      "strip",
+      "bulb",
+      "lightbulb"
     ]
   },
   {
@@ -9754,7 +11077,9 @@
       "lamp",
       "licht",
       "zaklamp",
-      "zaklantaarn"
+      "zaklantaarn",
+      "gereedschap",
+      "fakkel"
     ]
   },
   {
@@ -9783,7 +11108,10 @@
       "notitieboekje",
       "omslag",
       "schrift",
-      "versierd"
+      "versierd",
+      "notitieboek",
+      "gedecoreerd",
+      "notitieboek met gedecoreerde omslag"
     ]
   },
   {
@@ -9851,14 +11179,16 @@
       "krul",
       "omkrullende pagina",
       "pagina",
-      "pagina met krul"
+      "pagina met krul",
+      "papier met krul"
     ]
   },
   {
     "emoji": "📜",
     "tags": [
       "papierrol",
-      "rol"
+      "rol",
+      "apier"
     ]
   },
   {
@@ -9866,7 +11196,9 @@
     "tags": [
       "document",
       "pagina",
-      "pagina met bovenzijde omhoog"
+      "pagina met bovenzijde omhoog",
+      "papier",
+      "pagina met tekst omhoog"
     ]
   },
   {
@@ -9874,7 +11206,8 @@
     "tags": [
       "krant",
       "nieuws",
-      "nieuwsblad"
+      "nieuwsblad",
+      "papier"
     ]
   },
   {
@@ -9884,7 +11217,8 @@
       "nieuws",
       "nieuwsblad",
       "opgerold",
-      "opgerolde krant"
+      "opgerolde krant",
+      "papier"
     ]
   },
   {
@@ -9893,7 +11227,10 @@
       "bladwijzer",
       "bladwijzertabs",
       "markering",
-      "tabs"
+      "tabs",
+      "teken",
+      "tabbladen",
+      "kanttekening"
     ]
   },
   {
@@ -9916,7 +11253,8 @@
       "geld",
       "geldzak",
       "zak",
-      "zak met geld"
+      "zak met geld",
+      "zak geld"
     ]
   },
   {
@@ -9939,7 +11277,8 @@
       "geld",
       "valuta",
       "yen",
-      "yenbiljet"
+      "yenbiljet",
+      "rekening"
     ]
   },
   {
@@ -9951,7 +11290,8 @@
       "dollar",
       "dollarbiljet",
       "geld",
-      "valuta"
+      "valuta",
+      "afschrift"
     ]
   },
   {
@@ -9963,7 +11303,8 @@
       "euro",
       "eurobiljet",
       "geld",
-      "valuta"
+      "valuta",
+      "afschrift"
     ]
   },
   {
@@ -9975,7 +11316,8 @@
       "geld",
       "pond",
       "pondbiljet",
-      "valuta"
+      "valuta",
+      "afschrift"
     ]
   },
   {
@@ -9987,7 +11329,8 @@
       "geld met vleugels",
       "vleugels",
       "vliegen",
-      "vliegend geld"
+      "vliegend geld",
+      "vliegend"
     ]
   },
   {
@@ -9996,7 +11339,8 @@
       "creditcard",
       "geld",
       "kaart",
-      "krediet"
+      "krediet",
+      "crediet"
     ]
   },
   {
@@ -10006,7 +11350,10 @@
       "bewijs",
       "boekhouding",
       "kassabon",
-      "kwitantie"
+      "kwitantie",
+      "boekhouden",
+      "bewijsstuk",
+      "bon"
     ]
   },
   {
@@ -10017,7 +11364,8 @@
       "grafiek",
       "groei",
       "stijgende grafiek met yenteken",
-      "yen"
+      "yen",
+      "grafiek omhoog met yen"
     ]
   },
   {
@@ -10034,7 +11382,8 @@
       "brief",
       "e-mail",
       "mail",
-      "post"
+      "post",
+      "email"
     ]
   },
   {
@@ -10046,7 +11395,9 @@
       "envelop",
       "inkomend",
       "inkomende post",
-      "ontvangen"
+      "ontvangen",
+      "email",
+      "binnenkomend"
     ]
   },
   {
@@ -10057,7 +11408,8 @@
       "envelop",
       "envelop met pijl",
       "pijl",
-      "uitgaand"
+      "uitgaand",
+      "email"
     ]
   },
   {
@@ -10068,7 +11420,9 @@
       "post",
       "postvak",
       "postvak uit",
-      "verzonden"
+      "verzonden",
+      "doos",
+      "postvak-uit"
     ]
   },
   {
@@ -10079,7 +11433,9 @@
       "ontvangen",
       "post",
       "postvak",
-      "postvak in"
+      "postvak in",
+      "doos",
+      "postvak-in"
     ]
   },
   {
@@ -10087,7 +11443,8 @@
     "tags": [
       "doos",
       "pakket",
-      "pakketje"
+      "pakketje",
+      "parcel"
     ]
   },
   {
@@ -10097,7 +11454,8 @@
       "gesloten",
       "gesloten brievenbus met vlaggetje omhoog",
       "post",
-      "postbus"
+      "postbus",
+      "gesloten postbus met vlag naar boven"
     ]
   },
   {
@@ -10108,7 +11466,9 @@
       "gesloten brievenbus met vlaggetje omlaag",
       "omlaag",
       "post",
-      "postbus"
+      "postbus",
+      "gesloten postbus met vlag naar beneden",
+      "naar beneden"
     ]
   },
   {
@@ -10118,7 +11478,8 @@
       "open",
       "open brievenbus met vlaggetje omhoog",
       "post",
-      "postbus"
+      "postbus",
+      "geopende postbus met vlag naar boven"
     ]
   },
   {
@@ -10129,7 +11490,9 @@
       "open",
       "open brievenbus met vlaggetje omlaag",
       "post",
-      "postbus"
+      "postbus",
+      "naar beneden",
+      "geopende postbus met vlag naar beneden"
     ]
   },
   {
@@ -10145,7 +11508,8 @@
     "tags": [
       "doos",
       "stembus",
-      "stembus met stembiljet"
+      "stembus met stembiljet",
+      "stembiljet"
     ]
   },
   {
@@ -10166,7 +11530,8 @@
     "emoji": "🖋️",
     "tags": [
       "pen",
-      "vulpen"
+      "vulpen",
+      "fontein"
     ]
   },
   {
@@ -10201,7 +11566,8 @@
   {
     "emoji": "💼",
     "tags": [
-      "aktentas"
+      "aktentas",
+      "koffer"
     ]
   },
   {
@@ -10258,7 +11624,8 @@
       "blok",
       "kalender",
       "kalender met spiraal",
-      "spiraal"
+      "spiraal",
+      "kalenderblok"
     ]
   },
   {
@@ -10277,7 +11644,11 @@
       "grafiek",
       "grafiek met stijgende trend",
       "stijgend",
-      "stijgende trend"
+      "stijgende trend",
+      "stijgende grafiek",
+      "groei",
+      "trend",
+      "stijgende"
     ]
   },
   {
@@ -10287,7 +11658,10 @@
       "dalende trend",
       "diagram",
       "grafiek",
-      "grafiek met dalende trend"
+      "grafiek met dalende trend",
+      "neerwaartse grafiek",
+      "neerwaartse",
+      "trend"
     ]
   },
   {
@@ -10317,7 +11691,9 @@
     "tags": [
       "kopspeld",
       "ronde speld",
-      "speld"
+      "speld",
+      "punaise",
+      "speld met ronde knop"
     ]
   },
   {
@@ -10332,14 +11708,19 @@
     "tags": [
       "aan elkaar",
       "paperclip",
-      "twee paperclips aan elkaar"
+      "twee paperclips aan elkaar",
+      "verbinding",
+      "verbonden paperclips"
     ]
   },
   {
     "emoji": "📏",
     "tags": [
       "liniaal",
-      "rechte lijn"
+      "rechte lijn",
+      "lineaal",
+      "rechte rand",
+      "rechte lineaal"
     ]
   },
   {
@@ -10348,7 +11729,8 @@
       "driehoek",
       "geo",
       "geodriehoek",
-      "liniaal"
+      "liniaal",
+      "lineaal"
     ]
   },
   {
@@ -10365,7 +11747,8 @@
       "archief",
       "bak",
       "kaart",
-      "kaartenbak"
+      "kaartenbak",
+      "bestand"
     ]
   },
   {
@@ -10373,7 +11756,9 @@
     "tags": [
       "archief",
       "archiefkast",
-      "kast"
+      "kast",
+      "bestand",
+      "bestanden"
     ]
   },
   {
@@ -10386,7 +11771,9 @@
     "emoji": "🔒",
     "tags": [
       "gesloten slot",
-      "slot"
+      "slot",
+      "gesloten",
+      "op slot"
     ]
   },
   {
@@ -10395,7 +11782,8 @@
       "geopend",
       "geopend hangslot",
       "open",
-      "openen"
+      "openen",
+      "slot"
     ]
   },
   {
@@ -10416,7 +11804,10 @@
       "gesloten",
       "gesloten slot met sleutel",
       "sleutel",
-      "slok"
+      "slok",
+      "slot met sleutel",
+      "slot",
+      "veilig"
     ]
   },
   {
@@ -10424,7 +11815,9 @@
     "tags": [
       "beveiligd",
       "sleutel",
-      "wachtwoord"
+      "wachtwoord",
+      "slot",
+      "wachtwword"
     ]
   },
   {
@@ -10434,14 +11827,17 @@
       "oud",
       "oude sleutel",
       "sleutel",
-      "slot"
+      "slot",
+      "hint",
+      "sluetel"
     ]
   },
   {
     "emoji": "🔨",
     "tags": [
       "gereedschap",
-      "hamer"
+      "hamer",
+      "mer"
     ]
   },
   {
@@ -10458,7 +11854,8 @@
     "tags": [
       "gereedschap",
       "mijnbouw",
-      "pikhouweel"
+      "pikhouweel",
+      "mijnen"
     ]
   },
   {
@@ -10476,7 +11873,9 @@
       "gereedschap",
       "hamer",
       "hamer en moersleutel",
-      "moersleutel"
+      "moersleutel",
+      "hamer en sleutel",
+      "spansleutel"
     ]
   },
   {
@@ -10515,7 +11914,9 @@
       "Australië",
       "boemerang",
       "reactie",
-      "terugslag"
+      "terugslag",
+      "Australia",
+      "gevolg"
     ]
   },
   {
@@ -10525,7 +11926,9 @@
       "boogschutter",
       "pijl",
       "pijl en boog",
-      "wapen"
+      "wapen",
+      "Boogschutter",
+      "dierenriem"
     ]
   },
   {
@@ -10542,7 +11945,8 @@
       "hout",
       "houtzaag",
       "timmerman",
-      "zaag"
+      "zaag",
+      "timmermanszaag"
     ]
   },
   {
@@ -10550,7 +11954,8 @@
     "tags": [
       "gereedschap",
       "moersleutel",
-      "schroefsleutel"
+      "schroefsleutel",
+      "spansleutel"
     ]
   },
   {
@@ -10567,7 +11972,8 @@
       "bout",
       "bout en moer",
       "gereedschap",
-      "moer"
+      "moer",
+      "moer en bout"
     ]
   },
   {
@@ -10585,7 +11991,8 @@
       "bankschroef",
       "gereedschap",
       "lijmklem",
-      "samendrukken"
+      "samendrukken",
+      "klem"
     ]
   },
   {
@@ -10603,14 +12010,16 @@
     "tags": [
       "blind",
       "taststok",
-      "toegankelijkheid"
+      "toegankelijkheid",
+      "witte stok"
     ]
   },
   {
     "emoji": "🔗",
     "tags": [
       "schakels",
-      "twee ringen"
+      "twee ringen",
+      "verbinding"
     ]
   },
   {
@@ -10628,7 +12037,10 @@
       "haak",
       "kronkel",
       "vangen",
-      "verstrikken"
+      "verstrikken",
+      "vangst",
+      "vasthaken",
+      "verkooppunt"
     ]
   },
   {
@@ -10637,7 +12049,8 @@
       "gereedschap",
       "gereedschapskist",
       "kist",
-      "monteur"
+      "monteur",
+      "gereedschapsdoos"
     ]
   },
   {
@@ -10646,7 +12059,8 @@
       "aantrekkingskracht",
       "hoefijzer",
       "magneet",
-      "magnetisch"
+      "magnetisch",
+      "aatrekking"
     ]
   },
   {
@@ -10655,7 +12069,8 @@
       "klimmen",
       "ladder",
       "sport",
-      "trede"
+      "trede",
+      "kimmen"
     ]
   },
   {
@@ -10674,7 +12089,10 @@
       "reageerbuis",
       "scheikunde",
       "scheikundige",
-      "wetenschap"
+      "wetenschap",
+      "chemicus",
+      "chemie",
+      "proef"
     ]
   },
   {
@@ -10685,7 +12103,9 @@
       "bioloog",
       "cultuur",
       "laboratorium",
-      "petrischaal"
+      "petrischaal",
+      "kweek",
+      "petrischaaltje"
     ]
   },
   {
@@ -10696,7 +12116,8 @@
       "evolutie",
       "gen",
       "genetica",
-      "leven"
+      "leven",
+      "dna"
     ]
   },
   {
@@ -10731,7 +12152,10 @@
       "injectie",
       "injectiespuit",
       "naald",
-      "ziek"
+      "ziek",
+      "medicijn",
+      "vaccin",
+      "spuit"
     ]
   },
   {
@@ -10742,7 +12166,11 @@
       "bloeden",
       "geneeskunde",
       "menstruatie",
-      "verwonding"
+      "verwonding",
+      "bloed",
+      "bloedonatie",
+      "druppel bloed",
+      "medicijn"
     ]
   },
   {
@@ -10751,7 +12179,10 @@
       "dokter",
       "geneeskunde",
       "pil",
-      "ziek"
+      "ziek",
+      "arts",
+      "medicijn",
+      "pill"
     ]
   },
   {
@@ -10767,7 +12198,10 @@
       "dokter",
       "geneeskunde",
       "hart",
-      "ste­tho­scoop"
+      "ste­tho­scoop",
+      "arts",
+      "stethoscoop",
+      "medicijn"
     ]
   },
   {
@@ -10791,7 +12225,8 @@
       "reflector",
       "speculum",
       "spiegel",
-      "weerspiegeling"
+      "weerspiegeling",
+      "reflectie"
     ]
   },
   {
@@ -10810,7 +12245,8 @@
     "tags": [
       "bed",
       "hotel",
-      "slapen"
+      "slapen",
+      "slaap"
     ]
   },
   {
@@ -10827,7 +12263,9 @@
     "tags": [
       "hoge stoel",
       "stoel",
-      "zitten"
+      "zitten",
+      "zitting",
+      "zitplaats"
     ]
   },
   {
@@ -10844,7 +12282,9 @@
       "ontstopper",
       "toilet",
       "zuiger",
-      "zuigkracht"
+      "zuigkracht",
+      "zuiging",
+      "plunjer"
     ]
   },
   {
@@ -10858,7 +12298,8 @@
     "emoji": "🛁",
     "tags": [
       "bad",
-      "badkuip"
+      "badkuip",
+      "water"
     ]
   },
   {
@@ -10867,7 +12308,9 @@
       "aas",
       "muizenval",
       "strik",
-      "valstrik"
+      "valstrik",
+      "snaar",
+      "val"
     ]
   },
   {
@@ -10885,7 +12328,9 @@
       "lotion",
       "lotionfles",
       "shampoo",
-      "zonnebrandolie"
+      "zonnebrandolie",
+      "hydraterende crème",
+      "zonnebrand"
     ]
   },
   {
@@ -10893,7 +12338,8 @@
     "tags": [
       "luier",
       "punk",
-      "veiligheidsspeld"
+      "veiligheidsspeld",
+      "punkrock"
     ]
   },
   {
@@ -10919,7 +12365,9 @@
     "tags": [
       "keukenrol",
       "rol papier",
-      "wc-rol"
+      "wc-rol",
+      "papieren doekjes",
+      "toiletpapier"
     ]
   },
   {
@@ -10939,7 +12387,8 @@
       "schuim",
       "stuk zeep",
       "zeep",
-      "zeephouder"
+      "zeephouder",
+      "bellen"
     ]
   },
   {
@@ -10951,7 +12400,9 @@
       "reinigen",
       "tand",
       "tanden",
-      "tandenborstel"
+      "tandenborstel",
+      "borstel",
+      "gebit"
     ]
   },
   {
@@ -10960,7 +12411,8 @@
       "absorberend",
       "poreus",
       "schoonmaken",
-      "spons"
+      "spons",
+      "reinigend"
     ]
   },
   {
@@ -10969,7 +12421,8 @@
       "blussen",
       "brandblusapparaat",
       "doven",
-      "vuur"
+      "vuur",
+      "brandblusser"
     ]
   },
   {
@@ -10979,7 +12432,8 @@
       "wagen",
       "wagentje",
       "winkelen",
-      "winkelwagen"
+      "winkelwagen",
+      "karretje"
     ]
   },
   {
@@ -11039,7 +12493,11 @@
     "tags": [
       "automaat",
       "pinautomaat",
-      "pinnen"
+      "pinnen",
+      "betaalautomaat",
+      "bank",
+      "geautomatiseerd",
+      "flappenteller"
     ]
   },
   {
@@ -11047,21 +12505,26 @@
     "tags": [
       "afval",
       "prullenbak",
-      "prullenbaksymbool"
+      "prullenbaksymbool",
+      "afvalbak",
+      "vuilnisbak"
     ]
   },
   {
     "emoji": "🚰",
     "tags": [
       "drinkwater",
-      "drinkwatersymbool"
+      "drinkwatersymbool",
+      "drinken",
+      "water"
     ]
   },
   {
     "emoji": "♿",
     "tags": [
       "rolstoelsymbool",
-      "toegang"
+      "toegang",
+      "rolstoel-symbool"
     ]
   },
   {
@@ -11070,7 +12533,9 @@
       "herentoilet",
       "man",
       "toilet",
-      "wc"
+      "wc",
+      "badkamer",
+      "mannentoilet"
     ]
   },
   {
@@ -11079,7 +12544,9 @@
       "damestoilet",
       "toilet",
       "vrouw",
-      "wc"
+      "wc",
+      "badkamer",
+      "vrouwentoilet"
     ]
   },
   {
@@ -11087,7 +12554,9 @@
     "tags": [
       "toilet",
       "toiletten",
-      "wc"
+      "wc",
+      "badkamer",
+      "WC"
     ]
   },
   {
@@ -11096,7 +12565,9 @@
       "baby",
       "baby aan boord",
       "babyruimte",
-      "babysymbool"
+      "babysymbool",
+      "baby-symbool",
+      "verschonen"
     ]
   },
   {
@@ -11105,7 +12576,9 @@
       "toilet",
       "wasgelegenheid",
       "water",
-      "wc"
+      "wc",
+      "kleine kamertje",
+      "badkamer"
     ]
   },
   {
@@ -11126,7 +12599,8 @@
     "emoji": "🛄",
     "tags": [
       "bagage",
-      "bagage afhalen"
+      "bagage afhalen",
+      "ophaal"
     ]
   },
   {
@@ -11135,7 +12609,9 @@
       "bagage",
       "bagagekluis",
       "bagageservice",
-      "koffers"
+      "koffers",
+      "achtergebleven bagage",
+      "locker"
     ]
   },
   {
@@ -11151,7 +12627,8 @@
       "oversteekplaats",
       "overstekende kinderen",
       "verkeer",
-      "voetganger"
+      "voetganger",
+      "oversteken"
     ]
   },
   {
@@ -11161,7 +12638,12 @@
       "nee",
       "symbool",
       "verboden",
-      "Verboden toegang"
+      "Verboden toegang",
+      "toegang",
+      "niet",
+      "geen",
+      "niet toegestaan",
+      "verkeer"
     ]
   },
   {
@@ -11171,7 +12653,8 @@
       "niet",
       "niet toegestaan",
       "toegang",
-      "verboden"
+      "verboden",
+      "geen"
     ]
   },
   {
@@ -11182,7 +12665,8 @@
       "geen fietsen",
       "nee",
       "niet toegestaan",
-      "verboden"
+      "verboden",
+      "geen"
     ]
   },
   {
@@ -11192,7 +12676,8 @@
       "niet",
       "niet toegestaan",
       "roken",
-      "verboden"
+      "verboden",
+      "geen"
     ]
   },
   {
@@ -11203,7 +12688,10 @@
       "nee",
       "niet",
       "niet toegestaan",
-      "verboden"
+      "verboden",
+      "zwerfvuil",
+      "geen zwerfvuil",
+      "geen"
     ]
   },
   {
@@ -11211,7 +12699,8 @@
     "tags": [
       "geen drinkwater",
       "niet drinken",
-      "water"
+      "water",
+      "niet drinkbaar"
     ]
   },
   {
@@ -11222,7 +12711,8 @@
       "niet",
       "niet toegestaan",
       "verboden",
-      "voetganger"
+      "voetganger",
+      "geen"
     ]
   },
   {
@@ -11233,7 +12723,9 @@
       "mobiele telefoon",
       "nee",
       "telefoon",
-      "verboden"
+      "verboden",
+      "geen",
+      "geen mobile telefoons"
     ]
   },
   {
@@ -11245,7 +12737,9 @@
       "minderjarig",
       "niemand onder de 18",
       "niemand onder de achttien",
-      "verboden"
+      "verboden",
+      "niemand onder achtien",
+      "niet toegestaan"
     ]
   },
   {
@@ -11390,7 +12884,10 @@
       "met de klok mee",
       "opnieuw laden",
       "pijl",
-      "verticale pijlen met de klok mee"
+      "verticale pijlen met de klok mee",
+      "kloksgewijs",
+      "vernieuwen",
+      "verticale pijlen kloksgewijs"
     ]
   },
   {
@@ -11400,7 +12897,10 @@
       "in tegengestelde richting",
       "pijl",
       "pijlen tegen de klok in",
-      "tegen de klok in"
+      "tegen de klok in",
+      "antikloksgewijs",
+      "antikloksgewijs pijlen-knop",
+      "tegen klok in"
     ]
   },
   {
@@ -11408,7 +12908,8 @@
     "tags": [
       "BACK-pijl",
       "pijl",
-      "terug"
+      "terug",
+      "pijl terug"
     ]
   },
   {
@@ -11416,7 +12917,8 @@
     "tags": [
       "einde",
       "END-pijl",
-      "pijl"
+      "pijl",
+      "einde pijl"
     ]
   },
   {
@@ -11425,7 +12927,8 @@
       "aan",
       "ON!-pijl",
       "pijl",
-      "teken"
+      "teken",
+      "AAN! pijl"
     ]
   },
   {
@@ -11433,7 +12936,9 @@
     "tags": [
       "binnenkort",
       "pijl",
-      "SOON-pijl"
+      "SOON-pijl",
+      "snel",
+      "snel pijl"
     ]
   },
   {
@@ -11442,7 +12947,9 @@
       "bovenkant",
       "omhoog",
       "pijl",
-      "TOP-pijl"
+      "TOP-pijl",
+      "boven",
+      "pijl naar boven"
     ]
   },
   {
@@ -11450,7 +12957,9 @@
     "tags": [
       "bidden",
       "gebedsruimte",
-      "religie"
+      "religie",
+      "gebedshuis",
+      "gebed"
     ]
   },
   {
@@ -11467,7 +12976,8 @@
       "hindoeïsme",
       "om",
       "om-symbool",
-      "religie"
+      "religie",
+      "hindoe"
     ]
   },
   {
@@ -11550,7 +13060,9 @@
     "tags": [
       "ster",
       "waarzeggen",
-      "zespuntige ster"
+      "zespuntige ster",
+      "zespuntige ster met stip in het midden",
+      "voorspoed"
     ]
   },
   {
@@ -11559,7 +13071,8 @@
       "Aries",
       "dierenriem",
       "ram",
-      "ram (sterrenbeeld)"
+      "ram (sterrenbeeld)",
+      "Ram"
     ]
   },
   {
@@ -11578,7 +13091,9 @@
       "dierenriem",
       "Gemini",
       "tweelingen",
-      "tweelingen (sterrenbeeld)"
+      "tweelingen (sterrenbeeld)",
+      "Tweelingen",
+      "tweeling"
     ]
   },
   {
@@ -11587,7 +13102,9 @@
       "Cancer",
       "dierenriem",
       "kreeft",
-      "kreeft (sterrenbeeld)"
+      "kreeft (sterrenbeeld)",
+      "Kreeft",
+      "krab"
     ]
   },
   {
@@ -11596,7 +13113,8 @@
       "dierenriem",
       "leeuw",
       "leeuw (sterrenbeeld)",
-      "Leo"
+      "Leo",
+      "Leeuw"
     ]
   },
   {
@@ -11604,7 +13122,8 @@
     "tags": [
       "dierenriem",
       "maagd (sterrenbeeld)",
-      "Virgo"
+      "Virgo",
+      "Maagd"
     ]
   },
   {
@@ -11615,7 +13134,8 @@
       "gerechtigheid",
       "Libra",
       "weegschaal",
-      "weegschaal (sterrenbeeld)"
+      "weegschaal (sterrenbeeld)",
+      "Weegschaal"
     ]
   },
   {
@@ -11625,7 +13145,8 @@
       "schorpioen",
       "schorpioen (sterrenbeeld)",
       "Scorpio",
-      "scorpius"
+      "scorpius",
+      "Schorpioen"
     ]
   },
   {
@@ -11634,7 +13155,8 @@
       "boogschutter",
       "boogschutter (sterrenbeeld)",
       "dierenriem",
-      "Sagittarius"
+      "Sagittarius",
+      "Boogschutter"
     ]
   },
   {
@@ -11643,7 +13165,9 @@
       "Capricorn",
       "dierenriem",
       "steenbok",
-      "steenbok (sterrenbeeld)"
+      "steenbok (sterrenbeeld)",
+      "Steenbok",
+      "geit"
     ]
   },
   {
@@ -11653,7 +13177,9 @@
       "dierenriem",
       "drager",
       "water",
-      "waterman (sterrenbeeld)"
+      "waterman (sterrenbeeld)",
+      "Waterman",
+      "waterdrager"
     ]
   },
   {
@@ -11662,7 +13188,9 @@
       "dierenriem",
       "Pisces",
       "vissen",
-      "vissen (sterrenbeeld)"
+      "vissen (sterrenbeeld)",
+      "vis",
+      "Wissen"
     ]
   },
   {
@@ -11673,7 +13201,8 @@
       "Ophiuchus",
       "serpent",
       "slang",
-      "slangendrager (sterrenbeeld)"
+      "slangendrager (sterrenbeeld)",
+      "slangendrager"
     ]
   },
   {
@@ -11681,7 +13210,8 @@
     "tags": [
       "gekruist",
       "knop voor shuffle",
-      "pijl"
+      "pijl",
+      "doorkruist"
     ]
   },
   {
@@ -11690,7 +13220,9 @@
       "herhalen",
       "knop voor herhalen",
       "met de klok mee",
-      "pijl"
+      "pijl",
+      "kloksgewijs",
+      "herhaalknop"
     ]
   },
   {
@@ -11699,7 +13231,10 @@
       "eenmaal",
       "knop voor één herhalen",
       "met de klok mee",
-      "pijl"
+      "pijl",
+      "kloksgewijs",
+      "herhaal eenmalig",
+      "eemalig"
     ]
   },
   {
@@ -11719,7 +13254,9 @@
       "knop voor snel vooruitspoelen",
       "pijl",
       "snel",
-      "vooruit"
+      "vooruit",
+      "dubbele",
+      "vooruitspoelen"
     ]
   },
   {
@@ -11729,7 +13266,9 @@
       "knop voor volgende nummer",
       "pijl",
       "volgend nummer",
-      "volgende scène"
+      "volgende scène",
+      "volgende scene",
+      "volgende"
     ]
   },
   {
@@ -11740,7 +13279,9 @@
       "knop voor afspelen of pauzeren",
       "pauzeren",
       "pijl",
-      "rechts"
+      "rechts",
+      "pauze",
+      "afspelen of pauzeren"
     ]
   },
   {
@@ -11760,7 +13301,9 @@
       "knop voor versneld terugspoelen",
       "links",
       "pijl",
-      "terugspoelen"
+      "terugspoelen",
+      "dubbele",
+      "achteruitspoelen"
     ]
   },
   {
@@ -11770,7 +13313,9 @@
       "knop voor vorige nummer",
       "pijl",
       "vorige nummer",
-      "vorige scène"
+      "vorige scène",
+      "laaste nummer",
+      "vorige scene"
     ]
   },
   {
@@ -11779,7 +13324,8 @@
       "knop",
       "knop voor omhoog",
       "pijl",
-      "rood"
+      "rood",
+      "omhoog-knop"
     ]
   },
   {
@@ -11787,7 +13333,9 @@
     "tags": [
       "dubbel",
       "knop voor versneld omhoog",
-      "pijl"
+      "pijl",
+      "dubbele",
+      "snel-omhoog"
     ]
   },
   {
@@ -11797,7 +13345,9 @@
       "knop voor omlaag",
       "omlaag",
       "pijl",
-      "rood"
+      "rood",
+      "naar benden",
+      "beneden"
     ]
   },
   {
@@ -11806,7 +13356,10 @@
       "dubbel",
       "knop voor versneld omlaag",
       "omlaag",
-      "pijl"
+      "pijl",
+      "dubbele",
+      "snel-naar-beneden",
+      "beneden"
     ]
   },
   {
@@ -11816,7 +13369,11 @@
       "pauzeknop",
       "pauzeren",
       "streep",
-      "verticaal"
+      "verticaal",
+      "dubbele",
+      "pauze-knop",
+      "pauze",
+      "verticale"
     ]
   },
   {
@@ -11824,7 +13381,9 @@
     "tags": [
       "knop voor stoppen",
       "stoppen",
-      "vierkant"
+      "vierkant",
+      "stop",
+      "stop-knop"
     ]
   },
   {
@@ -11832,7 +13391,9 @@
     "tags": [
       "knop voor opnemen",
       "opnemen",
-      "rondje"
+      "rondje",
+      "cirkel",
+      "opnemen-knop"
     ]
   },
   {
@@ -11858,7 +13419,9 @@
       "dimmen",
       "helderheid",
       "knop voor lagere helderheid",
-      "laag"
+      "laag",
+      "dim",
+      "dim-knop"
     ]
   },
   {
@@ -11866,7 +13429,9 @@
     "tags": [
       "helder",
       "helderheid",
-      "knop voor hogere helderheid"
+      "knop voor hogere helderheid",
+      "helderder",
+      "helderder-knop"
     ]
   },
   {
@@ -11877,7 +13442,9 @@
       "mobiel signaal",
       "mobiele telefoon",
       "streep",
-      "telefoon"
+      "telefoon",
+      "bereik",
+      "streepje"
     ]
   },
   {
@@ -11887,7 +13454,8 @@
       "mobiele telefoon",
       "modus",
       "telefoon",
-      "trilstand"
+      "trilstand",
+      "trillen"
     ]
   },
   {
@@ -11924,7 +13492,8 @@
       "+",
       "plus",
       "teken",
-      "wiskunde"
+      "wiskunde",
+      "rekenen"
     ]
   },
   {
@@ -11934,7 +13503,8 @@
       "−",
       "min",
       "teken",
-      "wiskunde"
+      "wiskunde",
+      "rekenen"
     ]
   },
   {
@@ -11943,7 +13513,9 @@
       "÷",
       "delen",
       "teken",
-      "wiskunde"
+      "wiskunde",
+      "rekenen",
+      "breuk"
     ]
   },
   {
@@ -11998,7 +13570,8 @@
       "interpunctie",
       "teken",
       "vraag",
-      "wit vraagteken"
+      "wit vraagteken",
+      "omlijnt"
     ]
   },
   {
@@ -12009,7 +13582,9 @@
       "interpunctie",
       "teken",
       "uitroep",
-      "wit uitroepteken"
+      "wit uitroepteken",
+      "omlijnt",
+      "uitroepteken"
     ]
   },
   {
@@ -12019,7 +13594,8 @@
       "interpunctie",
       "rood uitroepteken",
       "teken",
-      "uitroep"
+      "uitroep",
+      "uitroepteken"
     ]
   },
   {
@@ -12069,7 +13645,8 @@
       "drietand-symbool",
       "gereedschap",
       "schip",
-      "symbool"
+      "symbool",
+      "embleem"
     ]
   },
   {
@@ -12077,7 +13654,8 @@
     "tags": [
       "kaartje",
       "naam",
-      "naamkaartje"
+      "naamkaartje",
+      "badge"
     ]
   },
   {
@@ -12097,7 +13675,9 @@
       "groot",
       "lege rode cirkel",
       "o",
-      "rood"
+      "rood",
+      "rode circel",
+      "teken"
     ]
   },
   {
@@ -12107,7 +13687,8 @@
       "knop",
       "knop voor vinkje",
       "teken",
-      "vinkje"
+      "vinkje",
+      "goed"
     ]
   },
   {
@@ -12124,7 +13705,8 @@
     "tags": [
       "✓",
       "teken",
-      "vinkje"
+      "vinkje",
+      "goed"
     ]
   },
   {
@@ -12137,7 +13719,9 @@
       "teken",
       "vermenigvuldigen",
       "vermenigvuldiging",
-      "x"
+      "x",
+      "annuleer",
+      "nee"
     ]
   },
   {
@@ -12147,7 +13731,9 @@
       "knop voor kruis",
       "teken",
       "vierkant",
-      "x"
+      "x",
+      "kruis-knop",
+      "nee"
     ]
   },
   {
@@ -12155,7 +13741,8 @@
     "tags": [
       "gedraaid",
       "gekrulde lus",
-      "lus"
+      "lus",
+      "krul"
     ]
   },
   {
@@ -12229,7 +13816,10 @@
       "hoofdletters",
       "invoeren",
       "Latijns",
-      "letters"
+      "letters",
+      "invoer",
+      "latijns",
+      "hoofdletter"
     ]
   },
   {
@@ -12239,7 +13829,9 @@
       "invoeren",
       "kleine letters",
       "Latijns",
-      "letters"
+      "letters",
+      "invoer",
+      "latijns"
     ]
   },
   {
@@ -12247,7 +13839,9 @@
     "tags": [
       "1234",
       "cijfers",
-      "invoeren"
+      "invoeren",
+      "invoer",
+      "nummers"
     ]
   },
   {
@@ -12255,7 +13849,9 @@
     "tags": [
       "〒♪&amp;%",
       "invoeren",
-      "symbolen"
+      "symbolen",
+      "invoer",
+      "invoersymbolen"
     ]
   },
   {
@@ -12265,7 +13861,9 @@
       "alfabet",
       "invoeren",
       "Latijns",
-      "letters"
+      "letters",
+      "latijns",
+      "invoer"
     ]
   },
   {
@@ -12281,7 +13879,9 @@
     "tags": [
       "ab",
       "bloedgroep",
-      "bloedgroep AB"
+      "bloedgroep AB",
+      "AB-bloedgroep",
+      "Bloedgroep"
     ]
   },
   {
@@ -12303,14 +13903,16 @@
     "emoji": "🆒",
     "tags": [
       "cool",
-      "COOL-knop"
+      "COOL-knop",
+      "gaaf"
     ]
   },
   {
     "emoji": "🆓",
     "tags": [
       "FREE-knop",
-      "gratis"
+      "gratis",
+      "free"
     ]
   },
   {
@@ -12340,7 +13942,8 @@
     "emoji": "🆕",
     "tags": [
       "NEW-knop",
-      "nieuw"
+      "nieuw",
+      "new"
     ]
   },
   {
@@ -12362,7 +13965,8 @@
     "emoji": "🆗",
     "tags": [
       "OK",
-      "OK-knop"
+      "OK-knop",
+      "oké"
     ]
   },
   {
@@ -12377,7 +13981,8 @@
     "tags": [
       "help",
       "sos",
-      "SOS-knop"
+      "SOS-knop",
+      "nood"
     ]
   },
   {
@@ -12385,7 +13990,8 @@
     "tags": [
       "omhoog",
       "teken",
-      "UP!-knop"
+      "UP!-knop",
+      "OMHOOG!-knop"
     ]
   },
   {
@@ -12393,7 +13999,8 @@
     "tags": [
       "versus",
       "vs",
-      "VS-knop"
+      "VS-knop",
+      "tegenover"
     ]
   },
   {
@@ -12404,7 +14011,9 @@
       "Japans teken voor ‘hier’",
       "Japans woordteken voor ‘hier’",
       "katakana",
-      "ココ"
+      "ココ",
+      "“hier”",
+      "Japanse “hier”-knop"
     ]
   },
   {
@@ -12435,7 +14044,9 @@
       "ideogram",
       "Japans",
       "Japans teken voor ‘niet gratis’",
-      "有"
+      "有",
+      "“niet zonder kosten”",
+      "Japanse “niet zonder kosten”-knop"
     ]
   },
   {
@@ -12445,7 +14056,9 @@
       "ideogram",
       "Japans",
       "Japans teken voor ‘gereserveerd’",
-      "指"
+      "指",
+      "“gereserveerd”",
+      "Japanse “gereserveerd”-knop"
     ]
   },
   {
@@ -12455,7 +14068,9 @@
       "ideogram",
       "Japans",
       "Japans teken voor ‘koopje’",
-      "得"
+      "得",
+      "“onderhandeling”",
+      "Japanse “onderhandeling”-knop"
     ]
   },
   {
@@ -12465,7 +14080,9 @@
       "ideogram",
       "Japans",
       "Japans teken voor ‘korting’",
-      "割"
+      "割",
+      "“korting”",
+      "Japanse “korting”-knop"
     ]
   },
   {
@@ -12475,7 +14092,9 @@
       "ideogram",
       "Japans",
       "Japans teken voor ‘gratis’",
-      "無"
+      "無",
+      "“kosteloos”",
+      "Japanse “kosteloos”-knop"
     ]
   },
   {
@@ -12485,7 +14104,9 @@
       "ideogram",
       "Japans",
       "Japans teken voor ‘verboden’",
-      "禁"
+      "禁",
+      "“niet toegestaan”",
+      "Japanse “niet toegestaan”-knop"
     ]
   },
   {
@@ -12495,7 +14116,9 @@
       "ideogram",
       "Japans",
       "Japans teken voor ‘acceptabel’",
-      "可"
+      "可",
+      "“toelaatbaar”",
+      "Japanse “toelaatbaar”-knop"
     ]
   },
   {
@@ -12505,7 +14128,9 @@
       "ideogram",
       "Japans",
       "Japans teken voor ‘toepassing’",
-      "申"
+      "申",
+      "“sollicitatiebrief”",
+      "Japanse “sollicitatiebrief”-knop"
     ]
   },
   {
@@ -12515,7 +14140,9 @@
       "ideogram",
       "Japans",
       "Japans teken voor ‘voldoende (cijfer)‘",
-      "合"
+      "合",
+      "“voldoende gescoord”",
+      "Japanse “voldoende gescoord”-knop"
     ]
   },
   {
@@ -12525,7 +14152,9 @@
       "ideogram",
       "Japans",
       "Japans teken voor ‘plaats vrij’",
-      "空"
+      "空",
+      "“vacature”",
+      "Japanse “vacature”-knop"
     ]
   },
   {
@@ -12555,7 +14184,9 @@
       "ideogram",
       "Japans",
       "Japans teken voor ‘geopend’",
-      "営"
+      "営",
+      "“geopend voor zaken”",
+      "Japanse “geopend voor zaken”-knop"
     ]
   },
   {
@@ -12565,7 +14196,9 @@
       "ideogram",
       "Japans",
       "Japans teken voor ‘vol, geen plaats’",
-      "満"
+      "満",
+      "“geen vacature”",
+      "Japanse “geen vacature”-knop"
     ]
   },
   {
@@ -12695,7 +14328,8 @@
     "tags": [
       "geometrisch",
       "groot zwart vierkant",
-      "vierkant"
+      "vierkant",
+      "zwart groot vierkant"
     ]
   },
   {
@@ -12703,7 +14337,8 @@
     "tags": [
       "geometrisch",
       "groot wit vierkant",
-      "vierkant"
+      "vierkant",
+      "wit zwart vierkant"
     ]
   },
   {
@@ -12727,7 +14362,8 @@
     "tags": [
       "geometrisch",
       "klein tot middelgroot zwart vierkant",
-      "vierkant"
+      "vierkant",
+      "zwart middelgroot vierkant"
     ]
   },
   {
@@ -12736,7 +14372,9 @@
       "klein tot middelgroot wit vierkant",
       "redelijk klein",
       "vierkant",
-      "wit"
+      "wit",
+      "geometrisch",
+      "wit middelgroot vierkant"
     ]
   },
   {
@@ -12761,7 +14399,8 @@
       "geometrisch",
       "grote oranje ruit",
       "oranje",
-      "ruit"
+      "ruit",
+      "groot oranje ruit"
     ]
   },
   {
@@ -12770,7 +14409,8 @@
       "blauw",
       "geometrisch",
       "grote blauwe ruit",
-      "ruit"
+      "ruit",
+      "blauwe"
     ]
   },
   {
@@ -12788,7 +14428,8 @@
       "blauw",
       "geometrisch",
       "kleine blauwe ruit",
-      "ruit"
+      "ruit",
+      "blauwe"
     ]
   },
   {
@@ -12796,7 +14437,8 @@
     "tags": [
       "geometrisch",
       "rode omhoogwijzende driehoek",
-      "rood"
+      "rood",
+      "rood naar boven wijzende driehoek"
     ]
   },
   {
@@ -12805,7 +14447,9 @@
       "geometrisch",
       "omlaag",
       "rode omlaagwijzende driehoek",
-      "rood"
+      "rood",
+      "naar benden",
+      "rood naar beneden wijzende driehoek"
     ]
   },
   {
@@ -12815,7 +14459,9 @@
       "geometrisch",
       "ruit",
       "ruitvorm met stip erin",
-      "strip"
+      "strip",
+      "ruit met stip",
+      "binnenin"
     ]
   },
   {
@@ -12834,7 +14480,9 @@
       "knop",
       "omlijnd",
       "vierkant",
-      "witte vierkante knop"
+      "witte vierkante knop",
+      "omlijnt",
+      "witte vierkant"
     ]
   },
   {
@@ -12851,14 +14499,17 @@
     "tags": [
       "geblokt",
       "geblokte vlag",
-      "racen"
+      "racen",
+      "geruit",
+      "geruite vlag"
     ]
   },
   {
     "emoji": "🚩",
     "tags": [
       "driehoekige vlag",
-      "locatie"
+      "locatie",
+      "driehoekige valg"
     ]
   },
   {
@@ -12868,7 +14519,10 @@
       "gekruist",
       "gekruiste vlaggen",
       "japans",
-      "kruis"
+      "kruis",
+      "viering",
+      "gekruisde vlaggen",
+      "Japans"
     ]
   },
   {
@@ -12876,7 +14530,8 @@
     "tags": [
       "vlag",
       "zwart",
-      "zwarte vlag"
+      "zwarte vlag",
+      "wapperen"
     ]
   },
   {
@@ -12884,7 +14539,8 @@
     "tags": [
       "vlag",
       "wit",
-      "witte vlag"
+      "witte vlag",
+      "wapperen"
     ]
   },
   {
@@ -12892,7 +14548,8 @@
     "tags": [
       "regenboog",
       "regenboogvlag",
-      "vlag"
+      "vlag",
+      "pride"
     ]
   },
   {
@@ -12903,6 +14560,109 @@
       "piratenvlag",
       "plunderen",
       "schat"
+    ]
+  },
+  {
+    "emoji": "#️⃣",
+    "tags": [
+      "toets",
+      "hashtag",
+      "hekje"
+    ]
+  },
+  {
+    "emoji": "*️⃣",
+    "tags": [
+      "toets",
+      "asterisk"
+    ]
+  },
+  {
+    "emoji": "0️⃣",
+    "tags": [
+      "toets",
+      "0",
+      "nul"
+    ]
+  },
+  {
+    "emoji": "1️⃣",
+    "tags": [
+      "toets",
+      "1",
+      "één"
+    ]
+  },
+  {
+    "emoji": "2️⃣",
+    "tags": [
+      "toets",
+      "2",
+      "twee"
+    ]
+  },
+  {
+    "emoji": "3️⃣",
+    "tags": [
+      "toets",
+      "3",
+      "drie"
+    ]
+  },
+  {
+    "emoji": "4️⃣",
+    "tags": [
+      "toets",
+      "4",
+      "vier"
+    ]
+  },
+  {
+    "emoji": "5️⃣",
+    "tags": [
+      "toets",
+      "5",
+      "vijf"
+    ]
+  },
+  {
+    "emoji": "6️⃣",
+    "tags": [
+      "toets",
+      "6",
+      "zes"
+    ]
+  },
+  {
+    "emoji": "7️⃣",
+    "tags": [
+      "toets",
+      "7",
+      "zeven"
+    ]
+  },
+  {
+    "emoji": "8️⃣",
+    "tags": [
+      "toets",
+      "8",
+      "acht"
+    ]
+  },
+  {
+    "emoji": "9️⃣",
+    "tags": [
+      "toets",
+      "9",
+      "negen"
+    ]
+  },
+  {
+    "emoji": "🔟",
+    "tags": [
+      "toets",
+      "10",
+      "tien"
     ]
   }
 ]

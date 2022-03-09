@@ -2988,7 +2988,9 @@
   {
     "emoji": "🤴",
     "tags": [
-      "prince"
+      "prince",
+      "king",
+      "royal"
     ]
   },
   {
@@ -2996,7 +2998,9 @@
     "tags": [
       "fairy tale",
       "fantasy",
-      "princess"
+      "princess",
+      "queen",
+      "royal"
     ]
   },
   {
@@ -3051,7 +3055,8 @@
       "groom",
       "person",
       "person in tuxedo",
-      "tuxedo"
+      "tuxedo",
+      "wedding"
     ]
   },
   {
@@ -3060,7 +3065,9 @@
       "man",
       "man in tuxedo",
       "tuxedo",
-      "male"
+      "male",
+      "groom",
+      "wedding"
     ]
   },
   {
@@ -3069,7 +3076,9 @@
       "tuxedo",
       "woman",
       "woman in tuxedo",
-      "female"
+      "female",
+      "groom",
+      "wedding"
     ]
   },
   {
@@ -3088,7 +3097,8 @@
       "man",
       "man with veil",
       "veil",
-      "male"
+      "male",
+      "bride"
     ]
   },
   {
@@ -3097,7 +3107,8 @@
       "veil",
       "woman",
       "woman with veil",
-      "female"
+      "female",
+      "bride"
     ]
   },
   {
@@ -3105,7 +3116,8 @@
     "tags": [
       "pregnant",
       "woman",
-      "female"
+      "female",
+      "baby"
     ]
   },
   {
@@ -3279,7 +3291,8 @@
       "sorceress",
       "witch",
       "woman mage",
-      "female"
+      "female",
+      "wizard"
     ]
   },
   {
@@ -3297,7 +3310,8 @@
       "man fairy",
       "Oberon",
       "Puck",
-      "male"
+      "male",
+      "fairy"
     ]
   },
   {
@@ -3305,7 +3319,8 @@
     "tags": [
       "Titania",
       "woman fairy",
-      "female"
+      "female",
+      "fairy"
     ]
   },
   {
@@ -3330,7 +3345,8 @@
     "tags": [
       "undead",
       "woman vampire",
-      "female"
+      "female",
+      "Dracula"
     ]
   },
   {
@@ -5008,14 +5024,16 @@
       "brachiosaurus",
       "brontosaurus",
       "diplodocus",
-      "sauropod"
+      "sauropod",
+      "dinosaur"
     ]
   },
   {
     "emoji": "🦖",
     "tags": [
       "T-Rex",
-      "Tyrannosaurus Rex"
+      "Tyrannosaurus Rex",
+      "dinosaur"
     ]
   },
   {
@@ -7374,7 +7392,11 @@
       "car",
       "light",
       "police",
-      "revolving"
+      "revolving",
+      "alert",
+      "alarm",
+      "emergency",
+      "siren"
     ]
   },
   {
@@ -8506,21 +8528,26 @@
     "tags": [
       "celebration",
       "medal",
-      "military"
+      "military",
+      "award"
     ]
   },
   {
     "emoji": "🏆",
     "tags": [
       "prize",
-      "trophy"
+      "trophy",
+      "award",
+      "win"
     ]
   },
   {
     "emoji": "🏅",
     "tags": [
       "medal",
-      "sports medal"
+      "sports medal",
+      "star",
+      "win"
     ]
   },
   {
@@ -8529,7 +8556,11 @@
       "1st place medal",
       "first",
       "gold",
-      "medal"
+      "medal",
+      "1",
+      "award",
+      "prize",
+      "win"
     ]
   },
   {
@@ -8538,7 +8569,11 @@
       "2nd place medal",
       "medal",
       "second",
-      "silver"
+      "silver",
+      "2",
+      "award",
+      "prize",
+      "win"
     ]
   },
   {
@@ -8547,7 +8582,11 @@
       "3rd place medal",
       "bronze",
       "medal",
-      "third"
+      "third",
+      "3",
+      "award",
+      "prize",
+      "win"
     ]
   },
   {
@@ -9460,7 +9499,8 @@
       "muted speaker",
       "quiet",
       "silent",
-      "speaker"
+      "speaker",
+      "volume"
     ]
   },
   {
@@ -9938,7 +9978,8 @@
       "comic",
       "electric",
       "idea",
-      "light"
+      "light",
+      "lightbulb"
     ]
   },
   {
