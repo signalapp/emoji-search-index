@@ -31,6 +31,7 @@
       "mond",
       "oog",
       "open",
+      "ogen",
       "lachend"
     ]
   },
@@ -42,6 +43,7 @@
       "lach",
       "oog",
       "stralend gezicht met lachende ogen",
+      "ogen",
       "lachend",
       "blij"
     ]
@@ -143,6 +145,7 @@
       "glimlach",
       "lachend gezicht met lachende ogen",
       "oog",
+      "ogen",
       "lach"
     ]
   },
@@ -175,6 +178,7 @@
       "lachend gezicht met hartvormige ogen",
       "liefde",
       "oog",
+      "ogen",
       "lach",
       "hartjes"
     ]
@@ -197,7 +201,7 @@
       "gezicht dat kus toeblaast",
       "kus",
       "verleid",
-      "kus mer hart"
+      "kus met hart"
     ]
   },
   {
@@ -227,6 +231,7 @@
       "kus",
       "kussend gezicht met gesloten ogen",
       "oog",
+      "ogen",
       "zoenen"
     ]
   },
@@ -238,6 +243,7 @@
       "kus",
       "kussend gezicht met lachende ogen",
       "oog",
+      "ogen",
       "kussend gezicht met lachenden ogen",
       "lach"
     ]
@@ -296,7 +302,9 @@
       "groot",
       "klein",
       "oog",
+      "ogen",
       "gek",
+      "gestoord",
       "dom"
     ]
   },
@@ -309,6 +317,7 @@
       "smaak",
       "tong",
       "vreselijk",
+      "ogen",
       "vies"
     ]
   },
@@ -331,7 +340,7 @@
       "knuffel",
       "knuffelen",
       "omhelzing",
-      "omhelzen"
+      "lief"
     ]
   },
   {
@@ -539,6 +548,7 @@
       "masker",
       "medicijn",
       "ziek",
+      "mondmasker",
       "arts",
       "gezicht met medisch mondmasker",
       "mondkapje",
@@ -917,8 +927,7 @@
       "gezicht",
       "munch",
       "schreeuw",
-      "gezicht schreeuwt uit angst",
-      "smakken"
+      "gezicht schreeuwt uit angst"
     ]
   },
   {
@@ -961,7 +970,7 @@
       "gezicht",
       "moe",
       "vermoeid",
-      "wanhopig"
+      "wanhoop"
     ]
   },
   {
@@ -970,7 +979,7 @@
       "gezicht",
       "moe",
       "vermoeid",
-      "wanhopig"
+      "wanhoop"
     ]
   },
   {
@@ -1189,7 +1198,8 @@
       "grijnzende kat met lachende ogen",
       "kat",
       "lach",
-      "oog"
+      "oog",
+      "ogen"
     ]
   },
   {
@@ -1211,7 +1221,8 @@
       "lach",
       "lachende kat met hartvormige ogen",
       "liefde",
-      "oog"
+      "oog",
+      "ogen"
     ]
   },
   {
@@ -1234,7 +1245,8 @@
       "kat",
       "kus",
       "kussende kat",
-      "oog"
+      "oog",
+      "ogen"
     ]
   },
   {
@@ -1246,7 +1258,8 @@
       "vermoeid",
       "vermoeide kat",
       "verrast",
-      "oh"
+      "oh",
+      "bang"
     ]
   },
   {
@@ -1314,7 +1327,7 @@
       "kus",
       "lipafdruk",
       "lippen",
-      "kus-afdruk"
+      "lippenstift kus"
     ]
   },
   {
@@ -1594,7 +1607,8 @@
       "spraakballon",
       "strip",
       "tekstballon",
-      "bubbel"
+      "bubbel",
+      "spreken"
     ]
   },
   {
@@ -2123,8 +2137,7 @@
     "emoji": "🦷",
     "tags": [
       "tand",
-      "tandarts",
-      "and"
+      "tandarts"
     ]
   },
   {
@@ -2197,7 +2210,6 @@
       "maagd",
       "meisje",
       "sterrenbeeld",
-      "eisje",
       "Maagd",
       "dierenriem"
     ]
@@ -2278,7 +2290,7 @@
       "haar",
       "vrouw",
       "vrouw met blond haar",
-      "blod-harige vrouw",
+      "blond-harige vrouw",
       "blondine",
       "vrouw: blond haar"
     ]
@@ -2834,7 +2846,8 @@
     "emoji": "🧑‍🍳",
     "tags": [
       "chef-kok",
-      "kok"
+      "kok",
+      "chefkok"
     ]
   },
   {
@@ -2843,7 +2856,8 @@
       "chef-kok",
       "kok",
       "man",
-      "mannelijke kok"
+      "mannelijke kok",
+      "chefkok"
     ]
   },
   {
@@ -3054,8 +3068,7 @@
       "mannelijke zanger",
       "rock",
       "ster",
-      "zanger",
-      "zonger"
+      "zanger"
     ]
   },
   {
@@ -3068,7 +3081,7 @@
       "vrouw",
       "zangeres",
       "acteur",
-      "zonger"
+      "zanger"
     ]
   },
   {
@@ -3276,7 +3289,7 @@
     "tags": [
       "prins",
       "koning",
-      "royal"
+      "vorst"
     ]
   },
   {
@@ -3286,7 +3299,7 @@
       "prinses",
       "sprookje",
       "koningin",
-      "royal"
+      "vorstin"
     ]
   },
   {
@@ -3346,7 +3359,7 @@
       "persoon",
       "persoon in smoking",
       "smoking",
-      "huwlijk"
+      "huwelijk"
     ]
   },
   {
@@ -3356,7 +3369,7 @@
       "man in smoking",
       "smoking",
       "bruidegom",
-      "huwlijk"
+      "huwelijk"
     ]
   },
   {
@@ -3366,7 +3379,7 @@
       "vrouw",
       "vrouw in smoking",
       "bruidegom",
-      "huwlijk"
+      "huwelijk"
     ]
   },
   {
@@ -3470,7 +3483,7 @@
       "kerstman",
       "Kerstmis",
       "viering",
-      "kerst",
+      "Kerst",
       "vader",
       "man"
     ]
@@ -3482,8 +3495,9 @@
       "kerstvrouw",
       "moedertje kerst",
       "viering",
-      "kerst",
+      "Kerst",
       "moeder",
+      "kerstman",
       "mevrouw",
       "vrouw"
     ]
@@ -3836,7 +3850,6 @@
       "voetganger",
       "wandelaar",
       "wandelen",
-      "wandel",
       "persoon loops",
       "loop"
     ]
@@ -3880,7 +3893,7 @@
       "man",
       "staand",
       "staande man",
-      "staant"
+      "staan"
     ]
   },
   {
@@ -3889,7 +3902,7 @@
       "staand",
       "staande vrouw",
       "vrouw",
-      "staant"
+      "staan"
     ]
   },
   {
@@ -4214,7 +4227,7 @@
     "tags": [
       "surfen",
       "surfer",
-      "persoon golft"
+      "persoon surft"
     ]
   },
   {
@@ -4361,7 +4374,6 @@
       "fietser",
       "man",
       "man op mountainbike",
-      "fioets",
       "mannelijk mountainbiker"
     ]
   },
@@ -5057,7 +5069,6 @@
       "kameel",
       "kameel met twee bulten",
       "Bactrische",
-      "camel",
       "woestijn"
     ]
   },
@@ -5193,8 +5204,7 @@
     "emoji": "🐻",
     "tags": [
       "beer",
-      "gezicht",
-      "bear"
+      "gezicht"
     ]
   },
   {
@@ -5258,7 +5268,7 @@
       "kangoeroe",
       "springen",
       "wallaby",
-      "baby kangoeroe"
+      "babykangoeroe"
     ]
   },
   {
@@ -5510,7 +5520,7 @@
       "brontosaurus",
       "diplodocus",
       "sauropode",
-      "dinosaur"
+      "dinosaurus"
     ]
   },
   {
@@ -5518,7 +5528,7 @@
     "tags": [
       "T-Rex",
       "Tyrannosaurus Rex",
-      "dinosaur"
+      "dinosaurus"
     ]
   },
   {
@@ -6182,7 +6192,8 @@
     "emoji": "🧄",
     "tags": [
       "knoflook",
-      "smaakmaker"
+      "smaakmaker",
+      "ui"
     ]
   },
   {
@@ -6333,7 +6344,8 @@
       "kotelet",
       "lamskotelet",
       "varkenslap",
-      "vlees"
+      "vlees",
+      "karbonade"
     ]
   },
   {
@@ -7377,8 +7389,7 @@
       "cement",
       "klei",
       "muur",
-      "mortel",
-      "klein"
+      "mortel"
     ]
   },
   {
@@ -7550,7 +7561,7 @@
       "kapel",
       "romantiek",
       "romantisch",
-      "huwlijk"
+      "huwelijk"
     ]
   },
   {
@@ -7811,7 +7822,6 @@
       "snelheid",
       "spoor",
       "trein",
-      "hoogesnelheidstrein",
       "kogeltrein"
     ]
   },
@@ -8187,10 +8197,10 @@
       "zwaailicht van politieauto",
       "baken",
       "zwaai",
-      "alert",
+      "attentie",
       "alarm",
       "ongeval",
-      "siren"
+      "sirene"
     ]
   },
   {
@@ -8311,8 +8321,7 @@
       "vliegmachine",
       "vliegtuig",
       "vliegtuigje",
-      "luchtvaartuig",
-      "klein vliegtuig"
+      "luchtvaartuig"
     ]
   },
   {
@@ -9236,7 +9245,7 @@
       "kerstboom",
       "Kerstmis",
       "viering",
-      "kerst"
+      "Kerst"
     ]
   },
   {
@@ -9446,7 +9455,7 @@
       "militaire medaille",
       "viering",
       "militaire",
-      "award"
+      "onderscheiding"
     ]
   },
   {
@@ -9455,8 +9464,7 @@
       "prijs",
       "trofee",
       "onderscheiding",
-      "award",
-      "win"
+      "winnen"
     ]
   },
   {
@@ -9465,7 +9473,7 @@
       "medaille",
       "sportmedaille",
       "ster",
-      "win"
+      "winnen"
     ]
   },
   {
@@ -9478,9 +9486,9 @@
       "medaille 1e plaats",
       "1st plaats-medaille",
       "1",
-      "award",
       "onderscheiding",
-      "win"
+      "prijs",
+      "winnen"
     ]
   },
   {
@@ -9492,9 +9500,9 @@
       "zilver",
       "2e plaats-medaille",
       "2",
-      "award",
       "onderscheiding",
-      "win"
+      "prijs",
+      "winnen"
     ]
   },
   {
@@ -9507,9 +9515,9 @@
       "medaille 3e plaats",
       "3rde plaats-medaille",
       "3",
-      "award",
       "onderscheiding",
-      "win"
+      "prijs",
+      "winnen"
     ]
   },
   {
@@ -10094,6 +10102,7 @@
       "brillen",
       "kleding",
       "oog",
+      "ogen",
       "oogbescherming",
       "brillenglazen"
     ]
@@ -10106,6 +10115,7 @@
       "donker",
       "oog",
       "zonnebril",
+      "ogen",
       "oogbescherming"
     ]
   },
@@ -11067,7 +11077,7 @@
       "licht",
       "strip",
       "bulb",
-      "lightbulb"
+      "lamp"
     ]
   },
   {
@@ -11836,8 +11846,7 @@
     "emoji": "🔨",
     "tags": [
       "gereedschap",
-      "hamer",
-      "mer"
+      "hamer"
     ]
   },
   {
@@ -12168,7 +12177,6 @@
       "menstruatie",
       "verwonding",
       "bloed",
-      "bloedonatie",
       "druppel bloed",
       "medicijn"
     ]
@@ -12577,7 +12585,6 @@
       "wasgelegenheid",
       "water",
       "wc",
-      "kleine kamertje",
       "badkamer"
     ]
   },
@@ -14419,7 +14426,8 @@
       "geometrisch",
       "kleine oranje ruit",
       "oranje",
-      "ruit"
+      "ruit",
+      "oranje ruit"
     ]
   },
   {
@@ -14429,7 +14437,8 @@
       "geometrisch",
       "kleine blauwe ruit",
       "ruit",
-      "blauwe"
+      "blauwe",
+      "blauwe ruit"
     ]
   },
   {

@@ -2204,8 +2204,7 @@
       "el sıkışma",
       "sallama",
       "toplantı",
-      "meeting",
-      "shake"
+      "meeting"
     ]
   },
   {
@@ -2276,9 +2275,7 @@
       "erişilebilirlik",
       "mekanik kol",
       "protez",
-      "mechanical arm",
       "metal",
-      "prosthetic",
       "güçlü"
     ]
   },
@@ -2288,9 +2285,7 @@
       "erişilebilirlik",
       "mekanik bacak",
       "protez",
-      "mechanical leg",
-      "metal",
-      "prosthetic"
+      "metal"
     ]
   },
   {
@@ -2382,8 +2377,7 @@
     "emoji": "🦴",
     "tags": [
       "iskelet",
-      "kemik",
-      "skeleton"
+      "kemik"
     ]
   },
   {
@@ -3198,7 +3192,7 @@
       "elektrikçi",
       "tamirci",
       "tesisatçı",
-      "mechanic",
+      "mekanik",
       "tradesperson"
     ]
   },
@@ -3211,7 +3205,7 @@
       "esnaf",
       "tamirci",
       "tesisatçı",
-      "mechanic",
+      "mekanik",
       "tradesperson"
     ]
   },
@@ -3224,7 +3218,7 @@
       "kadın",
       "tamirci",
       "tesisatçı",
-      "mechanic",
+      "mekanik",
       "tradesperson"
     ]
   },
@@ -3361,8 +3355,7 @@
       "teknolog",
       "teknoloji uzmanı",
       "yazılım",
-      "yazılımcı",
-      "technologist"
+      "yazılımcı"
     ]
   },
   {
@@ -3375,8 +3368,7 @@
       "kodlayıcı",
       "mucit",
       "teknoloji uzmanı",
-      "yazılım",
-      "technologist"
+      "yazılım"
     ]
   },
   {
@@ -3389,8 +3381,7 @@
       "kodlayıcı",
       "mucit",
       "teknoloji uzmanı",
-      "yazılım",
-      "technologist"
+      "yazılım"
     ]
   },
   {
@@ -3402,7 +3393,7 @@
       "şarkıcı",
       "star",
       "yıldız",
-      "entertainer",
+      "animatör",
       "kaya"
     ]
   },
@@ -3416,7 +3407,7 @@
       "rock",
       "şarkıcı",
       "star",
-      "entertainer",
+      "animatör",
       "kaya",
       "yıldız"
     ]
@@ -3431,7 +3422,7 @@
       "rock",
       "şarkıcı",
       "star",
-      "entertainer",
+      "animatör",
       "kaya",
       "yıldız"
     ]
@@ -3525,7 +3516,7 @@
     "tags": [
       "itfaiye aracı",
       "itfaiyeci",
-      "firetruck"
+      "itfaiye"
     ]
   },
   {
@@ -3535,7 +3526,7 @@
       "erkek",
       "itfaiye aracı",
       "itfaiyeci",
-      "firetruck"
+      "itfaiye"
     ]
   },
   {
@@ -3545,7 +3536,7 @@
       "itfaiye aracı",
       "itfaiyeci",
       "kadın",
-      "firetruck"
+      "itfaiye"
     ]
   },
   {
@@ -3661,7 +3652,7 @@
     "tags": [
       "prens",
       "kral",
-      "royal"
+      "asil"
     ]
   },
   {
@@ -3672,7 +3663,7 @@
       "prenses",
       "hayal",
       "kraliçe",
-      "royal"
+      "asil"
     ]
   },
   {
@@ -3682,8 +3673,8 @@
       "sarık",
       "sarıklı erkek",
       "sarıklı kişi",
-      "person wearing turban",
-      "turban"
+      "türban giyen kişi",
+      "türban"
     ]
   },
   {
@@ -3693,8 +3684,8 @@
       "erkek",
       "sarık",
       "sarıklı erkek",
-      "man wearing turban",
-      "turban"
+      "türban giyen erkek",
+      "türban"
     ]
   },
   {
@@ -3704,8 +3695,8 @@
       "kadın",
       "sarık",
       "sarıklı kadın",
-      "turban",
-      "woman wearing turban"
+      "türban",
+      "türban giyen kadın"
     ]
   },
   {
@@ -4246,10 +4237,9 @@
     "tags": [
       "yürüyen",
       "yürüyen kişi",
-      "hike",
+      "yürüyüş",
       "insan yürüyor",
-      "yürümek",
-      "yürüyüş"
+      "yürümek"
     ]
   },
   {
@@ -4260,7 +4250,6 @@
       "erkek",
       "yürüme",
       "yürüyen erkek",
-      "hike",
       "yürüyüş",
       "erkek yürüyor"
     ]
@@ -4273,7 +4262,6 @@
       "kadın",
       "yürüme",
       "yürüyen kadın",
-      "hike",
       "yürüyüş",
       "kadın yürüyor"
     ]
@@ -4285,7 +4273,7 @@
       "ayakta duran kişi",
       "ayakta durma",
       "person standing",
-      "stand",
+      "durmak",
       "standing"
     ]
   },
@@ -4314,7 +4302,7 @@
       "diz çöken",
       "diz çöken kişi",
       "diz çökme",
-      "kneel",
+      "diz çökmek",
       "kneeling",
       "person kneeling"
     ]
@@ -4617,8 +4605,7 @@
       "spor",
       "yarış",
       "yarış atı",
-      "yarışmak",
-      "racehorse"
+      "yarışmak"
     ]
   },
   {
@@ -4657,7 +4644,7 @@
       "sörfçü",
       "spor",
       "person surfing",
-      "surfing"
+      "sörf yapmak"
     ]
   },
   {
@@ -4667,7 +4654,7 @@
       "erkek",
       "sörf",
       "sörf yapan erkek",
-      "surfing"
+      "sörf yapmak"
     ]
   },
   {
@@ -4677,7 +4664,7 @@
       "kadın",
       "sörf",
       "sörf yapan kadın",
-      "surfing"
+      "sörf yapmak"
     ]
   },
   {
@@ -5339,8 +5326,8 @@
       "kedi yüzü",
       "yüz",
       "evcil hayvan",
-      "kitten",
-      "kitty"
+      "yavru kedi",
+      "kedicik"
     ]
   },
   {
@@ -5349,8 +5336,8 @@
       "hayvan",
       "kedi",
       "evcil hayvan",
-      "kitten",
-      "kitty"
+      "yavru kedi",
+      "kedicik"
     ]
   },
   {
@@ -5360,9 +5347,9 @@
       "kedi",
       "uğursuz",
       "siyah",
-      "unlucky",
-      "kitty",
-      "kitten"
+      "şanssız",
+      "kedicik",
+      "yavru kedi"
     ]
   },
   {
@@ -5393,7 +5380,7 @@
     "emoji": "🐆",
     "tags": [
       "leopar",
-      "cheetah",
+      "çita",
       "jaguar",
       "panter"
     ]
@@ -5414,8 +5401,7 @@
       "yarış",
       "yarış atı",
       "equestrian",
-      "yarışmak",
-      "racehorse"
+      "yarışmak"
     ]
   },
   {
@@ -5644,8 +5630,7 @@
     "tags": [
       "gergedan",
       "hayvan",
-      "rhinoceros",
-      "rhino"
+      "rhinoceros"
     ]
   },
   {
@@ -6102,7 +6087,7 @@
       "diplodocus",
       "soropod",
       "sauropod",
-      "dinosaur"
+      "dinazor"
     ]
   },
   {
@@ -6110,7 +6095,7 @@
     "tags": [
       "T-Rex",
       "Tyrannosaurus Rex",
-      "dinosaur"
+      "dinazor"
     ]
   },
   {
@@ -6723,8 +6708,7 @@
     "tags": [
       "domates",
       "meyve",
-      "sebze",
-      "vegetable"
+      "sebze"
     ]
   },
   {
@@ -6762,8 +6746,7 @@
       "patlıcan",
       "sebze",
       "aubergine",
-      "eggplant",
-      "vegetable"
+      "eggplant"
     ]
   },
   {
@@ -6772,8 +6755,7 @@
       "patates",
       "sebze",
       "yiyecek",
-      "yemek",
-      "vegetable"
+      "yemek"
     ]
   },
   {
@@ -6782,8 +6764,7 @@
       "havuç",
       "sebze",
       "yiyecek",
-      "yemek",
-      "vegetable"
+      "yemek"
     ]
   },
   {
@@ -6815,8 +6796,7 @@
       "dolmalık biber",
       "sebze",
       "bell pepper",
-      "capsicum",
-      "vegetable"
+      "capsicum"
     ]
   },
   {
@@ -6826,10 +6806,7 @@
       "sebze",
       "turşu",
       "yiyecek",
-      "cucumber",
-      "yemek",
-      "vegetable",
-      "pickle"
+      "yemek"
     ]
   },
   {
@@ -6852,7 +6829,6 @@
     "tags": [
       "brokoli",
       "yabani lahana",
-      "broccoli",
       "wild cabbage"
     ]
   },
@@ -6891,8 +6867,7 @@
       "yemek",
       "nut",
       "peanuts",
-      "peanut",
-      "vegetable"
+      "peanut"
     ]
   },
   {
@@ -13341,7 +13316,7 @@
       "sandık",
       "tamirci",
       "chest",
-      "mechanic",
+      "mekanik",
       "toolbox",
       "araç"
     ]

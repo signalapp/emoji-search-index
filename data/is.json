@@ -66,7 +66,7 @@
       "grinning squinting face",
       "munnur",
       "hlátur",
-      "satisfied",
+      "ánægður",
       "brosandi",
       "squint",
       "gleði"
@@ -82,7 +82,7 @@
       "sviti",
       "kalt",
       "opið",
-      "grinning face with sweat",
+      "glottandi andlit með svitadropa",
       "brosandi",
       "hlátur",
       "fyndið"
@@ -95,9 +95,8 @@
       "veltast",
       "veltist um af hlátri",
       "andlit",
-      "floor",
       "rofl",
-      "rolling",
+      "rúllandi",
       "rolling on the floor laughing",
       "rotfl",
       "fyndið",
@@ -110,9 +109,9 @@
       "andlit",
       "andlit tárast af gleði",
       "gleðitár",
-      "face with tears of joy",
+      "andlit með gleðitár",
       "hlátur",
-      "joy",
+      "gleði",
       "tár",
       "fyndið",
       "gráta"
@@ -135,7 +134,7 @@
       "andlit",
       "andlit á hvolfi",
       "sarcasm",
-      "silly",
+      "bjánalegt",
       "sarcastic",
       "uh oh"
     ]
@@ -159,7 +158,7 @@
       "brosandi augu",
       "roðnar",
       "auga",
-      "brosandi andlit með brosandi aaugu"
+      "brosandi andlit með brosandi augu"
     ]
   },
   {
@@ -185,7 +184,6 @@
       "ástfanginn",
       "brosandi andlit með hjörtum",
       "skotinn í",
-      "adore",
       "skot",
       "in love",
       "hjörtu"
@@ -200,7 +198,7 @@
       "bros",
       "brosandi andlit með hjartalaga augu",
       "auga",
-      "brosandi andlit með hjartaaugu",
+      "brosandi andlit með hjarta-augu",
       "hjörtu"
     ]
   },
@@ -290,7 +288,7 @@
       "grateful",
       "proud",
       "brosandi",
-      "relieved",
+      "feginn",
       "touched"
     ]
   },
@@ -304,7 +302,7 @@
       "savouring",
       "face savoring food",
       "bros",
-      "yum"
+      "namm"
     ]
   },
   {
@@ -340,7 +338,7 @@
       "sturlað andlit",
       "goofy",
       "zany face",
-      "silly"
+      "bjánalegt"
     ]
   },
   {
@@ -428,8 +426,8 @@
       "hissa",
       "vantraust",
       "face with raised eyebrow",
-      "unsure",
-      "skeptic"
+      "óviss",
+      "efasemd"
     ]
   },
   {
@@ -510,7 +508,7 @@
       "ranghvolfir augum",
       "eyeroll",
       "face with rolling eyes",
-      "rolling"
+      "rúllandi"
     ]
   },
   {
@@ -550,9 +548,8 @@
       "ljúga",
       "lygari",
       "lygi",
-      "lie",
-      "pinocchio",
-      "lying face"
+      "plata",
+      "skrökvandi andlit"
     ]
   },
   {
@@ -561,7 +558,7 @@
       "andlit",
       "andlit sem er létt",
       "léttir",
-      "relieved"
+      "feginn"
     ]
   },
   {
@@ -997,7 +994,7 @@
       "léttir",
       "vonsvikinn",
       "sad but relieved face",
-      "relieved",
+      "feginn",
       "whew"
     ]
   },
@@ -1234,7 +1231,7 @@
       "andlit",
       "trúður",
       "clown",
-      "silly"
+      "bjánalegt"
     ]
   },
   {
@@ -1360,7 +1357,7 @@
       "köttur",
       "köttur með gleðitár",
       "cat with tears of joy",
-      "joy",
+      "gleði",
       "andlit",
       "tár"
     ]
@@ -1377,7 +1374,7 @@
       "auga",
       "hjarta",
       "bros",
-      "brosandi köttur með hjartaaugu"
+      "brosandi köttur með hjarta-augu"
     ]
   },
   {

@@ -5196,7 +5196,6 @@
     "tags": [
       "cykel",
       "cyklist",
-      "bicycle",
       "biking",
       "person biking",
       "cyclist"
@@ -5210,7 +5209,7 @@
       "cyklist",
       "mand",
       "mandlig cyklist",
-      "bicycle",
+      "cykel",
       "biking",
       "man",
       "cyclist",
@@ -5225,7 +5224,7 @@
       "cyklist",
       "kvinde",
       "kvindelig cyklist",
-      "bicycle",
+      "cykel",
       "biking",
       "cyclist",
       "female"
@@ -5239,7 +5238,6 @@
       "cyklist",
       "mountainbike",
       "mountainbikerytter",
-      "bicycle",
       "bicyclist",
       "cyclist",
       "bike",
@@ -5254,7 +5252,7 @@
       "mand",
       "mand på mountainbike",
       "mountainbike",
-      "bicycle",
+      "cykel",
       "bike",
       "man",
       "cyclist",
@@ -5270,7 +5268,7 @@
       "kvinde",
       "kvinde på mountainbike",
       "mountainbike",
-      "bicycle",
+      "cykel",
       "bike",
       "cyclist",
       "biking",
@@ -6873,8 +6871,7 @@
     "tags": [
       "edderkop",
       "insekt",
-      "insect",
-      "spider"
+      "insect"
     ]
   },
   {
@@ -6883,7 +6880,6 @@
       "edderkop",
       "edderkoppespind",
       "spind",
-      "spider",
       "web"
     ]
   },
@@ -9662,7 +9658,6 @@
     "tags": [
       "motorcykel",
       "racerløb",
-      "motorcycle",
       "racing"
     ]
   },
@@ -9705,7 +9700,6 @@
     "tags": [
       "cykel",
       "tohjulet",
-      "bicycle",
       "bike"
     ]
   },
@@ -15074,11 +15068,10 @@
     "tags": [
       "cykler forbudt",
       "ingen cykler",
-      "bicycle",
+      "cykel",
       "bike",
       "no",
       "forbudt",
-      "no bicycles",
       "prohibited"
     ]
   },

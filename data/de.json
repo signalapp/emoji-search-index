@@ -3545,7 +3545,7 @@
     "tags": [
       "Prinz",
       "König",
-      "royal"
+      "königlich"
     ]
   },
   {
@@ -3558,7 +3558,7 @@
       "Fantasie",
       "Prinzessi",
       "Königin",
-      "royal"
+      "königlich"
     ]
   },
   {
@@ -5971,8 +5971,7 @@
       "Dinosaurier",
       "Diplodocus",
       "Saurier",
-      "Sauropode",
-      "dinosaur"
+      "Sauropode"
     ]
   },
   {
@@ -5984,8 +5983,7 @@
       "T-Rex",
       "Tyrannosaurus Rex",
       "T-rex",
-      "Tyrannosaurus rex",
-      "dinosaur"
+      "Tyrannosaurus rex"
     ]
   },
   {
@@ -8788,10 +8786,10 @@
       "Auto",
       "Licht",
       "drehend",
-      "alert",
+      "Alarm",
       "Wecker",
       "Notfall",
-      "siren"
+      "Sirene"
     ]
   },
   {
@@ -10124,7 +10122,7 @@
       "Feier",
       "Medaille",
       "militärisch",
-      "award"
+      "Auszeichnung"
     ]
   },
   {
@@ -10133,8 +10131,8 @@
       "Pokal",
       "Preis",
       "Trophäe",
-      "award",
-      "win"
+      "Auszeichnung",
+      "Sieg"
     ]
   },
   {
@@ -10144,7 +10142,7 @@
       "Sportmedaille",
       "Sportsmedaille",
       "Stern",
-      "win"
+      "Sieg"
     ]
   },
   {
@@ -10158,9 +10156,9 @@
       "Medaille",
       "Gold",
       "1",
-      "award",
+      "Auszeichnung",
       "Preis",
-      "win"
+      "Sieg"
     ]
   },
   {
@@ -10174,9 +10172,9 @@
       "Silber",
       "zweiter",
       "2",
-      "award",
+      "Auszeichnung",
       "Preis",
-      "win"
+      "Sieg"
     ]
   },
   {
@@ -10190,9 +10188,9 @@
       "dritter",
       "Medaille",
       "3",
-      "award",
+      "Auszeichnung",
       "Preis",
-      "win"
+      "Sieg"
     ]
   },
   {
@@ -11240,7 +11238,7 @@
       "still",
       "leise",
       "Lautsprecher",
-      "volume"
+      "Lautstärke"
     ]
   },
   {
@@ -11796,8 +11794,7 @@
       "Idee",
       "Licht",
       "Comic",
-      "elektrisch",
-      "lightbulb"
+      "elektrisch"
     ]
   },
   {

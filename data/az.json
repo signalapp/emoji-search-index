@@ -1233,7 +1233,7 @@
       "fantaziya",
       "qulyabanı",
       "boo",
-      "spooky"
+      "qorxulu"
     ]
   },
   {
@@ -1243,10 +1243,8 @@
       "kosmos",
       "monstr",
       "yadplanetli",
-      "alien",
       "məxluq",
       "üz",
-      "extraterrestrial",
       "fantaziya",
       "ufo"
     ]
@@ -1258,10 +1256,8 @@
       "kosmos",
       "monstr",
       "yadplanetli",
-      "alien",
       "məxluq",
       "üz",
-      "extraterrestrial",
       "qulyabanı",
       "ufo"
     ]
@@ -1284,7 +1280,6 @@
       "pişik",
       "təbəssüm",
       "üz",
-      "cat",
       "geniş",
       "aç",
       "gülümsəmə"
@@ -1299,8 +1294,7 @@
       "pişik",
       "təbəssüm",
       "üz",
-      "cat",
-      "grinning cat with smiling eyes",
+      "gülümsəyən gözlərlə gülən pişik",
       "gülümsəmə"
     ]
   },
@@ -1312,8 +1306,7 @@
       "sevinc",
       "sevinc göz yaşları olan pişik üzü",
       "üz",
-      "cat",
-      "cat with tears of joy"
+      "sevinc göz yaşları olan pişik"
     ]
   },
   {
@@ -1326,8 +1319,6 @@
       "ürək",
       "ürək formalı gözləri olan gülən pişik üzü",
       "üz",
-      "cat",
-      "heart",
       "gülümsəmə",
       "ürəkli gözlərlə gülümsəyən pişik"
     ]
@@ -1341,11 +1332,10 @@
       "pişik",
       "təbəssüm",
       "üz",
-      "cat",
-      "cat with wry smile",
-      "ironic",
+      "istehzalı gülən pişik",
+      "istehzalı",
       "gülümsəmə",
-      "wry"
+      "qıcıq"
     ]
   },
   {
@@ -1356,8 +1346,7 @@
       "öpüş",
       "pişik",
       "üz",
-      "cat",
-      "kissing cat"
+      "öpən pişik"
     ]
   },
   {
@@ -1369,7 +1358,6 @@
       "təəccüblənmiş",
       "təəccüblənmiş pişik üzü",
       "üz",
-      "cat",
       "yorğun"
     ]
   },
@@ -1382,9 +1370,8 @@
       "pişik",
       "qəmli",
       "üz",
-      "cat",
       "ağlama",
-      "crying cat",
+      "ağlayan pişik",
       "qəmgin"
     ]
   },
@@ -1395,7 +1382,6 @@
       "acıqlı pişik üzü",
       "pişik",
       "üz",
-      "cat",
       "sifət etmək"
     ]
   },
@@ -1407,12 +1393,11 @@
       "meymun",
       "pisliyi görümürəm",
       "qadağa",
-      "evil",
+      "pis",
       "üz",
-      "monkey",
-      "forbidden",
-      "see",
-      "see-no-evil monkey"
+      "qadağan edilmiş",
+      "görmək",
+      "pisliyi görməyən meymun"
     ]
   },
   {
@@ -1423,12 +1408,10 @@
       "meymun",
       "pisliyi eşitmirəm",
       "qadağa",
-      "evil",
+      "pis",
       "üz",
-      "hear",
-      "forbidden",
-      "hear-no-evil monkey",
-      "monkey"
+      "qadağan edilmiş",
+      "pisliyi eşitməyən meymun"
     ]
   },
   {
@@ -1439,12 +1422,10 @@
       "meymun",
       "pis danışmıram",
       "qadağa",
-      "evil",
+      "pis",
       "üz",
-      "monkey",
-      "forbidden",
-      "speak",
-      "speak-no-evil monkey"
+      "qadağan edilmiş",
+      "pis danışmayan meymun"
     ]
   },
   {
@@ -1456,8 +1437,8 @@
       "öpüş işarəsi",
       "romantika",
       "ürək",
-      "kiss mark",
-      "lips"
+      "öpüş izi",
+      "dodaqlar"
     ]
   },
   {
@@ -1468,10 +1449,7 @@
       "romantika",
       "sevgi",
       "sevgi məktubu",
-      "ürək",
-      "heart",
-      "letter",
-      "mail"
+      "ürək"
     ]
   },
   {
@@ -1482,9 +1460,7 @@
       "oxlu ürək",
       "romantika",
       "ürək",
-      "arrow",
-      "cupid",
-      "heart with arrow"
+      "Eşq tanrısı"
     ]
   },
   {
@@ -1493,10 +1469,7 @@
       "lent",
       "lentli ürək",
       "ürək",
-      "valentin",
-      "heart with ribbon",
-      "ribbon",
-      "valentine"
+      "valentin"
     ]
   },
   {
@@ -1506,8 +1479,7 @@
       "qığılcım",
       "qığılcımlı ürək",
       "ürək",
-      "excited",
-      "sparkling heart"
+      "parıldayan ürək"
     ]
   },
   {
@@ -1519,10 +1491,11 @@
       "nervous",
       "ürək",
       "ürək döyüntüsü",
-      "excited",
-      "growing",
-      "growing heart",
-      "pulse"
+      "həyacanlı",
+      "böyüyən",
+      "əsəbi",
+      "böyüyən ürək",
+      "döyünmək"
     ]
   },
   {
@@ -1532,10 +1505,9 @@
       "döyünmək",
       "ürək",
       "ürək döyüntüsü",
-      "beating",
-      "beating heart",
-      "pulsating",
-      "heartbeat"
+      "çırpınmaq",
+      "çırpınan ürək",
+      "titrəmək"
     ]
   },
   {
@@ -1544,8 +1516,7 @@
       "fırlanan",
       "fırlanan ürəklr",
       "ürək",
-      "revolving",
-      "revolving hearts"
+      "fırlanan ürəklər"
     ]
   },
   {
@@ -1560,9 +1531,7 @@
     "emoji": "💟",
     "tags": [
       "ürək",
-      "ürək bəzəyi",
-      "heart",
-      "heart decoration"
+      "ürək bəzəyi"
     ]
   },
   {
@@ -1582,9 +1551,8 @@
       "sındırmaq",
       "sınmış ürək",
       "ürək",
-      "break",
-      "broken",
-      "broken heart"
+      "sınmaq",
+      "sınmış"
     ]
   },
   {
@@ -1596,11 +1564,8 @@
       "şəhvət",
       "ürək",
       "yanmaq",
-      "burn",
-      "heart",
-      "heart on fire",
-      "lust",
-      "sacred heart"
+      "yanan ürək",
+      "arzu"
     ]
   },
   {
@@ -1611,13 +1576,13 @@
       "sağlam",
       "yara bandı bağlamaq",
       "yara bandlı ürək",
-      "healthier",
-      "improving",
-      "mending heart",
-      "mending",
-      "recovering",
-      "recuperating",
-      "well"
+      "daha sağlam",
+      "yaxşılaşan",
+      "ürəyi bərpa etmək",
+      "bərpa etmək",
+      "xilas etmək",
+      "sağalmaq",
+      "yaxşılaşmaq"
     ]
   },
   {
@@ -1631,9 +1596,7 @@
     "emoji": "🧡",
     "tags": [
       "narıncı",
-      "narıncı ürək",
-      "orange",
-      "orange heart"
+      "narıncı ürək"
     ]
   },
   {
@@ -1641,8 +1604,7 @@
     "tags": [
       "sarı",
       "ürək",
-      "yellow",
-      "yellow heart"
+      "sarı ürək"
     ]
   },
   {
@@ -1650,8 +1612,7 @@
     "tags": [
       "ürək",
       "yaşıl",
-      "green",
-      "green heart"
+      "yaşıl ürək"
     ]
   },
   {
@@ -1660,7 +1621,7 @@
       "mavi",
       "ürək",
       "göy",
-      "blue heart"
+      "göy ürək"
     ]
   },
   {
@@ -1668,17 +1629,14 @@
     "tags": [
       "bənövşəyi",
       "ürək",
-      "purple",
-      "purple heart"
+      "bənövşəyi ürək"
     ]
   },
   {
     "emoji": "🤎",
     "tags": [
       "qəhvəyi",
-      "ürək",
-      "brown",
-      "heart"
+      "ürək"
     ]
   },
   {
@@ -1689,19 +1647,14 @@
       "qara-ürək adam",
       "ürək",
       "xislət",
-      "black",
-      "black heart",
-      "wicked",
-      "evil"
+      "qara ürək"
     ]
   },
   {
     "emoji": "🤍",
     "tags": [
       "ağ",
-      "ürək",
-      "heart",
-      "white"
+      "ürək"
     ]
   },
   {
@@ -1711,9 +1664,8 @@
       "hundqırmızı",
       "tam",
       "xal",
-      "hundred points",
-      "hundred",
-      "score"
+      "yüz xal",
+      "yüz"
     ]
   },
   {
@@ -1723,10 +1675,8 @@
       "hirsli",
       "komik",
       "qəzəb simvolu",
-      "anger symbol",
       "əsəbi",
-      "qızmaq",
-      "comic"
+      "qızmaq"
     ]
   },
   {
@@ -1734,10 +1684,7 @@
     "tags": [
       "bum",
       "komik",
-      "toqquşma",
-      "boom",
-      "collision",
-      "comic"
+      "toqquşma"
     ]
   },
   {
@@ -1746,7 +1693,6 @@
       "başgicəllənməsi",
       "komik",
       "ulduz",
-      "comic",
       "başgicəllənmə"
     ]
   },
@@ -1757,9 +1703,7 @@
       "sıçramaq",
       "tər",
       "tər damcıları",
-      "comic",
-      "splashing",
-      "sweat droplets"
+      "sıçrama"
     ]
   },
   {
@@ -1769,26 +1713,23 @@
       "qaçış",
       "sürətli hərəkət",
       "tez getmək",
-      "comic",
-      "dash",
-      "running",
-      "dashing away"
+      "püskürmə",
+      "axma",
+      "uzağa püskürmə"
     ]
   },
   {
     "emoji": "🕳️",
     "tags": [
       "deşik",
-      "hole"
+      "dəlik"
     ]
   },
   {
     "emoji": "💣",
     "tags": [
       "bomba",
-      "komik",
-      "bomb",
-      "comic"
+      "komik"
     ]
   },
   {
@@ -1800,11 +1741,8 @@
       "nitq",
       "nitq şarı",
       "şar",
-      "balloon",
-      "bubble",
-      "dialog",
-      "comic",
-      "speech"
+      "qabarcıq",
+      "danışıq"
     ]
   },
   {
@@ -1824,11 +1762,10 @@
       "sağ qəzəb şarı",
       "şar",
       "əsəbi",
-      "balloon",
       "qızmaq",
-      "bubble",
-      "right anger bubble",
-      "danger"
+      "qabarcıq",
+      "doğru qəzəb şarı",
+      "təhlükəli"
     ]
   },
   {
@@ -1839,10 +1776,8 @@
       "komik",
       "köpük",
       "şar",
-      "balloon",
-      "bubble",
-      "thought",
-      "comic"
+      "qabarcıq",
+      "fikirləşmə"
     ]
   },
   {
@@ -1851,7 +1786,6 @@
       "komik",
       "yatmaq",
       "zzz",
-      "comic",
       "yuxulu"
     ]
   },
@@ -1863,9 +1797,7 @@
       "orqan",
       "yelləmə",
       "yelləmək",
-      "hand",
-      "wave",
-      "waving"
+      "yellənir"
     ]
   },
   {
@@ -1876,9 +1808,9 @@
       "qaldırmaq",
       "yuxarı",
       "yuxarı qalxan əl arxası",
-      "backhand",
-      "raised",
-      "raised back of hand"
+      "əlin arxası",
+      "qalxmış",
+      "arxası qalxmış əl"
     ]
   },
   {
@@ -1889,10 +1821,8 @@
       "barmaqları aralı şəkildə qaldırılmış əl",
       "əl",
       "orqan",
-      "finger",
-      "hand",
-      "splayed",
-      "hand with fingers splayed"
+      "açılmış",
+      "barmaqları açılmış əl"
     ]
   },
   {
@@ -1901,10 +1831,9 @@
       "əl",
       "orqan",
       "qaldırımış əl",
-      "hand",
-      "high 5",
-      "raised hand",
-      "high five"
+      "5 barmaq",
+      "qalxmış əl",
+      "beş barmaq"
     ]
   },
   {
@@ -1916,11 +1845,8 @@
       "spok",
       "vulkan",
       "vulkan salamı",
-      "finger",
-      "hand",
-      "vulcan",
-      "spock",
-      "vulcan salute"
+      "qapaq",
+      "sağlamlıq vulkanı"
     ]
   },
   {
@@ -1930,8 +1856,7 @@
       "ok",
       "ok işarəsi",
       "orqan",
-      "hand",
-      "OK"
+      "Əla"
     ]
   },
   {
@@ -1942,10 +1867,7 @@
       "əl jesti",
       "sarkastik",
       "sorğu-sual",
-      "fingers",
-      "hand gesture",
-      "pinched",
-      "interrogation",
+      "sorğulama",
       "kinayəli"
     ]
   },
@@ -1954,9 +1876,9 @@
     "tags": [
       "kiçik say",
       "sıxan əl",
-      "pinching hand",
-      "small amount",
-      "little"
+      "çimdik atan əl",
+      "kiçik məbləğ",
+      "kiçik"
     ]
   },
   {
@@ -1966,9 +1888,7 @@
       "orqan",
       "qələbə",
       "qələbə işarəsi",
-      "v",
-      "hand",
-      "victory"
+      "v"
     ]
   },
   {
@@ -1977,11 +1897,11 @@
       "inam",
       "ümid",
       "ümid edirəm",
-      "cross",
-      "crossed fingers",
-      "hand",
-      "finger",
-      "luck"
+      "çarpaz",
+      "çarpaz barmaqlar",
+      "əl",
+      "barmaq",
+      "uğurlu"
     ]
   },
   {
@@ -1989,9 +1909,9 @@
     "tags": [
       "sevgi əli",
       "sevgi jesti",
-      "hand",
-      "ILY",
-      "love-you gesture"
+      "əl",
+      "Səni sevirəm",
+      "səni sevirəm jesti"
     ]
   },
   {
@@ -2003,11 +1923,8 @@
       "əl",
       "əla",
       "orqan",
-      "finger",
-      "hand",
-      "rock-on",
+      "rokçular",
       "buynuz",
-      "sign of the horns",
       "metal"
     ]
   },
@@ -2019,12 +1936,11 @@
       "telefon",
       "yığmaq",
       "zəng",
-      "call",
-      "call me hand",
-      "hand",
-      "shaka sign",
-      "right on",
-      "thanks"
+      "mənə zəng et jesti",
+      "əl",
+      "shaka işarəsi",
+      "düppədüz",
+      "təşəkkürlər"
     ]
   },
   {
@@ -2036,12 +1952,9 @@
       "işarə",
       "sol əl",
       "solu göstərən sol əlin işarə barmağı",
-      "backhand",
-      "backhand index pointing left",
-      "hand",
-      "finger",
-      "index",
-      "point"
+      "əlin arxası",
+      "sola işarə edən tərs əl indeksi",
+      "indeks"
     ]
   },
   {
@@ -2053,12 +1966,9 @@
       "işarə",
       "sağı göstərən sol əlin işarə barmağı",
       "sol əl",
-      "backhand",
-      "backhand index pointing right",
-      "hand",
-      "finger",
-      "index",
-      "point"
+      "əlin arxası",
+      "sağa işarə edən tərs əl indeksi",
+      "indeks"
     ]
   },
   {
@@ -2071,12 +1981,8 @@
       "sol əl",
       "yuxarı",
       "yuxarını göstərən sol əlin işarə barmağı",
-      "backhand",
-      "backhand index pointing up",
-      "hand",
-      "finger",
-      "point",
-      "up"
+      "əlin arxası",
+      "yuxarı işarə edən tərs əl indeksi"
     ]
   },
   {
@@ -2084,10 +1990,7 @@
     "tags": [
       "barmaq",
       "əl",
-      "orta barmaq",
-      "finger",
-      "hand",
-      "middle finger"
+      "orta barmaq"
     ]
   },
   {
@@ -2100,11 +2003,8 @@
       "göstərmək",
       "işarə",
       "sol əl",
-      "backhand",
-      "backhand index pointing down",
-      "finger",
-      "hand",
-      "point"
+      "əlin arxası",
+      "aşağı işarə edən tərs əl indeksi"
     ]
   },
   {
@@ -2116,12 +2016,8 @@
       "işarə",
       "işarə barmağı",
       "yuxarı",
-      "finger",
-      "hand",
-      "index pointing up",
-      "index",
-      "point",
-      "up"
+      "yuxarı işarə edən indeks",
+      "indeks"
     ]
   },
   {
@@ -2132,11 +2028,7 @@
       "əl",
       "orqan",
       "yuxarı",
-      "+1",
-      "hand",
-      "thumbs up",
-      "thumb",
-      "up"
+      "+1"
     ]
   },
   {
@@ -2148,9 +2040,7 @@
       "baş barmaq aşağı",
       "əl",
       "orqan",
-      "zəif",
-      "thumb",
-      "hand"
+      "zəif"
     ]
   },
   {
@@ -2162,11 +2052,8 @@
       "sıxılmış",
       "yumruq",
       "yumruqlamaq",
-      "clenched",
-      "fist",
-      "punch",
-      "hand",
-      "raised fist"
+      "sıxmaq",
+      "qalxmış yumruq"
     ]
   },
   {
@@ -2178,11 +2065,7 @@
       "yaxınlaşan yumruq",
       "yumruq",
       "yumruqlamaq",
-      "clenched",
-      "fist",
-      "oncoming fist",
-      "hand",
-      "punch"
+      "sıxmaq"
     ]
   },
   {
@@ -2192,10 +2075,9 @@
       "sola yönələn yumruq",
       "yumruq",
       "zərbə",
-      "fist",
-      "left-facing fist",
-      "bump",
-      "leftwards"
+      "sola baxan yumruq",
+      "vurmaq",
+      "sola"
     ]
   },
   {
@@ -2205,10 +2087,9 @@
       "sağa yönələn yumruq",
       "yumruq",
       "zərbə",
-      "fist",
-      "right-facing fist",
-      "bump",
-      "rightwards"
+      "sağa baxan yumruq",
+      "vurmaq",
+      "sağa"
     ]
   },
   {
@@ -2218,9 +2099,7 @@
       "əl çalan əllər",
       "əl çalmaq",
       "orqan",
-      "clap",
-      "clapping hands",
-      "hand"
+      "alqış"
     ]
   },
   {
@@ -2234,11 +2113,9 @@
       "qaldırılmış",
       "ura",
       "qeyd etmə",
-      "gesture",
-      "hooray",
-      "hand",
-      "raised",
-      "raising hands"
+      "urra",
+      "qalxmış",
+      "qalxmış əllər"
     ]
   },
   {
@@ -2248,9 +2125,7 @@
       "açıq əllər",
       "əl",
       "orqan",
-      "hand",
-      "aç",
-      "open hands"
+      "aç"
     ]
   },
   {
@@ -2258,8 +2133,8 @@
     "tags": [
       "dua",
       "əllər yuxarı",
-      "palms up together",
-      "prayer"
+      "ovuc içləri birlikdə yuxarı",
+      "dua etmək"
     ]
   },
   {
@@ -2269,11 +2144,11 @@
       "görüşmək",
       "salam",
       "salamlaşmaq",
-      "agreement",
-      "hand",
-      "meeting",
-      "handshake",
-      "shake"
+      "razılaşma",
+      "əl",
+      "görüş",
+      "əl sıxma",
+      "sıxma"
     ]
   },
   {
@@ -2285,13 +2160,11 @@
       "orqan",
       "qatlanmış",
       "qatlanmış əllər",
-      "ask",
-      "high 5",
-      "hand",
-      "high five",
-      "please",
-      "pray",
-      "thanks"
+      "istəmək",
+      "5 barmaq",
+      "beş barmaq",
+      "xahiş etmək",
+      "təşəkkürlər"
     ]
   },
   {
@@ -2301,9 +2174,7 @@
       "orqan",
       "yazı əli",
       "yazmaq",
-      "hand",
-      "write",
-      "writing hand"
+      "yazan əl"
     ]
   },
   {
@@ -2316,11 +2187,7 @@
       "manikür",
       "orqan",
       "qulluq",
-      "care",
-      "cosmetics",
-      "nail",
-      "manicure",
-      "polish"
+      "cilalama"
     ]
   },
   {
@@ -2330,9 +2197,8 @@
       "özçəkim",
       "selfi",
       "şəkil",
-      "camera",
-      "telefon",
-      "selfie"
+      "kamera",
+      "telefon"
     ]
   },
   {
@@ -2343,12 +2209,9 @@
       "əzələ",
       "komik",
       "qatlanmış əzələ",
-      "biceps",
-      "comic",
-      "flexed biceps",
-      "flex",
-      "muscle",
-      "strong"
+      "yığılmış əzələ",
+      "yığılmış",
+      "güclü"
     ]
   },
   {
@@ -2356,11 +2219,10 @@
     "tags": [
       "mexaniki əl",
       "protez",
-      "accessibility",
-      "mechanical arm",
+      "əlçatan",
+      "mexaniki qol",
       "metal",
-      "prosthetic",
-      "strong"
+      "güclü"
     ]
   },
   {
@@ -2368,10 +2230,8 @@
     "tags": [
       "mexaniki ayaq",
       "protez",
-      "accessibility",
-      "mechanical leg",
-      "metal",
-      "prosthetic"
+      "əlçatan",
+      "metal"
     ]
   },
   {
@@ -2380,9 +2240,7 @@
       "əza",
       "qıç",
       "təpik",
-      "kick",
-      "leg",
-      "limb"
+      "ayaq"
     ]
   },
   {
@@ -2391,18 +2249,14 @@
       "ayaq",
       "pəncə",
       "təpik",
-      "foot",
-      "kick",
-      "stomp"
+      "ayaqla basmaq"
     ]
   },
   {
     "emoji": "👂",
     "tags": [
       "bədən",
-      "qulaq",
-      "body",
-      "ear"
+      "qulaq"
     ]
   },
   {
@@ -2410,17 +2264,16 @@
     "tags": [
       "eşitmə cihazlı qulaq",
       "eşitmə problemi",
-      "accessibility",
-      "ear with hearing aid",
-      "hard of hearing"
+      "əlçatan",
+      "eşitmə cihazı ilə qulaq",
+      "ağır eşitmə"
     ]
   },
   {
     "emoji": "👃",
     "tags": [
       "bədən",
-      "burun",
-      "body"
+      "burun"
     ]
   },
   {
@@ -2428,7 +2281,7 @@
     "tags": [
       "beyin",
       "intelligent",
-      "brain"
+      "zəki"
     ]
   },
   {
@@ -2439,11 +2292,9 @@
       "puls",
       "ürək",
       "ürək döyüntüsü",
-      "anatomical",
-      "cardiology",
-      "organ",
-      "heart",
-      "pulse"
+      "anatomi",
+      "kardiologiya",
+      "döyünmək"
     ]
   },
   {
@@ -2455,12 +2306,9 @@
       "nəfəsvermə",
       "orqan",
       "tərləmə",
-      "breath",
-      "exhalation",
-      "lungs",
-      "inhalation",
-      "organ",
-      "respiration"
+      "nəfəs vermə",
+      "inhalyasiya",
+      "tənəffüs"
     ]
   },
   {
@@ -2468,16 +2316,14 @@
     "tags": [
       "diş",
       "stomatoloq",
-      "dentist",
-      "tooth"
+      "diş həkimi"
     ]
   },
   {
     "emoji": "🦴",
     "tags": [
       "skelet",
-      "sümük",
-      "skeleton"
+      "sümük"
     ]
   },
   {
@@ -2486,8 +2332,8 @@
       "göz",
       "gözlər",
       "üz",
-      "look",
-      "stare"
+      "baxmaq",
+      "gözünü zilləmək"
     ]
   },
   {
@@ -2495,24 +2341,22 @@
     "tags": [
       "göz",
       "orqan",
-      "body",
-      "stare"
+      "bədən",
+      "gözünü zilləmək"
     ]
   },
   {
     "emoji": "👅",
     "tags": [
       "bədən",
-      "dil",
-      "body"
+      "dil"
     ]
   },
   {
     "emoji": "👄",
     "tags": [
       "ağız",
-      "dodaqlar",
-      "lips"
+      "dodaqlar"
     ]
   },
   {
@@ -2520,8 +2364,7 @@
     "tags": [
       "cavan",
       "körpə",
-      "baby",
-      "young"
+      "gənc"
     ]
   },
   {
@@ -2530,10 +2373,9 @@
       "cavan",
       "gender-neytral",
       "uşaq",
-      "child",
-      "gender-neutral",
-      "young",
-      "unspecified gender"
+      "cinsi bilinməyən",
+      "gənc",
+      "cinsi təyin olunmamış"
     ]
   },
   {
@@ -2541,8 +2383,7 @@
     "tags": [
       "kişi",
       "oğlan",
-      "boy",
-      "young"
+      "gənc"
     ]
   },
   {
@@ -2552,10 +2393,10 @@
       "qız bürcü",
       "qız uşağı",
       "zodiak",
-      "girl",
-      "Virgo",
-      "zodiac",
-      "young"
+      "qız",
+      "Qız bürcü",
+      "bürc",
+      "gənc"
     ]
   },
   {
@@ -2563,10 +2404,10 @@
     "tags": [
       "böyük",
       "gender-neytral",
-      "adult",
-      "gender-neutral",
-      "unspecified gender",
-      "person"
+      "yetkin",
+      "cinsi bilinməyən",
+      "cinsi təyin olunmamış",
+      "şəxs"
     ]
   },
   {
@@ -2574,19 +2415,17 @@
     "tags": [
       "sarı saçlı adam",
       "sarışın",
-      "blond",
-      "blond-haired person",
-      "person: blond hair",
-      "hair"
+      "sarışın adam",
+      "adam: şarışın",
+      "saç"
     ]
   },
   {
     "emoji": "👨",
     "tags": [
       "kişi",
-      "adult",
-      "man",
-      "male"
+      "yetkin",
+      "erkək"
     ]
   },
   {
@@ -2594,9 +2433,8 @@
     "tags": [
       "saqqal",
       "saqqallı şəxs",
-      "beard",
-      "person",
-      "person: beard"
+      "şəxs",
+      "adam: saqqal"
     ]
   },
   {
@@ -2606,10 +2444,7 @@
       "kişi; saqqal",
       "kişi: saqqal",
       "saqqal",
-      "beard",
-      "man",
-      "male",
-      "man: beard"
+      "erkək"
     ]
   },
   {
@@ -2617,21 +2452,18 @@
     "tags": [
       "kişi",
       "sarışın",
-      "blond",
-      "blond-haired man",
-      "man",
-      "hair",
-      "man: blond hair",
-      "male"
+      "sarışın kişi",
+      "saç",
+      "kişi: sarışı",
+      "erkək"
     ]
   },
   {
     "emoji": "👩",
     "tags": [
       "qadın",
-      "adult",
-      "woman",
-      "female"
+      "yetkin",
+      "dişi"
     ]
   },
   {
@@ -2641,10 +2473,8 @@
       "kişi: saqqal",
       "qadın: saqqal",
       "saqqal",
-      "beard",
-      "woman",
-      "female",
-      "woman: beard"
+      "qadın",
+      "dişi"
     ]
   },
   {
@@ -2652,12 +2482,10 @@
     "tags": [
       "qadın",
       "sarışın",
-      "blond-haired woman",
-      "blonde",
-      "woman",
-      "hair",
-      "woman: blond hair",
-      "female"
+      "sarışın qadın",
+      "saç",
+      "qadın: sarışın",
+      "dişi"
     ]
   },
   {
@@ -2666,10 +2494,10 @@
       "gender-neytral",
       "qoca",
       "yaşlı böyük",
-      "adult",
-      "gender-neutral",
+      "yetkin",
+      "cinsi bilinməyən",
       "yaşlı adam",
-      "unspecified gender"
+      "cinsi təyin olunmamış"
     ]
   },
   {
@@ -2677,9 +2505,8 @@
     "tags": [
       "kişi",
       "yaşlı",
-      "adult",
-      "man",
-      "male"
+      "yetkin",
+      "erkək"
     ]
   },
   {
@@ -2687,10 +2514,9 @@
     "tags": [
       "qadın",
       "yaşlı",
-      "adult",
+      "yetkin",
       "qocalmış",
-      "female",
-      "woman"
+      "dişi"
     ]
   },
   {
@@ -2700,9 +2526,7 @@
       "qaşqabaqlı",
       "qaşqabaqlı adam",
       "kefsiz",
-      "gesture",
-      "male",
-      "person frowning"
+      "erkək"
     ]
   },
   {
@@ -2712,10 +2536,7 @@
       "kefsiz kişi",
       "kişi",
       "qaşqabaqlı",
-      "frowning",
-      "gesture",
-      "male",
-      "man"
+      "erkək"
     ]
   },
   {
@@ -2725,10 +2546,8 @@
       "kefsiz qadın",
       "qadın",
       "qaşbaqlı",
-      "frowning",
-      "gesture",
-      "female",
-      "woman"
+      "qaşqabaqlı",
+      "dişi"
     ]
   },
   {
@@ -2737,8 +2556,7 @@
       "acıq edən adam",
       "acıq etmək",
       "jest",
-      "gesture",
-      "person pouting",
+      "qaşqabaqlı adam",
       "sifət etmək"
     ]
   },
@@ -2748,9 +2566,7 @@
       "acıqlı",
       "jest",
       "kişi",
-      "gesture",
-      "man",
-      "male",
+      "erkək",
       "sifət etmək"
     ]
   },
@@ -2760,10 +2576,8 @@
       "acıqlı",
       "jest",
       "qadın",
-      "gesture",
       "sifət etmək",
-      "female",
-      "woman"
+      "dişi"
     ]
   },
   {
@@ -2776,11 +2590,9 @@
       "xeyr",
       "yox",
       "yox jesti",
-      "forbidden",
-      "gesture",
-      "person gesturing NO",
-      "hand",
-      "prohibited",
+      "qadağan edilmiş",
+      "XEYR hərəkəti edən şəxs",
+      "qadağandır",
       "X"
     ]
   },
@@ -2794,14 +2606,10 @@
       "kişi",
       "qadağandır",
       "yox",
-      "forbidden",
-      "gesture",
-      "man",
-      "hand",
-      "man gesturing NO",
-      "prohibited",
+      "qadağan edilmiş",
+      "XEYR hərəkəti edən kişi",
       "X",
-      "male"
+      "erkək"
     ]
   },
   {
@@ -2813,14 +2621,10 @@
       "jest",
       "qadağandır",
       "qadın",
-      "forbidden",
-      "gesture",
-      "prohibited",
-      "hand",
-      "woman",
-      "woman gesturing NO",
+      "qadağan edilmiş",
+      "XEYR hərəkəti edən qadın",
       "X",
-      "female"
+      "dişi"
     ]
   },
   {
@@ -2830,10 +2634,8 @@
       "jest",
       "ok",
       "ok jesti",
-      "gesture",
-      "hand",
-      "person gesturing OK",
-      "OK"
+      "OLDU hərəkəti edən şəxs",
+      "Əla"
     ]
   },
   {
@@ -2844,12 +2646,9 @@
       "kişi",
       "lehinə",
       "lehinə olan kişi",
-      "gesture",
-      "hand",
-      "man gesturing OK",
-      "man",
-      "OK",
-      "male"
+      "OLDU hərəkəti edən kişi",
+      "Əla",
+      "erkək"
     ]
   },
   {
@@ -2860,12 +2659,9 @@
       "lehinə",
       "lehinə olan qadın",
       "qadın",
-      "gesture",
-      "hand",
-      "woman",
-      "OK",
-      "woman gesturing OK",
-      "female"
+      "Əla",
+      "OLDU hərəkəti edən qadın",
+      "dişi"
     ]
   },
   {
@@ -2876,12 +2672,9 @@
       "kömək",
       "məlumat",
       "məlumat verən şəxs",
-      "hand",
-      "help",
-      "person tipping hand",
-      "information",
-      "sassy",
-      "tipping"
+      "əlini aşırmış adam",
+      "arsız",
+      "aşırmaq"
     ]
   },
   {
@@ -2891,11 +2684,10 @@
       "əl uzatmaq",
       "kişi",
       "sırtıq",
-      "man",
-      "man tipping hand",
-      "tipping hand",
-      "sassy",
-      "male"
+      "əlini aşırmış kişi",
+      "əli aşırmaq",
+      "arsız",
+      "erkək"
     ]
   },
   {
@@ -2905,11 +2697,10 @@
       "əl uzamaq",
       "qadın",
       "sırtıq",
-      "sassy",
-      "tipping hand",
-      "woman tipping hand",
-      "woman",
-      "female"
+      "arsız",
+      "əli aşırmaq",
+      "əlini aşırmış qadın",
+      "dişi"
     ]
   },
   {
@@ -2920,10 +2711,8 @@
       "jest",
       "qaldırılmış",
       "xoşbəxt",
-      "gesture",
-      "hand",
-      "person raising hand",
-      "raised"
+      "əlini qaldırmış adam",
+      "qalxmış"
     ]
   },
   {
@@ -2933,11 +2722,9 @@
       "əl qaldırmaq",
       "jest",
       "kişi",
-      "gesture",
-      "man",
-      "raising hand",
-      "man raising hand",
-      "male"
+      "əlini qaldırmaq",
+      "əlini qaldırmış kişi",
+      "erkək"
     ]
   },
   {
@@ -2947,11 +2734,9 @@
       "əl qaldırmaq",
       "jest",
       "qadın",
-      "gesture",
-      "raising hand",
-      "woman raising hand",
-      "woman",
-      "female"
+      "əlini qaldırmaq",
+      "əlini qaldırmış qadın",
+      "dişi"
     ]
   },
   {
@@ -2961,11 +2746,10 @@
       "kar",
       "kar şəxs",
       "qulaq",
-      "accessibility",
-      "deaf",
-      "ear",
-      "deaf person",
-      "hear"
+      "əlçatan",
+      "eşitmə məhdudiyyətli",
+      "eşitmə məhdudiyyətli adam",
+      "eşitmək"
     ]
   },
   {
@@ -2973,11 +2757,10 @@
     "tags": [
       "kar",
       "kişi",
-      "deaf",
-      "man",
-      "male",
-      "ear",
-      "hear"
+      "eşitmə məhdudiyyətli",
+      "erkək",
+      "qulaq",
+      "eşitmək"
     ]
   },
   {
@@ -2985,11 +2768,10 @@
     "tags": [
       "kar",
       "qadın",
-      "deaf",
-      "woman",
-      "female",
-      "ear",
-      "hear"
+      "eşitmə məhdudiyyətli",
+      "dişi",
+      "qulaq",
+      "eşitmək"
     ]
   },
   {
@@ -3000,11 +2782,10 @@
       "tənzim etmək",
       "üzr",
       "üzr istəmək",
-      "apology",
-      "bow",
-      "person bowing",
-      "gesture",
-      "sorry"
+      "üzrxahlıq",
+      "təzim",
+      "təzim edən adam",
+      "təəssüf etmək"
     ]
   },
   {
@@ -3017,13 +2798,10 @@
       "lehinə",
       "tənzim",
       "üzrxahlıq",
-      "apology",
-      "bowing",
-      "gesture",
-      "favor",
-      "man",
-      "sorry",
-      "male"
+      "baş əymək",
+      "lütf",
+      "təəssüf etmək",
+      "erkək"
     ]
   },
   {
@@ -3036,13 +2814,10 @@
       "qadın",
       "tənzim",
       "üzrxahlıq",
-      "apology",
-      "bowing",
-      "gesture",
-      "favor",
-      "sorry",
-      "woman",
-      "female"
+      "baş əymək",
+      "lütf",
+      "təəssüf etmək",
+      "dişi"
     ]
   },
   {
@@ -3051,11 +2826,11 @@
       "daha sözüm yoxdur",
       "inanılmaz",
       "inanmaq olmur",
-      "disbelief",
-      "exasperation",
-      "palm",
+      "inamsızlıq",
+      "təngimək",
+      "ovuc içi",
       "üz",
-      "person facepalming"
+      "üzünü tutan adam"
     ]
   },
   {
@@ -3066,12 +2841,9 @@
       "kişi",
       "üzünü tutan kişi",
       "üzünü tutmaq",
-      "disbelief",
-      "exasperation",
-      "man",
-      "facepalm",
-      "man facepalming",
-      "male"
+      "təngimək",
+      "üzü tutmaq",
+      "erkək"
     ]
   },
   {
@@ -3082,12 +2854,9 @@
       "qadın",
       "üzünü tutan qadın",
       "üzünü tutmaq",
-      "disbelief",
-      "exasperation",
-      "woman",
-      "facepalm",
-      "woman facepalming",
-      "female"
+      "təngimək",
+      "üzü tutmaq",
+      "dişi"
     ]
   },
   {
@@ -3096,11 +2865,11 @@
       "bilməmək",
       "çiynini çəkmək",
       "tərəddüd",
-      "doubt",
-      "ignorance",
-      "person shrugging",
-      "indifference",
-      "shrug"
+      "şübhə",
+      "bilgisiz",
+      "çiyinlərini çəkən adam",
+      "laqeydlik",
+      "çiyinlərini çəkmə"
     ]
   },
   {
@@ -3112,15 +2881,12 @@
       "kişi",
       "laqeydlik",
       "şübhə",
-      "doubt",
-      "ignorance",
-      "man",
-      "indifference",
-      "man shrugging",
-      "shrug",
-      "male",
-      "idk",
-      "don't know"
+      "bilgisiz",
+      "çiyinlərini çəkən kişi",
+      "çiyinlərini çəkmə",
+      "erkək",
+      "bilmirəm",
+      "bilməmək"
     ]
   },
   {
@@ -3132,15 +2898,12 @@
       "laqeydlik",
       "qadın",
       "şübhə",
-      "doubt",
-      "ignorance",
-      "shrug",
-      "indifference",
-      "woman",
-      "woman shrugging",
-      "female",
-      "idk",
-      "don't know"
+      "bilgisiz",
+      "çiyinlərini çəkmə",
+      "çiyinlərini çəkən qadın",
+      "dişi",
+      "bilmirəm",
+      "bilməmək"
     ]
   },
   {
@@ -3150,10 +2913,9 @@
       "səhiyyə",
       "terapist",
       "tibb işçisi",
-      "health worker",
-      "nurse",
-      "healthcare",
-      "therapist"
+      "səhiyyə işçisi",
+      "tibb bacısı",
+      "sağlamlıq xidməti"
     ]
   },
   {
@@ -3164,12 +2926,11 @@
       "səhiyyə",
       "terapevt",
       "xəstə baxıcısı",
-      "healthcare",
-      "man health worker",
-      "man",
-      "nurse",
-      "therapist",
-      "male"
+      "sağlamlıq xidməti",
+      "kişi səhiyyə işçisi",
+      "tibb bacısı",
+      "terapist",
+      "erkək"
     ]
   },
   {
@@ -3180,21 +2941,17 @@
       "səhiyyə",
       "terapevt",
       "tibb bacısı",
-      "healthcare",
-      "therapist",
-      "nurse",
-      "woman",
-      "woman health worker",
-      "female"
+      "sağlamlıq xidməti",
+      "terapist",
+      "qadın səhiyyə işçisi",
+      "dişi"
     ]
   },
   {
     "emoji": "🧑‍🎓",
     "tags": [
       "məzun",
-      "tələbə",
-      "graduate",
-      "student"
+      "tələbə"
     ]
   },
   {
@@ -3204,10 +2961,7 @@
       "məzun",
       "oğlan tələbə",
       "tələbə",
-      "graduate",
-      "man",
-      "male",
-      "student"
+      "erkək"
     ]
   },
   {
@@ -3217,10 +2971,7 @@
       "qadın",
       "qız tələbə",
       "tələbə",
-      "graduate",
-      "student",
-      "female",
-      "woman"
+      "dişi"
     ]
   },
   {
@@ -3229,8 +2980,7 @@
       "instruktor",
       "müəllim",
       "professor",
-      "instructor",
-      "teacher"
+      "təlimatçı"
     ]
   },
   {
@@ -3239,10 +2989,8 @@
       "kişi",
       "müəllim",
       "professor",
-      "instructor",
-      "man",
-      "teacher",
-      "male"
+      "təlimatçı",
+      "erkək"
     ]
   },
   {
@@ -3251,10 +2999,8 @@
       "müəllim",
       "professor",
       "qadın",
-      "instructor",
-      "woman",
-      "teacher",
-      "female"
+      "təlimatçı",
+      "dişi"
     ]
   },
   {
@@ -3262,11 +3008,9 @@
     "tags": [
       "hakim",
       "tərəzi",
-      "judge",
-      "justice",
-      "scales",
-      "law",
-      "court"
+      "ədalət",
+      "qanun",
+      "məhkəmə"
     ]
   },
   {
@@ -3276,13 +3020,10 @@
       "kişi",
       "kişi hakim",
       "tərəzi",
-      "judge",
-      "justice",
-      "scales",
-      "man",
-      "male",
-      "law",
-      "court"
+      "hakim",
+      "erkək",
+      "qanun",
+      "məhkəmə"
     ]
   },
   {
@@ -3291,13 +3032,10 @@
       "hakim",
       "qadın",
       "tərəzi",
-      "judge",
-      "justice",
-      "woman",
-      "scales",
-      "female",
-      "law",
-      "court"
+      "ədalət",
+      "dişi",
+      "qanun",
+      "məhkəmə"
     ]
   },
   {
@@ -3306,9 +3044,7 @@
       "bağban",
       "fermer",
       "rençer",
-      "farmer",
-      "gardener",
-      "rancher"
+      "heyvandarlıq fermeri"
     ]
   },
   {
@@ -3317,11 +3053,8 @@
       "bağban",
       "fermer",
       "kişi",
-      "farmer",
-      "gardener",
-      "rancher",
-      "man",
-      "male"
+      "heyvandarlıq fermeri",
+      "erkək"
     ]
   },
   {
@@ -3330,11 +3063,8 @@
       "bağban",
       "fermer",
       "qadın",
-      "farmer",
-      "gardener",
-      "woman",
-      "rancher",
-      "female"
+      "heyvandarlıq fermeri",
+      "dişi"
     ]
   },
   {
@@ -3342,8 +3072,7 @@
     "tags": [
       "aşpaz",
       "baş aşpaz",
-      "chef",
-      "cook"
+      "bişirmək"
     ]
   },
   {
@@ -3352,10 +3081,9 @@
       "aşbaz",
       "kişi",
       "şef",
-      "chef",
-      "cook",
-      "man",
-      "male"
+      "baş aşpaz",
+      "bişirmək",
+      "erkək"
     ]
   },
   {
@@ -3364,10 +3092,9 @@
       "aşbaz",
       "qadın",
       "şef",
-      "chef",
-      "cook",
-      "woman",
-      "female"
+      "baş aşpaz",
+      "bişirmək",
+      "dişi"
     ]
   },
   {
@@ -3377,10 +3104,8 @@
       "mexanik",
       "santexnik",
       "ticarətçi",
-      "electrician",
-      "mechanic",
-      "tradesperson",
-      "plumber"
+      "elektrikçi",
+      "tacir"
     ]
   },
   {
@@ -3391,12 +3116,10 @@
       "kişi",
       "mexanik",
       "peşəkar",
-      "electrician",
-      "man",
-      "plumber",
-      "mechanic",
-      "tradesperson",
-      "male"
+      "elektrikçi",
+      "santexnik",
+      "tacir",
+      "erkək"
     ]
   },
   {
@@ -3407,12 +3130,10 @@
       "mexanik",
       "peşəkar",
       "qadın",
-      "electrician",
-      "mechanic",
-      "tradesperson",
-      "plumber",
-      "woman",
-      "female"
+      "elektrikçi",
+      "tacir",
+      "santexnik",
+      "dişi"
     ]
   },
   {
@@ -3423,10 +3144,7 @@
       "işçi",
       "sənaye",
       "yığım",
-      "assembly",
-      "factory",
-      "worker",
-      "industrial"
+      "montaj"
     ]
   },
   {
@@ -3438,12 +3156,8 @@
       "kişi fabrik işçisi",
       "sənaye",
       "yığım",
-      "assembly",
-      "factory",
-      "man",
-      "industrial",
-      "worker",
-      "male"
+      "montaj",
+      "erkək"
     ]
   },
   {
@@ -3455,12 +3169,8 @@
       "qadın fabrik işçisi",
       "sənaye",
       "yığım",
-      "assembly",
-      "factory",
-      "woman",
-      "industrial",
-      "worker",
-      "female"
+      "montaj",
+      "dişi"
     ]
   },
   {
@@ -3471,11 +3181,7 @@
       "memar",
       "menecer",
       "ofis işçisi",
-      "architect",
-      "business",
-      "office worker",
-      "manager",
-      "white-collar"
+      "şöbə işçisi"
     ]
   },
   {
@@ -3488,13 +3194,8 @@
       "memar",
       "menecer",
       "ofis",
-      "architect",
-      "business",
-      "man office worker",
-      "man",
-      "manager",
-      "white-collar",
-      "male"
+      "şöbə işçisi",
+      "erkək"
     ]
   },
   {
@@ -3507,13 +3208,8 @@
       "ofis",
       "qadın",
       "qadın ofis işçisi",
-      "architect",
-      "business",
-      "white-collar",
-      "manager",
-      "woman",
-      "woman office worker",
-      "female"
+      "şöbə işçisi",
+      "dişi"
     ]
   },
   {
@@ -3525,11 +3221,7 @@
       "kimyaçı",
       "mühəndis",
       "qadın",
-      "biologist",
-      "chemist",
-      "physicist",
-      "engineer",
-      "scientist"
+      "elmi işçi"
     ]
   },
   {
@@ -3542,13 +3234,8 @@
       "kişi",
       "mühəndis",
       "riyaziyyatçı",
-      "biologist",
-      "chemist",
-      "man",
-      "engineer",
-      "physicist",
-      "scientist",
-      "male"
+      "elmi işçi",
+      "erkək"
     ]
   },
   {
@@ -3561,13 +3248,8 @@
       "mühəndis",
       "qadın",
       "riyaziyyatçı",
-      "biologist",
-      "chemist",
-      "physicist",
-      "engineer",
-      "scientist",
-      "woman",
-      "female"
+      "elmi işçi",
+      "dişi"
     ]
   },
   {
@@ -3578,10 +3260,7 @@
       "şifrələyici",
       "texnoloq",
       "tərtibatçı",
-      "coder",
-      "developer",
-      "software",
-      "inventor"
+      "koder"
     ]
   },
   {
@@ -3593,12 +3272,8 @@
       "şifrələyici",
       "texnoloq",
       "tərtibatçı",
-      "coder",
-      "developer",
-      "man",
-      "inventor",
-      "software",
-      "male"
+      "koder",
+      "erkək"
     ]
   },
   {
@@ -3610,12 +3285,8 @@
       "şifrələyici",
       "texnoloq",
       "tərtibatçı",
-      "coder",
-      "developer",
-      "software",
-      "inventor",
-      "woman",
-      "female"
+      "koder",
+      "dişi"
     ]
   },
   {
@@ -3626,10 +3297,7 @@
       "müğənni",
       "rok",
       "ulduz",
-      "actor",
-      "entertainer",
-      "singer",
-      "rock"
+      "şoumen"
     ]
   },
   {
@@ -3641,12 +3309,8 @@
       "müğənni",
       "rok",
       "ulduz",
-      "actor",
-      "entertainer",
-      "rock",
-      "man",
-      "singer",
-      "male"
+      "şoumen",
+      "erkək"
     ]
   },
   {
@@ -3658,12 +3322,8 @@
       "qadın",
       "rok",
       "ulduz",
-      "actor",
-      "entertainer",
-      "singer",
-      "rock",
-      "woman",
-      "female"
+      "şoumen",
+      "dişi"
     ]
   },
   {
@@ -3671,8 +3331,8 @@
     "tags": [
       "aktyor",
       "palitra",
-      "artist",
-      "palette"
+      "rəssam",
+      "palet"
     ]
   },
   {
@@ -3681,10 +3341,8 @@
       "kişi",
       "palitra",
       "rəssam",
-      "artist",
-      "man",
-      "male",
-      "palette"
+      "erkək",
+      "palet"
     ]
   },
   {
@@ -3693,18 +3351,15 @@
       "palitra",
       "qadın",
       "rəssam",
-      "artist",
-      "palette",
-      "female",
-      "woman"
+      "palet",
+      "dişi"
     ]
   },
   {
     "emoji": "🧑‍✈️",
     "tags": [
       "pilot",
-      "təyyarə",
-      "plane"
+      "təyyarə"
     ]
   },
   {
@@ -3713,9 +3368,7 @@
       "kişi",
       "pilot",
       "təyyarə",
-      "man",
-      "male",
-      "plane"
+      "erkək"
     ]
   },
   {
@@ -3724,18 +3377,14 @@
       "pilot",
       "qadın",
       "təyyarə",
-      "plane",
-      "female",
-      "woman"
+      "dişi"
     ]
   },
   {
     "emoji": "🧑‍🚀",
     "tags": [
       "astronavt",
-      "raket",
-      "astronaut",
-      "rocket"
+      "raket"
     ]
   },
   {
@@ -3745,10 +3394,7 @@
       "kişi",
       "kosmos",
       "raket",
-      "astronaut",
-      "man",
-      "male",
-      "rocket"
+      "erkək"
     ]
   },
   {
@@ -3758,19 +3404,14 @@
       "kosmos",
       "qadın",
       "raket",
-      "astronaut",
-      "rocket",
-      "female",
-      "woman"
+      "dişi"
     ]
   },
   {
     "emoji": "🧑‍🚒",
     "tags": [
       "yanğınsöndürən",
-      "yanğınsöndürən maşın",
-      "firefighter",
-      "firetruck"
+      "yanğınsöndürən maşın"
     ]
   },
   {
@@ -3779,10 +3420,7 @@
       "kişi",
       "yanğınsöndürən",
       "yanğınsöndürən maşın",
-      "firefighter",
-      "firetruck",
-      "male",
-      "man"
+      "erkək"
     ]
   },
   {
@@ -3791,10 +3429,7 @@
       "qadın",
       "yanğınsöndürən",
       "yanğınsöndürən maşın",
-      "firefighter",
-      "firetruck",
-      "female",
-      "woman"
+      "dişi"
     ]
   },
   {
@@ -3802,10 +3437,7 @@
     "tags": [
       "məmur",
       "polis",
-      "polis məmuru",
-      "cop",
-      "officer",
-      "police"
+      "polis məmuru"
     ]
   },
   {
@@ -3815,11 +3447,8 @@
       "polis",
       "polis nəfəri",
       "zabit",
-      "cop",
-      "man",
-      "police",
-      "officer",
-      "male"
+      "məmur",
+      "erkək"
     ]
   },
   {
@@ -3829,11 +3458,8 @@
       "polis nəfəri",
       "qadın",
       "zabit",
-      "cop",
-      "officer",
-      "woman",
-      "police",
-      "female"
+      "məmur",
+      "dişi"
     ]
   },
   {
@@ -3842,16 +3468,14 @@
       "casus",
       "detektiv",
       "xəfiyyə",
-      "detective",
-      "sleuth",
-      "spy"
+      "agent"
     ]
   },
   {
     "emoji": "💂",
     "tags": [
       "keşikçi",
-      "guard"
+      "gözətçi"
     ]
   },
   {
@@ -3860,9 +3484,8 @@
       "keçikçi",
       "kişi",
       "kişi keşikçi",
-      "guard",
-      "man",
-      "male"
+      "gözətçi",
+      "erkək"
     ]
   },
   {
@@ -3870,9 +3493,8 @@
     "tags": [
       "keşikçi",
       "qadın",
-      "guard",
-      "woman",
-      "female"
+      "gözətçi",
+      "dişi"
     ]
   },
   {
@@ -3882,9 +3504,6 @@
       "gizli",
       "gizlilik",
       "nindza",
-      "fighter",
-      "hidden",
-      "stealth",
       "ninja"
     ]
   },
@@ -3895,8 +3514,7 @@
       "papaq",
       "tikinti",
       "tikinti işçisi",
-      "construction",
-      "worker"
+      "inşaat"
     ]
   },
   {
@@ -3906,10 +3524,9 @@
       "kişi",
       "kişi bənna",
       "tikinti",
-      "construction",
-      "man",
-      "male",
-      "worker"
+      "inşaat",
+      "erkək",
+      "işçi"
     ]
   },
   {
@@ -3919,10 +3536,9 @@
       "qadın",
       "qadın bənna",
       "tikinti",
-      "construction",
-      "woman",
-      "female",
-      "worker"
+      "inşaat",
+      "dişi",
+      "işçi"
     ]
   },
   {
@@ -3931,9 +3547,7 @@
       "oğlan şahzadə",
       "şah",
       "şahzadə",
-      "prince",
-      "king",
-      "royal"
+      "kral"
     ]
   },
   {
@@ -3943,9 +3557,9 @@
       "nağıl",
       "qız şahzadə",
       "fantaziya",
-      "princess",
-      "queen",
-      "royal"
+      "prenses",
+      "kraliça",
+      "kral"
     ]
   },
   {
@@ -3954,8 +3568,8 @@
       "çalma",
       "çalmalı kişi",
       "kişi",
-      "person wearing turban",
-      "turban"
+      "türban taxan adam",
+      "türban"
     ]
   },
   {
@@ -3964,10 +3578,8 @@
       "kişi",
       "türban",
       "türbanlı kişi",
-      "man",
-      "man wearing turban",
-      "male",
-      "turban"
+      "türban taxan kişi",
+      "erkək"
     ]
   },
   {
@@ -3976,10 +3588,8 @@
       "qadın",
       "türban",
       "türbanlı qadın",
-      "turban",
-      "woman",
-      "female",
-      "woman wearing turban"
+      "dişi",
+      "türban taxan qadın"
     ]
   },
   {
@@ -3989,11 +3599,9 @@
       "çin kepkalı kişi",
       "kişi",
       "papaq",
-      "cap",
-      "gua pi mao",
-      "person",
-      "person with skullcap",
-      "skullcap"
+      "qovun papaq",
+      "şəxs",
+      "papaqlı adam"
     ]
   },
   {
@@ -4004,11 +3612,8 @@
       "şərf",
       "şərfli qadın",
       "tişel",
-      "headscarf",
-      "hijab",
-      "tichel",
-      "mantilla",
-      "woman with headscarf"
+      "şal",
+      "hicablı qadın"
     ]
   },
   {
@@ -4018,11 +3623,10 @@
       "şəxs",
       "smokinq",
       "smokinqli şəxs",
-      "groom",
-      "person",
-      "tuxedo",
-      "person in tuxedo",
-      "wedding"
+      "kürəkən",
+      "smokin",
+      "smokinli adam",
+      "toy"
     ]
   },
   {
@@ -4031,12 +3635,12 @@
       "adam",
       "smokinq",
       "smokinqli adam",
-      "man",
-      "man in tuxedo",
-      "male",
-      "tuxedo",
-      "groom",
-      "wedding"
+      "kişi",
+      "smokinli kişi",
+      "erkək",
+      "smokin",
+      "kürəkən",
+      "toy"
     ]
   },
   {
@@ -4045,12 +3649,11 @@
       "qadın",
       "smokinq",
       "smokinqli qadın",
-      "tuxedo",
-      "woman",
-      "female",
-      "woman in tuxedo",
-      "groom",
-      "wedding"
+      "smokin",
+      "dişi",
+      "smokinli qadın",
+      "kürəkən",
+      "toy"
     ]
   },
   {
@@ -4061,11 +3664,9 @@
       "fatalı gəlin",
       "gəlin",
       "şəxs",
-      "bride",
-      "person",
-      "veil",
-      "person with veil",
-      "wedding"
+      "örtük",
+      "ötrüklü adam",
+      "toy"
     ]
   },
   {
@@ -4074,11 +3675,11 @@
       "adam",
       "duvaq",
       "duvaqlı adam",
-      "man",
-      "man with veil",
-      "male",
-      "veil",
-      "bride"
+      "kişi",
+      "örtüklü kişi",
+      "erkək",
+      "örtük",
+      "gəlin"
     ]
   },
   {
@@ -4087,11 +3688,10 @@
       "duvaq",
       "duvaqlı qadın",
       "qadın",
-      "veil",
-      "woman",
-      "female",
-      "woman with veil",
-      "bride"
+      "örtük",
+      "dişi",
+      "örtüklü qadın",
+      "gəlin"
     ]
   },
   {
@@ -4100,10 +3700,8 @@
       "hamilə",
       "qadın",
       "uşaq",
-      "pregnant",
-      "woman",
-      "female",
-      "baby"
+      "dişi",
+      "körpə"
     ]
   },
   {
@@ -4113,10 +3711,9 @@
       "körpə",
       "uşaq əmizdirmə",
       "yedirtmə",
-      "baby",
-      "breast",
-      "nursing",
-      "breast-feeding"
+      "süd vermək",
+      "dayəli",
+      "əmzirmək"
     ]
   },
   {
@@ -4126,11 +3723,9 @@
       "əmizdirən",
       "körpə",
       "qadın",
-      "baby",
-      "feeding",
-      "woman",
-      "nursing",
-      "female"
+      "qidalanma",
+      "dayəli",
+      "dişi"
     ]
   },
   {
@@ -4140,11 +3735,9 @@
       "əmizdirən",
       "kişi",
       "körpə",
-      "baby",
-      "feeding",
-      "nursing",
-      "man",
-      "male"
+      "qidalanma",
+      "dayəli",
+      "erkək"
     ]
   },
   {
@@ -4152,10 +3745,10 @@
     "tags": [
       "körpə əmizdirən şəxs",
       "körpə, əmizdirən, bəsləyən, şəxs",
-      "baby",
-      "feeding",
-      "person",
-      "nursing"
+      "körpə",
+      "qidalanma",
+      "şəxs",
+      "dayəli"
     ]
   },
   {
@@ -4166,7 +3759,6 @@
       "mələk",
       "nağıl",
       "üz",
-      "baby",
       "fantaziya"
     ]
   },
@@ -4181,11 +3773,10 @@
       "santa klaus",
       "Santa Klaus",
       "qeyd etmə",
-      "Christmas",
-      "father",
-      "claus",
-      "Santa Claus",
-      "male"
+      "Milad",
+      "baba",
+      "Şaxta baba",
+      "erkək"
     ]
   },
   {
@@ -4197,12 +3788,10 @@
       "Milad",
       "xanım",
       "qeyd etmə",
-      "Christmas",
-      "mother",
-      "claus",
-      "Mrs.",
-      "Mrs. Claus",
-      "female"
+      "baba",
+      "Xanım",
+      "Xanım Klaus",
+      "dişi"
     ]
   },
   {
@@ -4210,8 +3799,7 @@
     "tags": [
       "Klaus, milad",
       "mx klaus",
-      "Claus, christmas",
-      "mx claus"
+      "cənab klaus"
     ]
   },
   {
@@ -4221,11 +3809,9 @@
       "supergüc",
       "superqəhrəman",
       "xeyirxah",
-      "good",
-      "hero",
-      "superhero",
-      "heroine",
-      "superpower"
+      "yaxşı",
+      "super qəhrəman",
+      "super güc"
     ]
   },
   {
@@ -4236,12 +3822,11 @@
       "qəhrəman",
       "supergüc",
       "xeyirxah",
-      "good",
-      "hero",
-      "man superhero",
-      "man",
-      "superpower",
-      "male"
+      "yaxşı",
+      "qəhraman",
+      "super qəhrəman kişi",
+      "super güc",
+      "erkək"
     ]
   },
   {
@@ -4252,13 +3837,11 @@
       "qəhrəman",
       "supergüc",
       "xeyirxah",
-      "good",
-      "hero",
-      "superpower",
-      "heroine",
-      "woman",
-      "woman superhero",
-      "female"
+      "yaxşı",
+      "qəhraman",
+      "super güc",
+      "super qəhrəman qadın",
+      "dişi"
     ]
   },
   {
@@ -4269,11 +3852,8 @@
       "pis",
       "supercani",
       "supergüc",
-      "criminal",
-      "evil",
-      "supervillain",
-      "superpower",
-      "villain"
+      "super cinayətkar",
+      "super güc"
     ]
   },
   {
@@ -4285,13 +3865,10 @@
       "kriminal",
       "pis",
       "supergüc",
-      "criminal",
-      "evil",
-      "man supervillain",
-      "man",
-      "superpower",
-      "villain",
-      "male"
+      "cinayətkar",
+      "super cinayətkar kişi",
+      "super güc",
+      "erkək"
     ]
   },
   {
@@ -4303,13 +3880,10 @@
       "qadın",
       "qadın supercani",
       "supergüc",
-      "criminal",
-      "evil",
-      "villain",
-      "superpower",
-      "woman",
-      "woman supervillain",
-      "female"
+      "cinayətkar",
+      "super güc",
+      "super cinayətkar qadın",
+      "dişi"
     ]
   },
   {
@@ -4320,11 +3894,8 @@
       "maq",
       "ovsunçu",
       "sehrbaz",
-      "mage",
-      "sorcerer",
-      "witch",
-      "sorceress",
-      "wizard"
+      "ifritə",
+      "cadugər qadın"
     ]
   },
   {
@@ -4333,10 +3904,9 @@
       "kişi maq",
       "ovsunçu",
       "sehrbaz",
-      "man mage",
-      "sorcerer",
-      "male",
-      "wizard"
+      "sehrbaz kişi",
+      "cadugər",
+      "erkək"
     ]
   },
   {
@@ -4345,11 +3915,11 @@
       "cadugər",
       "küpəgirən qarı",
       "qadın maq",
-      "sorceress",
-      "witch",
-      "female",
-      "woman mage",
-      "wizard"
+      "cadugər qadın",
+      "ifritə",
+      "dişi",
+      "sehrbaz qadın",
+      "sehrbaz"
     ]
   },
   {
@@ -4358,8 +3928,7 @@
       "Oberon",
       "pəri",
       "Puck",
-      "Titania",
-      "fairy"
+      "Titania"
     ]
   },
   {
@@ -4368,9 +3937,8 @@
       "kişi pəri",
       "Oberon",
       "Puck",
-      "man fairy",
-      "male",
-      "fairy"
+      "erkək",
+      "pəri"
     ]
   },
   {
@@ -4378,9 +3946,8 @@
     "tags": [
       "qadın pəri",
       "Titania",
-      "woman fairy",
-      "female",
-      "fairy"
+      "dişi",
+      "pəri"
     ]
   },
   {
@@ -4389,9 +3956,7 @@
       "Drakula",
       "vampir",
       "xortdan",
-      "Dracula",
-      "undead",
-      "vampire"
+      "ölümsüz"
     ]
   },
   {
@@ -4400,10 +3965,8 @@
       "Drakula",
       "kişi vampir",
       "xortdan",
-      "Dracula",
-      "man vampire",
-      "male",
-      "undead"
+      "erkək",
+      "ölümsüz"
     ]
   },
   {
@@ -4411,10 +3974,9 @@
     "tags": [
       "qadın vampir",
       "xortdan",
-      "undead",
-      "woman vampire",
-      "female",
-      "Dracula"
+      "ölümsüz",
+      "dişi",
+      "Drakula"
     ]
   },
   {
@@ -4424,10 +3986,8 @@
       "dəniz kişisi",
       "dəniz qadını",
       "su pərisi",
-      "mermaid",
-      "merman",
-      "merwoman",
-      "merperson"
+      "kişi su pərisi",
+      "qadın su pərisi"
     ]
   },
   {
@@ -4435,8 +3995,8 @@
     "tags": [
       "dəniz kişisi",
       "Triton",
-      "merman",
-      "male"
+      "kişi su pərisi",
+      "erkək"
     ]
   },
   {
@@ -4444,9 +4004,8 @@
     "tags": [
       "dəniz qadını",
       "su pərisi",
-      "mermaid",
-      "merwoman",
-      "female"
+      "qadın su pərisi",
+      "dişi"
     ]
   },
   {
@@ -4454,7 +4013,7 @@
     "tags": [
       "elf",
       "sehrli",
-      "magical"
+      "cin"
     ]
   },
   {
@@ -4462,9 +4021,8 @@
     "tags": [
       "kişi elf",
       "sehrli",
-      "magical",
-      "man elf",
-      "male"
+      "kişi cin",
+      "erkək"
     ]
   },
   {
@@ -4472,17 +4030,14 @@
     "tags": [
       "qadın elf",
       "sehrli",
-      "magical",
-      "woman elf",
-      "female"
+      "qadın cin",
+      "dişi"
     ]
   },
   {
     "emoji": "🧞",
     "tags": [
-      "cin",
-      "djinn",
-      "genie"
+      "cin"
     ]
   },
   {
@@ -4490,9 +4045,7 @@
     "tags": [
       "cin",
       "kişi cin",
-      "djinn",
-      "man genie",
-      "male"
+      "erkək"
     ]
   },
   {
@@ -4500,9 +4053,7 @@
     "tags": [
       "cin",
       "qadın cin",
-      "djinn",
-      "woman genie",
-      "female"
+      "dişi"
     ]
   },
   {
@@ -4511,9 +4062,8 @@
       "gəzən ölü",
       "xortdan",
       "zombi",
-      "undead",
-      "walking dead",
-      "zombie"
+      "ölümsüz",
+      "yeriyən ölü"
     ]
   },
   {
@@ -4522,10 +4072,9 @@
       "gəzən ölü",
       "kişi zombi",
       "xortdan",
-      "man zombie",
-      "undead",
-      "male",
-      "walking dead"
+      "ölümsüz",
+      "erkək",
+      "yeriyən ölü"
     ]
   },
   {
@@ -4534,10 +4083,9 @@
       "gəzən ölü",
       "qadın zombi",
       "xortdan",
-      "undead",
-      "walking dead",
-      "female",
-      "woman zombie"
+      "ölümsüz",
+      "yeriyən ölü",
+      "dişi"
     ]
   },
   {
@@ -4547,8 +4095,7 @@
       "salon",
       "üz masajı",
       "üz",
-      "massage",
-      "person getting massage"
+      "masaj etdirən şəxs"
     ]
   },
   {
@@ -4558,10 +4105,8 @@
       "masaj",
       "üz",
       "üzünə masaj edən kişi",
-      "man",
-      "massage",
-      "man getting massage",
-      "male"
+      "masaj etdirən kişi",
+      "erkək"
     ]
   },
   {
@@ -4571,10 +4116,8 @@
       "qadın",
       "üz",
       "üzünə masaj edən qadın",
-      "massage",
-      "woman getting massage",
-      "woman",
-      "female"
+      "masaj etdirən qadın",
+      "dişi"
     ]
   },
   {
@@ -4583,11 +4126,9 @@
       "bərbər",
       "gözəllik",
       "saç kəsimi",
-      "barber",
-      "beauty",
-      "parlor",
-      "haircut",
-      "person getting haircut"
+      "salon",
+      "gözəllik salonu",
+      "saçını kəsdirən adam"
     ]
   },
   {
@@ -4596,10 +4137,8 @@
       "kişi",
       "saç kəsimi",
       "saçını kəsdirən kişi",
-      "haircut",
-      "man",
-      "male",
-      "man getting haircut"
+      "saç kəsdirmə",
+      "erkək"
     ]
   },
   {
@@ -4608,10 +4147,8 @@
       "qadın",
       "saç kəsimi",
       "saçını kəsdirən qadın",
-      "haircut",
-      "woman",
-      "female",
-      "woman getting haircut"
+      "bərbərxana",
+      "dişi"
     ]
   },
   {
@@ -4621,10 +4158,8 @@
       "gəzmək",
       "piyada",
       "yürüş",
-      "hike",
-      "person walking",
-      "walking",
-      "walk"
+      "gəzən adam",
+      "gəzmə"
     ]
   },
   {
@@ -4634,11 +4169,8 @@
       "gəzinti",
       "kişi",
       "yürüş",
-      "hike",
-      "man",
-      "walk",
-      "man walking",
-      "male"
+      "gəzmə",
+      "erkək"
     ]
   },
   {
@@ -4648,11 +4180,8 @@
       "gəzinti",
       "qadın",
       "yürüş",
-      "hike",
-      "walk",
-      "woman walking",
-      "woman",
-      "female"
+      "gəzmə",
+      "dişi"
     ]
   },
   {
@@ -4660,9 +4189,8 @@
     "tags": [
       "duran adam",
       "durmaq",
-      "person standing",
-      "stand",
-      "standing"
+      "ayaqüstə duran adam",
+      "ayaqüstə durmaq"
     ]
   },
   {
@@ -4670,9 +4198,8 @@
     "tags": [
       "duran",
       "kişi",
-      "man",
-      "standing",
-      "male"
+      "ayaqüstə durmaq",
+      "erkək"
     ]
   },
   {
@@ -4680,9 +4207,8 @@
     "tags": [
       "duran",
       "qadın",
-      "standing",
-      "woman",
-      "female"
+      "ayaqüstə durmaq",
+      "dişi"
     ]
   },
   {
@@ -4690,9 +4216,9 @@
     "tags": [
       "dizi üstündə",
       "dizi üstündə adam",
-      "kneel",
-      "kneeling",
-      "person kneeling"
+      "dizüstü durmaq",
+      "diz çökmək",
+      "dizüstə duran adam"
     ]
   },
   {
@@ -4701,9 +4227,8 @@
       "dizi üstündə",
       "dizi üstündə kişi",
       "kişi",
-      "kneeling",
-      "man",
-      "male"
+      "diz çökmək",
+      "erkək"
     ]
   },
   {
@@ -4712,9 +4237,8 @@
       "dizi üstündə",
       "dizi üstündə qadın",
       "qadın",
-      "kneeling",
-      "woman",
-      "female"
+      "diz çökmək",
+      "dişi"
     ]
   },
   {
@@ -4724,9 +4248,7 @@
       "görmə məhdudiyyətli",
       "xüsusi funksiyalar",
       "zondlayan çəlikli adam",
-      "accessibility",
-      "blind",
-      "person with white cane"
+      "əlçatan"
     ]
   },
   {
@@ -4735,11 +4257,10 @@
       "kişi",
       "kor",
       "zond ilə kişi",
-      "accessibility",
-      "blind",
-      "man with white cane",
-      "man",
-      "male"
+      "əlçatan",
+      "görmə məhdudiyyətli",
+      "ağ çəlikli kişi",
+      "erkək"
     ]
   },
   {
@@ -4748,11 +4269,10 @@
       "kor",
       "qadın",
       "zond ilə qadın",
-      "accessibility",
-      "blind",
-      "woman with white cane",
-      "woman",
-      "female"
+      "əlçatan",
+      "görmə məhdudiyyətli",
+      "ağ çəlikli qadın",
+      "dişi"
     ]
   },
   {
@@ -4761,9 +4281,9 @@
       "motorlu kresloda oturmuş adam",
       "təkərli kreslo",
       "xüsusi funksiyalar",
-      "accessibility",
-      "person in motorized wheelchair",
-      "wheelchair"
+      "əlçatan",
+      "motorlu əlil arabasında olan şəxs",
+      "əlil arabası"
     ]
   },
   {
@@ -4772,11 +4292,10 @@
       "kişi",
       "motorlu",
       "oturacaqda",
-      "accessibility",
-      "man",
-      "wheelchair",
-      "man in motorized wheelchair",
-      "male"
+      "əlçatan",
+      "əlil arabası",
+      "motorlu əlil arabasında olan kişi",
+      "erkək"
     ]
   },
   {
@@ -4785,11 +4304,10 @@
       "motorlu",
       "oturacaqda",
       "qadın",
-      "accessibility",
-      "wheelchair",
-      "woman in motorized wheelchair",
-      "woman",
-      "female"
+      "əlçatan",
+      "əlil arabası",
+      "motorlu əlil arabasında olan qadın",
+      "dişi"
     ]
   },
   {
@@ -4798,9 +4316,8 @@
       "əl arabasında adam",
       "əlil arabası",
       "əlil arabasında adam",
-      "accessibility",
-      "person in manual wheelchair",
-      "wheelchair"
+      "əlçatan",
+      "əllə idarə olunan əlil arabasında olan şəxs"
     ]
   },
   {
@@ -4809,11 +4326,10 @@
       "kişi",
       "manual",
       "oturacaqda",
-      "accessibility",
-      "man",
-      "wheelchair",
-      "man in manual wheelchair",
-      "male"
+      "əlçatan",
+      "əlil arabası",
+      "əllə idarə olunan əlil arabasında olan kişi",
+      "erkək"
     ]
   },
   {
@@ -4822,11 +4338,10 @@
       "manual",
       "oturacaqda",
       "qadın",
-      "accessibility",
-      "wheelchair",
-      "woman in manual wheelchair",
-      "woman",
-      "female"
+      "əlçatan",
+      "əlil arabası",
+      "əllə idarə olunan əlil arabasında olan qadın",
+      "dişi"
     ]
   },
   {
@@ -4835,9 +4350,8 @@
       "atlet",
       "marafon",
       "qaçış",
-      "marathon",
-      "person running",
-      "running"
+      "qaçan adam",
+      "axma"
     ]
   },
   {
@@ -4848,11 +4362,8 @@
       "qaçan kişi",
       "qaçış",
       "yarış",
-      "man",
-      "marathon",
-      "running",
-      "racing",
-      "male"
+      "axma",
+      "erkək"
     ]
   },
   {
@@ -4863,11 +4374,8 @@
       "qaçış",
       "qadın",
       "yarış",
-      "marathon",
-      "racing",
-      "woman",
-      "running",
-      "female"
+      "axma",
+      "dişi"
     ]
   },
   {
@@ -4876,10 +4384,8 @@
       "qadın",
       "rəqs",
       "rəqs edən qadın",
-      "dance",
-      "dancing",
-      "female",
-      "woman"
+      "rəqs etmək",
+      "dişi"
     ]
   },
   {
@@ -4889,10 +4395,8 @@
       "kişi",
       "mahnı",
       "rəqs",
-      "dance",
-      "dancing",
-      "male",
-      "man"
+      "rəqs etmək",
+      "erkək"
     ]
   },
   {
@@ -4902,10 +4406,8 @@
       "işgüzar kostyumlu kişi",
       "kişi",
       "kostyum",
-      "business",
-      "person",
-      "suit",
-      "person in suit levitating"
+      "şəxs",
+      "havaya qalxan kostyumlu adam"
     ]
   },
   {
@@ -4917,10 +4419,10 @@
       "qulaq",
       "rəqqasə",
       "şənlənən qadınlar",
-      "bunny ear",
-      "dancer",
-      "people with bunny ears",
-      "partying"
+      "dovşan qulaq",
+      "rəqqas",
+      "dovşan qulaqlı adamlar",
+      "əyləncə"
     ]
   },
   {
@@ -4931,11 +4433,9 @@
       "parti",
       "rəqqas",
       "rəqs edən kişi",
-      "bunny ear",
-      "dancer",
-      "men with bunny ears",
-      "men",
-      "partying"
+      "dovşan qulaqlı kişilər",
+      "kişilər",
+      "əyləncə"
     ]
   },
   {
@@ -4946,11 +4446,10 @@
       "qadın",
       "rəqqasə",
       "rəqs edən qadınlar",
-      "bunny ear",
-      "dancer",
-      "women",
-      "partying",
-      "women with bunny ears"
+      "rəqqas",
+      "qadınlar",
+      "əyləncə",
+      "dovşan qulaqlı qadınlar"
     ]
   },
   {
@@ -4959,8 +4458,7 @@
       "buxarlı otaq",
       "buxarlı otaqda adam",
       "sauna",
-      "person in steamy room",
-      "steam room"
+      "buxar otağı"
     ]
   },
   {
@@ -4969,9 +4467,8 @@
       "buxarlı otaq",
       "buxarlı otaqda kişi",
       "sauna",
-      "man in steamy room",
-      "male",
-      "steam room"
+      "erkək",
+      "buxar otağı"
     ]
   },
   {
@@ -4980,9 +4477,8 @@
       "buxarlı otaq",
       "buxarlı otaqda qadın",
       "sauna",
-      "steam room",
-      "female",
-      "woman in steamy room"
+      "buxar otağı",
+      "dişi"
     ]
   },
   {
@@ -4990,8 +4486,7 @@
     "tags": [
       "dırmaşan",
       "dırmaşan adam",
-      "climber",
-      "person climbing"
+      "alpinist"
     ]
   },
   {
@@ -4999,9 +4494,8 @@
     "tags": [
       "dırmaşan",
       "dırmaşan kişi",
-      "climber",
-      "man climbing",
-      "male"
+      "alpinist",
+      "erkək"
     ]
   },
   {
@@ -5009,9 +4503,8 @@
     "tags": [
       "dırmaşan",
       "dırmaşan qadın",
-      "climber",
-      "woman climbing",
-      "female"
+      "alpinist",
+      "dişi"
     ]
   },
   {
@@ -5021,10 +4514,9 @@
       "qılınc",
       "qılınc oynatma",
       "yarışma",
-      "fencer",
-      "fencing",
-      "sword",
-      "person fencing"
+      "qılıncoynadan",
+      "qılıncoynatma",
+      "qılıncoynadan adam"
     ]
   },
   {
@@ -5035,10 +4527,7 @@
       "jokey",
       "yarış",
       "yarış atı",
-      "horse",
-      "jockey",
-      "racing",
-      "racehorse"
+      "atçapan"
     ]
   },
   {
@@ -5047,9 +4536,8 @@
       "qar",
       "xizək",
       "xizəkçi",
-      "ski",
-      "skier",
-      "snow"
+      "xizək sürmə",
+      "xizək sürən"
     ]
   },
   {
@@ -5059,10 +4547,9 @@
       "snouborder",
       "snoubort",
       "xizək",
-      "ski",
-      "snow",
-      "snowboarder",
-      "snowboard"
+      "xizək sürmə",
+      "snoubordçu",
+      "snoubord"
     ]
   },
   {
@@ -5071,9 +4558,7 @@
       "qolf",
       "qolf oynayan",
       "top",
-      "ball",
-      "golf",
-      "person golfing"
+      "qolf oynayan adam"
     ]
   },
   {
@@ -5081,8 +4566,7 @@
     "tags": [
       "sörfer",
       "sörfinq",
-      "person surfing",
-      "surfing"
+      "sörfinq edən adam"
     ]
   },
   {
@@ -5091,9 +4575,7 @@
       "kişi",
       "sörfçü kişi",
       "sörfinq",
-      "man",
-      "surfing",
-      "male"
+      "erkək"
     ]
   },
   {
@@ -5102,9 +4584,7 @@
       "qadın",
       "sörfçü qadın",
       "sörfinq",
-      "surfing",
-      "woman",
-      "female"
+      "dişi"
     ]
   },
   {
@@ -5113,9 +4593,8 @@
       "avarçəkmə qayığı",
       "nəqliyyat",
       "qayıq",
-      "boat",
-      "person rowing boat",
-      "rowboat"
+      "avarçəkən adam",
+      "avarçəkmə"
     ]
   },
   {
@@ -5125,11 +4604,9 @@
       "kişi",
       "qayıq",
       "qayıqçı kişi",
-      "boat",
-      "man",
-      "rowboat",
-      "man rowing boat",
-      "male"
+      "avarçəkmə",
+      "avarçəkən kişi",
+      "erkək"
     ]
   },
   {
@@ -5139,11 +4616,9 @@
       "qadın",
       "qayıq",
       "qayıqçı qadın",
-      "boat",
-      "rowboat",
-      "woman rowing boat",
-      "woman",
-      "female"
+      "avarçəkmə",
+      "avarçəkən qadın",
+      "dişi"
     ]
   },
   {
@@ -5151,8 +4626,7 @@
     "tags": [
       "üzgüçü",
       "üzmək",
-      "person swimming",
-      "swim"
+      "üzən adam"
     ]
   },
   {
@@ -5161,10 +4635,8 @@
       "kişi",
       "üzgüçü kişi",
       "üzmək",
-      "man",
-      "man swimming",
-      "male",
-      "swim"
+      "üzən kişi",
+      "erkək"
     ]
   },
   {
@@ -5173,10 +4645,8 @@
       "qadın",
       "üzgüçü qadın",
       "üzmək",
-      "swim",
-      "woman",
-      "female",
-      "woman swimming"
+      "dişi",
+      "üzən qadın"
     ]
   },
   {
@@ -5184,8 +4654,7 @@
     "tags": [
       "top",
       "toplu adam",
-      "ball",
-      "person bouncing ball"
+      "topatan adam"
     ]
   },
   {
@@ -5193,7 +4662,7 @@
     "tags": [
       "çəki",
       "ştanqçı",
-      "lifter",
+      "qaldıran",
       "ağırlıq qaldıran şəxs"
     ]
   },
@@ -5203,10 +4672,8 @@
       "bayk",
       "velosiped",
       "velosipedçi",
-      "bicycle",
-      "biking",
-      "person biking",
-      "cyclist"
+      "velosiped sürmə",
+      "velosiped sürən adam"
     ]
   },
   {
@@ -5216,11 +4683,8 @@
       "velosiped",
       "velosiped sürmək",
       "velosipedçi",
-      "bicycle",
-      "biking",
-      "man",
-      "cyclist",
-      "male"
+      "velosiped sürmə",
+      "erkək"
     ]
   },
   {
@@ -5230,11 +4694,8 @@
       "velosiped",
       "velosiped sürmək",
       "velosipedçi",
-      "bicycle",
-      "biking",
-      "woman",
-      "cyclist",
-      "female"
+      "velosiped sürmə",
+      "dişi"
     ]
   },
   {
@@ -5245,12 +4706,8 @@
       "dağ velosipedçisi",
       "velosiped",
       "velosipedçi",
-      "bicycle",
-      "bicyclist",
-      "cyclist",
-      "bike",
-      "mountain",
-      "person mountain biking"
+      "sürmə",
+      "dağ velosiped sürən adam"
     ]
   },
   {
@@ -5261,13 +4718,9 @@
       "kişi",
       "velosiped",
       "velosipedçi",
-      "bicycle",
-      "bike",
-      "man",
-      "cyclist",
-      "man mountain biking",
-      "mountain",
-      "male"
+      "sürmə",
+      "dağ velosiped sürən kişi",
+      "erkək"
     ]
   },
   {
@@ -5279,13 +4732,9 @@
       "velosiped",
       "velosiped sürmək",
       "velosipedçi",
-      "bicycle",
-      "bike",
-      "cyclist",
-      "biking",
-      "mountain",
-      "woman",
-      "female"
+      "sürmə",
+      "velosiped sürmə",
+      "dişi"
     ]
   },
   {
@@ -5295,9 +4744,9 @@
       "akrobatika",
       "hərəkət",
       "idman",
-      "cartwheel",
-      "gymnastics",
-      "person cartwheeling"
+      "yana fırlanma",
+      "gimnastika",
+      "yana fırlanan adam"
     ]
   },
   {
@@ -5308,11 +4757,10 @@
       "idman",
       "kişi",
       "şəxs",
-      "cartwheel",
-      "gymnastics",
-      "man cartwheeling",
-      "man",
-      "male"
+      "yana fırlanma",
+      "gimnastika",
+      "yana fırlanan kişi",
+      "erkək"
     ]
   },
   {
@@ -5324,11 +4772,10 @@
       "idman",
       "qadın",
       "şəxs",
-      "cartwheel",
-      "gymnastics",
-      "woman cartwheeling",
-      "woman",
-      "female"
+      "yana fırlanma",
+      "gimnastika",
+      "yana fırlanan qadın",
+      "dişi"
     ]
   },
   {
@@ -5337,9 +4784,8 @@
       "döyüş",
       "güləş",
       "idman",
-      "people wrestling",
-      "wrestle",
-      "wrestler"
+      "güləşən insanlar",
+      "güləşçi"
     ]
   },
   {
@@ -5350,9 +4796,8 @@
       "idman",
       "kişi",
       "şəxs",
-      "men",
-      "men wrestling",
-      "wrestle"
+      "kişilər",
+      "kişi güləşi"
     ]
   },
   {
@@ -5363,9 +4808,8 @@
       "idman",
       "qadın",
       "şəxs",
-      "women",
-      "women wrestling",
-      "wrestle"
+      "qadınlar",
+      "qadın güləşi"
     ]
   },
   {
@@ -5377,8 +4821,7 @@
       "su polosu",
       "top",
       "yarışma",
-      "person playing water polo",
-      "water"
+      "su polosu oynayan adam"
     ]
   },
   {
@@ -5388,10 +4831,8 @@
       "kişi",
       "su poloçusu kişi",
       "su polosu",
-      "man",
-      "man playing water polo",
-      "male",
-      "water polo"
+      "su polosu oynayan kişi",
+      "erkək"
     ]
   },
   {
@@ -5401,10 +4842,8 @@
       "qadın",
       "su poloçusu qadın",
       "su polosu",
-      "water polo",
-      "woman",
-      "female",
-      "woman playing water polo"
+      "dişi",
+      "su polosu oynayan qadın"
     ]
   },
   {
@@ -5413,9 +4852,8 @@
       "həndbol",
       "idman",
       "yarışma",
-      "ball",
-      "handball",
-      "person playing handball"
+      "top",
+      "həndbol oynayan adam"
     ]
   },
   {
@@ -5425,10 +4863,9 @@
       "həndbolçu kişi",
       "idman",
       "kişi",
-      "handball",
-      "man",
-      "male",
-      "man playing handball"
+      "həndbol",
+      "erkək",
+      "həndbol oynayan kişi"
     ]
   },
   {
@@ -5438,10 +4875,9 @@
       "həndbolçu qadın",
       "idman",
       "qadın",
-      "handball",
-      "woman",
-      "female",
-      "woman playing handball"
+      "həndbol",
+      "dişi",
+      "həndbol oynayan qadın"
     ]
   },
   {
@@ -5449,11 +4885,11 @@
     "tags": [
       "hoqqabaz",
       "janqlyor",
-      "balance",
-      "juggle",
-      "person juggling",
-      "multitask",
-      "skill"
+      "tarazlıq",
+      "kəndirbazlıq",
+      "kəndirbazlıq edən adam",
+      "çoxlu tapşırıq",
+      "bacarıq"
     ]
   },
   {
@@ -5462,10 +4898,9 @@
       "çox-tapşırıqlı",
       "jonqlyor",
       "kişi",
-      "juggling",
-      "man",
-      "male",
-      "multitask"
+      "kəndirbazlıq etmə",
+      "erkək",
+      "çoxlu tapşırıq"
     ]
   },
   {
@@ -5474,10 +4909,9 @@
       "çox-tapşırıqlı",
       "jonqlyor",
       "qadın",
-      "juggling",
-      "multitask",
-      "female",
-      "woman"
+      "kəndirbazlıq etmə",
+      "çoxlu tapşırıq",
+      "dişi"
     ]
   },
   {
@@ -5486,10 +4920,8 @@
       "lotus pozisiyasında adam",
       "meditasiya",
       "yoqa",
-      "meditation",
-      "person in lotus position",
-      "yoga",
-      "meditate"
+      "lotus mövqeyində olan adam",
+      "meditasiya etmək"
     ]
   },
   {
@@ -5498,11 +4930,9 @@
       "lotus pozisiyasında kişi",
       "meditasiya",
       "yoqa",
-      "man in lotus position",
-      "meditation",
-      "male",
-      "yoga",
-      "meditate"
+      "lotus mövqeyində olan kişi",
+      "erkək",
+      "meditasiya etmək"
     ]
   },
   {
@@ -5511,11 +4941,9 @@
       "lotus pozisiyasında qadın",
       "meditasiya",
       "yoqa",
-      "meditation",
-      "woman in lotus position",
-      "female",
-      "yoga",
-      "meditate"
+      "lotus mövqeyində olan qadın",
+      "dişi",
+      "meditasiya etmək"
     ]
   },
   {
@@ -5524,10 +4952,9 @@
       "hamam",
       "vanna",
       "vanna qəbul edən adam",
-      "bath",
-      "bathtub",
-      "person taking bath",
-      "bathing"
+      "küvet",
+      "vanna qəbul edən şəxs",
+      "vanna qəbul etmək"
     ]
   },
   {
@@ -5537,9 +4964,9 @@
       "yataqda uzanmış adam",
       "yatmaq",
       "hotel",
-      "person in bed",
+      "yataqda adam",
       "yataqda",
-      "bed",
+      "yataq",
       "yatır"
     ]
   },
@@ -5551,10 +4978,8 @@
       "əl-ələ tutan adamlar",
       "əl-ələ tutmaq",
       "tutmaq",
-      "couple",
-      "hand",
       "əl-ələ tutan insanlar",
-      "person"
+      "şəxs"
     ]
   },
   {
@@ -5565,12 +4990,10 @@
       "əl-ələ tutan iki qadın",
       "qadın",
       "tutmaq",
-      "couple",
-      "hand",
-      "women",
+      "qadınlar",
       "əl-ələ tutmaq",
       "əl-ələ tutan xanımlar",
-      "female"
+      "dişi"
     ]
   },
   {
@@ -5583,12 +5006,8 @@
       "kişi",
       "qadın",
       "tutmaq",
-      "couple",
-      "hand",
-      "man",
-      "woman",
-      "female",
-      "male"
+      "dişi",
+      "erkək"
     ]
   },
   {
@@ -5601,14 +5020,11 @@
       "kişi",
       "tutmaq",
       "zodiak",
-      "couple",
-      "Gemini",
-      "man",
-      "men",
+      "Əkizlər",
+      "kişilər",
       "əl-ələ tutan kişilər",
-      "twins",
-      "zodiac",
-      "male"
+      "bürc",
+      "erkək"
     ]
   },
   {
@@ -5616,8 +5032,7 @@
     "tags": [
       "cütlük",
       "öpüş",
-      "romantika",
-      "couple"
+      "romantika"
     ]
   },
   {
@@ -5627,9 +5042,7 @@
       "romantika",
       "sevgi",
       "ürək",
-      "ürəkli cütlük",
-      "couple",
-      "couple with heart"
+      "ürəkli cütlük"
     ]
   },
   {
@@ -5638,8 +5051,7 @@
       "ailə",
       "ana",
       "ata",
-      "uşaq",
-      "family"
+      "uşaq"
     ]
   },
   {
@@ -5650,12 +5062,8 @@
       "danışmaq",
       "siluet",
       "üz",
-      "head",
-      "speak",
-      "silhouette",
-      "speaking",
-      "shadow",
-      "shout"
+      "kölgə",
+      "qışqırmaq"
     ]
   },
   {
@@ -5664,10 +5072,8 @@
       "büst",
       "büst silueti",
       "siluet",
-      "bust",
-      "bust in silhouette",
-      "silhouette",
-      "shadow"
+      "siluet büst",
+      "kölgə"
     ]
   },
   {
@@ -5676,10 +5082,8 @@
       "büst",
       "büst siluetləri",
       "siluet",
-      "bust",
-      "busts in silhouette",
-      "silhouette",
-      "shadow"
+      "siluet büstlər",
+      "kölgə"
     ]
   },
   {
@@ -5690,12 +5094,9 @@
       "sağ ol",
       "salam",
       "təşəkkürlər",
-      "goodbye",
-      "hello",
-      "people hugging",
+      "sağ salamat",
       "qucaqlama",
-      "thanks",
-      "shadow"
+      "kölgə"
     ]
   },
   {
@@ -5704,11 +5105,7 @@
       "ayaq izi",
       "ayaq izləri",
       "geyim",
-      "iz",
-      "clothing",
-      "footprint",
-      "print",
-      "footprints"
+      "iz"
     ]
   },
   {
@@ -5716,22 +5113,19 @@
     "tags": [
       "meymun",
       "meymun üzü",
-      "üz",
-      "monkey"
+      "üz"
     ]
   },
   {
     "emoji": "🐒",
     "tags": [
-      "meymun",
-      "monkey"
+      "meymun"
     ]
   },
   {
     "emoji": "🦍",
     "tags": [
-      "qorilla",
-      "gorilla"
+      "qorilla"
     ]
   },
   {
@@ -5739,8 +5133,8 @@
     "tags": [
       "böyük meymun",
       "oranqutanq",
-      "ape",
-      "orangutan"
+      "meymun",
+      "oranqutan"
     ]
   },
   {
@@ -5750,9 +5144,7 @@
       "it",
       "it üzü",
       "üz",
-      "dog",
-      "pet",
-      "puppy"
+      "küçük"
     ]
   },
   {
@@ -5760,9 +5152,7 @@
     "tags": [
       "ev heyvanı",
       "it",
-      "dog",
-      "pet",
-      "puppy"
+      "küçük"
     ]
   },
   {
@@ -5771,13 +5161,11 @@
       "bələdçi",
       "bələdçi it",
       "kor",
-      "accessibility",
-      "blind",
-      "guide dog",
-      "guide",
-      "dog",
-      "assistance",
-      "service"
+      "əlçatan",
+      "görmə məhdudiyyətli",
+      "it",
+      "kömək",
+      "xidmət"
     ]
   },
   {
@@ -5785,19 +5173,16 @@
     "tags": [
       "it",
       "xidmətçi",
-      "accessibility",
-      "assistance",
-      "service",
-      "dog"
+      "əlçatan",
+      "kömək",
+      "xidmət"
     ]
   },
   {
     "emoji": "🐩",
     "tags": [
       "it",
-      "pudel",
-      "dog",
-      "poodle"
+      "pudel"
     ]
   },
   {
@@ -5805,8 +5190,7 @@
     "tags": [
       "canavar",
       "canavar üzü",
-      "üz",
-      "wolf"
+      "üz"
     ]
   },
   {
@@ -5815,8 +5199,7 @@
       "heyvan",
       "sifət",
       "tülkü",
-      "üz",
-      "fox"
+      "üz"
     ]
   },
   {
@@ -5825,9 +5208,7 @@
       "hiyləgər",
       "maraq içində olan",
       "yenot",
-      "curious",
-      "raccoon",
-      "sly"
+      "qəribə"
     ]
   },
   {
@@ -5837,10 +5218,7 @@
       "pişik",
       "pişik üzü",
       "üz",
-      "cat",
-      "pet",
-      "kitten",
-      "kitty"
+      "pişik balası"
     ]
   },
   {
@@ -5848,10 +5226,7 @@
     "tags": [
       "ev heyvanı",
       "pişik",
-      "cat",
-      "pet",
-      "kitten",
-      "kitty"
+      "pişik balası"
     ]
   },
   {
@@ -5860,11 +5235,7 @@
       "pişik",
       "qara",
       "uğursuz",
-      "black",
-      "cat",
-      "unlucky",
-      "kitty",
-      "kitten"
+      "pişik balası"
     ]
   },
   {
@@ -5875,9 +5246,8 @@
       "şir üzü",
       "üz",
       "zodiak",
-      "Leo",
-      "zodiac",
-      "lion"
+      "Şir",
+      "bürc"
     ]
   },
   {
@@ -5885,15 +5255,13 @@
     "tags": [
       "pələng",
       "pələng üzü",
-      "üz",
-      "tiger"
+      "üz"
     ]
   },
   {
     "emoji": "🐅",
     "tags": [
-      "pələng",
-      "tiger"
+      "pələng"
     ]
   },
   {
@@ -5901,9 +5269,9 @@
     "tags": [
       "bəbir",
       "leopard",
-      "cheetah",
-      "jaguar",
-      "panther"
+      "çita",
+      "yaquar",
+      "pantera"
     ]
   },
   {
@@ -5911,8 +5279,7 @@
     "tags": [
       "at",
       "at üzü",
-      "üz",
-      "horse"
+      "üz"
     ]
   },
   {
@@ -5921,10 +5288,8 @@
       "at",
       "yarış",
       "yarış atı",
-      "equestrian",
-      "horse",
-      "racing",
-      "racehorse"
+      "atlı",
+      "at yarışı"
     ]
   },
   {
@@ -5933,15 +5298,14 @@
       "təkbuynuz",
       "təkbuynuz üzü",
       "üz",
-      "unicorn"
+      "tək buynuzlu at"
     ]
   },
   {
     "emoji": "🦓",
     "tags": [
       "zebra",
-      "zolaq",
-      "stripe"
+      "zolaq"
     ]
   },
   {
@@ -5949,11 +5313,9 @@
     "tags": [
       "heyvan",
       "maral",
-      "deer",
-      "elk",
-      "moose",
-      "antelope",
-      "reindeer"
+      "sığın",
+      "antilop",
+      "şimal maralı"
     ]
   },
   {
@@ -5963,10 +5325,8 @@
       "kəl",
       "sürü",
       "zubr",
-      "bison",
-      "buffalo",
-      "wisent",
-      "herd"
+      "camış",
+      "avropa camışı"
     ]
   },
   {
@@ -5975,8 +5335,7 @@
       "inək",
       "inək üzü",
       "üz",
-      "cow",
-      "moo"
+      "böyürmə"
     ]
   },
   {
@@ -5985,11 +5344,9 @@
       "buğa",
       "öküz",
       "zodiak",
-      "bull",
-      "ox",
-      "zodiac",
-      "Taurus",
-      "cow"
+      "bürc",
+      "Buğa bürcü",
+      "inək"
     ]
   },
   {
@@ -5997,17 +5354,14 @@
     "tags": [
       "camış",
       "su",
-      "su camışı",
-      "buffalo",
-      "water"
+      "su camışı"
     ]
   },
   {
     "emoji": "🐄",
     "tags": [
       "inək",
-      "cow",
-      "moo"
+      "böyürmə"
     ]
   },
   {
@@ -6016,8 +5370,7 @@
       "donuz",
       "donuz üzü",
       "üz",
-      "pig",
-      "piggy"
+      "kiçik donuz"
     ]
   },
   {
@@ -6025,9 +5378,8 @@
     "tags": [
       "donuz",
       "qar",
-      "pig",
-      "sow",
-      "piggy"
+      "dişi donuz",
+      "kiçik donuz"
     ]
   },
   {
@@ -6035,9 +5387,7 @@
     "tags": [
       "donuz",
       "qaban",
-      "boar",
-      "pig",
-      "piggy"
+      "kiçik donuz"
     ]
   },
   {
@@ -6047,8 +5397,7 @@
       "donuz",
       "donuz burnu",
       "üz",
-      "pig",
-      "piggy"
+      "kiçik donuz"
     ]
   },
   {
@@ -6057,11 +5406,9 @@
       "qoç",
       "qoyun",
       "zodiak",
-      "Aries",
-      "male",
-      "sheep",
-      "ram",
-      "zodiac"
+      "Qoç bürcü",
+      "erkək",
+      "bürc"
     ]
   },
   {
@@ -6069,9 +5416,7 @@
     "tags": [
       "dişi qoyun",
       "qoyun",
-      "ewe",
-      "female",
-      "sheep"
+      "dişi"
     ]
   },
   {
@@ -6080,9 +5425,8 @@
       "keçi",
       "oğlaq",
       "zodiak",
-      "Capricorn",
-      "goat",
-      "zodiac"
+      "Oğlaq bürcü",
+      "bürc"
     ]
   },
   {
@@ -6091,10 +5435,9 @@
       "birhürgüclüdəvə",
       "dəvə",
       "hörgüc",
-      "camel",
-      "dromedary",
-      "hump",
-      "desert"
+      "birhürgüclü dəvə",
+      "donqar",
+      "səhra"
     ]
   },
   {
@@ -6104,11 +5447,10 @@
       "dəvə",
       "hörgüc",
       "ikihürgüclü dəvə",
-      "bactrian",
-      "camel",
+      "baktriyalı",
       "iki donqarlı dəvə",
-      "hump",
-      "desert"
+      "donqar",
+      "səhra"
     ]
   },
   {
@@ -6119,11 +5461,7 @@
       "quanako",
       "vikunya",
       "yun",
-      "alpaca",
-      "guanaco",
-      "vicuña",
-      "llama",
-      "wool"
+      "vikuna"
     ]
   },
   {
@@ -6131,15 +5469,13 @@
     "tags": [
       "ləkələr",
       "zürafə",
-      "giraffe",
-      "spots"
+      "çil"
     ]
   },
   {
     "emoji": "🐘",
     "tags": [
-      "fil",
-      "elephant"
+      "fil"
     ]
   },
   {
@@ -6150,19 +5486,16 @@
       "mamont",
       "xovlu",
       "yox olma",
-      "extinction",
-      "tusk",
-      "mammoth",
-      "woolly"
+      "nəsli tükənmə",
+      "fil dişi",
+      "yunlu"
     ]
   },
   {
     "emoji": "🦏",
     "tags": [
       "heyvan",
-      "kərgədan",
-      "rhinoceros",
-      "rhino"
+      "kərgədan"
     ]
   },
   {
@@ -6170,7 +5503,7 @@
     "tags": [
       "hippo",
       "hippopotam",
-      "hippopotamus"
+      "begemot"
     ]
   },
   {
@@ -6178,22 +5511,19 @@
     "tags": [
       "siçan",
       "siçan üzü",
-      "üz",
-      "mouse"
+      "üz"
     ]
   },
   {
     "emoji": "🐁",
     "tags": [
-      "siçan",
-      "mouse"
+      "siçan"
     ]
   },
   {
     "emoji": "🐀",
     "tags": [
-      "siçovul",
-      "rat"
+      "siçovul"
     ]
   },
   {
@@ -6202,11 +5532,9 @@
       "dağsiçanı",
       "ev heyvanı",
       "üz",
-      "hamster",
-      "pet",
       "gerbil",
-      "chinchilla",
-      "guinea pig"
+      "şinşilla",
+      "qvineya donuzu"
     ]
   },
   {
@@ -6217,8 +5545,7 @@
       "ev heyvanı",
       "üz",
       "bunny",
-      "rabbit",
-      "pet"
+      "rabbit"
     ]
   },
   {
@@ -6227,7 +5554,6 @@
       "dovşan",
       "ev heyvanı",
       "bunny",
-      "pet",
       "rabbit"
     ]
   },
@@ -6265,8 +5591,7 @@
     "tags": [
       "vampir",
       "yarasa",
-      "bat",
-      "vampire"
+      "bat"
     ]
   },
   {
@@ -6287,7 +5612,6 @@
       "qütb ayısı",
       "arctic",
       "bear",
-      "white",
       "polar bear"
     ]
   },
@@ -6372,7 +5696,6 @@
       "pəncə izləri",
       "feet",
       "paw",
-      "print",
       "paw prints"
     ]
   },
@@ -6413,7 +5736,6 @@
       "körpə",
       "yumurtadan çıxan cücə",
       "yumurtadan çıxmaq",
-      "baby",
       "bird",
       "hatching",
       "chick"
@@ -6425,7 +5747,6 @@
       "cücə",
       "körpə",
       "quş",
-      "baby",
       "bird",
       "chick"
     ]
@@ -6437,7 +5758,6 @@
       "körpə",
       "qabağa baxan balaca cücə",
       "quş",
-      "baby",
       "bird",
       "front-facing baby chick",
       "chick"
@@ -6520,7 +5840,7 @@
       "dodo",
       "Mavriki",
       "yox olma",
-      "extinction",
+      "nəsli tükənmə",
       "Mauritius"
     ]
   },
@@ -6624,7 +5944,7 @@
       "Ophiuchus",
       "snake",
       "serpent",
-      "zodiac"
+      "bürc"
     ]
   },
   {
@@ -6713,7 +6033,7 @@
       "zodiak",
       "fish",
       "Pisces",
-      "zodiac"
+      "bürc"
     ]
   },
   {
@@ -6878,7 +6198,7 @@
       "zodiak",
       "scorpio",
       "Scorpio",
-      "zodiac",
+      "bürc",
       "scorpion"
     ]
   },
@@ -7045,7 +6365,7 @@
       "cavan",
       "şitil",
       "seedling",
-      "young"
+      "gənc"
     ]
   },
   {
@@ -7096,7 +6416,7 @@
       "bitki",
       "palma",
       "palma ağacı",
-      "palm",
+      "ovuc içi",
       "tree"
     ]
   },
@@ -7116,7 +6436,6 @@
       "düyü",
       "düyü sünbülü",
       "qulaq",
-      "ear",
       "grain",
       "sheaf of rice",
       "rice"
@@ -7228,7 +6547,7 @@
       "meyvə",
       "portağal",
       "fruit",
-      "orange",
+      "narıncı",
       "tangerine"
     ]
   },
@@ -7289,8 +6608,7 @@
       "meyvə",
       "yaşıl",
       "apple",
-      "fruit",
-      "green"
+      "fruit"
     ]
   },
   {
@@ -7384,7 +6702,7 @@
       "kokos",
       "palma",
       "coconut",
-      "palm",
+      "ovuc içi",
       "piña colada"
     ]
   },
@@ -7436,7 +6754,7 @@
       "qarğıdalı sünbülü",
       "sünbül",
       "corn",
-      "ear",
+      "qulaq",
       "maize",
       "ear of corn",
       "maze"
@@ -7671,7 +6989,6 @@
       "sümük",
       "toyuq budu",
       "chicken",
-      "leg",
       "drumstick",
       "poultry"
     ]
@@ -7888,7 +7205,6 @@
       "tərəvəz",
       "yaşıl",
       "food",
-      "green",
       "salad"
     ]
   },
@@ -7955,7 +7271,7 @@
       "düyü küftəsi",
       "küftə",
       "yapon",
-      "ball",
+      "top",
       "Japanese",
       "rice"
     ]
@@ -8128,7 +7444,7 @@
       "zodiak",
       "Cancer",
       "crab",
-      "zodiac"
+      "bürc"
     ]
   },
   {
@@ -8373,7 +7689,6 @@
       "süd",
       "şüşə",
       "uşaq şüşəsi",
-      "baby",
       "bottle",
       "milk",
       "drink"
@@ -8582,7 +7897,7 @@
       "köpüklü çay",
       "mirvari",
       "süd",
-      "bubble",
+      "qabarcıq",
       "milk",
       "tea",
       "pearl"
@@ -8699,7 +8014,7 @@
       "drink",
       "cooking",
       "jug",
-      "zodiac"
+      "bürc"
     ]
   },
   {
@@ -8807,16 +8122,13 @@
       "dağ",
       "qar",
       "soyuq",
-      "mountain",
-      "snow-capped mountain",
-      "snow"
+      "snow-capped mountain"
     ]
   },
   {
     "emoji": "⛰️",
     "tags": [
-      "dağ",
-      "mountain"
+      "dağ"
     ]
   },
   {
@@ -8827,7 +8139,6 @@
       "püskürmə",
       "vulkan",
       "eruption",
-      "mountain",
       "volcano"
     ]
   },
@@ -8837,8 +8148,7 @@
       "dağ",
       "fuji",
       "fuji dağı",
-      "mount fuji",
-      "mountain"
+      "mount fuji"
     ]
   },
   {
@@ -8862,8 +8172,7 @@
   {
     "emoji": "🏜️",
     "tags": [
-      "səhra",
-      "desert"
+      "səhra"
     ]
   },
   {
@@ -8872,7 +8181,6 @@
       "ada",
       "səhra",
       "tənha ada",
-      "desert",
       "island"
     ]
   },
@@ -8907,7 +8215,7 @@
       "bina tikintisi",
       "tikinti",
       "building construction",
-      "construction"
+      "inşaat"
     ]
   },
   {
@@ -8934,7 +8242,7 @@
       "boulder",
       "heavy",
       "solid",
-      "rock"
+      "rok"
     ]
   },
   {
@@ -9115,8 +8423,7 @@
     "tags": [
       "bina",
       "fabrik",
-      "building",
-      "factory"
+      "building"
     ]
   },
   {
@@ -9147,8 +8454,7 @@
       "romantika",
       "toy",
       "chapel",
-      "romance",
-      "wedding"
+      "romance"
     ]
   },
   {
@@ -9183,7 +8489,7 @@
       "Christian",
       "church",
       "religion",
-      "cross"
+      "çarpaz"
     ]
   },
   {
@@ -9301,7 +8607,6 @@
       "hava",
       "səhər",
       "morning",
-      "mountain",
       "sunrise",
       "sunrise over mountains"
     ]
@@ -9370,8 +8675,7 @@
     "tags": [
       "at",
       "karusel",
-      "carousel",
-      "horse"
+      "carousel"
     ]
   },
   {
@@ -9405,8 +8709,7 @@
       "saç düzümü",
       "şlaqbaum",
       "sütun",
-      "barber",
-      "haircut",
+      "gözəllik salonu",
       "pole"
     ]
   },
@@ -9551,7 +8854,6 @@
       "maşın",
       "nəqliyyat",
       "car",
-      "mountain",
       "railway"
     ]
   },
@@ -9639,8 +8941,7 @@
       "polis",
       "polis maşını",
       "car",
-      "patrol",
-      "police"
+      "patrol"
     ]
   },
   {
@@ -9652,8 +8953,7 @@
       "yaxınlaşan polis maşını",
       "yaxınlaşma",
       "car",
-      "oncoming",
-      "police"
+      "oncoming"
     ]
   },
   {
@@ -9761,7 +9061,6 @@
       "yarış",
       "yarış maşını",
       "car",
-      "racing",
       "race",
       "racecar"
     ]
@@ -9771,8 +9070,7 @@
     "tags": [
       "motosiklet",
       "yarış",
-      "motorcycle",
-      "racing"
+      "motorcycle"
     ]
   },
   {
@@ -9790,7 +9088,7 @@
     "tags": [
       "əlverişlilik",
       "manual təkərli kreslo",
-      "accessibility",
+      "əlçatan",
       "manual wheelchair"
     ]
   },
@@ -9799,7 +9097,7 @@
     "tags": [
       "əlverişlilik",
       "motorlu təkərli kreslo",
-      "accessibility",
+      "əlçatan",
       "motorized wheelchair"
     ]
   },
@@ -9817,8 +9115,7 @@
     "tags": [
       "nəqliyyat",
       "velosiped",
-      "bicycle",
-      "bike"
+      "sürmə"
     ]
   },
   {
@@ -9826,7 +9123,7 @@
     "tags": [
       "samokat",
       "skuter",
-      "kick",
+      "təpik",
       "scooter"
     ]
   },
@@ -9919,9 +9216,7 @@
       "polis maşının işığı",
       "beacon",
       "car",
-      "police",
       "light",
-      "revolving",
       "alert",
       "alarm",
       "emergency",
@@ -9971,7 +9266,7 @@
       "maneə",
       "tikinti",
       "barrier",
-      "construction"
+      "inşaat"
     ]
   },
   {
@@ -9994,7 +9289,6 @@
       "qayıq",
       "yaxta",
       "yelkənli qayıq",
-      "boat",
       "resort",
       "sea",
       "sailboat",
@@ -10006,7 +9300,6 @@
     "tags": [
       "qayıq",
       "sürmə",
-      "boat",
       "canoe"
     ]
   },
@@ -10016,7 +9309,6 @@
       "nəqliyyat",
       "qayıq",
       "sürətli qayıq",
-      "boat",
       "speedboat"
     ]
   },
@@ -10036,7 +9328,6 @@
     "tags": [
       "bərə gəmisi",
       "qayıq",
-      "boat",
       "ferry",
       "passenger"
     ]
@@ -10047,7 +9338,6 @@
       "motorlu qayıq",
       "nəqliyyat",
       "qayıq",
-      "boat",
       "motor boat",
       "motorboat"
     ]
@@ -10057,7 +9347,7 @@
     "tags": [
       "gəmi",
       "nəqliyyat",
-      "boat",
+      "qayıq",
       "passenger",
       "ship"
     ]
@@ -10164,8 +9454,7 @@
       "qondola",
       "cable",
       "gondola",
-      "mountain cableway",
-      "mountain"
+      "mountain cableway"
     ]
   },
   {
@@ -10199,7 +9488,6 @@
       "kosmos",
       "nəqliyyat",
       "raket",
-      "rocket",
       "space",
       "spaceship"
     ]
@@ -10918,8 +10206,7 @@
       "qarlı bulud",
       "soyuq",
       "cloud",
-      "cloud with snow",
-      "snow"
+      "cloud with snow"
     ]
   },
   {
@@ -11001,7 +10288,6 @@
       "hava",
       "yağış",
       "closed umbrella",
-      "clothing",
       "umbrella",
       "rain"
     ]
@@ -11024,7 +10310,6 @@
       "hava",
       "yağış",
       "yağış damcıları düşən çətir",
-      "clothing",
       "drop",
       "umbrella",
       "rain",
@@ -11053,7 +10338,7 @@
       "toqquşma",
       "voltaj",
       "yüksək voltaj",
-      "danger",
+      "təhlükəli",
       "electric",
       "lightning",
       "high voltage",
@@ -11087,7 +10372,6 @@
       "qar adam",
       "qarsız qar adam",
       "soyuq",
-      "snow",
       "snowman without snow",
       "snowman"
     ]
@@ -11119,10 +10403,9 @@
       "komik",
       "soyuq",
       "tər",
-      "comic",
       "droplet",
       "drop",
-      "water"
+      "su"
     ]
   },
   {
@@ -11134,8 +10417,7 @@
       "su",
       "su dalğası",
       "ocean",
-      "water",
-      "wave"
+      "yelləmə"
     ]
   },
   {
@@ -11162,7 +10444,7 @@
       "milad",
       "milad ağacı",
       "qeyd etmə",
-      "Christmas",
+      "Milad",
       "tree"
     ]
   },
@@ -11214,7 +10496,6 @@
     "tags": [
       "bayram",
       "şar",
-      "balloon",
       "qeyd etmə"
     ]
   },
@@ -11239,7 +10520,6 @@
       "konfetti",
       "konfetti topu",
       "top",
-      "ball",
       "qeyd etmə",
       "confetti",
       "parti"
@@ -11347,8 +10627,7 @@
     "tags": [
       "bayram",
       "lent",
-      "qeyd etmə",
-      "ribbon"
+      "qeyd etmə"
     ]
   },
   {
@@ -11374,8 +10653,7 @@
       "xatırlatma",
       "xatırlatma lenti",
       "qeyd etmə",
-      "reminder",
-      "ribbon"
+      "reminder"
     ]
   },
   {
@@ -11487,7 +10765,6 @@
       "futbol",
       "futbol topu",
       "top",
-      "ball",
       "football",
       "soccer"
     ]
@@ -11497,7 +10774,6 @@
     "tags": [
       "beysbol",
       "top",
-      "ball",
       "baseball"
     ]
   },
@@ -11508,7 +10784,6 @@
       "qoltuqaltı",
       "softbol",
       "top",
-      "ball",
       "glove",
       "underarm",
       "softball"
@@ -11520,7 +10795,6 @@
       "basketbol",
       "halqa",
       "top",
-      "ball",
       "basketball",
       "hoop"
     ]
@@ -11531,7 +10805,6 @@
       "oyun",
       "top",
       "voleybol",
-      "ball",
       "game",
       "volleyball"
     ]
@@ -11544,7 +10817,6 @@
       "futbol",
       "top",
       "american",
-      "ball",
       "football"
     ]
   },
@@ -11554,7 +10826,6 @@
       "futbol",
       "reqbi",
       "top",
-      "ball",
       "football",
       "rugby"
     ]
@@ -11564,7 +10835,6 @@
     "tags": [
       "tennis",
       "top",
-      "ball",
       "racquet"
     ]
   },
@@ -11582,7 +10852,6 @@
       "boulinq",
       "oyun",
       "top",
-      "ball",
       "bowling",
       "game"
     ]
@@ -11594,7 +10863,6 @@
       "kriket",
       "oyun",
       "top",
-      "ball",
       "bat",
       "game",
       "cricket game"
@@ -11609,7 +10877,6 @@
       "sahə xokkeyi",
       "top",
       "xokkey",
-      "ball",
       "field",
       "hockey",
       "game",
@@ -11639,7 +10906,6 @@
       "lakross",
       "qol",
       "top",
-      "ball",
       "goal",
       "stick",
       "lacrosse"
@@ -11654,7 +10920,6 @@
       "raketka",
       "stolüstü tennis",
       "top",
-      "ball",
       "bat",
       "paddle",
       "game",
@@ -11718,9 +10983,7 @@
     "tags": [
       "dəlik",
       "dəlikdə bayraq",
-      "qolf",
-      "golf",
-      "hole"
+      "qolf"
     ]
   },
   {
@@ -11764,7 +11027,7 @@
       "köynək",
       "qaçış",
       "athletics",
-      "running",
+      "axma",
       "shirt",
       "sash"
     ]
@@ -11774,9 +11037,8 @@
     "tags": [
       "qar",
       "xizək",
-      "ski",
-      "skis",
-      "snow"
+      "xizək sürmə",
+      "skis"
     ]
   },
   {
@@ -11798,7 +11060,7 @@
       "qıvrım daş",
       "curling stone",
       "game",
-      "rock"
+      "rok"
     ]
   },
   {
@@ -11847,7 +11109,6 @@
       "oyun",
       "səkkiz",
       "top",
-      "ball",
       "billiard",
       "game",
       "pool 8 ball"
@@ -11863,7 +11124,6 @@
       "nağıl",
       "top",
       "var-dövlət",
-      "ball",
       "crystal",
       "fantaziya",
       "fortune",
@@ -11879,8 +11139,8 @@
       "sehrli çubuq",
       "magic",
       "magic wand",
-      "wizard",
-      "witch"
+      "sehrbaz",
+      "ifritə"
     ]
   },
   {
@@ -12131,7 +11391,7 @@
       "artist palette",
       "painting",
       "museum",
-      "palette"
+      "palet"
     ]
   },
   {
@@ -12172,7 +11432,6 @@
       "iplik",
       "top",
       "toxuma",
-      "ball",
       "crochet",
       "yarn",
       "knit"
@@ -12201,7 +11460,6 @@
       "geyim",
       "göz",
       "gün eynəyi",
-      "clothing",
       "gözlük",
       "eynəklər"
     ]
@@ -12240,7 +11498,7 @@
       "qaynaq",
       "təcrübə",
       "experiment",
-      "scientist",
+      "elmi işçi",
       "lab coat"
     ]
   },
@@ -12261,7 +11519,6 @@
     "tags": [
       "geyim",
       "qalstuk",
-      "clothing",
       "necktie",
       "tie"
     ]
@@ -12272,7 +11529,6 @@
       "futbolka",
       "geyim",
       "köynək",
-      "clothing",
       "shirt",
       "tshirt",
       "t-shirt"
@@ -12284,7 +11540,6 @@
       "cins",
       "geyim",
       "şalvar",
-      "clothing",
       "jeans",
       "trousers",
       "pants"
@@ -12304,8 +11559,7 @@
     "tags": [
       "əl",
       "əlcəklər",
-      "gloves",
-      "hand"
+      "gloves"
     ]
   },
   {
@@ -12331,7 +11585,6 @@
     "tags": [
       "don",
       "geyim",
-      "clothing",
       "dress"
     ]
   },
@@ -12339,8 +11592,7 @@
     "emoji": "👘",
     "tags": [
       "geyim",
-      "kimono",
-      "clothing"
+      "kimono"
     ]
   },
   {
@@ -12349,7 +11601,6 @@
       "geyim",
       "paltar",
       "sari",
-      "clothing",
       "dress"
     ]
   },
@@ -12394,9 +11645,7 @@
     "tags": [
       "bikini",
       "geyim",
-      "üzmək",
-      "clothing",
-      "swim"
+      "üzmək"
     ]
   },
   {
@@ -12405,8 +11654,6 @@
       "geyim",
       "qadın",
       "qadın paltarı",
-      "clothing",
-      "woman",
       "woman’s clothes"
     ]
   },
@@ -12416,7 +11663,6 @@
       "geyim",
       "pul kisəsi",
       "qəpik",
-      "clothing",
       "coin",
       "purse"
     ]
@@ -12428,7 +11674,6 @@
       "əl çantası",
       "geyim",
       "bag",
-      "clothing",
       "purse",
       "handbag"
     ]
@@ -12440,7 +11685,6 @@
       "geyim",
       "torba",
       "bag",
-      "clothing",
       "pouch",
       "clutch bag"
     ]
@@ -12496,8 +11740,6 @@
       "geyim",
       "kişi",
       "kişi ayaqqabısı",
-      "clothing",
-      "man",
       "shoe",
       "man’s shoe"
     ]
@@ -12511,7 +11753,6 @@
       "krossovka",
       "qaçış ayaqqabısı",
       "athletic",
-      "clothing",
       "shoe",
       "running shoe",
       "sneaker"
@@ -12553,11 +11794,9 @@
       "geyim",
       "hündür daban ayaqqabı",
       "qadın",
-      "clothing",
       "heel",
       "shoe",
-      "high-heeled shoe",
-      "woman"
+      "high-heeled shoe"
     ]
   },
   {
@@ -12568,9 +11807,7 @@
       "qadın",
       "qadın səndəli",
       "səndəl",
-      "clothing",
       "sandal",
-      "woman",
       "shoe",
       "woman’s sandal"
     ]
@@ -12582,8 +11819,7 @@
       "balet ayaqqabıları",
       "rəqs",
       "ballet",
-      "ballet shoes",
-      "dance"
+      "ballet shoes"
     ]
   },
   {
@@ -12595,8 +11831,6 @@
       "qadın",
       "qadın çəkməsi",
       "boot",
-      "clothing",
-      "woman",
       "shoe",
       "woman’s boot"
     ]
@@ -12608,10 +11842,7 @@
       "kral",
       "kraliça",
       "tac",
-      "clothing",
-      "crown",
-      "queen",
-      "king"
+      "crown"
     ]
   },
   {
@@ -12621,9 +11852,7 @@
       "papaq",
       "qadın",
       "qadın şlyapası",
-      "clothing",
-      "woman’s hat",
-      "woman"
+      "woman’s hat"
     ]
   },
   {
@@ -12634,7 +11863,6 @@
       "papaq",
       "silindr papaq",
       "silindr şlyapa",
-      "clothing",
       "tophat",
       "top"
     ]
@@ -12648,10 +11876,8 @@
       "məzuniyyət",
       "məzuniyyət papağı",
       "papaq",
-      "cap",
       "qeyd etmə",
-      "graduation",
-      "clothing"
+      "graduation"
     ]
   },
   {
@@ -12687,7 +11913,7 @@
       "üz",
       "xaç",
       "aid",
-      "cross",
+      "çarpaz",
       "helmet",
       "rescue worker’s helmet"
     ]
@@ -12702,8 +11928,7 @@
       "muncuq",
       "təsbeh",
       "beads",
-      "clothing",
-      "prayer",
+      "dua etmək",
       "necklace",
       "religion"
     ]
@@ -12714,7 +11939,6 @@
       "dodaq boyası",
       "kosmetika",
       "makiyaj",
-      "cosmetics",
       "lipstick",
       "makeup"
     ]
@@ -12840,7 +12064,7 @@
       "bell",
       "bell with slash",
       "mute",
-      "forbidden"
+      "qadağan edilmiş"
     ]
   },
   {
@@ -12851,7 +12075,7 @@
       "partitura",
       "music",
       "musical score",
-      "score"
+      "xal"
     ]
   },
   {
@@ -13064,7 +12288,6 @@
       "qəbul etmək",
       "telefon",
       "zəng",
-      "arrow",
       "cell",
       "mobile phone with arrow",
       "mobile",
@@ -13244,7 +12467,6 @@
       "kamera",
       "kino",
       "kino kamerası",
-      "camera",
       "cinema",
       "movie"
     ]
@@ -13272,7 +12494,7 @@
       "video",
       "cinema",
       "movie",
-      "camera",
+      "kamera",
       "göy"
     ]
   },
@@ -13299,8 +12521,7 @@
     "emoji": "📷",
     "tags": [
       "kamera",
-      "video",
-      "camera"
+      "video"
     ]
   },
   {
@@ -13310,7 +12531,6 @@
       "işıqlı kamera",
       "kamera",
       "video",
-      "camera",
       "camera with flash",
       "flash"
     ]
@@ -13320,7 +12540,6 @@
     "tags": [
       "kamera",
       "video",
-      "camera",
       "camcorder"
     ]
   },
@@ -13379,7 +12598,6 @@
       "komik",
       "lampa",
       "bulb",
-      "comic",
       "idea",
       "electric",
       "light",
@@ -13462,8 +12680,7 @@
     "tags": [
       "kitab",
       "yaşıl",
-      "book",
-      "green"
+      "book"
     ]
   },
   {
@@ -13480,8 +12697,7 @@
     "tags": [
       "kitab",
       "narıncı",
-      "book",
-      "orange"
+      "book"
     ]
   },
   {
@@ -13757,9 +12973,7 @@
       "məktub",
       "poçt",
       "e-mail",
-      "email",
-      "mail",
-      "letter"
+      "email"
     ]
   },
   {
@@ -13776,7 +12990,6 @@
       "email",
       "incoming",
       "envelope",
-      "letter",
       "receive"
     ]
   },
@@ -13789,7 +13002,7 @@
       "göndərmək",
       "məktub",
       "oxlu zərf",
-      "arrow",
+      "ox",
       "e-mail",
       "envelope",
       "email",
@@ -13807,9 +13020,7 @@
       "poçt",
       "qutu",
       "box",
-      "letter",
       "outbox",
-      "mail",
       "sent",
       "tray"
     ]
@@ -13825,8 +13036,6 @@
       "qutu",
       "box",
       "inbox",
-      "mail",
-      "letter",
       "receive",
       "tray"
     ]
@@ -13850,7 +13059,6 @@
       "qaldırılmış bayraqlı bağlı poçt qutusu",
       "bayrağı qaldırılmış bağlı poçt qutusu",
       "mailbox",
-      "mail",
       "postbox"
     ]
   },
@@ -13863,7 +13071,6 @@
       "poçt",
       "poçt qutusu",
       "bayrağı endirilmiş bağlı poçt qutusu",
-      "mail",
       "lowered",
       "mailbox",
       "postbox"
@@ -13876,7 +13083,6 @@
       "poçt",
       "poçt qutusu",
       "qaldırılmış bayraqlı açıq poçt qutusu",
-      "mail",
       "mailbox",
       "bayrağı qaldırılmış açıq poçt qutusu",
       "aç",
@@ -13892,7 +13098,6 @@
       "poçt",
       "poçt qutusu",
       "lowered",
-      "mail",
       "aç",
       "mailbox",
       "bayrağı endirilmiş açıq poçt qutusu",
@@ -13904,7 +13109,6 @@
     "tags": [
       "poçt",
       "poçt qutusu",
-      "mail",
       "mailbox",
       "postbox"
     ]
@@ -14014,7 +13218,7 @@
       "kart indeksi arakəsmələri",
       "card",
       "dividers",
-      "index"
+      "indeks"
     ]
   },
   {
@@ -14065,7 +13269,7 @@
       "kart indeksi",
       "rolodeks",
       "card",
-      "index",
+      "indeks",
       "rolodex"
     ]
   },
@@ -14376,7 +13580,7 @@
       "handgun",
       "pistol",
       "tool",
-      "water",
+      "su",
       "weapon"
     ]
   },
@@ -14404,11 +13608,10 @@
       "tənzim etmək",
       "zodiak",
       "archer",
-      "arrow",
       "bow and arrow",
-      "bow",
+      "təzim",
       "Sagittarius",
-      "zodiac"
+      "bürc"
     ]
   },
   {
@@ -14503,8 +13706,8 @@
       "əlverişlilik",
       "kor",
       "zond",
-      "accessibility",
-      "blind",
+      "əlçatan",
+      "görmə məhdudiyyətli",
       "white cane"
     ]
   },
@@ -14549,7 +13752,6 @@
       "çanta",
       "mexanik",
       "chest",
-      "mechanic",
       "toolbox",
       "tool"
     ]
@@ -14596,7 +13798,6 @@
       "kimyaçı",
       "laboratoriya",
       "sınaq şüşəsi",
-      "chemist",
       "chemistry",
       "lab",
       "experiment",
@@ -14614,7 +13815,6 @@
       "laboratoriya",
       "Petri qabı",
       "bacteria",
-      "biologist",
       "culture",
       "biology",
       "lab",
@@ -14630,7 +13830,6 @@
       "genetika",
       "təkamül",
       "yaşam",
-      "biologist",
       "dna",
       "gene",
       "evolution",
@@ -14730,7 +13929,6 @@
       "tibb",
       "ürək",
       "həkim",
-      "heart",
       "stethoscope",
       "medicine"
     ]
@@ -14749,7 +13947,7 @@
       "lift",
       "qaldırıcı",
       "qaldırmaq",
-      "accessibility",
+      "əlçatan",
       "elevator",
       "hoist"
     ]
@@ -14789,7 +13987,6 @@
       "otel",
       "yataq",
       "yatmaq",
-      "bed",
       "hotel",
       "yuxulu"
     ]
@@ -14834,7 +14031,7 @@
       "tualet",
       "vantuz",
       "force cup",
-      "plumber",
+      "santexnik",
       "suction",
       "plunger",
       "toilet"
@@ -14845,8 +14042,7 @@
     "tags": [
       "duş",
       "su",
-      "shower",
-      "water"
+      "shower"
     ]
   },
   {
@@ -14854,9 +14050,8 @@
     "tags": [
       "hamam",
       "vanna",
-      "bath",
-      "bathtub",
-      "water"
+      "küvet",
+      "su"
     ]
   },
   {
@@ -14919,7 +14114,7 @@
       "təmizləmə",
       "broom",
       "cleaning",
-      "witch",
+      "ifritə",
       "sweeping"
     ]
   },
@@ -14966,7 +14161,6 @@
       "sabunqabı",
       "təmizlənmək",
       "bar",
-      "bathing",
       "lather",
       "cleaning",
       "soap",
@@ -15126,8 +14320,7 @@
       "içməli",
       "su",
       "drinking",
-      "potable",
-      "water"
+      "potable"
     ]
   },
   {
@@ -15148,7 +14341,6 @@
       "tualet",
       "wc",
       "lavatory",
-      "man",
       "restroom",
       "men’s room"
     ]
@@ -15163,7 +14355,6 @@
       "wc",
       "lavatory",
       "restroom",
-      "woman",
       "women’s room"
     ]
   },
@@ -15184,7 +14375,6 @@
       "körpə",
       "körpə işarəsi",
       "körpə simvolu",
-      "baby",
       "baby symbol",
       "changing"
     ]
@@ -15199,7 +14389,6 @@
       "wc",
       "closet",
       "lavatory",
-      "water",
       "restroom"
     ]
   },
@@ -15257,7 +14446,6 @@
       "piyada",
       "uşaq",
       "uşaqlar yol keçir",
-      "child",
       "children crossing",
       "pedestrian",
       "crossing",
@@ -15275,10 +14463,10 @@
       "xeyr",
       "yox",
       "entry",
-      "forbidden",
+      "qadağan edilmiş",
       "not",
       "no",
-      "prohibited",
+      "qadağandır",
       "traffic"
     ]
   },
@@ -15291,10 +14479,9 @@
       "xeyr",
       "yox",
       "entry",
-      "forbidden",
+      "qadağan edilmiş",
       "not",
-      "no",
-      "prohibited"
+      "no"
     ]
   },
   {
@@ -15306,12 +14493,11 @@
       "qadağan olunmuş",
       "velosiped",
       "velosiped sürmək olmaz",
-      "bicycle",
-      "bike",
+      "sürmə",
       "no",
-      "forbidden",
+      "qadağan edilmiş",
       "no bicycles",
-      "prohibited"
+      "qadağandır"
     ]
   },
   {
@@ -15323,9 +14509,9 @@
       "siqaret çəkmək olmaz",
       "xeyr",
       "yox",
-      "forbidden",
+      "qadağan edilmiş",
       "no",
-      "prohibited",
+      "qadağandır",
       "not",
       "smoking"
     ]
@@ -15339,12 +14525,12 @@
       "yox",
       "zibil",
       "zibil atmaq olmaz",
-      "forbidden",
+      "qadağan edilmiş",
       "litter",
       "no littering",
       "no",
       "not",
-      "prohibited"
+      "qadağandır"
     ]
   },
   {
@@ -15355,8 +14541,7 @@
       "su",
       "su içməli deyil",
       "non-drinking",
-      "non-potable",
-      "water"
+      "non-potable"
     ]
   },
   {
@@ -15368,12 +14553,12 @@
       "qadağan olunmuş",
       "xeyr",
       "yox",
-      "forbidden",
+      "qadağan edilmiş",
       "no",
       "not",
       "no pedestrians",
       "pedestrian",
-      "prohibited"
+      "qadağandır"
     ]
   },
   {
@@ -15387,7 +14572,7 @@
       "xeyr",
       "yox",
       "cell",
-      "forbidden",
+      "qadağan edilmiş",
       "no",
       "mobile",
       "mobil telefon olmaz"
@@ -15405,7 +14590,6 @@
       "yaş məhdudiyyəti",
       "age restriction",
       "on səkkizdən aşağı heç kim",
-      "prohibited",
       "underage"
     ]
   },
@@ -15554,7 +14738,6 @@
       "saat istiqaməti",
       "saat istiqamətində yönəlmiş şaquli ox",
       "yenidən yüklə",
-      "arrow",
       "saat yönündə",
       "reload",
       "saat yönündə şaquli oxlar"
@@ -15567,7 +14750,6 @@
       "saat istiqaməti əksinə",
       "saat istiqamətinin əksinə yönəlmiş oxlar düyməsi",
       "saat yönünün əksin",
-      "arrow",
       "saat yönünün əksinə ox düyməsi",
       "saat yönünün əksinə",
       "withershins"
@@ -15579,7 +14761,6 @@
       "arxa",
       "geriyə yönəlmiş ox",
       "ox",
-      "arrow",
       "back",
       "BACK arrow"
     ]
@@ -15590,7 +14771,6 @@
       "ox",
       "son",
       "sona yönəlmiş ox",
-      "arrow",
       "end",
       "END arrow"
     ]
@@ -15602,7 +14782,6 @@
       "işarə",
       "ox",
       "üstündə",
-      "arrow",
       "mark",
       "ON! arrow",
       "on"
@@ -15614,7 +14793,6 @@
       "ox",
       "tezliklə",
       "tezliklə oxu",
-      "arrow",
       "soon",
       "SOON arrow"
     ]
@@ -15626,9 +14804,7 @@
       "üst",
       "yuxarı",
       "yuxarı yönəlmiş ox",
-      "arrow",
       "top",
-      "up",
       "TOP arrow"
     ]
   },
@@ -15641,7 +14817,7 @@
       "place of worship",
       "religion",
       "worship",
-      "pray"
+      "dua etmək"
     ]
   },
   {
@@ -15755,9 +14931,8 @@
       "qoç",
       "qoç bürcü",
       "zodiak",
-      "Aries",
-      "ram",
-      "zodiac"
+      "Qoç",
+      "bürc"
     ]
   },
   {
@@ -15767,9 +14942,9 @@
       "öküz",
       "ox",
       "zodiak",
-      "bull",
-      "zodiac",
-      "Taurus"
+      "buöa",
+      "bürc",
+      "Buğa bürcü"
     ]
   },
   {
@@ -15777,9 +14952,8 @@
     "tags": [
       "əkizlər",
       "zodiak",
-      "Gemini",
-      "twins",
-      "zodiac"
+      "Əkizlər",
+      "bürc"
     ]
   },
   {
@@ -15789,7 +14963,7 @@
       "zodiak",
       "Cancer",
       "crab",
-      "zodiac"
+      "bürc"
     ]
   },
   {
@@ -15798,9 +14972,8 @@
       "aslan",
       "şir",
       "zodiak",
-      "Leo",
-      "lion",
-      "zodiac"
+      "Şir",
+      "bürc"
     ]
   },
   {
@@ -15809,8 +14982,8 @@
       "bakirə",
       "qız",
       "zodiak",
-      "Virgo",
-      "zodiac"
+      "Qız bürcü",
+      "bürc"
     ]
   },
   {
@@ -15820,11 +14993,9 @@
       "ədalət",
       "tərəzi",
       "zodiak",
-      "balance",
-      "justice",
-      "scales",
+      "tarazlıq",
       "Libra",
-      "zodiac"
+      "bürc"
     ]
   },
   {
@@ -15835,7 +15006,7 @@
       "zodiak",
       "Scorpio",
       "scorpion",
-      "zodiac",
+      "bürc",
       "scorpius"
     ]
   },
@@ -15846,7 +15017,7 @@
       "zodiak",
       "archer",
       "Sagittarius",
-      "zodiac"
+      "bürc"
     ]
   },
   {
@@ -15855,9 +15026,8 @@
       "keçi",
       "oğlaq",
       "zodiak",
-      "Capricorn",
-      "goat",
-      "zodiac"
+      "Oğlaq bürcü",
+      "bürc"
     ]
   },
   {
@@ -15869,8 +15039,7 @@
       "zodiak",
       "Aquarius",
       "bearer",
-      "zodiac",
-      "water"
+      "bürc"
     ]
   },
   {
@@ -15881,7 +15050,7 @@
       "zodiak",
       "fish",
       "Pisces",
-      "zodiac"
+      "bürc"
     ]
   },
   {
@@ -15895,7 +15064,7 @@
       "Ophiuchus",
       "snake",
       "serpent",
-      "zodiac"
+      "bürc"
     ]
   },
   {
@@ -15904,7 +15073,6 @@
       "kəsişən",
       "ox",
       "trekləri qarışdır düyməsi",
-      "arrow",
       "crossed",
       "shuffle tracks button"
     ]
@@ -15916,7 +15084,6 @@
       "saat istiqaməti",
       "təkrarla",
       "təkrarla düyməsi",
-      "arrow",
       "saat yönündə",
       "repeat button",
       "repeat"
@@ -15929,7 +15096,6 @@
       "bir dəfə təkrarla düyməsi",
       "ox",
       "saat istiqaməti",
-      "arrow",
       "saat yönündə",
       "repeat single button",
       "once"
@@ -15953,7 +15119,6 @@
       "ox",
       "sürətli",
       "sürətli irəliyə çək düyməsi",
-      "arrow",
       "double",
       "fast-forward button",
       "fast",
@@ -15968,7 +15133,6 @@
       "növbəti trek düyməsi",
       "ox",
       "üçbucaq",
-      "arrow",
       "next scene",
       "next track button",
       "next track",
@@ -15984,7 +15148,6 @@
       "ox",
       "sağ",
       "üçbucaq",
-      "arrow",
       "pause",
       "play or pause button",
       "play",
@@ -16009,7 +15172,6 @@
       "ox",
       "rekülək",
       "sürətlə geriyə çək düyməsi",
-      "arrow",
       "double",
       "rewind",
       "fast reverse button"
@@ -16023,7 +15185,6 @@
       "ox",
       "sonuncu trek düyməsi",
       "üçbucaq",
-      "arrow",
       "last track button",
       "previous track",
       "previous scene",
@@ -16037,7 +15198,6 @@
       "ox",
       "qırmızı",
       "yuxarı düyməsi",
-      "arrow",
       "button",
       "upwards button"
     ]
@@ -16048,7 +15208,6 @@
       "ikiqat",
       "ox",
       "sürətlə yuxarı keç düyməsi",
-      "arrow",
       "double",
       "fast up button"
     ]
@@ -16061,7 +15220,6 @@
       "düymə",
       "ox",
       "qırmızı",
-      "arrow",
       "button",
       "üzüaşağı düyməsi"
     ]
@@ -16073,7 +15231,6 @@
       "ikiqat",
       "ox",
       "sürətlə aşağı keç düyməsi",
-      "arrow",
       "double",
       "cəld aşağı düyməsi",
       "zəif"
@@ -16129,7 +15286,6 @@
       "film",
       "kamera",
       "kino",
-      "camera",
       "cinema",
       "movie"
     ]
@@ -16489,7 +15645,7 @@
       "×",
       "cancel",
       "mark",
-      "cross",
+      "çarpaz",
       "multiplication",
       "multiply",
       "no"
@@ -16746,6 +15902,7 @@
     "tags": [
       "OK",
       "OK düyməsi",
+      "Əla",
       "OK button"
     ]
   },
@@ -16762,7 +15919,6 @@
       "kömək",
       "sos",
       "SOS düyməsi",
-      "help",
       "SOS button"
     ]
   },
@@ -16774,7 +15930,6 @@
       "yuxarı",
       "yuxarı! düyməsi",
       "mark",
-      "up",
       "UP! button"
     ]
   },
@@ -17013,8 +16168,7 @@
     "tags": [
       "dairə",
       "narıncı",
-      "circle",
-      "orange"
+      "circle"
     ]
   },
   {
@@ -17022,8 +16176,7 @@
     "tags": [
       "dairə",
       "sarı",
-      "circle",
-      "yellow"
+      "circle"
     ]
   },
   {
@@ -17031,8 +16184,7 @@
     "tags": [
       "dairə",
       "yaşıl",
-      "circle",
-      "green"
+      "circle"
     ]
   },
   {
@@ -17052,7 +16204,7 @@
       "bənövşəyi",
       "dairə",
       "circle",
-      "purple"
+      "göy ürək"
     ]
   },
   {
@@ -17060,7 +16212,6 @@
     "tags": [
       "dairə",
       "qəhvəyi",
-      "brown",
       "circle"
     ]
   },
@@ -17099,7 +16250,6 @@
     "tags": [
       "kvadrat",
       "narıncı",
-      "orange",
       "square"
     ]
   },
@@ -17108,8 +16258,7 @@
     "tags": [
       "kvadrat",
       "sarı",
-      "square",
-      "yellow"
+      "square"
     ]
   },
   {
@@ -17117,7 +16266,6 @@
     "tags": [
       "kvadrat",
       "yaşıl",
-      "green",
       "square"
     ]
   },
@@ -17134,7 +16282,7 @@
     "tags": [
       "bənövşəyi",
       "kvadrat",
-      "purple",
+      "göy ürək",
       "square"
     ]
   },
@@ -17143,7 +16291,6 @@
     "tags": [
       "kvadrat",
       "qəhvəyi",
-      "brown",
       "square"
     ]
   },
@@ -17232,7 +16379,6 @@
       "narıncı",
       "diamond",
       "geometric",
-      "orange",
       "large orange diamond"
     ]
   },
@@ -17258,8 +16404,7 @@
       "narıncı",
       "diamond",
       "geometric",
-      "small orange diamond",
-      "orange"
+      "small orange diamond"
     ]
   },
   {
@@ -17304,7 +16449,6 @@
       "komik",
       "nöqtəli romb",
       "romb",
-      "comic",
       "diamond",
       "geometric",
       "diamond with a dot",
@@ -17352,8 +16496,7 @@
       "damalı bayraq",
       "yarış",
       "checkered",
-      "chequered",
-      "racing"
+      "chequered"
     ]
   },
   {
@@ -17374,7 +16517,7 @@
       "xaç",
       "yapon",
       "qeyd etmə",
-      "cross",
+      "çarpaz",
       "çarpaz bayraqlar",
       "crossed",
       "Japanese"
@@ -17385,7 +16528,7 @@
     "tags": [
       "dalğalanan",
       "qara bayraq",
-      "waving"
+      "yellənir"
     ]
   },
   {
@@ -17394,7 +16537,7 @@
       "ağ bayraq",
       "dalğalanan",
       "dalğalanan ağ bayraq",
-      "waving"
+      "yellənir"
     ]
   },
   {

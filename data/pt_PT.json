@@ -632,7 +632,7 @@
       "vómito",
       "nauseated",
       "doente",
-      "throw up"
+      "vomitar"
     ]
   },
   {
@@ -642,9 +642,7 @@
       "doente",
       "vomitar",
       "vómito",
-      "face vomiting",
-      "puke",
-      "throw up"
+      "puke"
     ]
   },
   {
@@ -707,8 +705,7 @@
       "uneven eyes",
       "tipsy",
       "wavy mouth",
-      "woozy face",
-      "drunk"
+      "woozy face"
     ]
   },
   {
@@ -717,7 +714,7 @@
       "atordoado",
       "cara",
       "cara atordoada",
-      "dead",
+      "morto",
       "knocked-out face",
       "knocked out"
     ]
@@ -1199,7 +1196,7 @@
       "death",
       "fairy tale",
       "skull",
-      "dead",
+      "morto",
       "engraçado"
     ]
   },
