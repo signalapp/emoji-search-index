@@ -43,7 +43,8 @@
       "grinning face with smiling eyes",
       "open",
       "smile",
-      "smiling"
+      "smiling",
+      "happy"
     ]
   },
   {
@@ -90,7 +91,6 @@
       "fiamh-ghàire",
       "fosgailte",
       "fuar",
-      "fuachd",
       "open",
       "grinning face with sweat",
       "smile",
@@ -276,7 +276,10 @@
       "aodann le fiamh-ghàire",
       "fiamh-ghàire",
       "oir-loidhne",
-      "socair"
+      "socair",
+      "slightly smiling face",
+      "smiling",
+      "smile"
     ]
   },
   {
@@ -1521,7 +1524,7 @@
       "sùil",
       "sùilean",
       "eye",
-      "heart",
+      "heart eyes",
       "love",
       "smile",
       "smiling cat with heart-eyes"
@@ -1675,7 +1678,7 @@
       "litir",
       "litir gaoil",
       "post",
-      "heart",
+      "heart letter",
       "letter",
       "mail",
       "love"
@@ -1727,9 +1730,9 @@
       "iomagaineach",
       "nearbhasach",
       "excited",
-      "growing",
-      "nervous",
       "growing heart",
+      "nervous",
+      "growing",
       "pulse"
     ]
   },
@@ -1769,7 +1772,6 @@
     "tags": [
       "cridhe",
       "sgeadas cridhe",
-      "heart",
       "heart decoration"
     ]
   },
@@ -1780,7 +1782,10 @@
       "clisg-phuing",
       "comharra",
       "cridhe",
-      "puingeachadh"
+      "puingeachadh",
+      "heart exclamation",
+      "heart drop",
+      "exclamation"
     ]
   },
   {
@@ -1790,8 +1795,8 @@
       "briste",
       "cridhe briste",
       "break",
-      "broken",
-      "broken heart"
+      "broken heart",
+      "heart break"
     ]
   },
   {
@@ -1809,9 +1814,9 @@
       "loisg",
       "losgadh",
       "burn",
-      "heart",
-      "love",
+      "burning heart",
       "heart on fire",
+      "love",
       "lust",
       "sacred heart"
     ]
@@ -1827,12 +1832,13 @@
       "slàn",
       "slànachadh cridhe",
       "healthier",
-      "improving",
       "mending heart",
+      "heart mending",
       "mending",
       "recovering",
       "recuperating",
-      "well"
+      "well",
+      "improving"
     ]
   },
   {
@@ -1848,7 +1854,8 @@
       "cridhe orains",
       "orains",
       "orange",
-      "orange heart"
+      "orange heart",
+      "heart orange"
     ]
   },
   {
@@ -1856,7 +1863,8 @@
     "tags": [
       "buidhe",
       "cridhe buidhe",
-      "yellow heart"
+      "yellow heart",
+      "heart yellow"
     ]
   },
   {
@@ -1865,7 +1873,8 @@
       "cridhe uaine",
       "uaine",
       "green",
-      "green heart"
+      "green heart",
+      "heart green"
     ]
   },
   {
@@ -1873,7 +1882,8 @@
     "tags": [
       "cridhe gorm",
       "gorm",
-      "blue heart"
+      "blue heart",
+      "heart blue"
     ]
   },
   {
@@ -1882,7 +1892,8 @@
       "cridhe purpaidh",
       "purpaidh",
       "purple",
-      "purple heart"
+      "purple heart",
+      "heart purple"
     ]
   },
   {
@@ -1891,7 +1902,8 @@
       "cridhe",
       "donn",
       "brown",
-      "heart"
+      "brownheart",
+      "heart brown"
     ]
   },
   {
@@ -1901,6 +1913,7 @@
       "dubh",
       "olc",
       "black heart",
+      "heart black",
       "wicked",
       "evil"
     ]
@@ -1910,7 +1923,8 @@
     "tags": [
       "cridhe",
       "geal",
-      "heart"
+      "white heart",
+      "heart white"
     ]
   },
   {
@@ -2020,7 +2034,8 @@
       "bubble",
       "dialog",
       "comic",
-      "speech"
+      "speech",
+      "typing"
     ]
   },
   {
@@ -2081,7 +2096,12 @@
       "smèideadh",
       "hand",
       "wave",
-      "waving"
+      "waving",
+      "hi",
+      "hey",
+      "shin thu",
+      "bye",
+      "goodbye"
     ]
   },
   {
@@ -2112,12 +2132,16 @@
   {
     "emoji": "✋",
     "tags": [
+      "5 àrd",
+      "còig àrd",
       "làmh",
       "làmh air a togail",
+      "taghta",
       "hand",
       "high 5",
       "raised hand",
-      "high five"
+      "high five",
+      "hifive"
     ]
   },
   {
@@ -2140,7 +2164,7 @@
       "làmh",
       "samhla làimhe OK",
       "hand",
-      "OK"
+      "Ceart ma-thà"
     ]
   },
   {
@@ -2490,6 +2514,8 @@
   {
     "emoji": "🙏",
     "tags": [
+      "5 àrd",
+      "còig àrd",
       "cromadh",
       "faighneachd",
       "gluasad",
@@ -2543,7 +2569,6 @@
       "fèineag",
       "fòn",
       "camera",
-      "phone",
       "selfie"
     ]
   },
@@ -3027,7 +3052,8 @@
       "person gesturing NO",
       "hand",
       "prohibited",
-      "X"
+      "X",
+      "no"
     ]
   },
   {
@@ -3047,7 +3073,7 @@
       "man gesturing NO",
       "prohibited",
       "X",
-      "male"
+      "no"
     ]
   },
   {
@@ -3066,7 +3092,7 @@
       "woman",
       "woman gesturing NO",
       "X",
-      "female"
+      "no"
     ]
   },
   {
@@ -3078,7 +3104,7 @@
       "neach ag aontachadh ri rud",
       "hand",
       "person gesturing OK",
-      "OK"
+      "Ceart ma-thà"
     ]
   },
   {
@@ -3094,7 +3120,7 @@
       "hand",
       "man gesturing OK",
       "man",
-      "OK",
+      "Ceart ma-thà",
       "male"
     ]
   },
@@ -3109,7 +3135,7 @@
       "tè",
       "hand",
       "woman",
-      "OK",
+      "Ceart ma-thà",
       "woman gesturing OK",
       "female"
     ]
@@ -3188,8 +3214,10 @@
       "toiliche",
       "hand",
       "person raising hand",
-      "happy",
-      "raised"
+      "raised",
+      "hi",
+      "hey",
+      "shin thu"
     ]
   },
   {
@@ -3207,7 +3235,10 @@
       "man",
       "raising hand",
       "man raising hand",
-      "male"
+      "male",
+      "hi",
+      "hey",
+      "shin thu"
     ]
   },
   {
@@ -3224,7 +3255,10 @@
       "raising hand",
       "woman raising hand",
       "woman",
-      "female"
+      "female",
+      "hi",
+      "hey",
+      "shin thu"
     ]
   },
   {
@@ -4095,9 +4129,9 @@
       "paidhleat",
       "paidhleat fireann",
       "plèana",
-      "man",
       "pilot",
-      "male"
+      "male",
+      "man"
     ]
   },
   {
@@ -5457,7 +5491,8 @@
       "neach ann an sauna",
       "sauna",
       "person in steamy room",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -5468,7 +5503,8 @@
       "sauna",
       "man in steamy room",
       "male",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -5479,7 +5515,8 @@
       "sauna",
       "steam room",
       "female",
-      "woman in steamy room"
+      "woman in steamy room",
+      "spa"
     ]
   },
   {
@@ -5661,7 +5698,8 @@
       "neach a’ snàmh",
       "snàmh",
       "person swimming",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -5675,7 +5713,8 @@
       "man",
       "man swimming",
       "male",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -5688,7 +5727,8 @@
       "swim",
       "woman",
       "female",
-      "woman swimming"
+      "woman swimming",
+      "swimmer"
     ]
   },
   {
@@ -7778,7 +7818,12 @@
     "tags": [
       "flùr",
       "lus",
-      "seamrag"
+      "seamrag",
+      "clover",
+      "shamrock",
+      "three-leaf clover",
+      "trì",
+      "leaf"
     ]
   },
   {
@@ -10052,7 +10097,8 @@
     "tags": [
       "ceò",
       "fuaran",
-      "teth"
+      "teth",
+      "hot springs"
     ]
   },
   {
@@ -10139,6 +10185,7 @@
       "slighe-iarainn",
       "trama",
       "trèana",
+      "train car",
       "electric",
       "train",
       "railway",
@@ -10253,6 +10300,7 @@
       "rèile",
       "rèile-bheinne",
       "slighe-iarainn",
+      "train car",
       "mountain",
       "railway"
     ]
@@ -10264,6 +10312,7 @@
       "càr",
       "còidse",
       "trama",
+      "train car",
       "tram",
       "trolleybus"
     ]
@@ -10464,7 +10513,8 @@
       "sgùtair",
       "sgùtair-motair",
       "motar",
-      "scooter"
+      "scooter",
+      "moped"
     ]
   },
   {
@@ -10473,7 +10523,8 @@
       "cathair-chuibhle a làimh",
       "so-ruigsinneachd",
       "accessibility",
-      "manual wheelchair"
+      "manual wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -10482,7 +10533,8 @@
       "cathair-chuibhle le einnsein",
       "so-ruigsinneachd",
       "accessibility",
-      "motorized wheelchair"
+      "motorized wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -10606,8 +10658,8 @@
       "police",
       "light",
       "revolving",
-      "alert",
       "alarm",
+      "alert",
       "emergency",
       "siren"
     ]
@@ -10622,7 +10674,8 @@
       "horizontal traffic light",
       "light",
       "traffic",
-      "signal"
+      "signal",
+      "stoplight"
     ]
   },
   {
@@ -10635,7 +10688,8 @@
       "light",
       "signal",
       "vertical traffic light",
-      "traffic"
+      "traffic",
+      "stoplight"
     ]
   },
   {
@@ -10752,7 +10806,9 @@
     "emoji": "✈️",
     "tags": [
       "itealan",
-      "plèana"
+      "plèana",
+      "aeroplane",
+      "small airplane"
     ]
   },
   {
@@ -11544,7 +11600,8 @@
       "a’ ghrian",
       "gathan",
       "grianach",
-      "soilleir"
+      "soilleir",
+      "sun"
     ]
   },
   {
@@ -11627,7 +11684,8 @@
       "Slighe Chlann Uisnich",
       "speur",
       "milky way",
-      "space"
+      "space",
+      "galaxy"
     ]
   },
   {
@@ -11635,7 +11693,8 @@
     "tags": [
       "aimsir",
       "neul",
-      "sìde"
+      "sìde",
+      "cloud"
     ]
   },
   {
@@ -11793,7 +11852,18 @@
       "bogha-froise",
       "uisge",
       "rain",
-      "rainbow"
+      "rainbow",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "pride",
+      "gay",
+      "lesbian",
+      "queer",
+      "transgender",
+      "trans",
+      "intersex",
+      "asexual"
     ]
   },
   {
@@ -11814,7 +11884,9 @@
     "tags": [
       "aodach",
       "sgàilean-uisge",
-      "uisge"
+      "uisge",
+      "umbrella",
+      "rain"
     ]
   },
   {
@@ -11875,7 +11947,10 @@
     "tags": [
       "bodach-sneachda",
       "fuar",
-      "sneachd"
+      "sneachd",
+      "fuachd",
+      "snow",
+      "snowman"
     ]
   },
   {
@@ -12159,7 +12234,8 @@
       "comharrachadh",
       "ribean",
       "celebration",
-      "ribbon"
+      "ribbon",
+      "bow"
     ]
   },
   {
@@ -12771,7 +12847,9 @@
       "inneal shlotaichean",
       "slot",
       "gèama",
-      "slot machine"
+      "slot machine",
+      "gambling",
+      "casino"
     ]
   },
   {
@@ -12837,7 +12915,8 @@
       "doll",
       "nesting",
       "russia",
-      "nesting dolls"
+      "nesting dolls",
+      "matryoshka"
     ]
   },
   {
@@ -12845,7 +12924,9 @@
     "tags": [
       "cairt",
       "dath speura",
-      "geama"
+      "geama",
+      "spade suit",
+      "card suit"
     ]
   },
   {
@@ -12861,7 +12942,9 @@
     "tags": [
       "cairt",
       "dath daoimein",
-      "geama"
+      "geama",
+      "diamond suit",
+      "card suit"
     ]
   },
   {
@@ -12869,7 +12952,9 @@
     "tags": [
       "cairt",
       "dath club",
-      "geama"
+      "geama",
+      "club suit",
+      "card suit"
     ]
   },
   {
@@ -13155,7 +13240,8 @@
       "làmh",
       "miotagan",
       "gloves",
-      "hand"
+      "hand",
+      "mittens"
     ]
   },
   {
@@ -13678,7 +13764,8 @@
     "emoji": "🔔",
     "tags": [
       "clag",
-      "bell"
+      "bell",
+      "ring"
     ]
   },
   {
@@ -13919,7 +14006,7 @@
       "mobile",
       "cell",
       "telephone",
-      "phone"
+      "smartphone"
     ]
   },
   {
@@ -13937,8 +14024,8 @@
       "arrow",
       "cell",
       "mobile phone with arrow",
-      "phone",
-      "receive"
+      "receive",
+      "smartphone"
     ]
   },
   {
@@ -13952,7 +14039,6 @@
     "tags": [
       "fòn",
       "glacadair-fòn",
-      "phone",
       "receiver",
       "telephone"
     ]
@@ -13961,7 +14047,8 @@
     "emoji": "📟",
     "tags": [
       "pèidsear",
-      "pager"
+      "pager",
+      "beeper"
     ]
   },
   {
@@ -14007,7 +14094,9 @@
       "coimpiutair",
       "deasg",
       "desktop",
-      "computer"
+      "computer",
+      "monitor",
+      "screen"
     ]
   },
   {
@@ -14025,7 +14114,8 @@
     "emoji": "⌨️",
     "tags": [
       "coimpiutair",
-      "meur-chlàr"
+      "meur-chlàr",
+      "computer keyboard"
     ]
   },
   {
@@ -14235,7 +14325,9 @@
       "glainne-mheudachaidh dhan taobh dheas",
       "inneal",
       "lorg",
-      "meudachadh"
+      "meudachadh",
+      "magnifying",
+      "magnifying glass tilted right"
     ]
   },
   {
@@ -14479,7 +14571,8 @@
     "emoji": "🏷️",
     "tags": [
       "bileag",
-      "leubail"
+      "leubail",
+      "tag"
     ]
   },
   {
@@ -14665,7 +14758,10 @@
     "tags": [
       "cèis-litreach",
       "litir",
-      "post-d"
+      "post-d",
+      "cèis",
+      "letter",
+      "mail"
     ]
   },
   {
@@ -14846,7 +14942,10 @@
     "tags": [
       "gob",
       "gob dubh",
-      "peann"
+      "peann",
+      "pen",
+      "pen nib",
+      "nib"
     ]
   },
   {
@@ -14894,7 +14993,10 @@
       "cuimhneachan",
       "peansail",
       "memo",
-      "pencil"
+      "pencil",
+      "pencil and paper",
+      "paper",
+      "leughadh"
     ]
   },
   {
@@ -15101,7 +15203,9 @@
     "tags": [
       "acainn",
       "bearradh",
-      "siosar"
+      "siosar",
+      "scissors",
+      "cut"
     ]
   },
   {
@@ -15133,7 +15237,9 @@
     "tags": [
       "bogsa-sgudail",
       "sgudal",
-      "wastebasket"
+      "wastebasket",
+      "trash",
+      "can"
     ]
   },
   {
@@ -15141,7 +15247,9 @@
     "tags": [
       "dùinte",
       "glaiste",
-      "locked"
+      "locked",
+      "glais",
+      "padlock"
     ]
   },
   {
@@ -15154,7 +15262,8 @@
       "neo-ghlaiste",
       "glais",
       "open",
-      "unlocked"
+      "unlocked",
+      "padlock"
     ]
   },
   {
@@ -15170,7 +15279,8 @@
       "ink",
       "nib",
       "locked with pen",
-      "pen"
+      "pen",
+      "padlock"
     ]
   },
   {
@@ -15183,7 +15293,8 @@
       "iuchair",
       "tèarainte",
       "locked with key",
-      "secure"
+      "secure",
+      "padlock"
     ]
   },
   {
@@ -15255,7 +15366,9 @@
       "inneal",
       "òrd",
       "òrd is piocaid",
-      "piocaid"
+      "piocaid",
+      "hammer",
+      "pick"
     ]
   },
   {
@@ -15290,7 +15403,10 @@
       "arm",
       "claidheamhan",
       "claidheamhan tarsainn a chèile",
-      "tarsainn"
+      "tarsainn",
+      "claidheamh",
+      "fencing",
+      "crossed swords"
     ]
   },
   {
@@ -15353,6 +15469,7 @@
       "arm",
       "armachd",
       "sgiath",
+      "sgiath-dìon",
       "weapon"
     ]
   },
@@ -15412,7 +15529,10 @@
     "tags": [
       "acainn",
       "gèar",
-      "inneal"
+      "inneal",
+      "gear",
+      "cog",
+      "machine"
     ]
   },
   {
@@ -15440,7 +15560,9 @@
       "inneal",
       "libra",
       "meidh",
-      "meidh co-chothromach"
+      "meidh co-chothromach",
+      "scale",
+      "law"
     ]
   },
   {
@@ -15711,9 +15833,9 @@
       "steatasgop",
       "steiteasgop",
       "doctor",
-      "heart",
       "stethoscope",
-      "medicine"
+      "medicine",
+      "listen"
     ]
   },
   {
@@ -16035,7 +16157,8 @@
       "toit",
       "toitean",
       "cigarette",
-      "smoking"
+      "smoking",
+      "tobacco"
     ]
   },
   {
@@ -16045,7 +16168,12 @@
       "caochladh",
       "ciste-laighe",
       "eug",
-      "siubhal"
+      "siubhal",
+      "coffin",
+      "death",
+      "dead",
+      "casket",
+      "funeral"
     ]
   },
   {
@@ -16062,7 +16190,8 @@
       "grave",
       "headstone",
       "graveyard",
-      "tombstone"
+      "tombstone",
+      "gravestone"
     ]
   },
   {
@@ -16075,7 +16204,11 @@
       "luaithre",
       "poit-tasgaidh",
       "siubhal",
-      "tìodhlacadh"
+      "tìodhlacadh",
+      "funeral",
+      "urn",
+      "death",
+      "dead"
     ]
   },
   {
@@ -16272,7 +16405,11 @@
   {
     "emoji": "⚠️",
     "tags": [
-      "rabhadh"
+      "rabhadh",
+      "caution",
+      "warning",
+      "alert",
+      "cunnart"
     ]
   },
   {
@@ -16412,8 +16549,7 @@
       "forbidden",
       "no",
       "mobile",
-      "no mobile phones",
-      "phone"
+      "no mobile phones"
     ]
   },
   {
@@ -16439,14 +16575,22 @@
     "emoji": "☢️",
     "tags": [
       "beò-rèididheachd",
-      "sanas"
+      "sanas",
+      "warning",
+      "hazard",
+      "cunnart",
+      "radioactive"
     ]
   },
   {
     "emoji": "☣️",
     "tags": [
       "cunnart bith-eòlach",
-      "sanas"
+      "sanas",
+      "warning",
+      "hazard",
+      "cunnart",
+      "radioactive"
     ]
   },
   {
@@ -16458,7 +16602,9 @@
       "saighead",
       "saighead gu tuath",
       "suas",
-      "tuath"
+      "tuath",
+      "arrow",
+      "up"
     ]
   },
   {
@@ -16469,7 +16615,9 @@
       "comhair",
       "ear-thuath",
       "saighead",
-      "saighead gun ear-thuath"
+      "saighead gun ear-thuath",
+      "arrow",
+      "up right"
     ]
   },
   {
@@ -16483,7 +16631,9 @@
       "saighead",
       "saighead dhan taobh deas",
       "saighead gu deas",
-      "saighead gun ear"
+      "saighead gun ear",
+      "arrow",
+      "right"
     ]
   },
   {
@@ -16494,7 +16644,9 @@
       "comhair",
       "ear-dheas",
       "saighead",
-      "saighead gun ear-dheas"
+      "saighead gun ear-dheas",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -16506,7 +16658,9 @@
       "deas",
       "saighead",
       "saighead gu deas",
-      "sìos"
+      "sìos",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -16517,7 +16671,9 @@
       "comhair",
       "iar-dheas",
       "saighead",
-      "saighead gun iar-dheas"
+      "saighead gun iar-dheas",
+      "arrow",
+      "down left"
     ]
   },
   {
@@ -16531,7 +16687,9 @@
       "saighead",
       "saighead dhan taobh chlì",
       "saighead gu clì",
-      "saighead gun iar"
+      "saighead gun iar",
+      "arrow",
+      "left"
     ]
   },
   {
@@ -16542,42 +16700,58 @@
       "comhair",
       "iar-thuath",
       "saighead",
-      "saighead gun iar-thuath"
+      "saighead gun iar-thuath",
+      "arrow",
+      "up left"
     ]
   },
   {
     "emoji": "↕️",
     "tags": [
       "saighead",
-      "saighead suas is sìos"
+      "saighead suas is sìos",
+      "arrow",
+      "up and down",
+      "vertical",
+      "height"
     ]
   },
   {
     "emoji": "↔️",
     "tags": [
       "saighead",
-      "saighead chlì is dheas"
+      "saighead chlì is dheas",
+      "arrow",
+      "left and right",
+      "horizontal",
+      "width"
     ]
   },
   {
     "emoji": "↩️",
     "tags": [
       "saighead",
-      "saighead dheas a’ lùbadh dhan taobh chlì"
+      "saighead dheas a’ lùbadh dhan taobh chlì",
+      "arrow",
+      "return"
     ]
   },
   {
     "emoji": "↪️",
     "tags": [
       "saighead",
-      "saighead chlì a’ lùbadh dhan taobh deas"
+      "saighead chlì a’ lùbadh dhan taobh deas",
+      "arrow",
+      "forward"
     ]
   },
   {
     "emoji": "⤴️",
     "tags": [
       "saighead",
-      "saighead dheas a’ lùbadh suas"
+      "saighead dheas a’ lùbadh suas",
+      "arrow",
+      "up bend"
     ]
   },
   {
@@ -16585,7 +16759,9 @@
     "tags": [
       "saighead",
       "saighead dheas a’ lùbadh sìos",
-      "sìos"
+      "sìos",
+      "arrow",
+      "down bend"
     ]
   },
   {
@@ -16714,7 +16890,10 @@
       "daibhidh",
       "iùdhach",
       "reul",
-      "reul Dhaibhidh"
+      "reul Dhaibhidh",
+      "star",
+      "jewish",
+      "start of david"
     ]
   },
   {
@@ -16723,7 +16902,8 @@
       "budach",
       "creideamh",
       "cuibhle",
-      "dharma"
+      "dharma",
+      "wheel"
     ]
   },
   {
@@ -16734,7 +16914,8 @@
       "taothach",
       "yang",
       "yin",
-      "Ying Yang"
+      "Ying Yang",
+      "yin yang"
     ]
   },
   {
@@ -16743,7 +16924,9 @@
       "creideamh",
       "crìostaidh",
       "crois",
-      "crois Laideann"
+      "crois Laideann",
+      "cross",
+      "christianity"
     ]
   },
   {
@@ -16752,7 +16935,9 @@
       "creideamh",
       "crìostaidh",
       "crois",
-      "crois nan Ortodogsach"
+      "crois nan Ortodogsach",
+      "cross",
+      "orthodox cross"
     ]
   },
   {
@@ -16761,14 +16946,18 @@
       "corran is rionnag",
       "creideamh",
       "ioslam",
-      "muslamach"
+      "muslamach",
+      "star and crescent",
+      "islam"
     ]
   },
   {
     "emoji": "☮️",
     "tags": [
       "menorah",
-      "samhla sìthe"
+      "samhla sìthe",
+      "peace",
+      "peace sign"
     ]
   },
   {
@@ -17022,7 +17211,12 @@
       "deas",
       "putan “Cluich”",
       "saighead",
-      "triantan"
+      "triantan",
+      "play",
+      "go",
+      "play button",
+      "right arrow",
+      "triangle"
     ]
   },
   {
@@ -17083,7 +17277,9 @@
       "deireadh air thoiseach",
       "putan “Deireadh air thoiseach”",
       "saighead",
-      "triantan"
+      "triantan",
+      "left arrow",
+      "triangle"
     ]
   },
   {
@@ -17210,7 +17406,9 @@
       "a-mach",
       "gluais",
       "gluasad",
-      "putan “Gluais a-mach”"
+      "putan “Gluais a-mach”",
+      "eject",
+      "eject button"
     ]
   },
   {
@@ -17262,8 +17460,7 @@
       "antenna bars",
       "cell",
       "bar",
-      "mobile",
-      "phone"
+      "mobile"
     ]
   },
   {
@@ -17277,7 +17474,6 @@
       "modh",
       "cell",
       "mobile",
-      "phone",
       "modh ",
       "telephone"
     ]
@@ -17290,8 +17486,6 @@
       "fòn-làimhe",
       "cell",
       "mobile",
-      "phone",
-      "off",
       "telephone"
     ]
   },
@@ -17314,7 +17508,9 @@
       "sguir dheth",
       "sgur dheth",
       "x",
-      "x iomadachaidh throm"
+      "x iomadachaidh throm",
+      "stop",
+      "cross"
     ]
   },
   {
@@ -17371,7 +17567,10 @@
       "gun chrìch",
       "gun chrìoch",
       "neo-chrìochnachd",
-      "uile-choicheann"
+      "uile-choicheann",
+      "infinity",
+      "infinite",
+      "endless"
     ]
   },
   {
@@ -17396,7 +17595,9 @@
       "clisg-phuing is comharra-ceiste",
       "comharra",
       "comharra-ceiste",
-      "puingeachadh"
+      "puingeachadh",
+      "exclamation",
+      "ceist"
     ]
   },
   {
@@ -17462,7 +17663,10 @@
       "dais",
       "loidhne",
       "lùbach",
-      "puingeachadh"
+      "puingeachadh",
+      "wave",
+      "wavey",
+      "wavey dash"
     ]
   },
   {
@@ -17472,7 +17676,10 @@
       "airgeadra",
       "banca",
       "iomlaid",
-      "iomlaid airgid"
+      "iomlaid airgid",
+      "currency",
+      "exchange",
+      "money"
     ]
   },
   {
@@ -17481,7 +17688,12 @@
       "airgead",
       "airgeadra",
       "dolar",
-      "samhla dolair trom"
+      "samhla dolair trom",
+      "money",
+      "dollars",
+      "cash",
+      "usd",
+      "rich"
     ]
   },
   {
@@ -17495,7 +17707,8 @@
   {
     "emoji": "⚜️",
     "tags": [
-      "fleur-de-lis"
+      "fleur-de-lis",
+      "fleur"
     ]
   },
   {
@@ -17570,7 +17783,11 @@
     "tags": [
       "bogsa",
       "bogsa-cromaige le cromag",
-      "cromag"
+      "cromag",
+      "check",
+      "check box",
+      "done",
+      "todo"
     ]
   },
   {
@@ -17633,7 +17850,11 @@
       "dualach",
       "dùbailte",
       "lùb",
-      "lùb dhualach dhùbailte"
+      "lùb dhualach dhùbailte",
+      "loop",
+      "curl",
+      "twist",
+      "double curly loop"
     ]
   },
   {
@@ -17642,7 +17863,8 @@
       "atharrachadh",
       "comharra",
       "comharra airson atharrachadh phàirtean",
-      "pàirt"
+      "pàirt",
+      "part alternation mark"
     ]
   },
   {
@@ -17665,7 +17887,8 @@
     "emoji": "❇️",
     "tags": [
       "*",
-      "lainnir"
+      "lainnir",
+      "sparkle"
     ]
   },
   {
@@ -17674,7 +17897,8 @@
       "(c)",
       "©",
       "c",
-      "còir-lethbhreac"
+      "còir-lethbhreac",
+      "copyright"
     ]
   },
   {
@@ -17683,7 +17907,9 @@
       "(r)",
       "®",
       "clàraichte",
-      "r"
+      "r",
+      "registered",
+      "reserved"
     ]
   },
   {
@@ -17691,7 +17917,8 @@
     "tags": [
       "comharra",
       "comharra-malairt",
-      "tm"
+      "tm",
+      "trademark"
     ]
   },
   {
@@ -17787,7 +18014,8 @@
       "b",
       "fuil",
       "Putan B (seòrsa fala)",
-      "seòrsa fala"
+      "seòrsa fala",
+      "letter b"
     ]
   },
   {
@@ -17822,7 +18050,8 @@
     "emoji": "ℹ️",
     "tags": [
       "fiosrachadh",
-      "i"
+      "i",
+      "letter i"
     ]
   },
   {
@@ -17841,7 +18070,8 @@
     "tags": [
       "cearcall",
       "m",
-      "M le cearcall timcheall air"
+      "M le cearcall timcheall air",
+      "m in circle"
     ]
   },
   {
@@ -17877,7 +18107,7 @@
       "ok",
       "ok ma-thà",
       "putan OK",
-      "OK",
+      "Ceart ma-thà",
       "OK button"
     ]
   },
@@ -17885,7 +18115,9 @@
     "emoji": "🅿️",
     "tags": [
       "pàirceadh",
-      "putan P"
+      "putan P",
+      "p",
+      "letter p"
     ]
   },
   {
@@ -17929,7 +18161,7 @@
       "putan Seapanais “An-seo”",
       "seapanais",
       "ココ",
-      "“here”",
+      "here",
       "Japanese",
       "Japanese “here” button"
     ]
@@ -17966,7 +18198,7 @@
       "putan Seapanais “Chan ann saor ’s an-asgaidh”",
       "Seapanais",
       "有",
-      "“not free of charge”",
+      "not free of charge",
       "ideograph",
       "Japanese “not free of charge” button",
       "Japanese"
@@ -17981,7 +18213,7 @@
       "putan Seapanais “Glèidhte”",
       "Seapanais",
       "指",
-      "“reserved”",
+      "reserved",
       "ideograph",
       "Japanese “reserved” button",
       "Japanese"
@@ -17996,7 +18228,7 @@
       "putan Seapanais “Bargan”",
       "Seapanais",
       "得",
-      "“bargain”",
+      "bargain",
       "ideograph",
       "Japanese “bargain” button",
       "Japanese"
@@ -18011,7 +18243,7 @@
       "putan Seapanais “Lasachadh”",
       "Seapanais",
       "割",
-      "“discount”",
+      "discount",
       "ideograph",
       "Japanese “discount” button",
       "Japanese"
@@ -18027,7 +18259,7 @@
       "saor ‘s an-asgaidh",
       "Seapanais",
       "無",
-      "“free of charge”",
+      "free of charge",
       "ideograph",
       "Japanese “free of charge” button",
       "Japanese"
@@ -18042,7 +18274,7 @@
       "Seapanais",
       "toirmisgte",
       "禁",
-      "“prohibited”",
+      "prohibited",
       "ideograph",
       "Japanese “prohibited” button",
       "Japanese"
@@ -18057,7 +18289,7 @@
       "putan Seapanais “Ceart gu leòr”",
       "Seapanais",
       "可",
-      "“acceptable”",
+      "acceptable",
       "ideograph",
       "Japanese “acceptable” button",
       "Japanese"
@@ -18072,7 +18304,7 @@
       "Seapanais",
       "tagradh",
       "申",
-      "“application”",
+      "application",
       "ideograph",
       "Japanese “application” button",
       "Japanese"
@@ -18087,7 +18319,7 @@
       "putan Seapanais “Ìre pas”",
       "Seapanais",
       "合",
-      "“passing grade”",
+      "passing grade",
       "ideograph",
       "Japanese “passing grade” button",
       "Japanese"
@@ -18102,7 +18334,7 @@
       "Seapanais",
       "seòmar saor",
       "空",
-      "“vacancy”",
+      "vacancy",
       "ideograph",
       "Japanese “vacancy” button",
       "Japanese"
@@ -18117,7 +18349,10 @@
       "mealaibh ur naidheachd",
       "putan Seapanais “Meal do naidheachd”",
       "Seapanais",
-      "祝"
+      "祝",
+      "congratulations",
+      "ideograph",
+      "japanese"
     ]
   },
   {
@@ -18140,7 +18375,7 @@
       "putan Seapanais “Fosgailte”",
       "Seapanais",
       "営",
-      "“open for business”",
+      "open for business",
       "ideograph",
       "Japanese “open for business” button",
       "Japanese"
@@ -18155,7 +18390,7 @@
       "putan Seapanais “Gun seòmar saor”",
       "Seapanais",
       "満",
-      "“no vacancy”",
+      "no vacancy",
       "ideograph",
       "Japanese “no vacancy” button",
       "Japanese"
@@ -18235,7 +18470,8 @@
       "geomatrach",
       "black circle",
       "circle",
-      "geometric"
+      "geometric",
+      "dubh"
     ]
   },
   {
@@ -18246,7 +18482,8 @@
       "geomatrach",
       "circle",
       "geometric",
-      "white circle"
+      "white circle",
+      "geal"
     ]
   },
   {
@@ -18319,7 +18556,8 @@
       "geomatrach",
       "black large square",
       "geometric",
-      "square"
+      "square",
+      "dubh"
     ]
   },
   {
@@ -18330,7 +18568,8 @@
       "geomatrach",
       "geometric",
       "square",
-      "white large square"
+      "white large square",
+      "geal"
     ]
   },
   {
@@ -18346,7 +18585,11 @@
     "tags": [
       "ceàrnag",
       "ceàrnag mheadhanach gheal",
-      "geomatrach"
+      "geomatrach",
+      "geometric",
+      "square",
+      "white medium square",
+      "geal"
     ]
   },
   {
@@ -18483,7 +18726,10 @@
       "geomatrach",
       "putan",
       "putan-rèidio",
-      "rèidio"
+      "rèidio",
+      "button",
+      "radio button",
+      "circle"
     ]
   },
   {
@@ -18509,7 +18755,11 @@
       "ceàrnagach",
       "geomatrach",
       "putan",
-      "putan ceàrnagach dubh"
+      "putan ceàrnagach dubh",
+      "button",
+      "geometric",
+      "square",
+      "outlined"
     ]
   },
   {
@@ -18576,7 +18826,19 @@
       "bratach bogha-froise",
       "pride",
       "rainbow",
-      "rainbow flag"
+      "rainbow flag",
+      "lgbtqia",
+      "lgbt",
+      "lgbtqa",
+      "queer",
+      "gay",
+      "lesbian",
+      "intersex",
+      "bisexual",
+      "transgender",
+      "trans",
+      "asexual",
+      "questioning"
     ]
   },
   {
@@ -18592,6 +18854,181 @@
       "plunder",
       "pirate flag",
       "treasure"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "tags": [
+      "aodann",
+      "frown",
+      "sad",
+      "slightly frowning face"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "death",
+      "skull",
+      "crossbones",
+      "skull and crossbones",
+      "bones",
+      "dead"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "tags": [
+      "heart",
+      "red heart"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "heart suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "🗨️",
+    "tags": [
+      "balloon",
+      "bubble",
+      "dialog",
+      "comic",
+      "speech"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "snow",
+      "snowflake",
+      "fuachd",
+      "deigh"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "tags": [
+      "fòn",
+      "telephone"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "pencil"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "alembic",
+      "science",
+      "chemistry"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "atom"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "reultag",
+      "eight spoke"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "star",
+      "eight pointed"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "!",
+      "exclamation",
+      "double exclamation"
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "tags": [
+      "recyce",
+      "reuse",
+      "green"
+    ]
+  },
+  {
+    "emoji": "🅰️",
+    "tags": [
+      "a",
+      "letter a"
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "tags": [
+      "o",
+      "letter o"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "service charger",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "monthly amount",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "secret",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "tags": [
+      "black small square",
+      "geometric",
+      "square",
+      "dubh"
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "tags": [
+      "black medium square",
+      "geometric",
+      "square",
+      "dubh"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "geometric",
+      "square",
+      "white small square",
+      "geal"
     ]
   },
   {

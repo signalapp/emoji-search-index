@@ -4,7 +4,10 @@
     "tags": [
       "face",
       "grin",
-      "grinning face"
+      "smile",
+      "grinning face",
+      "smiling",
+      "happy"
     ]
   },
   {
@@ -12,9 +15,11 @@
     "tags": [
       "face",
       "grinning face with big eyes",
-      "mouth",
       "open",
-      "smile"
+      "mouth",
+      "smile",
+      "smiling",
+      "happy"
     ]
   },
   {
@@ -22,10 +27,12 @@
     "tags": [
       "eye",
       "face",
-      "grinning face with smiling eyes",
       "mouth",
+      "grinning face with smiling eyes",
       "open",
-      "smile"
+      "smile",
+      "smiling",
+      "happy"
     ]
   },
   {
@@ -33,9 +40,11 @@
     "tags": [
       "beaming face with smiling eyes",
       "eye",
-      "face",
       "grin",
-      "smile"
+      "face",
+      "smile",
+      "smiling",
+      "happy"
     ]
   },
   {
@@ -43,21 +52,26 @@
     "tags": [
       "face",
       "grinning squinting face",
-      "laugh",
       "mouth",
+      "laugh",
       "satisfied",
-      "smile"
+      "smile",
+      "smiling",
+      "squint",
+      "happy"
     ]
   },
   {
     "emoji": "😅",
     "tags": [
-      "cold",
       "face",
-      "grinning face with sweat",
       "open",
+      "grinning face with sweat",
       "smile",
-      "sweat"
+      "sweat",
+      "smiling",
+      "laugh",
+      "funny"
     ]
   },
   {
@@ -65,11 +79,13 @@
     "tags": [
       "face",
       "floor",
-      "laugh",
       "rofl",
+      "laugh",
       "rolling",
       "rolling on the floor laughing",
-      "rotfl"
+      "rotfl",
+      "funny",
+      "cry"
     ]
   },
   {
@@ -77,9 +93,20 @@
     "tags": [
       "face",
       "face with tears of joy",
-      "joy",
       "laugh",
-      "tear"
+      "joy",
+      "tear",
+      "funny",
+      "cry"
+    ]
+  },
+  {
+    "emoji": "☺️",
+    "tags": [
+      "face",
+      "slightly smiling face",
+      "smiling",
+      "smile"
     ]
   },
   {
@@ -87,6 +114,7 @@
     "tags": [
       "face",
       "slightly smiling face",
+      "smiling",
       "smile"
     ]
   },
@@ -94,7 +122,11 @@
     "emoji": "🙃",
     "tags": [
       "face",
-      "upside-down"
+      "upside-down",
+      "sarcasm",
+      "silly",
+      "sarcastic",
+      "uh oh"
     ]
   },
   {
@@ -110,8 +142,8 @@
     "tags": [
       "blush",
       "eye",
-      "face",
       "smile",
+      "face",
       "smiling face with smiling eyes"
     ]
   },
@@ -120,8 +152,8 @@
     "tags": [
       "angel",
       "face",
-      "fantasy",
       "halo",
+      "fantasy",
       "innocent",
       "smiling face with halo"
     ]
@@ -131,8 +163,8 @@
     "tags": [
       "adore",
       "crush",
-      "hearts",
       "in love",
+      "hearts",
       "smiling face with hearts"
     ]
   },
@@ -141,9 +173,10 @@
     "tags": [
       "eye",
       "face",
-      "love",
       "smile",
-      "smiling face with heart-eyes"
+      "love",
+      "smiling face with heart-eyes",
+      "hearts"
     ]
   },
   {
@@ -151,8 +184,8 @@
     "tags": [
       "eyes",
       "face",
-      "grinning",
       "star",
+      "grinning",
       "star-struck"
     ]
   },
@@ -161,7 +194,9 @@
     "tags": [
       "face",
       "face blowing a kiss",
-      "kiss"
+      "flirt",
+      "kiss",
+      "kiss with heart"
     ]
   },
   {
@@ -169,17 +204,8 @@
     "tags": [
       "face",
       "kiss",
+      "pout",
       "kissing face"
-    ]
-  },
-  {
-    "emoji": "☺️",
-    "tags": [
-      "face",
-      "outlined",
-      "relaxed",
-      "smile",
-      "smiling face"
     ]
   },
   {
@@ -187,9 +213,10 @@
     "tags": [
       "closed",
       "eye",
-      "face",
       "kiss",
-      "kissing face with closed eyes"
+      "face",
+      "kissing face with closed eyes",
+      "kiss squinty"
     ]
   },
   {
@@ -197,8 +224,8 @@
     "tags": [
       "eye",
       "face",
-      "kiss",
       "kissing face with smiling eyes",
+      "kiss",
       "smile"
     ]
   },
@@ -207,8 +234,8 @@
     "tags": [
       "grateful",
       "proud",
-      "relieved",
       "smiling",
+      "relieved",
       "smiling face with tear",
       "tear",
       "touched"
@@ -219,8 +246,8 @@
     "tags": [
       "delicious",
       "face",
-      "face savoring food",
       "savouring",
+      "face savoring food",
       "smile",
       "yum"
     ]
@@ -238,8 +265,8 @@
     "tags": [
       "eye",
       "face",
-      "joke",
       "tongue",
+      "joke",
       "wink",
       "winking face with tongue"
     ]
@@ -249,9 +276,10 @@
     "tags": [
       "eye",
       "goofy",
-      "large",
       "small",
-      "zany face"
+      "large",
+      "zany face",
+      "silly"
     ]
   },
   {
@@ -259,8 +287,8 @@
     "tags": [
       "eye",
       "face",
-      "horrible",
       "squinting face with tongue",
+      "horrible",
       "taste",
       "tongue"
     ]
@@ -270,8 +298,8 @@
     "tags": [
       "face",
       "money",
-      "money-mouth face",
-      "mouth"
+      "mouth",
+      "money-mouth face"
     ]
   },
   {
@@ -279,17 +307,16 @@
     "tags": [
       "face",
       "hug",
-      "hugging",
-      "open hands",
-      "smiling face",
-      "smiling face with open hands"
+      "hugging"
     ]
   },
   {
     "emoji": "🤭",
     "tags": [
       "face with hand over mouth",
-      "whoops"
+      "whoops",
+      "shush",
+      "shh"
     ]
   },
   {
@@ -297,6 +324,7 @@
     "tags": [
       "quiet",
       "shush",
+      "shh",
       "shushing face"
     ]
   },
@@ -312,8 +340,9 @@
     "tags": [
       "face",
       "mouth",
+      "zipper-mouth face",
       "zipper",
-      "zipper-mouth face"
+      "shh"
     ]
   },
   {
@@ -321,6 +350,7 @@
     "tags": [
       "distrust",
       "face with raised eyebrow",
+      "unsure",
       "skeptic"
     ]
   },
@@ -329,8 +359,8 @@
     "tags": [
       "deadpan",
       "face",
-      "meh",
-      "neutral"
+      "neutral",
+      "meh"
     ]
   },
   {
@@ -338,8 +368,8 @@
     "tags": [
       "expressionless",
       "face",
-      "inexpressive",
       "meh",
+      "inexpressive",
       "unexpressive"
     ]
   },
@@ -348,8 +378,8 @@
     "tags": [
       "face",
       "face without mouth",
-      "mouth",
       "quiet",
+      "mouth",
       "silent"
     ]
   },
@@ -358,8 +388,8 @@
     "tags": [
       "absentminded",
       "face in clouds",
-      "face in the fog",
-      "head in clouds"
+      "head in clouds",
+      "face in the fog"
     ]
   },
   {
@@ -383,8 +413,8 @@
     "tags": [
       "eyeroll",
       "eyes",
-      "face",
       "face with rolling eyes",
+      "face",
       "rolling"
     ]
   },
@@ -401,8 +431,8 @@
     "tags": [
       "exhale",
       "face exhaling",
-      "gasp",
       "groan",
+      "gasp",
       "relief",
       "whisper",
       "whistle"
@@ -413,8 +443,8 @@
     "tags": [
       "face",
       "lie",
-      "lying face",
-      "pinocchio"
+      "pinocchio",
+      "lying face"
     ]
   },
   {
@@ -436,8 +466,8 @@
     "emoji": "😪",
     "tags": [
       "face",
-      "good night",
       "sleep",
+      "snore",
       "sleepy face"
     ]
   },
@@ -452,10 +482,10 @@
     "emoji": "😴",
     "tags": [
       "face",
-      "good night",
       "sleep",
+      "zzz",
       "sleeping face",
-      "ZZZ"
+      "tired"
     ]
   },
   {
@@ -463,8 +493,8 @@
     "tags": [
       "cold",
       "doctor",
-      "face",
       "face with medical mask",
+      "face",
       "mask",
       "sick"
     ]
@@ -474,8 +504,8 @@
     "tags": [
       "face",
       "face with thermometer",
-      "ill",
       "sick",
+      "ill",
       "thermometer"
     ]
   },
@@ -484,8 +514,8 @@
     "tags": [
       "bandage",
       "face",
-      "face with head-bandage",
       "hurt",
+      "face with head-bandage",
       "injury"
     ]
   },
@@ -494,7 +524,9 @@
     "tags": [
       "face",
       "nauseated",
-      "vomit"
+      "sick",
+      "vomit",
+      "throw up"
     ]
   },
   {
@@ -502,8 +534,9 @@
     "tags": [
       "face vomiting",
       "puke",
+      "vomit",
       "sick",
-      "vomit"
+      "throw up"
     ]
   },
   {
@@ -511,8 +544,9 @@
     "tags": [
       "face",
       "gesundheit",
+      "sneezing face",
       "sneeze",
-      "sneezing face"
+      "sick"
     ]
   },
   {
@@ -520,8 +554,8 @@
     "tags": [
       "feverish",
       "heat stroke",
-      "hot",
       "hot face",
+      "hot",
       "red-faced",
       "sweating"
     ]
@@ -531,8 +565,8 @@
     "tags": [
       "blue-faced",
       "cold",
-      "cold face",
       "freezing",
+      "cold face",
       "frostbite",
       "icicles"
     ]
@@ -542,19 +576,19 @@
     "tags": [
       "dizzy",
       "intoxicated",
-      "tipsy",
       "uneven eyes",
+      "tipsy",
       "wavy mouth",
-      "woozy face"
+      "woozy face",
+      "drunk"
     ]
   },
   {
     "emoji": "😵",
     "tags": [
-      "crossed-out eyes",
       "dead",
       "face",
-      "face with crossed-out eyes",
+      "knocked-out face",
       "knocked out"
     ]
   },
@@ -563,8 +597,8 @@
     "tags": [
       "dizzy",
       "face with spiral eyes",
-      "hypnotized",
       "spiral",
+      "hypnotized",
       "trouble",
       "whoa"
     ]
@@ -582,8 +616,8 @@
     "tags": [
       "cowboy",
       "cowgirl",
-      "face",
-      "hat"
+      "hat",
+      "face"
     ]
   },
   {
@@ -591,8 +625,8 @@
     "tags": [
       "celebration",
       "hat",
-      "horn",
       "party",
+      "horn",
       "partying face"
     ]
   },
@@ -601,8 +635,8 @@
     "tags": [
       "disguise",
       "disguised face",
-      "face",
       "glasses",
+      "face",
       "incognito",
       "nose"
     ]
@@ -612,8 +646,8 @@
     "tags": [
       "bright",
       "cool",
-      "face",
       "smiling face with sunglasses",
+      "face",
       "sun",
       "sunglasses"
     ]
@@ -623,15 +657,15 @@
     "tags": [
       "face",
       "geek",
-      "nerd"
+      "glasses",
+      "nerd",
+      "smart"
     ]
   },
   {
     "emoji": "🧐",
     "tags": [
-      "face",
       "face with monocle",
-      "monocle",
       "stuffy"
     ]
   },
@@ -647,15 +681,8 @@
     "emoji": "😟",
     "tags": [
       "face",
-      "worried"
-    ]
-  },
-  {
-    "emoji": "🙁",
-    "tags": [
-      "face",
-      "frown",
-      "slightly frowning face"
+      "worried",
+      "sad"
     ]
   },
   {
@@ -663,7 +690,17 @@
     "tags": [
       "face",
       "frown",
-      "frowning face"
+      "sad",
+      "slightly frowning face"
+    ]
+  },
+  {
+    "emoji": "🙁",
+    "tags": [
+      "face",
+      "frown",
+      "sad",
+      "slightly frowning face"
     ]
   },
   {
@@ -671,9 +708,10 @@
     "tags": [
       "face",
       "face with open mouth",
-      "mouth",
       "open",
-      "sympathy"
+      "mouth",
+      "sympathy",
+      "wow"
     ]
   },
   {
@@ -681,8 +719,8 @@
     "tags": [
       "face",
       "hushed",
-      "stunned",
-      "surprised"
+      "surprised",
+      "stunned"
     ]
   },
   {
@@ -690,8 +728,9 @@
     "tags": [
       "astonished",
       "face",
+      "totally",
       "shocked",
-      "totally"
+      "wow"
     ]
   },
   {
@@ -707,8 +746,9 @@
     "tags": [
       "begging",
       "mercy",
+      "puppy eyes",
       "pleading face",
-      "puppy eyes"
+      "cute"
     ]
   },
   {
@@ -716,8 +756,8 @@
     "tags": [
       "face",
       "frown",
-      "frowning face with open mouth",
       "mouth",
+      "frowning face with open mouth",
       "open"
     ]
   },
@@ -733,8 +773,8 @@
     "tags": [
       "face",
       "fear",
-      "fearful",
-      "scared"
+      "scared",
+      "fearful"
     ]
   },
   {
@@ -742,8 +782,8 @@
     "tags": [
       "anxious face with sweat",
       "blue",
-      "cold",
       "face",
+      "cold",
       "rushed",
       "sweat"
     ]
@@ -753,8 +793,8 @@
     "tags": [
       "disappointed",
       "face",
-      "relieved",
       "sad but relieved face",
+      "relieved",
       "whew"
     ]
   },
@@ -763,8 +803,8 @@
     "tags": [
       "cry",
       "crying face",
-      "face",
       "sad",
+      "face",
       "tear"
     ]
   },
@@ -773,8 +813,8 @@
     "tags": [
       "cry",
       "face",
-      "loudly crying face",
       "sad",
+      "loudly crying face",
       "sob",
       "tear"
     ]
@@ -784,8 +824,8 @@
     "tags": [
       "face",
       "face screaming in fear",
-      "fear",
       "munch",
+      "fear",
       "scared",
       "scream"
     ]
@@ -817,8 +857,8 @@
     "tags": [
       "cold",
       "downcast face with sweat",
-      "face",
-      "sweat"
+      "sweat",
+      "face"
     ]
   },
   {
@@ -826,6 +866,7 @@
     "tags": [
       "face",
       "tired",
+      "despair",
       "weary"
     ]
   },
@@ -833,7 +874,8 @@
     "emoji": "😫",
     "tags": [
       "face",
-      "tired"
+      "tired",
+      "despair"
     ]
   },
   {
@@ -841,8 +883,8 @@
     "tags": [
       "bored",
       "tired",
-      "yawn",
-      "yawning face"
+      "yawning face",
+      "yawn"
     ]
   },
   {
@@ -850,18 +892,18 @@
     "tags": [
       "face",
       "face with steam from nose",
+      "won",
       "triumph",
-      "won"
+      "angry"
     ]
   },
   {
     "emoji": "😡",
     "tags": [
       "angry",
-      "enraged",
       "face",
-      "mad",
       "pouting",
+      "mad",
       "rage",
       "red"
     ]
@@ -871,8 +913,8 @@
     "tags": [
       "anger",
       "angry",
-      "face",
-      "mad"
+      "mad",
+      "face"
     ]
   },
   {
@@ -887,8 +929,8 @@
     "tags": [
       "face",
       "fairy tale",
-      "fantasy",
       "horns",
+      "fantasy",
       "smile",
       "smiling face with horns"
     ]
@@ -898,10 +940,21 @@
     "tags": [
       "angry face with horns",
       "demon",
-      "devil",
       "face",
+      "devil",
       "fantasy",
       "imp"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "death",
+      "skull",
+      "crossbones",
+      "skull and crossbones",
+      "bones",
+      "dead"
     ]
   },
   {
@@ -909,20 +962,11 @@
     "tags": [
       "death",
       "face",
+      "monster",
       "fairy tale",
-      "monster",
-      "skull"
-    ]
-  },
-  {
-    "emoji": "☠️",
-    "tags": [
-      "crossbones",
-      "death",
-      "face",
-      "monster",
       "skull",
-      "skull and crossbones"
+      "dead",
+      "funny"
     ]
   },
   {
@@ -930,8 +974,8 @@
     "tags": [
       "dung",
       "face",
-      "monster",
       "pile of poo",
+      "monster",
       "poo",
       "poop"
     ]
@@ -940,7 +984,8 @@
     "emoji": "🤡",
     "tags": [
       "clown",
-      "face"
+      "face",
+      "silly"
     ]
   },
   {
@@ -948,10 +993,12 @@
     "tags": [
       "creature",
       "face",
-      "fairy tale",
       "fantasy",
+      "fairy tale",
       "monster",
-      "ogre"
+      "ogre",
+      "devil",
+      "demon"
     ]
   },
   {
@@ -959,10 +1006,12 @@
     "tags": [
       "creature",
       "face",
-      "fairy tale",
       "fantasy",
+      "fairy tale",
       "goblin",
-      "monster"
+      "monster",
+      "devil",
+      "demon"
     ]
   },
   {
@@ -970,10 +1019,12 @@
     "tags": [
       "creature",
       "face",
-      "fairy tale",
       "fantasy",
+      "fairy tale",
       "ghost",
-      "monster"
+      "monster",
+      "boo",
+      "spooky"
     ]
   },
   {
@@ -981,8 +1032,8 @@
     "tags": [
       "alien",
       "creature",
-      "extraterrestrial",
       "face",
+      "extraterrestrial",
       "fantasy",
       "ufo"
     ]
@@ -992,8 +1043,8 @@
     "tags": [
       "alien",
       "creature",
-      "extraterrestrial",
       "face",
+      "extraterrestrial",
       "monster",
       "ufo"
     ]
@@ -1011,8 +1062,8 @@
     "tags": [
       "cat",
       "face",
-      "grinning",
       "mouth",
+      "grinning",
       "open",
       "smile"
     ]
@@ -1022,8 +1073,8 @@
     "tags": [
       "cat",
       "eye",
-      "face",
       "grin",
+      "face",
       "grinning cat with smiling eyes",
       "smile"
     ]
@@ -1033,8 +1084,8 @@
     "tags": [
       "cat",
       "cat with tears of joy",
-      "face",
       "joy",
+      "face",
       "tear"
     ]
   },
@@ -1043,8 +1094,8 @@
     "tags": [
       "cat",
       "eye",
+      "heart eyes",
       "face",
-      "heart",
       "love",
       "smile",
       "smiling cat with heart-eyes"
@@ -1055,8 +1106,8 @@
     "tags": [
       "cat",
       "cat with wry smile",
-      "face",
       "ironic",
+      "face",
       "smile",
       "wry"
     ]
@@ -1066,8 +1117,8 @@
     "tags": [
       "cat",
       "eye",
-      "face",
       "kiss",
+      "face",
       "kissing cat"
     ]
   },
@@ -1076,8 +1127,8 @@
     "tags": [
       "cat",
       "face",
-      "oh",
       "surprised",
+      "oh",
       "weary"
     ]
   },
@@ -1086,8 +1137,8 @@
     "tags": [
       "cat",
       "cry",
-      "crying cat",
       "face",
+      "crying cat",
       "sad",
       "tear"
     ]
@@ -1105,8 +1156,8 @@
     "tags": [
       "evil",
       "face",
-      "forbidden",
       "monkey",
+      "forbidden",
       "see",
       "see-no-evil monkey"
     ]
@@ -1116,8 +1167,8 @@
     "tags": [
       "evil",
       "face",
-      "forbidden",
       "hear",
+      "forbidden",
       "hear-no-evil monkey",
       "monkey"
     ]
@@ -1127,8 +1178,8 @@
     "tags": [
       "evil",
       "face",
-      "forbidden",
       "monkey",
+      "forbidden",
       "speak",
       "speak-no-evil monkey"
     ]
@@ -1144,10 +1195,10 @@
   {
     "emoji": "💌",
     "tags": [
-      "heart",
+      "heart letter",
       "letter",
-      "love",
-      "mail"
+      "mail",
+      "love"
     ]
   },
   {
@@ -1178,9 +1229,9 @@
     "emoji": "💗",
     "tags": [
       "excited",
-      "growing",
       "growing heart",
       "nervous",
+      "growing",
       "pulse"
     ]
   },
@@ -1189,8 +1240,8 @@
     "tags": [
       "beating",
       "beating heart",
-      "heartbeat",
-      "pulsating"
+      "pulsating",
+      "heartbeat"
     ]
   },
   {
@@ -1210,48 +1261,7 @@
   {
     "emoji": "💟",
     "tags": [
-      "heart",
       "heart decoration"
-    ]
-  },
-  {
-    "emoji": "❣️",
-    "tags": [
-      "exclamation",
-      "heart exclamation",
-      "mark",
-      "punctuation"
-    ]
-  },
-  {
-    "emoji": "💔",
-    "tags": [
-      "break",
-      "broken",
-      "broken heart"
-    ]
-  },
-  {
-    "emoji": "❤️‍🔥",
-    "tags": [
-      "burn",
-      "heart",
-      "heart on fire",
-      "love",
-      "lust",
-      "sacred heart"
-    ]
-  },
-  {
-    "emoji": "❤️‍🩹",
-    "tags": [
-      "healthier",
-      "improving",
-      "mending",
-      "mending heart",
-      "recovering",
-      "recuperating",
-      "well"
     ]
   },
   {
@@ -1262,45 +1272,83 @@
     ]
   },
   {
+    "emoji": "💔",
+    "tags": [
+      "break",
+      "broken heart",
+      "heart break"
+    ]
+  },
+  {
+    "emoji": "❤️‍🔥",
+    "tags": [
+      "burn",
+      "burning heart",
+      "heart on fire",
+      "love",
+      "lust",
+      "sacred heart"
+    ]
+  },
+  {
+    "emoji": "❤️‍🩹",
+    "tags": [
+      "healthier",
+      "mending heart",
+      "heart mending",
+      "mending",
+      "recovering",
+      "recuperating",
+      "well",
+      "improving"
+    ]
+  },
+  {
     "emoji": "🧡",
     "tags": [
       "orange",
-      "orange heart"
+      "orange heart",
+      "heart orange"
     ]
   },
   {
     "emoji": "💛",
     "tags": [
       "yellow",
-      "yellow heart"
+      "yellow heart",
+      "heart yellow"
     ]
   },
   {
     "emoji": "💚",
     "tags": [
       "green",
-      "green heart"
+      "green heart",
+      "heart green"
     ]
   },
   {
     "emoji": "💙",
     "tags": [
       "blue",
-      "blue heart"
+      "blue heart",
+      "heart blue"
     ]
   },
   {
     "emoji": "💜",
     "tags": [
       "purple",
-      "purple heart"
+      "purple heart",
+      "heart purple"
     ]
   },
   {
     "emoji": "🤎",
     "tags": [
       "brown",
-      "heart"
+      "brownheart",
+      "heart brown"
     ]
   },
   {
@@ -1308,15 +1356,53 @@
     "tags": [
       "black",
       "black heart",
-      "evil",
-      "wicked"
+      "heart black",
+      "wicked",
+      "evil"
     ]
   },
   {
     "emoji": "🤍",
     "tags": [
-      "heart",
-      "white"
+      "white",
+      "white heart",
+      "heart white"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "heart suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "♠️",
+    "tags": [
+      "spade suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "♦️",
+    "tags": [
+      "diamond suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "♣️",
+    "tags": [
+      "club suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "❣️",
+    "tags": [
+      "heart exclamation",
+      "heart drop",
+      "exclamation"
     ]
   },
   {
@@ -1324,8 +1410,8 @@
     "tags": [
       "100",
       "full",
-      "hundred",
       "hundred points",
+      "hundred",
       "score"
     ]
   },
@@ -1334,8 +1420,8 @@
     "tags": [
       "anger symbol",
       "angry",
-      "comic",
-      "mad"
+      "mad",
+      "comic"
     ]
   },
   {
@@ -1359,8 +1445,8 @@
     "tags": [
       "comic",
       "splashing",
-      "sweat",
-      "sweat droplets"
+      "sweat droplets",
+      "sweat"
     ]
   },
   {
@@ -1368,8 +1454,8 @@
     "tags": [
       "comic",
       "dash",
-      "dashing away",
-      "running"
+      "running",
+      "dashing away"
     ]
   },
   {
@@ -1390,9 +1476,30 @@
     "tags": [
       "balloon",
       "bubble",
-      "comic",
       "dialog",
-      "speech"
+      "comic",
+      "speech",
+      "typing"
+    ]
+  },
+  {
+    "emoji": "🗯️",
+    "tags": [
+      "angry",
+      "balloon",
+      "mad",
+      "bubble",
+      "right anger bubble",
+      "danger"
+    ]
+  },
+  {
+    "emoji": "💭",
+    "tags": [
+      "balloon",
+      "bubble",
+      "thought",
+      "comic"
     ]
   },
   {
@@ -1401,36 +1508,16 @@
       "balloon",
       "bubble",
       "dialog",
-      "left speech bubble",
-      "speech"
-    ]
-  },
-  {
-    "emoji": "🗯️",
-    "tags": [
-      "angry",
-      "balloon",
-      "bubble",
-      "mad",
-      "right anger bubble"
-    ]
-  },
-  {
-    "emoji": "💭",
-    "tags": [
-      "balloon",
-      "bubble",
       "comic",
-      "thought"
+      "speech"
     ]
   },
   {
     "emoji": "💤",
     "tags": [
       "comic",
-      "good night",
       "sleep",
-      "ZZZ"
+      "zzz"
     ]
   },
   {
@@ -1438,7 +1525,12 @@
     "tags": [
       "hand",
       "wave",
-      "waving"
+      "waving",
+      "hi",
+      "hey",
+      "hello",
+      "bye",
+      "goodbye"
     ]
   },
   {
@@ -1454,8 +1546,8 @@
     "tags": [
       "finger",
       "hand",
-      "hand with fingers splayed",
-      "splayed"
+      "splayed",
+      "hand with fingers splayed"
     ]
   },
   {
@@ -1463,8 +1555,9 @@
     "tags": [
       "hand",
       "high 5",
+      "raised hand",
       "high five",
-      "raised hand"
+      "hifive"
     ]
   },
   {
@@ -1472,8 +1565,8 @@
     "tags": [
       "finger",
       "hand",
-      "spock",
       "vulcan",
+      "spock",
       "vulcan salute"
     ]
   },
@@ -1481,7 +1574,7 @@
     "emoji": "👌",
     "tags": [
       "hand",
-      "OK"
+      "Bone"
     ]
   },
   {
@@ -1489,8 +1582,8 @@
     "tags": [
       "fingers",
       "hand gesture",
-      "interrogation",
       "pinched",
+      "interrogation",
       "sarcastic"
     ]
   },
@@ -1498,7 +1591,8 @@
     "emoji": "🤏",
     "tags": [
       "pinching hand",
-      "small amount"
+      "small amount",
+      "little"
     ]
   },
   {
@@ -1514,8 +1608,8 @@
     "tags": [
       "cross",
       "crossed fingers",
-      "finger",
       "hand",
+      "finger",
       "luck"
     ]
   },
@@ -1532,9 +1626,10 @@
     "tags": [
       "finger",
       "hand",
-      "horns",
       "rock-on",
-      "sign of the horns"
+      "horns",
+      "sign of the horns",
+      "metal"
     ]
   },
   {
@@ -1543,8 +1638,9 @@
       "call",
       "call me hand",
       "hand",
-      "hang loose",
-      "Shaka"
+      "shaka sign",
+      "right on",
+      "thanks"
     ]
   },
   {
@@ -1552,8 +1648,8 @@
     "tags": [
       "backhand",
       "backhand index pointing left",
-      "finger",
       "hand",
+      "finger",
       "index",
       "point"
     ]
@@ -1563,8 +1659,8 @@
     "tags": [
       "backhand",
       "backhand index pointing right",
-      "finger",
       "hand",
+      "finger",
       "index",
       "point"
     ]
@@ -1574,8 +1670,8 @@
     "tags": [
       "backhand",
       "backhand index pointing up",
-      "finger",
       "hand",
+      "finger",
       "point",
       "up"
     ]
@@ -1593,8 +1689,8 @@
     "tags": [
       "backhand",
       "backhand index pointing down",
-      "down",
       "finger",
+      "down",
       "hand",
       "point"
     ]
@@ -1604,8 +1700,8 @@
     "tags": [
       "finger",
       "hand",
-      "index",
       "index pointing up",
+      "index",
       "point",
       "up"
     ]
@@ -1615,8 +1711,8 @@
     "tags": [
       "+1",
       "hand",
-      "thumb",
       "thumbs up",
+      "thumb",
       "up"
     ]
   },
@@ -1625,8 +1721,8 @@
     "tags": [
       "-1",
       "down",
-      "hand",
       "thumb",
+      "hand",
       "thumbs down"
     ]
   },
@@ -1635,8 +1731,8 @@
     "tags": [
       "clenched",
       "fist",
-      "hand",
       "punch",
+      "hand",
       "raised fist"
     ]
   },
@@ -1645,8 +1741,8 @@
     "tags": [
       "clenched",
       "fist",
-      "hand",
       "oncoming fist",
+      "hand",
       "punch"
     ]
   },
@@ -1655,6 +1751,7 @@
     "tags": [
       "fist",
       "left-facing fist",
+      "bump",
       "leftwards"
     ]
   },
@@ -1663,6 +1760,7 @@
     "tags": [
       "fist",
       "right-facing fist",
+      "bump",
       "rightwards"
     ]
   },
@@ -1679,8 +1777,8 @@
     "tags": [
       "celebration",
       "gesture",
-      "hand",
       "hooray",
+      "hand",
       "raised",
       "raising hands"
     ]
@@ -1705,8 +1803,8 @@
     "tags": [
       "agreement",
       "hand",
-      "handshake",
       "meeting",
+      "handshake",
       "shake"
     ]
   },
@@ -1715,8 +1813,8 @@
     "tags": [
       "ask",
       "folded hands",
-      "hand",
       "high 5",
+      "hand",
       "high five",
       "please",
       "pray",
@@ -1736,8 +1834,8 @@
     "tags": [
       "care",
       "cosmetics",
-      "manicure",
       "nail",
+      "manicure",
       "polish"
     ]
   },
@@ -1745,7 +1843,7 @@
     "emoji": "🤳",
     "tags": [
       "camera",
-      "phone",
+      "telefono",
       "selfie"
     ]
   },
@@ -1754,9 +1852,10 @@
     "tags": [
       "biceps",
       "comic",
-      "flex",
       "flexed biceps",
-      "muscle"
+      "flex",
+      "muscle",
+      "strong"
     ]
   },
   {
@@ -1764,7 +1863,9 @@
     "tags": [
       "accessibility",
       "mechanical arm",
-      "prosthetic"
+      "metal",
+      "prosthetic",
+      "strong"
     ]
   },
   {
@@ -1772,6 +1873,7 @@
     "tags": [
       "accessibility",
       "mechanical leg",
+      "metal",
       "prosthetic"
     ]
   },
@@ -1825,8 +1927,8 @@
     "tags": [
       "anatomical",
       "cardiology",
-      "heart",
       "organ",
+      "heart",
       "pulse"
     ]
   },
@@ -1835,8 +1937,8 @@
     "tags": [
       "breath",
       "exhalation",
-      "inhalation",
       "lungs",
+      "inhalation",
       "organ",
       "respiration"
     ]
@@ -1860,14 +1962,16 @@
     "tags": [
       "eye",
       "eyes",
-      "face"
+      "look",
+      "stare"
     ]
   },
   {
     "emoji": "👁️",
     "tags": [
       "body",
-      "eye"
+      "eye",
+      "stare"
     ]
   },
   {
@@ -1896,8 +2000,8 @@
     "tags": [
       "child",
       "gender-neutral",
-      "unspecified gender",
-      "young"
+      "young",
+      "unspecified gender"
     ]
   },
   {
@@ -1912,8 +2016,8 @@
     "tags": [
       "girl",
       "Virgo",
-      "young",
-      "zodiac"
+      "zodiac",
+      "young"
     ]
   },
   {
@@ -1921,8 +2025,8 @@
     "tags": [
       "adult",
       "gender-neutral",
-      "person",
-      "unspecified gender"
+      "unspecified gender",
+      "person"
     ]
   },
   {
@@ -1930,15 +2034,16 @@
     "tags": [
       "blond",
       "blond-haired person",
-      "hair",
-      "person: blond hair"
+      "person: blond hair",
+      "hair"
     ]
   },
   {
     "emoji": "👨",
     "tags": [
       "adult",
-      "man"
+      "man",
+      "male"
     ]
   },
   {
@@ -1954,6 +2059,7 @@
     "tags": [
       "beard",
       "man",
+      "male",
       "man: beard"
     ]
   },
@@ -1962,16 +2068,18 @@
     "tags": [
       "blond",
       "blond-haired man",
-      "hair",
       "man",
-      "man: blond hair"
+      "hair",
+      "man: blond hair",
+      "male"
     ]
   },
   {
     "emoji": "👩",
     "tags": [
       "adult",
-      "woman"
+      "woman",
+      "female"
     ]
   },
   {
@@ -1979,6 +2087,7 @@
     "tags": [
       "beard",
       "woman",
+      "female",
       "woman: beard"
     ]
   },
@@ -1987,9 +2096,10 @@
     "tags": [
       "blond-haired woman",
       "blonde",
-      "hair",
       "woman",
-      "woman: blond hair"
+      "hair",
+      "woman: blond hair",
+      "female"
     ]
   },
   {
@@ -1997,8 +2107,8 @@
     "tags": [
       "adult",
       "gender-neutral",
-      "old",
       "older person",
+      "old",
       "unspecified gender"
     ]
   },
@@ -2007,6 +2117,7 @@
     "tags": [
       "adult",
       "man",
+      "male",
       "old"
     ]
   },
@@ -2015,6 +2126,7 @@
     "tags": [
       "adult",
       "old",
+      "female",
       "woman"
     ]
   },
@@ -2023,6 +2135,7 @@
     "tags": [
       "frown",
       "gesture",
+      "male",
       "person frowning"
     ]
   },
@@ -2031,6 +2144,7 @@
     "tags": [
       "frowning",
       "gesture",
+      "male",
       "man"
     ]
   },
@@ -2039,6 +2153,7 @@
     "tags": [
       "frowning",
       "gesture",
+      "female",
       "woman"
     ]
   },
@@ -2055,6 +2170,7 @@
     "tags": [
       "gesture",
       "man",
+      "male",
       "pouting"
     ]
   },
@@ -2063,6 +2179,7 @@
     "tags": [
       "gesture",
       "pouting",
+      "female",
       "woman"
     ]
   },
@@ -2071,9 +2188,11 @@
     "tags": [
       "forbidden",
       "gesture",
-      "hand",
       "person gesturing NO",
-      "prohibited"
+      "hand",
+      "prohibited",
+      "X",
+      "no"
     ]
   },
   {
@@ -2081,10 +2200,12 @@
     "tags": [
       "forbidden",
       "gesture",
-      "hand",
       "man",
+      "hand",
       "man gesturing NO",
-      "prohibited"
+      "prohibited",
+      "X",
+      "no"
     ]
   },
   {
@@ -2092,10 +2213,12 @@
     "tags": [
       "forbidden",
       "gesture",
-      "hand",
       "prohibited",
+      "hand",
       "woman",
-      "woman gesturing NO"
+      "woman gesturing NO",
+      "X",
+      "no"
     ]
   },
   {
@@ -2103,8 +2226,8 @@
     "tags": [
       "gesture",
       "hand",
-      "OK",
-      "person gesturing OK"
+      "person gesturing OK",
+      "Bone"
     ]
   },
   {
@@ -2112,9 +2235,10 @@
     "tags": [
       "gesture",
       "hand",
-      "man",
       "man gesturing OK",
-      "OK"
+      "man",
+      "Bone",
+      "male"
     ]
   },
   {
@@ -2122,9 +2246,10 @@
     "tags": [
       "gesture",
       "hand",
-      "OK",
       "woman",
-      "woman gesturing OK"
+      "Bone",
+      "woman gesturing OK",
+      "female"
     ]
   },
   {
@@ -2132,8 +2257,8 @@
     "tags": [
       "hand",
       "help",
-      "information",
       "person tipping hand",
+      "information",
       "sassy",
       "tipping"
     ]
@@ -2143,8 +2268,9 @@
     "tags": [
       "man",
       "man tipping hand",
+      "tipping hand",
       "sassy",
-      "tipping hand"
+      "male"
     ]
   },
   {
@@ -2152,8 +2278,9 @@
     "tags": [
       "sassy",
       "tipping hand",
+      "woman tipping hand",
       "woman",
-      "woman tipping hand"
+      "female"
     ]
   },
   {
@@ -2161,9 +2288,11 @@
     "tags": [
       "gesture",
       "hand",
-      "happy",
       "person raising hand",
-      "raised"
+      "raised",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -2171,8 +2300,12 @@
     "tags": [
       "gesture",
       "man",
+      "raising hand",
       "man raising hand",
-      "raising hand"
+      "male",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -2180,8 +2313,12 @@
     "tags": [
       "gesture",
       "raising hand",
+      "woman raising hand",
       "woman",
-      "woman raising hand"
+      "female",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -2189,8 +2326,8 @@
     "tags": [
       "accessibility",
       "deaf",
-      "deaf person",
       "ear",
+      "deaf person",
       "hear"
     ]
   },
@@ -2198,14 +2335,20 @@
     "emoji": "🧏‍♂️",
     "tags": [
       "deaf",
-      "man"
+      "man",
+      "male",
+      "ear",
+      "hear"
     ]
   },
   {
     "emoji": "🧏‍♀️",
     "tags": [
       "deaf",
-      "woman"
+      "woman",
+      "female",
+      "ear",
+      "hear"
     ]
   },
   {
@@ -2213,8 +2356,8 @@
     "tags": [
       "apology",
       "bow",
-      "gesture",
       "person bowing",
+      "gesture",
       "sorry"
     ]
   },
@@ -2223,10 +2366,11 @@
     "tags": [
       "apology",
       "bowing",
-      "favor",
       "gesture",
+      "favor",
       "man",
-      "sorry"
+      "sorry",
+      "male"
     ]
   },
   {
@@ -2234,10 +2378,11 @@
     "tags": [
       "apology",
       "bowing",
-      "favor",
       "gesture",
+      "favor",
       "sorry",
-      "woman"
+      "woman",
+      "female"
     ]
   },
   {
@@ -2245,8 +2390,8 @@
     "tags": [
       "disbelief",
       "exasperation",
-      "face",
       "palm",
+      "face",
       "person facepalming"
     ]
   },
@@ -2255,9 +2400,10 @@
     "tags": [
       "disbelief",
       "exasperation",
-      "facepalm",
       "man",
-      "man facepalming"
+      "facepalm",
+      "man facepalming",
+      "male"
     ]
   },
   {
@@ -2265,9 +2411,10 @@
     "tags": [
       "disbelief",
       "exasperation",
-      "facepalm",
       "woman",
-      "woman facepalming"
+      "facepalm",
+      "woman facepalming",
+      "female"
     ]
   },
   {
@@ -2275,8 +2422,8 @@
     "tags": [
       "doubt",
       "ignorance",
-      "indifference",
       "person shrugging",
+      "indifference",
       "shrug"
     ]
   },
@@ -2285,10 +2432,13 @@
     "tags": [
       "doubt",
       "ignorance",
-      "indifference",
       "man",
+      "indifference",
       "man shrugging",
-      "shrug"
+      "shrug",
+      "male",
+      "idk",
+      "don't know"
     ]
   },
   {
@@ -2296,10 +2446,13 @@
     "tags": [
       "doubt",
       "ignorance",
-      "indifference",
       "shrug",
+      "indifference",
       "woman",
-      "woman shrugging"
+      "woman shrugging",
+      "female",
+      "idk",
+      "don't know"
     ]
   },
   {
@@ -2307,8 +2460,8 @@
     "tags": [
       "doctor",
       "health worker",
-      "healthcare",
       "nurse",
+      "healthcare",
       "therapist"
     ]
   },
@@ -2317,10 +2470,11 @@
     "tags": [
       "doctor",
       "healthcare",
-      "man",
       "man health worker",
+      "man",
       "nurse",
-      "therapist"
+      "therapist",
+      "male"
     ]
   },
   {
@@ -2328,10 +2482,11 @@
     "tags": [
       "doctor",
       "healthcare",
-      "nurse",
       "therapist",
+      "nurse",
       "woman",
-      "woman health worker"
+      "woman health worker",
+      "female"
     ]
   },
   {
@@ -2346,6 +2501,7 @@
     "tags": [
       "graduate",
       "man",
+      "male",
       "student"
     ]
   },
@@ -2354,6 +2510,7 @@
     "tags": [
       "graduate",
       "student",
+      "female",
       "woman"
     ]
   },
@@ -2370,8 +2527,9 @@
     "tags": [
       "instructor",
       "man",
+      "teacher",
       "professor",
-      "teacher"
+      "male"
     ]
   },
   {
@@ -2379,8 +2537,9 @@
     "tags": [
       "instructor",
       "professor",
+      "woman",
       "teacher",
-      "woman"
+      "female"
     ]
   },
   {
@@ -2388,7 +2547,9 @@
     "tags": [
       "judge",
       "justice",
-      "scales"
+      "scales",
+      "law",
+      "court"
     ]
   },
   {
@@ -2396,8 +2557,11 @@
     "tags": [
       "judge",
       "justice",
+      "scales",
       "man",
-      "scales"
+      "male",
+      "law",
+      "court"
     ]
   },
   {
@@ -2405,8 +2569,11 @@
     "tags": [
       "judge",
       "justice",
+      "woman",
       "scales",
-      "woman"
+      "female",
+      "law",
+      "court"
     ]
   },
   {
@@ -2422,8 +2589,9 @@
     "tags": [
       "farmer",
       "gardener",
+      "rancher",
       "man",
-      "rancher"
+      "male"
     ]
   },
   {
@@ -2431,8 +2599,9 @@
     "tags": [
       "farmer",
       "gardener",
+      "woman",
       "rancher",
-      "woman"
+      "female"
     ]
   },
   {
@@ -2447,7 +2616,8 @@
     "tags": [
       "chef",
       "cook",
-      "man"
+      "man",
+      "male"
     ]
   },
   {
@@ -2455,7 +2625,8 @@
     "tags": [
       "chef",
       "cook",
-      "woman"
+      "woman",
+      "female"
     ]
   },
   {
@@ -2463,8 +2634,8 @@
     "tags": [
       "electrician",
       "mechanic",
-      "plumber",
-      "tradesperson"
+      "tradesperson",
+      "plumber"
     ]
   },
   {
@@ -2472,9 +2643,10 @@
     "tags": [
       "electrician",
       "man",
-      "mechanic",
       "plumber",
-      "tradesperson"
+      "mechanic",
+      "tradesperson",
+      "male"
     ]
   },
   {
@@ -2482,9 +2654,10 @@
     "tags": [
       "electrician",
       "mechanic",
-      "plumber",
       "tradesperson",
-      "woman"
+      "plumber",
+      "woman",
+      "female"
     ]
   },
   {
@@ -2492,8 +2665,8 @@
     "tags": [
       "assembly",
       "factory",
-      "industrial",
-      "worker"
+      "worker",
+      "industrial"
     ]
   },
   {
@@ -2501,9 +2674,10 @@
     "tags": [
       "assembly",
       "factory",
-      "industrial",
       "man",
-      "worker"
+      "industrial",
+      "worker",
+      "male"
     ]
   },
   {
@@ -2511,9 +2685,10 @@
     "tags": [
       "assembly",
       "factory",
-      "industrial",
       "woman",
-      "worker"
+      "industrial",
+      "worker",
+      "female"
     ]
   },
   {
@@ -2521,8 +2696,8 @@
     "tags": [
       "architect",
       "business",
-      "manager",
       "office worker",
+      "manager",
       "white-collar"
     ]
   },
@@ -2531,10 +2706,11 @@
     "tags": [
       "architect",
       "business",
-      "man",
       "man office worker",
+      "man",
       "manager",
-      "white-collar"
+      "white-collar",
+      "male"
     ]
   },
   {
@@ -2542,10 +2718,11 @@
     "tags": [
       "architect",
       "business",
-      "manager",
       "white-collar",
+      "manager",
       "woman",
-      "woman office worker"
+      "woman office worker",
+      "female"
     ]
   },
   {
@@ -2553,8 +2730,8 @@
     "tags": [
       "biologist",
       "chemist",
-      "engineer",
       "physicist",
+      "engineer",
       "scientist"
     ]
   },
@@ -2563,10 +2740,11 @@
     "tags": [
       "biologist",
       "chemist",
-      "engineer",
       "man",
+      "engineer",
       "physicist",
-      "scientist"
+      "scientist",
+      "male"
     ]
   },
   {
@@ -2574,10 +2752,11 @@
     "tags": [
       "biologist",
       "chemist",
-      "engineer",
       "physicist",
+      "engineer",
       "scientist",
-      "woman"
+      "woman",
+      "female"
     ]
   },
   {
@@ -2585,8 +2764,8 @@
     "tags": [
       "coder",
       "developer",
-      "inventor",
       "software",
+      "inventor",
       "technologist"
     ]
   },
@@ -2595,10 +2774,11 @@
     "tags": [
       "coder",
       "developer",
-      "inventor",
       "man",
+      "inventor",
       "software",
-      "technologist"
+      "technologist",
+      "male"
     ]
   },
   {
@@ -2606,10 +2786,11 @@
     "tags": [
       "coder",
       "developer",
-      "inventor",
       "software",
+      "inventor",
       "technologist",
-      "woman"
+      "woman",
+      "female"
     ]
   },
   {
@@ -2617,8 +2798,8 @@
     "tags": [
       "actor",
       "entertainer",
-      "rock",
       "singer",
+      "rock",
       "star"
     ]
   },
@@ -2627,10 +2808,11 @@
     "tags": [
       "actor",
       "entertainer",
-      "man",
       "rock",
+      "man",
       "singer",
-      "star"
+      "star",
+      "male"
     ]
   },
   {
@@ -2638,10 +2820,11 @@
     "tags": [
       "actor",
       "entertainer",
-      "rock",
       "singer",
+      "rock",
       "star",
-      "woman"
+      "woman",
+      "female"
     ]
   },
   {
@@ -2656,6 +2839,7 @@
     "tags": [
       "artist",
       "man",
+      "male",
       "palette"
     ]
   },
@@ -2664,29 +2848,29 @@
     "tags": [
       "artist",
       "palette",
+      "female",
       "woman"
     ]
   },
   {
     "emoji": "🧑‍✈️",
     "tags": [
-      "pilot",
-      "plane"
+      "pilot"
     ]
   },
   {
     "emoji": "👨‍✈️",
     "tags": [
-      "man",
       "pilot",
-      "plane"
+      "male",
+      "man"
     ]
   },
   {
     "emoji": "👩‍✈️",
     "tags": [
       "pilot",
-      "plane",
+      "female",
       "woman"
     ]
   },
@@ -2702,6 +2886,7 @@
     "tags": [
       "astronaut",
       "man",
+      "male",
       "rocket"
     ]
   },
@@ -2710,6 +2895,7 @@
     "tags": [
       "astronaut",
       "rocket",
+      "female",
       "woman"
     ]
   },
@@ -2725,6 +2911,7 @@
     "tags": [
       "firefighter",
       "firetruck",
+      "male",
       "man"
     ]
   },
@@ -2733,6 +2920,7 @@
     "tags": [
       "firefighter",
       "firetruck",
+      "female",
       "woman"
     ]
   },
@@ -2749,8 +2937,9 @@
     "tags": [
       "cop",
       "man",
+      "police",
       "officer",
-      "police"
+      "male"
     ]
   },
   {
@@ -2758,8 +2947,9 @@
     "tags": [
       "cop",
       "officer",
+      "woman",
       "police",
-      "woman"
+      "female"
     ]
   },
   {
@@ -2780,14 +2970,16 @@
     "emoji": "💂‍♂️",
     "tags": [
       "guard",
-      "man"
+      "man",
+      "male"
     ]
   },
   {
     "emoji": "💂‍♀️",
     "tags": [
       "guard",
-      "woman"
+      "woman",
+      "female"
     ]
   },
   {
@@ -2795,8 +2987,8 @@
     "tags": [
       "fighter",
       "hidden",
-      "ninja",
-      "stealth"
+      "stealth",
+      "ninja"
     ]
   },
   {
@@ -2812,6 +3004,7 @@
     "tags": [
       "construction",
       "man",
+      "male",
       "worker"
     ]
   },
@@ -2820,13 +3013,16 @@
     "tags": [
       "construction",
       "woman",
+      "female",
       "worker"
     ]
   },
   {
     "emoji": "🤴",
     "tags": [
-      "prince"
+      "prince",
+      "king",
+      "royal"
     ]
   },
   {
@@ -2834,7 +3030,9 @@
     "tags": [
       "fairy tale",
       "fantasy",
-      "princess"
+      "princess",
+      "queen",
+      "royal"
     ]
   },
   {
@@ -2849,6 +3047,7 @@
     "tags": [
       "man",
       "man wearing turban",
+      "male",
       "turban"
     ]
   },
@@ -2857,6 +3056,7 @@
     "tags": [
       "turban",
       "woman",
+      "female",
       "woman wearing turban"
     ]
   },
@@ -2865,8 +3065,8 @@
     "tags": [
       "cap",
       "gua pi mao",
-      "hat",
       "person",
+      "hat",
       "person with skullcap",
       "skullcap"
     ]
@@ -2876,8 +3076,8 @@
     "tags": [
       "headscarf",
       "hijab",
-      "mantilla",
       "tichel",
+      "mantilla",
       "woman with headscarf"
     ]
   },
@@ -2886,8 +3086,9 @@
     "tags": [
       "groom",
       "person",
+      "tuxedo",
       "person in tuxedo",
-      "tuxedo"
+      "wedding"
     ]
   },
   {
@@ -2895,7 +3096,10 @@
     "tags": [
       "man",
       "man in tuxedo",
-      "tuxedo"
+      "male",
+      "tuxedo",
+      "groom",
+      "wedding"
     ]
   },
   {
@@ -2903,7 +3107,10 @@
     "tags": [
       "tuxedo",
       "woman",
-      "woman in tuxedo"
+      "female",
+      "woman in tuxedo",
+      "groom",
+      "wedding"
     ]
   },
   {
@@ -2911,8 +3118,8 @@
     "tags": [
       "bride",
       "person",
-      "person with veil",
       "veil",
+      "person with veil",
       "wedding"
     ]
   },
@@ -2921,7 +3128,9 @@
     "tags": [
       "man",
       "man with veil",
-      "veil"
+      "male",
+      "veil",
+      "bride"
     ]
   },
   {
@@ -2929,14 +3138,18 @@
     "tags": [
       "veil",
       "woman",
-      "woman with veil"
+      "female",
+      "woman with veil",
+      "bride"
     ]
   },
   {
     "emoji": "🤰",
     "tags": [
       "pregnant",
-      "woman"
+      "woman",
+      "female",
+      "baby"
     ]
   },
   {
@@ -2944,8 +3157,8 @@
     "tags": [
       "baby",
       "breast",
-      "breast-feeding",
-      "nursing"
+      "nursing",
+      "breast-feeding"
     ]
   },
   {
@@ -2953,8 +3166,9 @@
     "tags": [
       "baby",
       "feeding",
+      "woman",
       "nursing",
-      "woman"
+      "female"
     ]
   },
   {
@@ -2962,8 +3176,9 @@
     "tags": [
       "baby",
       "feeding",
+      "nursing",
       "man",
-      "nursing"
+      "male"
     ]
   },
   {
@@ -2971,8 +3186,8 @@
     "tags": [
       "baby",
       "feeding",
-      "nursing",
-      "person"
+      "person",
+      "nursing"
     ]
   },
   {
@@ -2980,8 +3195,8 @@
     "tags": [
       "angel",
       "baby",
-      "face",
       "fairy tale",
+      "face",
       "fantasy"
     ]
   },
@@ -2990,10 +3205,11 @@
     "tags": [
       "celebration",
       "Christmas",
-      "claus",
       "father",
+      "claus",
       "santa",
-      "Santa Claus"
+      "Santa Claus",
+      "male"
     ]
   },
   {
@@ -3001,10 +3217,11 @@
     "tags": [
       "celebration",
       "Christmas",
-      "claus",
       "mother",
+      "claus",
       "Mrs.",
-      "Mrs. Claus"
+      "Mrs. Claus",
+      "female"
     ]
   },
   {
@@ -3019,8 +3236,8 @@
     "tags": [
       "good",
       "hero",
-      "heroine",
       "superhero",
+      "heroine",
       "superpower"
     ]
   },
@@ -3029,9 +3246,10 @@
     "tags": [
       "good",
       "hero",
-      "man",
       "man superhero",
-      "superpower"
+      "man",
+      "superpower",
+      "male"
     ]
   },
   {
@@ -3039,10 +3257,11 @@
     "tags": [
       "good",
       "hero",
-      "heroine",
       "superpower",
+      "heroine",
       "woman",
-      "woman superhero"
+      "woman superhero",
+      "female"
     ]
   },
   {
@@ -3050,8 +3269,8 @@
     "tags": [
       "criminal",
       "evil",
-      "superpower",
       "supervillain",
+      "superpower",
       "villain"
     ]
   },
@@ -3060,10 +3279,11 @@
     "tags": [
       "criminal",
       "evil",
-      "man",
       "man supervillain",
+      "man",
       "superpower",
-      "villain"
+      "villain",
+      "male"
     ]
   },
   {
@@ -3071,10 +3291,11 @@
     "tags": [
       "criminal",
       "evil",
-      "superpower",
       "villain",
+      "superpower",
       "woman",
-      "woman supervillain"
+      "woman supervillain",
+      "female"
     ]
   },
   {
@@ -3082,8 +3303,8 @@
     "tags": [
       "mage",
       "sorcerer",
-      "sorceress",
       "witch",
+      "sorceress",
       "wizard"
     ]
   },
@@ -3092,6 +3313,7 @@
     "tags": [
       "man mage",
       "sorcerer",
+      "male",
       "wizard"
     ]
   },
@@ -3100,7 +3322,9 @@
     "tags": [
       "sorceress",
       "witch",
-      "woman mage"
+      "female",
+      "woman mage",
+      "wizard"
     ]
   },
   {
@@ -3108,8 +3332,8 @@
     "tags": [
       "fairy",
       "Oberon",
-      "Puck",
-      "Titania"
+      "Titania",
+      "Puck"
     ]
   },
   {
@@ -3117,14 +3341,18 @@
     "tags": [
       "man fairy",
       "Oberon",
-      "Puck"
+      "male",
+      "Puck",
+      "fairy"
     ]
   },
   {
     "emoji": "🧚‍♀️",
     "tags": [
       "Titania",
-      "woman fairy"
+      "woman fairy",
+      "female",
+      "fairy"
     ]
   },
   {
@@ -3140,6 +3368,7 @@
     "tags": [
       "Dracula",
       "man vampire",
+      "male",
       "undead"
     ]
   },
@@ -3147,7 +3376,9 @@
     "emoji": "🧛‍♀️",
     "tags": [
       "undead",
-      "woman vampire"
+      "woman vampire",
+      "female",
+      "Dracula"
     ]
   },
   {
@@ -3155,22 +3386,24 @@
     "tags": [
       "mermaid",
       "merman",
-      "merperson",
-      "merwoman"
+      "merwoman",
+      "merperson"
     ]
   },
   {
     "emoji": "🧜‍♂️",
     "tags": [
       "merman",
-      "Triton"
+      "Triton",
+      "male"
     ]
   },
   {
     "emoji": "🧜‍♀️",
     "tags": [
       "mermaid",
-      "merwoman"
+      "merwoman",
+      "female"
     ]
   },
   {
@@ -3184,14 +3417,16 @@
     "emoji": "🧝‍♂️",
     "tags": [
       "magical",
-      "man elf"
+      "man elf",
+      "male"
     ]
   },
   {
     "emoji": "🧝‍♀️",
     "tags": [
       "magical",
-      "woman elf"
+      "woman elf",
+      "female"
     ]
   },
   {
@@ -3205,14 +3440,16 @@
     "emoji": "🧞‍♂️",
     "tags": [
       "djinn",
-      "man genie"
+      "man genie",
+      "male"
     ]
   },
   {
     "emoji": "🧞‍♀️",
     "tags": [
       "djinn",
-      "woman genie"
+      "woman genie",
+      "female"
     ]
   },
   {
@@ -3228,6 +3465,7 @@
     "tags": [
       "man zombie",
       "undead",
+      "male",
       "walking dead"
     ]
   },
@@ -3236,6 +3474,7 @@
     "tags": [
       "undead",
       "walking dead",
+      "female",
       "woman zombie"
     ]
   },
@@ -3244,8 +3483,8 @@
     "tags": [
       "face",
       "massage",
-      "person getting massage",
-      "salon"
+      "salon",
+      "person getting massage"
     ]
   },
   {
@@ -3253,8 +3492,9 @@
     "tags": [
       "face",
       "man",
+      "massage",
       "man getting massage",
-      "massage"
+      "male"
     ]
   },
   {
@@ -3262,8 +3502,9 @@
     "tags": [
       "face",
       "massage",
+      "woman getting massage",
       "woman",
-      "woman getting massage"
+      "female"
     ]
   },
   {
@@ -3271,8 +3512,8 @@
     "tags": [
       "barber",
       "beauty",
-      "haircut",
       "parlor",
+      "haircut",
       "person getting haircut"
     ]
   },
@@ -3281,6 +3522,7 @@
     "tags": [
       "haircut",
       "man",
+      "male",
       "man getting haircut"
     ]
   },
@@ -3289,6 +3531,7 @@
     "tags": [
       "haircut",
       "woman",
+      "female",
       "woman getting haircut"
     ]
   },
@@ -3297,8 +3540,8 @@
     "tags": [
       "hike",
       "person walking",
-      "walk",
-      "walking"
+      "walking",
+      "walk"
     ]
   },
   {
@@ -3306,8 +3549,9 @@
     "tags": [
       "hike",
       "man",
+      "walk",
       "man walking",
-      "walk"
+      "male"
     ]
   },
   {
@@ -3315,8 +3559,9 @@
     "tags": [
       "hike",
       "walk",
+      "woman walking",
       "woman",
-      "woman walking"
+      "female"
     ]
   },
   {
@@ -3331,14 +3576,16 @@
     "emoji": "🧍‍♂️",
     "tags": [
       "man",
-      "standing"
+      "standing",
+      "male"
     ]
   },
   {
     "emoji": "🧍‍♀️",
     "tags": [
       "standing",
-      "woman"
+      "woman",
+      "female"
     ]
   },
   {
@@ -3353,14 +3600,16 @@
     "emoji": "🧎‍♂️",
     "tags": [
       "kneeling",
-      "man"
+      "man",
+      "male"
     ]
   },
   {
     "emoji": "🧎‍♀️",
     "tags": [
       "kneeling",
-      "woman"
+      "woman",
+      "female"
     ]
   },
   {
@@ -3376,8 +3625,9 @@
     "tags": [
       "accessibility",
       "blind",
+      "man with white cane",
       "man",
-      "man with white cane"
+      "male"
     ]
   },
   {
@@ -3385,8 +3635,9 @@
     "tags": [
       "accessibility",
       "blind",
+      "woman with white cane",
       "woman",
-      "woman with white cane"
+      "female"
     ]
   },
   {
@@ -3402,8 +3653,9 @@
     "tags": [
       "accessibility",
       "man",
+      "wheelchair",
       "man in motorized wheelchair",
-      "wheelchair"
+      "male"
     ]
   },
   {
@@ -3411,8 +3663,9 @@
     "tags": [
       "accessibility",
       "wheelchair",
+      "woman in motorized wheelchair",
       "woman",
-      "woman in motorized wheelchair"
+      "female"
     ]
   },
   {
@@ -3428,8 +3681,9 @@
     "tags": [
       "accessibility",
       "man",
+      "wheelchair",
       "man in manual wheelchair",
-      "wheelchair"
+      "male"
     ]
   },
   {
@@ -3437,8 +3691,9 @@
     "tags": [
       "accessibility",
       "wheelchair",
+      "woman in manual wheelchair",
       "woman",
-      "woman in manual wheelchair"
+      "female"
     ]
   },
   {
@@ -3454,8 +3709,9 @@
     "tags": [
       "man",
       "marathon",
+      "running",
       "racing",
-      "running"
+      "male"
     ]
   },
   {
@@ -3463,8 +3719,9 @@
     "tags": [
       "marathon",
       "racing",
+      "woman",
       "running",
-      "woman"
+      "female"
     ]
   },
   {
@@ -3472,6 +3729,7 @@
     "tags": [
       "dance",
       "dancing",
+      "female",
       "woman"
     ]
   },
@@ -3480,6 +3738,7 @@
     "tags": [
       "dance",
       "dancing",
+      "male",
       "man"
     ]
   },
@@ -3488,8 +3747,8 @@
     "tags": [
       "business",
       "person",
-      "person in suit levitating",
-      "suit"
+      "suit",
+      "person in suit levitating"
     ]
   },
   {
@@ -3497,8 +3756,8 @@
     "tags": [
       "bunny ear",
       "dancer",
-      "partying",
-      "people with bunny ears"
+      "people with bunny ears",
+      "partying"
     ]
   },
   {
@@ -3506,8 +3765,8 @@
     "tags": [
       "bunny ear",
       "dancer",
-      "men",
       "men with bunny ears",
+      "men",
       "partying"
     ]
   },
@@ -3516,8 +3775,8 @@
     "tags": [
       "bunny ear",
       "dancer",
-      "partying",
       "women",
+      "partying",
       "women with bunny ears"
     ]
   },
@@ -3526,7 +3785,8 @@
     "tags": [
       "person in steamy room",
       "sauna",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -3534,7 +3794,9 @@
     "tags": [
       "man in steamy room",
       "sauna",
-      "steam room"
+      "male",
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -3542,7 +3804,9 @@
     "tags": [
       "sauna",
       "steam room",
-      "woman in steamy room"
+      "female",
+      "woman in steamy room",
+      "spa"
     ]
   },
   {
@@ -3556,14 +3820,16 @@
     "emoji": "🧗‍♂️",
     "tags": [
       "climber",
-      "man climbing"
+      "man climbing",
+      "male"
     ]
   },
   {
     "emoji": "🧗‍♀️",
     "tags": [
       "climber",
-      "woman climbing"
+      "woman climbing",
+      "female"
     ]
   },
   {
@@ -3571,8 +3837,8 @@
     "tags": [
       "fencer",
       "fencing",
-      "person fencing",
-      "sword"
+      "sword",
+      "person fencing"
     ]
   },
   {
@@ -3580,8 +3846,8 @@
     "tags": [
       "horse",
       "jockey",
-      "racehorse",
-      "racing"
+      "racing",
+      "racehorse"
     ]
   },
   {
@@ -3597,8 +3863,8 @@
     "tags": [
       "ski",
       "snow",
-      "snowboard",
-      "snowboarder"
+      "snowboarder",
+      "snowboard"
     ]
   },
   {
@@ -3620,14 +3886,16 @@
     "emoji": "🏄‍♂️",
     "tags": [
       "man",
-      "surfing"
+      "surfing",
+      "male"
     ]
   },
   {
     "emoji": "🏄‍♀️",
     "tags": [
       "surfing",
-      "woman"
+      "woman",
+      "female"
     ]
   },
   {
@@ -3643,8 +3911,9 @@
     "tags": [
       "boat",
       "man",
+      "rowboat",
       "man rowing boat",
-      "rowboat"
+      "male"
     ]
   },
   {
@@ -3652,15 +3921,17 @@
     "tags": [
       "boat",
       "rowboat",
+      "woman rowing boat",
       "woman",
-      "woman rowing boat"
+      "female"
     ]
   },
   {
     "emoji": "🏊",
     "tags": [
       "person swimming",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -3668,7 +3939,9 @@
     "tags": [
       "man",
       "man swimming",
-      "swim"
+      "male",
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -3676,7 +3949,9 @@
     "tags": [
       "swim",
       "woman",
-      "woman swimming"
+      "female",
+      "woman swimming",
+      "swimmer"
     ]
   },
   {
@@ -3699,8 +3974,8 @@
     "tags": [
       "bicycle",
       "biking",
-      "cyclist",
-      "person biking"
+      "person biking",
+      "cyclist"
     ]
   },
   {
@@ -3708,8 +3983,9 @@
     "tags": [
       "bicycle",
       "biking",
+      "man",
       "cyclist",
-      "man"
+      "male"
     ]
   },
   {
@@ -3717,8 +3993,9 @@
     "tags": [
       "bicycle",
       "biking",
+      "woman",
       "cyclist",
-      "woman"
+      "female"
     ]
   },
   {
@@ -3726,8 +4003,8 @@
     "tags": [
       "bicycle",
       "bicyclist",
-      "bike",
       "cyclist",
+      "bike",
       "mountain",
       "person mountain biking"
     ]
@@ -3737,10 +4014,11 @@
     "tags": [
       "bicycle",
       "bike",
-      "cyclist",
       "man",
+      "cyclist",
       "man mountain biking",
-      "mountain"
+      "mountain",
+      "male"
     ]
   },
   {
@@ -3748,10 +4026,11 @@
     "tags": [
       "bicycle",
       "bike",
-      "biking",
       "cyclist",
+      "biking",
       "mountain",
-      "woman"
+      "woman",
+      "female"
     ]
   },
   {
@@ -3767,8 +4046,9 @@
     "tags": [
       "cartwheel",
       "gymnastics",
+      "man cartwheeling",
       "man",
-      "man cartwheeling"
+      "male"
     ]
   },
   {
@@ -3776,8 +4056,9 @@
     "tags": [
       "cartwheel",
       "gymnastics",
+      "woman cartwheeling",
       "woman",
-      "woman cartwheeling"
+      "female"
     ]
   },
   {
@@ -3817,6 +4098,7 @@
     "tags": [
       "man",
       "man playing water polo",
+      "male",
       "water polo"
     ]
   },
@@ -3825,6 +4107,7 @@
     "tags": [
       "water polo",
       "woman",
+      "female",
       "woman playing water polo"
     ]
   },
@@ -3841,6 +4124,7 @@
     "tags": [
       "handball",
       "man",
+      "male",
       "man playing handball"
     ]
   },
@@ -3849,6 +4133,7 @@
     "tags": [
       "handball",
       "woman",
+      "female",
       "woman playing handball"
     ]
   },
@@ -3857,8 +4142,8 @@
     "tags": [
       "balance",
       "juggle",
-      "multitask",
       "person juggling",
+      "multitask",
       "skill"
     ]
   },
@@ -3867,6 +4152,7 @@
     "tags": [
       "juggling",
       "man",
+      "male",
       "multitask"
     ]
   },
@@ -3875,6 +4161,7 @@
     "tags": [
       "juggling",
       "multitask",
+      "female",
       "woman"
     ]
   },
@@ -3883,7 +4170,8 @@
     "tags": [
       "meditation",
       "person in lotus position",
-      "yoga"
+      "yoga",
+      "meditate"
     ]
   },
   {
@@ -3891,7 +4179,9 @@
     "tags": [
       "man in lotus position",
       "meditation",
-      "yoga"
+      "male",
+      "yoga",
+      "meditate"
     ]
   },
   {
@@ -3899,7 +4189,9 @@
     "tags": [
       "meditation",
       "woman in lotus position",
-      "yoga"
+      "female",
+      "yoga",
+      "meditate"
     ]
   },
   {
@@ -3907,16 +4199,18 @@
     "tags": [
       "bath",
       "bathtub",
-      "person taking bath"
+      "person taking bath",
+      "bathing"
     ]
   },
   {
     "emoji": "🛌",
     "tags": [
-      "good night",
       "hotel",
       "person in bed",
-      "sleep"
+      "sleep",
+      "bed",
+      "sleeping"
     ]
   },
   {
@@ -3924,8 +4218,8 @@
     "tags": [
       "couple",
       "hand",
-      "hold",
       "holding hands",
+      "hold",
       "people holding hands",
       "person"
     ]
@@ -3935,9 +4229,10 @@
     "tags": [
       "couple",
       "hand",
-      "holding hands",
       "women",
-      "women holding hands"
+      "holding hands",
+      "women holding hands",
+      "female"
     ]
   },
   {
@@ -3945,11 +4240,13 @@
     "tags": [
       "couple",
       "hand",
+      "holding hands",
       "hold",
       "man",
-      "man and woman holding hands",
       "woman",
-      "woman and man holding hands"
+      "woman and man holding hands",
+      "female",
+      "male"
     ]
   },
   {
@@ -3957,12 +4254,13 @@
     "tags": [
       "couple",
       "Gemini",
-      "holding hands",
       "man",
+      "holding hands",
       "men",
       "men holding hands",
       "twins",
-      "zodiac"
+      "zodiac",
+      "male"
     ]
   },
   {
@@ -3991,9 +4289,11 @@
     "tags": [
       "face",
       "head",
-      "silhouette",
       "speak",
-      "speaking"
+      "silhouette",
+      "speaking",
+      "shadow",
+      "shout"
     ]
   },
   {
@@ -4001,7 +4301,8 @@
     "tags": [
       "bust",
       "bust in silhouette",
-      "silhouette"
+      "silhouette",
+      "shadow"
     ]
   },
   {
@@ -4009,7 +4310,8 @@
     "tags": [
       "bust",
       "busts in silhouette",
-      "silhouette"
+      "silhouette",
+      "shadow"
     ]
   },
   {
@@ -4017,9 +4319,10 @@
     "tags": [
       "goodbye",
       "hello",
-      "hug",
       "people hugging",
-      "thanks"
+      "hug",
+      "thanks",
+      "shadow"
     ]
   },
   {
@@ -4027,8 +4330,8 @@
     "tags": [
       "clothing",
       "footprint",
-      "footprints",
-      "print"
+      "print",
+      "footprints"
     ]
   },
   {
@@ -4062,14 +4365,16 @@
     "tags": [
       "dog",
       "face",
-      "pet"
+      "pet",
+      "puppy"
     ]
   },
   {
     "emoji": "🐕",
     "tags": [
       "dog",
-      "pet"
+      "pet",
+      "puppy"
     ]
   },
   {
@@ -4077,8 +4382,11 @@
     "tags": [
       "accessibility",
       "blind",
+      "guide dog",
       "guide",
-      "guide dog"
+      "dog",
+      "assistance",
+      "service"
     ]
   },
   {
@@ -4086,8 +4394,8 @@
     "tags": [
       "accessibility",
       "assistance",
-      "dog",
-      "service"
+      "service",
+      "dog"
     ]
   },
   {
@@ -4124,14 +4432,18 @@
     "tags": [
       "cat",
       "face",
-      "pet"
+      "pet",
+      "kitten",
+      "kitty"
     ]
   },
   {
     "emoji": "🐈",
     "tags": [
       "cat",
-      "pet"
+      "pet",
+      "kitten",
+      "kitty"
     ]
   },
   {
@@ -4139,7 +4451,9 @@
     "tags": [
       "black",
       "cat",
-      "unlucky"
+      "unlucky",
+      "kitty",
+      "kitten"
     ]
   },
   {
@@ -4147,8 +4461,8 @@
     "tags": [
       "face",
       "Leo",
-      "lion",
-      "zodiac"
+      "zodiac",
+      "lion"
     ]
   },
   {
@@ -4167,7 +4481,10 @@
   {
     "emoji": "🐆",
     "tags": [
-      "leopard"
+      "leopard",
+      "cheetah",
+      "jaguar",
+      "panther"
     ]
   },
   {
@@ -4182,8 +4499,8 @@
     "tags": [
       "equestrian",
       "horse",
-      "racehorse",
-      "racing"
+      "racing",
+      "racehorse"
     ]
   },
   {
@@ -4203,7 +4520,11 @@
   {
     "emoji": "🦌",
     "tags": [
-      "deer"
+      "deer",
+      "elk",
+      "moose",
+      "antelope",
+      "reindeer"
     ]
   },
   {
@@ -4211,15 +4532,16 @@
     "tags": [
       "bison",
       "buffalo",
-      "herd",
-      "wisent"
+      "wisent",
+      "herd"
     ]
   },
   {
     "emoji": "🐮",
     "tags": [
       "cow",
-      "face"
+      "face",
+      "moo"
     ]
   },
   {
@@ -4227,8 +4549,9 @@
     "tags": [
       "bull",
       "ox",
+      "zodiac",
       "Taurus",
-      "zodiac"
+      "cow"
     ]
   },
   {
@@ -4241,28 +4564,32 @@
   {
     "emoji": "🐄",
     "tags": [
-      "cow"
+      "cow",
+      "moo"
     ]
   },
   {
     "emoji": "🐷",
     "tags": [
       "face",
-      "pig"
+      "pig",
+      "piggy"
     ]
   },
   {
     "emoji": "🐖",
     "tags": [
       "pig",
-      "sow"
+      "sow",
+      "piggy"
     ]
   },
   {
     "emoji": "🐗",
     "tags": [
       "boar",
-      "pig"
+      "pig",
+      "piggy"
     ]
   },
   {
@@ -4270,7 +4597,8 @@
     "tags": [
       "face",
       "nose",
-      "pig"
+      "pig",
+      "piggy"
     ]
   },
   {
@@ -4278,8 +4606,8 @@
     "tags": [
       "Aries",
       "male",
-      "ram",
       "sheep",
+      "ram",
       "zodiac"
     ]
   },
@@ -4304,7 +4632,8 @@
     "tags": [
       "camel",
       "dromedary",
-      "hump"
+      "hump",
+      "desert"
     ]
   },
   {
@@ -4312,8 +4641,9 @@
     "tags": [
       "bactrian",
       "camel",
+      "two-hump camel",
       "hump",
-      "two-hump camel"
+      "desert"
     ]
   },
   {
@@ -4321,8 +4651,8 @@
     "tags": [
       "alpaca",
       "guanaco",
-      "llama",
       "vicuña",
+      "llama",
       "wool"
     ]
   },
@@ -4344,15 +4674,16 @@
     "tags": [
       "extinction",
       "large",
-      "mammoth",
       "tusk",
+      "mammoth",
       "woolly"
     ]
   },
   {
     "emoji": "🦏",
     "tags": [
-      "rhinoceros"
+      "rhinoceros",
+      "rhino"
     ]
   },
   {
@@ -4386,7 +4717,10 @@
     "tags": [
       "face",
       "hamster",
-      "pet"
+      "pet",
+      "gerbil",
+      "chinchilla",
+      "guinea pig"
     ]
   },
   {
@@ -4394,8 +4728,8 @@
     "tags": [
       "bunny",
       "face",
-      "pet",
-      "rabbit"
+      "rabbit",
+      "pet"
     ]
   },
   {
@@ -4410,7 +4744,9 @@
     "emoji": "🐿️",
     "tags": [
       "chipmunk",
-      "squirrel"
+      "squirrel",
+      "nuts",
+      "acorn"
     ]
   },
   {
@@ -4446,23 +4782,23 @@
     "tags": [
       "arctic",
       "bear",
-      "polar bear",
-      "white"
+      "white",
+      "polar bear"
     ]
   },
   {
     "emoji": "🐨",
     "tags": [
-      "face",
-      "koala",
-      "marsupial"
+      "bear",
+      "koala"
     ]
   },
   {
     "emoji": "🐼",
     "tags": [
       "face",
-      "panda"
+      "panda",
+      "bear"
     ]
   },
   {
@@ -4493,8 +4829,8 @@
     "tags": [
       "Australia",
       "joey",
-      "jump",
       "kangaroo",
+      "jump",
       "marsupial"
     ]
   },
@@ -4511,8 +4847,8 @@
     "tags": [
       "feet",
       "paw",
-      "paw prints",
-      "print"
+      "print",
+      "paw prints"
     ]
   },
   {
@@ -4526,14 +4862,17 @@
     "emoji": "🐔",
     "tags": [
       "bird",
-      "chicken"
+      "chicken",
+      "hen"
     ]
   },
   {
     "emoji": "🐓",
     "tags": [
       "bird",
-      "rooster"
+      "rooster",
+      "hen",
+      "chicken"
     ]
   },
   {
@@ -4541,8 +4880,8 @@
     "tags": [
       "baby",
       "bird",
-      "chick",
-      "hatching"
+      "hatching",
+      "chick"
     ]
   },
   {
@@ -4558,8 +4897,8 @@
     "tags": [
       "baby",
       "bird",
-      "chick",
-      "front-facing baby chick"
+      "front-facing baby chick",
+      "chick"
     ]
   },
   {
@@ -4580,8 +4919,8 @@
     "tags": [
       "bird",
       "dove",
-      "fly",
-      "peace"
+      "peace",
+      "fly"
     ]
   },
   {
@@ -4603,8 +4942,8 @@
     "tags": [
       "bird",
       "cygnet",
-      "swan",
-      "ugly duckling"
+      "ugly duckling",
+      "swan"
     ]
   },
   {
@@ -4620,8 +4959,8 @@
     "tags": [
       "dodo",
       "extinction",
-      "large",
-      "Mauritius"
+      "Mauritius",
+      "large"
     ]
   },
   {
@@ -4629,8 +4968,8 @@
     "tags": [
       "bird",
       "feather",
-      "flight",
       "light",
+      "flight",
       "plumage"
     ]
   },
@@ -4647,8 +4986,8 @@
     "tags": [
       "bird",
       "ostentatious",
-      "peacock",
       "peahen",
+      "peacock",
       "proud"
     ]
   },
@@ -4657,8 +4996,8 @@
     "tags": [
       "bird",
       "parrot",
-      "pirate",
-      "talk"
+      "talk",
+      "pirate"
     ]
   },
   {
@@ -4694,8 +5033,8 @@
     "tags": [
       "bearer",
       "Ophiuchus",
-      "serpent",
       "snake",
+      "serpent",
       "zodiac"
     ]
   },
@@ -4719,15 +5058,17 @@
     "tags": [
       "brachiosaurus",
       "brontosaurus",
+      "sauropod",
       "diplodocus",
-      "sauropod"
+      "dinosaur"
     ]
   },
   {
     "emoji": "🦖",
     "tags": [
       "T-Rex",
-      "Tyrannosaurus Rex"
+      "Tyrannosaurus Rex",
+      "dinosaur"
     ]
   },
   {
@@ -4849,8 +5190,8 @@
     "tags": [
       "beetle",
       "insect",
-      "lady beetle",
       "ladybird",
+      "lady beetle",
       "ladybug"
     ]
   },
@@ -4866,8 +5207,8 @@
     "tags": [
       "cockroach",
       "insect",
-      "pest",
-      "roach"
+      "roach",
+      "pest"
     ]
   },
   {
@@ -4889,8 +5230,8 @@
     "tags": [
       "scorpio",
       "Scorpio",
-      "scorpion",
-      "zodiac"
+      "zodiac",
+      "scorpion"
     ]
   },
   {
@@ -4898,8 +5239,8 @@
     "tags": [
       "disease",
       "fever",
-      "malaria",
       "mosquito",
+      "malaria",
       "pest",
       "virus"
     ]
@@ -4909,8 +5250,8 @@
     "tags": [
       "disease",
       "fly",
-      "maggot",
       "pest",
+      "maggot",
       "rotting"
     ]
   },
@@ -4919,8 +5260,8 @@
     "tags": [
       "annelid",
       "earthworm",
-      "parasite",
-      "worm"
+      "worm",
+      "parasite"
     ]
   },
   {
@@ -4928,8 +5269,8 @@
     "tags": [
       "amoeba",
       "bacteria",
-      "microbe",
-      "virus"
+      "virus",
+      "microbe"
     ]
   },
   {
@@ -5016,8 +5357,8 @@
     "tags": [
       "boring",
       "grow",
-      "house",
       "nurturing",
+      "house",
       "plant",
       "potted plant",
       "useless"
@@ -5057,8 +5398,8 @@
     "tags": [
       "ear",
       "grain",
-      "rice",
-      "sheaf of rice"
+      "sheaf of rice",
+      "rice"
     ]
   },
   {
@@ -5071,8 +5412,11 @@
   {
     "emoji": "☘️",
     "tags": [
-      "plant",
-      "shamrock"
+      "clover",
+      "shamrock",
+      "three-leaf clover",
+      "three",
+      "leaf"
     ]
   },
   {
@@ -5080,8 +5424,8 @@
     "tags": [
       "4",
       "clover",
-      "four",
       "four-leaf clover",
+      "four",
       "leaf"
     ]
   },
@@ -5106,8 +5450,8 @@
     "tags": [
       "blow",
       "flutter",
-      "leaf",
       "leaf fluttering in wind",
+      "leaf",
       "wind"
     ]
   },
@@ -5206,8 +5550,8 @@
     "tags": [
       "berries",
       "cherries",
-      "cherry",
       "fruit",
+      "cherry",
       "red"
     ]
   },
@@ -5224,8 +5568,8 @@
     "tags": [
       "berry",
       "bilberry",
-      "blue",
       "blueberries",
+      "blue",
       "blueberry"
     ]
   },
@@ -5297,8 +5641,8 @@
     "tags": [
       "corn",
       "ear",
-      "ear of corn",
       "maize",
+      "ear of corn",
       "maze"
     ]
   },
@@ -5314,8 +5658,8 @@
     "tags": [
       "bell pepper",
       "capsicum",
-      "pepper",
-      "vegetable"
+      "vegetable",
+      "pepper"
     ]
   },
   {
@@ -5323,8 +5667,8 @@
     "tags": [
       "cucumber",
       "food",
-      "pickle",
-      "vegetable"
+      "vegetable",
+      "pickle"
     ]
   },
   {
@@ -5332,8 +5676,8 @@
     "tags": [
       "bok choy",
       "cabbage",
-      "kale",
       "leafy green",
+      "kale",
       "lettuce"
     ]
   },
@@ -5370,8 +5714,8 @@
     "tags": [
       "food",
       "nut",
-      "peanut",
       "peanuts",
+      "peanut",
       "vegetable"
     ]
   },
@@ -5394,8 +5738,8 @@
     "tags": [
       "bread",
       "breakfast",
-      "croissant",
       "food",
+      "croissant",
       "french",
       "roll"
     ]
@@ -5405,8 +5749,8 @@
     "tags": [
       "baguette",
       "bread",
-      "food",
-      "french"
+      "french",
+      "food"
     ]
   },
   {
@@ -5414,8 +5758,8 @@
     "tags": [
       "arepa",
       "flatbread",
-      "lavash",
       "naan",
+      "lavash",
       "pita"
     ]
   },
@@ -5431,8 +5775,8 @@
     "tags": [
       "bagel",
       "bakery",
-      "breakfast",
-      "schmear"
+      "schmear",
+      "breakfast"
     ]
   },
   {
@@ -5440,8 +5784,8 @@
     "tags": [
       "breakfast",
       "crêpe",
-      "food",
       "hotcake",
+      "food",
       "pancake",
       "pancakes"
     ]
@@ -5451,8 +5795,8 @@
     "tags": [
       "breakfast",
       "indecisive",
-      "iron",
-      "waffle"
+      "waffle",
+      "iron"
     ]
   },
   {
@@ -5475,8 +5819,8 @@
     "tags": [
       "bone",
       "chicken",
-      "drumstick",
       "leg",
+      "drumstick",
       "poultry"
     ]
   },
@@ -5485,8 +5829,8 @@
     "tags": [
       "chop",
       "cut of meat",
-      "lambchop",
       "porkchop",
+      "lambchop",
       "steak"
     ]
   },
@@ -5495,8 +5839,8 @@
     "tags": [
       "bacon",
       "breakfast",
-      "food",
-      "meat"
+      "meat",
+      "food"
     ]
   },
   {
@@ -5526,8 +5870,8 @@
     "tags": [
       "frankfurter",
       "hot dog",
-      "hotdog",
-      "sausage"
+      "sausage",
+      "hotdog"
     ]
   },
   {
@@ -5565,10 +5909,11 @@
     "tags": [
       "falafel",
       "flatbread",
-      "food",
       "gyro",
+      "food",
       "kebab",
-      "stuffed"
+      "stuffed",
+      "pita"
     ]
   },
   {
@@ -5592,8 +5937,8 @@
     "tags": [
       "breakfast",
       "cooking",
-      "egg",
       "frying",
+      "egg",
       "pan"
     ]
   },
@@ -5602,8 +5947,8 @@
     "tags": [
       "casserole",
       "food",
-      "paella",
       "pan",
+      "paella",
       "shallow",
       "shallow pan of food"
     ]
@@ -5621,8 +5966,8 @@
     "tags": [
       "cheese",
       "chocolate",
-      "fondue",
       "melted",
+      "fondue",
       "pot",
       "Swiss"
     ]
@@ -5632,8 +5977,8 @@
     "tags": [
       "bowl with spoon",
       "breakfast",
-      "cereal",
-      "congee"
+      "congee",
+      "cereal"
     ]
   },
   {
@@ -5713,8 +6058,8 @@
     "tags": [
       "bowl",
       "noodle",
-      "ramen",
-      "steaming"
+      "steaming",
+      "ramen"
     ]
   },
   {
@@ -5737,8 +6082,8 @@
     "tags": [
       "kebab",
       "oden",
-      "seafood",
       "skewer",
+      "seafood",
       "stick"
     ]
   },
@@ -5753,8 +6098,8 @@
     "tags": [
       "fried",
       "prawn",
-      "shrimp",
-      "tempura"
+      "tempura",
+      "shrimp"
     ]
   },
   {
@@ -5762,8 +6107,8 @@
     "tags": [
       "cake",
       "fish",
-      "fish cake with swirl",
       "pastry",
+      "fish cake with swirl",
       "swirl"
     ]
   },
@@ -5772,8 +6117,8 @@
     "tags": [
       "autumn",
       "festival",
-      "moon cake",
-      "yuèbǐng"
+      "yuèbǐng",
+      "moon cake"
     ]
   },
   {
@@ -5781,8 +6126,8 @@
     "tags": [
       "dango",
       "dessert",
-      "Japanese",
       "skewer",
+      "Japanese",
       "stick",
       "sweet"
     ]
@@ -5792,8 +6137,8 @@
     "tags": [
       "dumpling",
       "empanada",
-      "gyōza",
       "jiaozi",
+      "gyōza",
       "pierogi",
       "potsticker"
     ]
@@ -5825,8 +6170,8 @@
     "tags": [
       "bisque",
       "claws",
-      "lobster",
-      "seafood"
+      "seafood",
+      "lobster"
     ]
   },
   {
@@ -5834,8 +6179,8 @@
     "tags": [
       "food",
       "shellfish",
-      "shrimp",
-      "small"
+      "small",
+      "shrimp"
     ]
   },
   {
@@ -5859,8 +6204,8 @@
     "tags": [
       "cream",
       "dessert",
-      "ice",
       "icecream",
+      "ice",
       "soft",
       "sweet"
     ]
@@ -5870,8 +6215,8 @@
     "tags": [
       "dessert",
       "ice",
-      "shaved",
-      "sweet"
+      "sweet",
+      "shaved"
     ]
   },
   {
@@ -5879,8 +6224,8 @@
     "tags": [
       "cream",
       "dessert",
-      "ice",
-      "sweet"
+      "sweet",
+      "ice"
     ]
   },
   {
@@ -5888,8 +6233,8 @@
     "tags": [
       "breakfast",
       "dessert",
-      "donut",
       "doughnut",
+      "donut",
       "sweet"
     ]
   },
@@ -5898,6 +6243,7 @@
     "tags": [
       "cookie",
       "dessert",
+      "chocolate chip",
       "sweet"
     ]
   },
@@ -5906,8 +6252,8 @@
     "tags": [
       "birthday",
       "cake",
-      "celebration",
       "dessert",
+      "celebration",
       "pastry",
       "sweet"
     ]
@@ -5917,8 +6263,8 @@
     "tags": [
       "cake",
       "dessert",
-      "pastry",
       "shortcake",
+      "pastry",
       "slice",
       "sweet"
     ]
@@ -5944,8 +6290,8 @@
     "tags": [
       "bar",
       "chocolate",
-      "dessert",
-      "sweet"
+      "sweet",
+      "dessert"
     ]
   },
   {
@@ -5961,8 +6307,8 @@
     "tags": [
       "candy",
       "dessert",
-      "lollipop",
-      "sweet"
+      "sweet",
+      "lollipop"
     ]
   },
   {
@@ -5970,8 +6316,8 @@
     "tags": [
       "custard",
       "dessert",
-      "pudding",
-      "sweet"
+      "sweet",
+      "pudding"
     ]
   },
   {
@@ -5979,8 +6325,8 @@
     "tags": [
       "honey",
       "honeypot",
-      "pot",
-      "sweet"
+      "sweet",
+      "pot"
     ]
   },
   {
@@ -5988,8 +6334,8 @@
     "tags": [
       "baby",
       "bottle",
-      "drink",
-      "milk"
+      "milk",
+      "drink"
     ]
   },
   {
@@ -5997,8 +6343,8 @@
     "tags": [
       "drink",
       "glass",
-      "glass of milk",
-      "milk"
+      "milk",
+      "glass of milk"
     ]
   },
   {
@@ -6006,8 +6352,8 @@
     "tags": [
       "beverage",
       "coffee",
-      "drink",
       "hot",
+      "drink",
       "steaming",
       "tea"
     ]
@@ -6017,8 +6363,8 @@
     "tags": [
       "drink",
       "pot",
-      "tea",
-      "teapot"
+      "teapot",
+      "tea"
     ]
   },
   {
@@ -6026,8 +6372,8 @@
     "tags": [
       "beverage",
       "cup",
-      "drink",
       "tea",
+      "drink",
       "teacup",
       "teacup without handle"
     ]
@@ -6037,8 +6383,8 @@
     "tags": [
       "bar",
       "beverage",
-      "bottle",
       "cup",
+      "bottle",
       "drink",
       "sake"
     ]
@@ -6048,8 +6394,8 @@
     "tags": [
       "bar",
       "bottle",
-      "bottle with popping cork",
       "cork",
+      "bottle with popping cork",
       "drink",
       "popping"
     ]
@@ -6059,8 +6405,8 @@
     "tags": [
       "bar",
       "beverage",
-      "drink",
       "glass",
+      "drink",
       "wine"
     ]
   },
@@ -6069,8 +6415,8 @@
     "tags": [
       "bar",
       "cocktail",
-      "drink",
-      "glass"
+      "glass",
+      "drink"
     ]
   },
   {
@@ -6086,8 +6432,8 @@
     "tags": [
       "bar",
       "beer",
-      "drink",
-      "mug"
+      "mug",
+      "drink"
     ]
   },
   {
@@ -6095,8 +6441,8 @@
     "tags": [
       "bar",
       "beer",
-      "clink",
       "clinking beer mugs",
+      "clink",
       "drink",
       "mug"
     ]
@@ -6106,8 +6452,8 @@
     "tags": [
       "celebrate",
       "clink",
-      "clinking glasses",
       "drink",
+      "clinking glasses",
       "glass"
     ]
   },
@@ -6116,8 +6462,8 @@
     "tags": [
       "glass",
       "liquor",
-      "shot",
       "tumbler",
+      "shot",
       "whisky"
     ]
   },
@@ -6134,8 +6480,8 @@
     "tags": [
       "bubble",
       "milk",
-      "pearl",
-      "tea"
+      "tea",
+      "pearl"
     ]
   },
   {
@@ -6143,8 +6489,8 @@
     "tags": [
       "beverage",
       "box",
-      "juice",
       "straw",
+      "juice",
       "sweet"
     ]
   },
@@ -6160,8 +6506,8 @@
     "tags": [
       "cold",
       "ice",
-      "ice cube",
-      "iceberg"
+      "iceberg",
+      "ice cube"
     ]
   },
   {
@@ -6176,8 +6522,8 @@
     "tags": [
       "cooking",
       "fork",
-      "fork and knife with plate",
       "knife",
+      "fork and knife with plate",
       "plate"
     ]
   },
@@ -6186,8 +6532,8 @@
     "tags": [
       "cooking",
       "cutlery",
-      "fork",
       "fork and knife",
+      "fork",
       "knife"
     ]
   },
@@ -6203,8 +6549,8 @@
     "tags": [
       "cooking",
       "hocho",
-      "kitchen knife",
       "knife",
+      "kitchen knife",
       "tool",
       "weapon"
     ]
@@ -6214,8 +6560,8 @@
     "tags": [
       "amphora",
       "Aquarius",
-      "cooking",
       "drink",
+      "cooking",
       "jug",
       "zodiac"
     ]
@@ -6225,8 +6571,8 @@
     "tags": [
       "Africa",
       "earth",
-      "Europe",
       "globe",
+      "Europe",
       "globe showing Europe-Africa",
       "world"
     ]
@@ -6236,8 +6582,8 @@
     "tags": [
       "Americas",
       "earth",
-      "globe",
       "globe showing Americas",
+      "globe",
       "world"
     ]
   },
@@ -6246,8 +6592,8 @@
     "tags": [
       "Asia",
       "Australia",
-      "earth",
       "globe",
+      "earth",
       "globe showing Asia-Australia",
       "world"
     ]
@@ -6257,8 +6603,8 @@
     "tags": [
       "earth",
       "globe",
-      "globe with meridians",
       "meridians",
+      "globe with meridians",
       "world"
     ]
   },
@@ -6282,8 +6628,8 @@
     "tags": [
       "compass",
       "magnetic",
-      "navigation",
-      "orienteering"
+      "orienteering",
+      "navigation"
     ]
   },
   {
@@ -6291,8 +6637,8 @@
     "tags": [
       "cold",
       "mountain",
-      "snow",
-      "snow-capped mountain"
+      "snow-capped mountain",
+      "snow"
     ]
   },
   {
@@ -6376,8 +6722,8 @@
     "tags": [
       "brick",
       "bricks",
-      "clay",
       "mortar",
+      "clay",
       "wall"
     ]
   },
@@ -6386,8 +6732,8 @@
     "tags": [
       "boulder",
       "heavy",
-      "rock",
       "solid",
+      "rock",
       "stone"
     ]
   },
@@ -6396,8 +6742,8 @@
     "tags": [
       "log",
       "lumber",
-      "timber",
-      "wood"
+      "wood",
+      "timber"
     ]
   },
   {
@@ -6405,8 +6751,8 @@
     "tags": [
       "house",
       "hut",
-      "roundhouse",
-      "yurt"
+      "yurt",
+      "roundhouse"
     ]
   },
   {
@@ -6425,7 +6771,7 @@
   {
     "emoji": "🏠",
     "tags": [
-      "home",
+      "hejma",
       "house"
     ]
   },
@@ -6433,9 +6779,9 @@
     "emoji": "🏡",
     "tags": [
       "garden",
-      "home",
-      "house",
-      "house with garden"
+      "hejma",
+      "house with garden",
+      "house"
     ]
   },
   {
@@ -6560,8 +6906,8 @@
     "tags": [
       "Christian",
       "church",
-      "cross",
-      "religion"
+      "religion",
+      "cross"
     ]
   },
   {
@@ -6569,8 +6915,8 @@
     "tags": [
       "islam",
       "mosque",
-      "Muslim",
-      "religion"
+      "religion",
+      "Muslim"
     ]
   },
   {
@@ -6585,8 +6931,8 @@
     "tags": [
       "Jew",
       "Jewish",
-      "religion",
       "synagogue",
+      "religion",
       "temple"
     ]
   },
@@ -6603,8 +6949,8 @@
     "tags": [
       "islam",
       "kaaba",
-      "Muslim",
-      "religion"
+      "religion",
+      "Muslim"
     ]
   },
   {
@@ -6647,8 +6993,8 @@
     "tags": [
       "morning",
       "mountain",
-      "sun",
       "sunrise",
+      "sun",
       "sunrise over mountains"
     ]
   },
@@ -6665,8 +7011,8 @@
     "tags": [
       "city",
       "cityscape at dusk",
-      "dusk",
       "evening",
+      "dusk",
       "landscape",
       "sunset"
     ]
@@ -6685,15 +7031,6 @@
       "bridge",
       "bridge at night",
       "night"
-    ]
-  },
-  {
-    "emoji": "♨️",
-    "tags": [
-      "hot",
-      "hotsprings",
-      "springs",
-      "steaming"
     ]
   },
   {
@@ -6739,18 +7076,18 @@
     "tags": [
       "engine",
       "locomotive",
-      "railway",
       "steam",
+      "railway",
       "train"
     ]
   },
   {
     "emoji": "🚃",
     "tags": [
-      "car",
+      "train car",
       "electric",
-      "railway",
       "train",
+      "railway",
       "tram",
       "trolleybus"
     ]
@@ -6760,8 +7097,8 @@
     "tags": [
       "high-speed train",
       "railway",
-      "shinkansen",
       "speed",
+      "shinkansen",
       "train"
     ]
   },
@@ -6770,8 +7107,8 @@
     "tags": [
       "bullet",
       "railway",
-      "shinkansen",
       "speed",
+      "shinkansen",
       "train"
     ]
   },
@@ -6821,7 +7158,7 @@
   {
     "emoji": "🚞",
     "tags": [
-      "car",
+      "train car",
       "mountain",
       "railway"
     ]
@@ -6829,7 +7166,7 @@
   {
     "emoji": "🚋",
     "tags": [
-      "car",
+      "train car",
       "tram",
       "trolleybus"
     ]
@@ -6853,8 +7190,8 @@
     "tags": [
       "bus",
       "tram",
-      "trolley",
-      "trolleybus"
+      "trolleybus",
+      "trolley"
     ]
   },
   {
@@ -6952,8 +7289,8 @@
     "tags": [
       "articulated lorry",
       "lorry",
-      "semi",
-      "truck"
+      "truck",
+      "semi"
     ]
   },
   {
@@ -6967,7 +7304,9 @@
     "emoji": "🏎️",
     "tags": [
       "car",
-      "racing"
+      "racing",
+      "race",
+      "racecar"
     ]
   },
   {
@@ -6981,21 +7320,24 @@
     "emoji": "🛵",
     "tags": [
       "motor",
-      "scooter"
+      "scooter",
+      "moped"
     ]
   },
   {
     "emoji": "🦽",
     "tags": [
       "accessibility",
-      "manual wheelchair"
+      "manual wheelchair",
+      "wheelchair"
     ]
   },
   {
     "emoji": "🦼",
     "tags": [
       "accessibility",
-      "motorized wheelchair"
+      "motorized wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -7037,6 +7379,7 @@
     "emoji": "🚏",
     "tags": [
       "bus",
+      "busstop",
       "stop"
     ]
   },
@@ -7068,8 +7411,8 @@
     "tags": [
       "diesel",
       "fuel",
-      "fuelpump",
       "gas",
+      "fuelpump",
       "pump",
       "station"
     ]
@@ -7078,10 +7421,13 @@
     "emoji": "🚨",
     "tags": [
       "beacon",
-      "car",
-      "light",
       "police",
-      "revolving"
+      "light",
+      "revolving",
+      "alarm",
+      "alert",
+      "emergency",
+      "siren"
     ]
   },
   {
@@ -7089,8 +7435,9 @@
     "tags": [
       "horizontal traffic light",
       "light",
+      "traffic",
       "signal",
-      "traffic"
+      "stoplight"
     ]
   },
   {
@@ -7098,8 +7445,9 @@
     "tags": [
       "light",
       "signal",
+      "vertical traffic light",
       "traffic",
-      "vertical traffic light"
+      "stoplight"
     ]
   },
   {
@@ -7130,8 +7478,8 @@
     "tags": [
       "boat",
       "resort",
-      "sailboat",
       "sea",
+      "sailboat",
       "yacht"
     ]
   },
@@ -7184,7 +7532,9 @@
     "emoji": "✈️",
     "tags": [
       "aeroplane",
-      "airplane"
+      "airplane",
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -7192,7 +7542,8 @@
     "tags": [
       "aeroplane",
       "airplane",
-      "small airplane"
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -7200,9 +7551,10 @@
     "tags": [
       "aeroplane",
       "airplane",
-      "check-in",
       "departure",
-      "departures"
+      "check-in",
+      "departures",
+      "plane"
     ]
   },
   {
@@ -7210,10 +7562,11 @@
     "tags": [
       "aeroplane",
       "airplane",
-      "airplane arrival",
       "arrivals",
+      "airplane arrival",
       "arriving",
-      "landing"
+      "landing",
+      "plane"
     ]
   },
   {
@@ -7221,8 +7574,8 @@
     "tags": [
       "hang-glide",
       "parachute",
-      "parasail",
-      "skydive"
+      "skydive",
+      "parasail"
     ]
   },
   {
@@ -7251,8 +7604,8 @@
     "tags": [
       "cable",
       "gondola",
-      "mountain",
-      "mountain cableway"
+      "mountain cableway",
+      "mountain"
     ]
   },
   {
@@ -7260,8 +7613,8 @@
     "tags": [
       "aerial",
       "cable",
-      "car",
       "gondola",
+      "car",
       "tramway"
     ]
   },
@@ -7276,7 +7629,8 @@
     "emoji": "🚀",
     "tags": [
       "rocket",
-      "space"
+      "space",
+      "spaceship"
     ]
   },
   {
@@ -7315,8 +7669,8 @@
     "tags": [
       "hourglass",
       "hourglass not done",
-      "sand",
-      "timer"
+      "timer",
+      "sand"
     ]
   },
   {
@@ -7357,10 +7711,10 @@
   {
     "emoji": "🕛",
     "tags": [
-      "00",
+      "0",
       "12",
-      "12:00",
       "clock",
+      "12:00",
       "o’clock",
       "twelve"
     ]
@@ -7370,8 +7724,8 @@
     "tags": [
       "12",
       "12:30",
-      "clock",
       "thirty",
+      "clock",
       "twelve",
       "twelve-thirty"
     ]
@@ -7379,10 +7733,10 @@
   {
     "emoji": "🕐",
     "tags": [
-      "00",
+      "0",
       "1",
-      "1:00",
       "clock",
+      "1:00",
       "o’clock",
       "one"
     ]
@@ -7392,8 +7746,8 @@
     "tags": [
       "1",
       "1:30",
-      "clock",
       "one",
+      "clock",
       "one-thirty",
       "thirty"
     ]
@@ -7401,10 +7755,10 @@
   {
     "emoji": "🕑",
     "tags": [
-      "00",
+      "0",
       "2",
-      "2:00",
       "clock",
+      "2:00",
       "o’clock",
       "two"
     ]
@@ -7414,8 +7768,8 @@
     "tags": [
       "2",
       "2:30",
-      "clock",
       "thirty",
+      "clock",
       "two",
       "two-thirty"
     ]
@@ -7423,10 +7777,10 @@
   {
     "emoji": "🕒",
     "tags": [
-      "00",
+      "0",
       "3",
-      "3:00",
       "clock",
+      "3:00",
       "o’clock",
       "three"
     ]
@@ -7436,8 +7790,8 @@
     "tags": [
       "3",
       "3:30",
-      "clock",
       "thirty",
+      "clock",
       "three",
       "three-thirty"
     ]
@@ -7445,10 +7799,10 @@
   {
     "emoji": "🕓",
     "tags": [
-      "00",
+      "0",
       "4",
-      "4:00",
       "clock",
+      "4:00",
       "four",
       "o’clock"
     ]
@@ -7458,8 +7812,8 @@
     "tags": [
       "4",
       "4:30",
-      "clock",
       "four",
+      "clock",
       "four-thirty",
       "thirty"
     ]
@@ -7467,10 +7821,10 @@
   {
     "emoji": "🕔",
     "tags": [
-      "00",
+      "0",
       "5",
-      "5:00",
       "clock",
+      "5:00",
       "five",
       "o’clock"
     ]
@@ -7480,8 +7834,8 @@
     "tags": [
       "5",
       "5:30",
-      "clock",
       "five",
+      "clock",
       "five-thirty",
       "thirty"
     ]
@@ -7489,10 +7843,10 @@
   {
     "emoji": "🕕",
     "tags": [
-      "00",
+      "0",
       "6",
-      "6:00",
       "clock",
+      "6:00",
       "o’clock",
       "six"
     ]
@@ -7502,9 +7856,8 @@
     "tags": [
       "6",
       "6:30",
-      "clock",
-      "half past six",
       "six",
+      "clock",
       "six-thirty",
       "thirty"
     ]
@@ -7512,10 +7865,10 @@
   {
     "emoji": "🕖",
     "tags": [
-      "00",
+      "0",
       "7",
-      "7:00",
       "clock",
+      "7:00",
       "o’clock",
       "seven"
     ]
@@ -7525,8 +7878,8 @@
     "tags": [
       "7",
       "7:30",
-      "clock",
       "seven",
+      "clock",
       "seven-thirty",
       "thirty"
     ]
@@ -7534,10 +7887,10 @@
   {
     "emoji": "🕗",
     "tags": [
-      "00",
+      "0",
       "8",
-      "8:00",
       "clock",
+      "8:00",
       "eight",
       "o’clock"
     ]
@@ -7547,8 +7900,8 @@
     "tags": [
       "8",
       "8:30",
-      "clock",
       "eight",
+      "clock",
       "eight-thirty",
       "thirty"
     ]
@@ -7556,10 +7909,10 @@
   {
     "emoji": "🕘",
     "tags": [
-      "00",
+      "0",
       "9",
-      "9:00",
       "clock",
+      "9:00",
       "nine",
       "o’clock"
     ]
@@ -7569,8 +7922,8 @@
     "tags": [
       "9",
       "9:30",
-      "clock",
       "nine",
+      "clock",
       "nine-thirty",
       "thirty"
     ]
@@ -7578,10 +7931,10 @@
   {
     "emoji": "🕙",
     "tags": [
-      "00",
+      "0",
       "10",
-      "10:00",
       "clock",
+      "10:00",
       "o’clock",
       "ten"
     ]
@@ -7591,8 +7944,8 @@
     "tags": [
       "10",
       "10:30",
-      "clock",
       "ten",
+      "clock",
       "ten-thirty",
       "thirty"
     ]
@@ -7600,10 +7953,10 @@
   {
     "emoji": "🕚",
     "tags": [
-      "00",
+      "0",
       "11",
-      "11:00",
       "clock",
+      "11:00",
       "eleven",
       "o’clock"
     ]
@@ -7613,8 +7966,8 @@
     "tags": [
       "11",
       "11:30",
-      "clock",
       "eleven",
+      "clock",
       "eleven-thirty",
       "thirty"
     ]
@@ -7702,8 +8055,8 @@
     "tags": [
       "face",
       "first quarter moon face",
-      "moon",
-      "quarter"
+      "quarter",
+      "moon"
     ]
   },
   {
@@ -7711,8 +8064,8 @@
     "tags": [
       "face",
       "last quarter moon face",
-      "moon",
-      "quarter"
+      "quarter",
+      "moon"
     ]
   },
   {
@@ -7723,21 +8076,19 @@
     ]
   },
   {
-    "emoji": "☀️",
-    "tags": [
-      "bright",
-      "rays",
-      "sun",
-      "sunny"
-    ]
-  },
-  {
     "emoji": "🌝",
     "tags": [
       "bright",
       "face",
-      "full",
-      "moon"
+      "moon",
+      "full"
+    ]
+  },
+  {
+    "emoji": "☀️",
+    "tags": [
+      "sun",
+      "bright"
     ]
   },
   {
@@ -7745,8 +8096,8 @@
     "tags": [
       "bright",
       "face",
-      "sun",
-      "sun with face"
+      "sun with face",
+      "sun"
     ]
   },
   {
@@ -7768,8 +8119,8 @@
     "tags": [
       "glittery",
       "glow",
-      "glowing star",
       "shining",
+      "glowing star",
       "sparkle",
       "star"
     ]
@@ -7786,14 +8137,14 @@
     "emoji": "🌌",
     "tags": [
       "milky way",
-      "space"
+      "space",
+      "galaxy"
     ]
   },
   {
     "emoji": "☁️",
     "tags": [
-      "cloud",
-      "weather"
+      "cloud"
     ]
   },
   {
@@ -7809,8 +8160,8 @@
     "tags": [
       "cloud",
       "cloud with lightning and rain",
-      "rain",
-      "thunder"
+      "thunder",
+      "rain"
     ]
   },
   {
@@ -7834,8 +8185,8 @@
     "tags": [
       "cloud",
       "rain",
-      "sun",
-      "sun behind rain cloud"
+      "sun behind rain cloud",
+      "sun"
     ]
   },
   {
@@ -7851,8 +8202,8 @@
     "tags": [
       "cloud",
       "cloud with snow",
-      "cold",
-      "snow"
+      "snow",
+      "cold"
     ]
   },
   {
@@ -7883,8 +8234,8 @@
     "tags": [
       "blow",
       "cloud",
-      "face",
-      "wind"
+      "wind",
+      "face"
     ]
   },
   {
@@ -7892,8 +8243,8 @@
     "tags": [
       "cyclone",
       "dizzy",
-      "hurricane",
       "twister",
+      "hurricane",
       "typhoon"
     ]
   },
@@ -7901,7 +8252,25 @@
     "emoji": "🌈",
     "tags": [
       "rain",
-      "rainbow"
+      "rainbow",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "pride",
+      "gay",
+      "lesbian",
+      "queer",
+      "transgender",
+      "trans",
+      "intersex",
+      "asexual"
+    ]
+  },
+  {
+    "emoji": "☂️",
+    "tags": [
+      "umbrella",
+      "rain"
     ]
   },
   {
@@ -7909,16 +8278,8 @@
     "tags": [
       "closed umbrella",
       "clothing",
-      "rain",
-      "umbrella"
-    ]
-  },
-  {
-    "emoji": "☂️",
-    "tags": [
-      "clothing",
-      "rain",
-      "umbrella"
+      "umbrella",
+      "rain"
     ]
   },
   {
@@ -7926,8 +8287,8 @@
     "tags": [
       "clothing",
       "drop",
-      "rain",
       "umbrella",
+      "rain",
       "umbrella with rain drops"
     ]
   },
@@ -7936,8 +8297,8 @@
     "tags": [
       "rain",
       "sun",
-      "umbrella",
-      "umbrella on ground"
+      "umbrella on ground",
+      "umbrella"
     ]
   },
   {
@@ -7945,18 +8306,10 @@
     "tags": [
       "danger",
       "electric",
-      "high voltage",
       "lightning",
+      "high voltage",
       "voltage",
       "zap"
-    ]
-  },
-  {
-    "emoji": "❄️",
-    "tags": [
-      "cold",
-      "snow",
-      "snowflake"
     ]
   },
   {
@@ -7972,8 +8325,8 @@
     "tags": [
       "cold",
       "snow",
-      "snowman",
-      "snowman without snow"
+      "snowman without snow",
+      "snowman"
     ]
   },
   {
@@ -7981,6 +8334,15 @@
     "tags": [
       "comet",
       "space"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "snow",
+      "snowflake",
+      "cold",
+      "ice"
     ]
   },
   {
@@ -7996,9 +8358,10 @@
     "tags": [
       "cold",
       "comic",
-      "drop",
       "droplet",
-      "sweat"
+      "drop",
+      "sweat",
+      "water"
     ]
   },
   {
@@ -8014,9 +8377,10 @@
     "tags": [
       "celebration",
       "halloween",
-      "jack",
       "jack-o-lantern",
-      "lantern"
+      "jack",
+      "lantern",
+      "pumpkin"
     ]
   },
   {
@@ -8039,8 +8403,8 @@
     "tags": [
       "celebration",
       "fireworks",
-      "sparkle",
-      "sparkler"
+      "sparkler",
+      "sparkle"
     ]
   },
   {
@@ -8048,8 +8412,8 @@
     "tags": [
       "dynamite",
       "explosive",
-      "firecracker",
-      "fireworks"
+      "fireworks",
+      "firecracker"
     ]
   },
   {
@@ -8057,8 +8421,8 @@
     "tags": [
       "*",
       "sparkle",
-      "sparkles",
-      "star"
+      "star",
+      "sparkles"
     ]
   },
   {
@@ -8073,8 +8437,9 @@
     "tags": [
       "celebration",
       "party",
+      "tada",
       "popper",
-      "tada"
+      "confetti"
     ]
   },
   {
@@ -8082,7 +8447,8 @@
     "tags": [
       "ball",
       "celebration",
-      "confetti"
+      "confetti",
+      "party"
     ]
   },
   {
@@ -8090,8 +8456,8 @@
     "tags": [
       "banner",
       "celebration",
-      "Japanese",
       "tanabata tree",
+      "Japanese",
       "tree"
     ]
   },
@@ -8100,8 +8466,8 @@
     "tags": [
       "bamboo",
       "celebration",
-      "Japanese",
       "pine",
+      "Japanese",
       "pine decoration"
     ]
   },
@@ -8110,8 +8476,8 @@
     "tags": [
       "celebration",
       "doll",
-      "festival",
       "Japanese",
+      "festival",
       "Japanese dolls"
     ]
   },
@@ -8128,8 +8494,8 @@
     "tags": [
       "bell",
       "celebration",
-      "chime",
-      "wind"
+      "wind",
+      "chime"
     ]
   },
   {
@@ -8137,8 +8503,8 @@
     "tags": [
       "celebration",
       "ceremony",
-      "moon",
-      "moon viewing ceremony"
+      "moon viewing ceremony",
+      "moon"
     ]
   },
   {
@@ -8146,8 +8512,8 @@
     "tags": [
       "gift",
       "good luck",
-      "hóngbāo",
       "lai see",
+      "hóngbāo",
       "money",
       "red envelope"
     ]
@@ -8156,7 +8522,8 @@
     "emoji": "🎀",
     "tags": [
       "celebration",
-      "ribbon"
+      "ribbon",
+      "bow"
     ]
   },
   {
@@ -8164,8 +8531,8 @@
     "tags": [
       "box",
       "celebration",
-      "gift",
       "present",
+      "gift",
       "wrapped"
     ]
   },
@@ -8197,21 +8564,26 @@
     "tags": [
       "celebration",
       "medal",
-      "military"
+      "military",
+      "award"
     ]
   },
   {
     "emoji": "🏆",
     "tags": [
       "prize",
-      "trophy"
+      "trophy",
+      "award",
+      "win"
     ]
   },
   {
     "emoji": "🏅",
     "tags": [
       "medal",
-      "sports medal"
+      "sports medal",
+      "star",
+      "win"
     ]
   },
   {
@@ -8219,8 +8591,12 @@
     "tags": [
       "1st place medal",
       "first",
+      "medal",
       "gold",
-      "medal"
+      "1",
+      "award",
+      "prize",
+      "win"
     ]
   },
   {
@@ -8228,8 +8604,12 @@
     "tags": [
       "2nd place medal",
       "medal",
+      "silver",
       "second",
-      "silver"
+      "2",
+      "award",
+      "prize",
+      "win"
     ]
   },
   {
@@ -8237,8 +8617,12 @@
     "tags": [
       "3rd place medal",
       "bronze",
+      "third",
       "medal",
-      "third"
+      "3",
+      "award",
+      "prize",
+      "win"
     ]
   },
   {
@@ -8261,8 +8645,8 @@
     "tags": [
       "ball",
       "glove",
-      "softball",
-      "underarm"
+      "underarm",
+      "softball"
     ]
   },
   {
@@ -8325,8 +8709,8 @@
     "tags": [
       "ball",
       "bat",
-      "cricket game",
-      "game"
+      "game",
+      "cricket game"
     ]
   },
   {
@@ -8334,8 +8718,8 @@
     "tags": [
       "ball",
       "field",
-      "game",
       "hockey",
+      "game",
       "stick"
     ]
   },
@@ -8344,8 +8728,8 @@
     "tags": [
       "game",
       "hockey",
-      "ice",
       "puck",
+      "ice",
       "stick"
     ]
   },
@@ -8354,8 +8738,8 @@
     "tags": [
       "ball",
       "goal",
-      "lacrosse",
-      "stick"
+      "stick",
+      "lacrosse"
     ]
   },
   {
@@ -8363,8 +8747,8 @@
     "tags": [
       "ball",
       "bat",
-      "game",
       "paddle",
+      "game",
       "ping pong",
       "table tennis"
     ]
@@ -8374,8 +8758,8 @@
     "tags": [
       "badminton",
       "birdie",
-      "game",
       "racquet",
+      "game",
       "shuttlecock"
     ]
   },
@@ -8391,8 +8775,8 @@
     "tags": [
       "judo",
       "karate",
-      "martial arts",
       "martial arts uniform",
+      "martial arts",
       "taekwondo",
       "uniform"
     ]
@@ -8432,8 +8816,8 @@
     "tags": [
       "diving",
       "diving mask",
-      "scuba",
-      "snorkeling"
+      "snorkeling",
+      "scuba"
     ]
   },
   {
@@ -8441,8 +8825,8 @@
     "tags": [
       "athletics",
       "running",
-      "sash",
-      "shirt"
+      "shirt",
+      "sash"
     ]
   },
   {
@@ -8474,8 +8858,8 @@
     "tags": [
       "bullseye",
       "dart",
-      "direct hit",
       "game",
+      "direct hit",
       "hit",
       "target"
     ]
@@ -8501,8 +8885,8 @@
     "tags": [
       "8",
       "ball",
-      "billiard",
       "eight",
+      "billiard",
       "game",
       "pool 8 ball"
     ]
@@ -8512,8 +8896,8 @@
     "tags": [
       "ball",
       "crystal",
-      "fairy tale",
       "fantasy",
+      "fairy tale",
       "fortune",
       "tool"
     ]
@@ -8523,8 +8907,8 @@
     "tags": [
       "magic",
       "magic wand",
-      "witch",
-      "wizard"
+      "wizard",
+      "witch"
     ]
   },
   {
@@ -8532,8 +8916,8 @@
     "tags": [
       "bead",
       "charm",
-      "evil-eye",
       "nazar",
+      "evil-eye",
       "nazar amulet",
       "talisman"
     ]
@@ -8559,7 +8943,9 @@
     "tags": [
       "game",
       "slot",
-      "slot machine"
+      "slot machine",
+      "gambling",
+      "casino"
     ]
   },
   {
@@ -8575,8 +8961,8 @@
     "tags": [
       "clue",
       "interlocking",
-      "jigsaw",
       "piece",
+      "jigsaw",
       "puzzle"
     ]
   },
@@ -8585,8 +8971,8 @@
     "tags": [
       "plaything",
       "plush",
-      "stuffed",
       "teddy bear",
+      "stuffed",
       "toy"
     ]
   },
@@ -8603,49 +8989,9 @@
     "tags": [
       "doll",
       "nesting",
+      "russia",
       "nesting dolls",
-      "russia"
-    ]
-  },
-  {
-    "emoji": "♠️",
-    "tags": [
-      "card",
-      "game",
-      "spade suit"
-    ]
-  },
-  {
-    "emoji": "♥️",
-    "tags": [
-      "card",
-      "game",
-      "heart suit"
-    ]
-  },
-  {
-    "emoji": "♦️",
-    "tags": [
-      "card",
-      "diamond suit",
-      "game"
-    ]
-  },
-  {
-    "emoji": "♣️",
-    "tags": [
-      "card",
-      "club suit",
-      "game"
-    ]
-  },
-  {
-    "emoji": "♟️",
-    "tags": [
-      "chess",
-      "chess pawn",
-      "dupe",
-      "expendable"
+      "matryoshka"
     ]
   },
   {
@@ -8653,8 +8999,8 @@
     "tags": [
       "card",
       "game",
-      "joker",
-      "wildcard"
+      "wildcard",
+      "joker"
     ]
   },
   {
@@ -8662,8 +9008,8 @@
     "tags": [
       "game",
       "mahjong",
-      "mahjong red dragon",
-      "red"
+      "red",
+      "mahjong red dragon"
     ]
   },
   {
@@ -8671,8 +9017,8 @@
     "tags": [
       "card",
       "flower",
-      "flower playing cards",
       "game",
+      "flower playing cards",
       "Japanese",
       "playing"
     ]
@@ -8682,8 +9028,8 @@
     "tags": [
       "art",
       "mask",
-      "performing",
       "performing arts",
+      "performing",
       "theater",
       "theatre"
     ]
@@ -8693,8 +9039,8 @@
     "tags": [
       "art",
       "frame",
-      "framed picture",
       "museum",
+      "framed picture",
       "painting",
       "picture"
     ]
@@ -8704,8 +9050,8 @@
     "tags": [
       "art",
       "artist palette",
-      "museum",
       "painting",
+      "museum",
       "palette"
     ]
   },
@@ -8714,8 +9060,8 @@
     "tags": [
       "needle",
       "sewing",
-      "spool",
       "string",
+      "spool",
       "thread"
     ]
   },
@@ -8724,8 +9070,8 @@
     "tags": [
       "embroidery",
       "needle",
-      "sewing",
       "stitches",
+      "sewing",
       "sutures",
       "tailoring"
     ]
@@ -8735,8 +9081,8 @@
     "tags": [
       "ball",
       "crochet",
-      "knit",
-      "yarn"
+      "yarn",
+      "knit"
     ]
   },
   {
@@ -8744,8 +9090,8 @@
     "tags": [
       "knot",
       "rope",
-      "tangled",
       "tie",
+      "tangled",
       "twine",
       "twist"
     ]
@@ -8755,8 +9101,8 @@
     "tags": [
       "clothing",
       "eye",
-      "eyeglasses",
       "eyewear",
+      "eyeglasses",
       "glasses"
     ]
   },
@@ -8765,8 +9111,8 @@
     "tags": [
       "dark",
       "eye",
-      "eyewear",
       "glasses",
+      "eyewear",
       "sunglasses"
     ]
   },
@@ -8775,8 +9121,8 @@
     "tags": [
       "eye protection",
       "goggles",
-      "swimming",
-      "welding"
+      "welding",
+      "swimming"
     ]
   },
   {
@@ -8784,8 +9130,8 @@
     "tags": [
       "doctor",
       "experiment",
-      "lab coat",
-      "scientist"
+      "scientist",
+      "lab coat"
     ]
   },
   {
@@ -8809,8 +9155,8 @@
     "tags": [
       "clothing",
       "shirt",
-      "t-shirt",
-      "tshirt"
+      "tshirt",
+      "t-shirt"
     ]
   },
   {
@@ -8818,8 +9164,8 @@
     "tags": [
       "clothing",
       "jeans",
-      "pants",
-      "trousers"
+      "trousers",
+      "pants"
     ]
   },
   {
@@ -8833,7 +9179,8 @@
     "emoji": "🧤",
     "tags": [
       "gloves",
-      "hand"
+      "hand",
+      "mittens"
     ]
   },
   {
@@ -8884,8 +9231,8 @@
     "tags": [
       "bathing suit",
       "briefs",
-      "one-piece",
       "swimsuit",
+      "one-piece",
       "underwear"
     ]
   },
@@ -8894,8 +9241,8 @@
     "tags": [
       "bathing suit",
       "pants",
-      "shorts",
-      "underwear"
+      "underwear",
+      "shorts"
     ]
   },
   {
@@ -8927,8 +9274,8 @@
     "tags": [
       "bag",
       "clothing",
-      "handbag",
-      "purse"
+      "purse",
+      "handbag"
     ]
   },
   {
@@ -8936,8 +9283,8 @@
     "tags": [
       "bag",
       "clothing",
-      "clutch bag",
-      "pouch"
+      "pouch",
+      "clutch bag"
     ]
   },
   {
@@ -8945,8 +9292,8 @@
     "tags": [
       "bag",
       "hotel",
-      "shopping",
-      "shopping bags"
+      "shopping bags",
+      "shopping"
     ]
   },
   {
@@ -8954,8 +9301,8 @@
     "tags": [
       "backpack",
       "bag",
-      "rucksack",
       "satchel",
+      "rucksack",
       "school"
     ]
   },
@@ -8963,10 +9310,9 @@
     "emoji": "🩴",
     "tags": [
       "beach sandals",
-      "flip-flop",
       "sandals",
-      "thong sandal",
       "thong sandals",
+      "thong sandal",
       "thongs",
       "zōri"
     ]
@@ -8976,8 +9322,8 @@
     "tags": [
       "clothing",
       "man",
-      "man’s shoe",
-      "shoe"
+      "shoe",
+      "man’s shoe"
     ]
   },
   {
@@ -8985,8 +9331,8 @@
     "tags": [
       "athletic",
       "clothing",
-      "running shoe",
       "shoe",
+      "running shoe",
       "sneaker"
     ]
   },
@@ -8995,8 +9341,8 @@
     "tags": [
       "backpacking",
       "boot",
-      "camping",
-      "hiking"
+      "hiking",
+      "camping"
     ]
   },
   {
@@ -9004,8 +9350,8 @@
     "tags": [
       "ballet flat",
       "flat shoe",
-      "slip-on",
-      "slipper"
+      "slipper",
+      "slip-on"
     ]
   },
   {
@@ -9013,8 +9359,8 @@
     "tags": [
       "clothing",
       "heel",
-      "high-heeled shoe",
       "shoe",
+      "high-heeled shoe",
       "woman"
     ]
   },
@@ -9023,8 +9369,8 @@
     "tags": [
       "clothing",
       "sandal",
-      "shoe",
       "woman",
+      "shoe",
       "woman’s sandal"
     ]
   },
@@ -9041,8 +9387,8 @@
     "tags": [
       "boot",
       "clothing",
-      "shoe",
       "woman",
+      "shoe",
       "woman’s boot"
     ]
   },
@@ -9051,8 +9397,8 @@
     "tags": [
       "clothing",
       "crown",
-      "king",
-      "queen"
+      "queen",
+      "king"
     ]
   },
   {
@@ -9060,8 +9406,8 @@
     "tags": [
       "clothing",
       "hat",
-      "woman",
-      "woman’s hat"
+      "woman’s hat",
+      "woman"
     ]
   },
   {
@@ -9069,8 +9415,8 @@
     "tags": [
       "clothing",
       "hat",
-      "top",
-      "tophat"
+      "tophat",
+      "top"
     ]
   },
   {
@@ -9078,8 +9424,8 @@
     "tags": [
       "cap",
       "celebration",
-      "clothing",
       "graduation",
+      "clothing",
       "hat"
     ]
   },
@@ -9095,8 +9441,8 @@
     "tags": [
       "army",
       "helmet",
-      "military",
       "soldier",
+      "military",
       "warrior"
     ]
   },
@@ -9105,8 +9451,8 @@
     "tags": [
       "aid",
       "cross",
-      "face",
       "hat",
+      "face",
       "helmet",
       "rescue worker’s helmet"
     ]
@@ -9116,8 +9462,8 @@
     "tags": [
       "beads",
       "clothing",
-      "necklace",
       "prayer",
+      "necklace",
       "religion"
     ]
   },
@@ -9141,8 +9487,8 @@
     "tags": [
       "diamond",
       "gem",
-      "gem stone",
-      "jewel"
+      "jewel",
+      "gem stone"
     ]
   },
   {
@@ -9150,9 +9496,10 @@
     "tags": [
       "mute",
       "muted speaker",
-      "quiet",
       "silent",
-      "speaker"
+      "quiet",
+      "speaker",
+      "volume"
     ]
   },
   {
@@ -9202,7 +9549,8 @@
   {
     "emoji": "🔔",
     "tags": [
-      "bell"
+      "bell",
+      "ring"
     ]
   },
   {
@@ -9210,8 +9558,8 @@
     "tags": [
       "bell",
       "bell with slash",
-      "forbidden",
       "mute",
+      "forbidden",
       "quiet",
       "silent"
     ]
@@ -9237,8 +9585,8 @@
     "tags": [
       "music",
       "musical notes",
-      "note",
-      "notes"
+      "notes",
+      "note"
     ]
   },
   {
@@ -9246,8 +9594,8 @@
     "tags": [
       "mic",
       "microphone",
-      "music",
-      "studio"
+      "studio",
+      "music"
     ]
   },
   {
@@ -9293,8 +9641,8 @@
     "tags": [
       "instrument",
       "music",
-      "sax",
-      "saxophone"
+      "saxophone",
+      "sax"
     ]
   },
   {
@@ -9314,12 +9662,19 @@
     ]
   },
   {
+    "emoji": "⌨️",
+    "tags": [
+      "keyboard",
+      "computer keyboard"
+    ]
+  },
+  {
     "emoji": "🎹",
     "tags": [
       "instrument",
       "keyboard",
-      "music",
       "musical keyboard",
+      "music",
       "piano"
     ]
   },
@@ -9360,8 +9715,8 @@
     "tags": [
       "beat",
       "conga",
-      "drum",
       "long drum",
+      "drum",
       "rhythm"
     ]
   },
@@ -9369,9 +9724,10 @@
     "emoji": "📱",
     "tags": [
       "cell",
-      "mobile",
-      "phone",
-      "telephone"
+      "portebla",
+      "telephone",
+      "telefono",
+      "smartphone"
     ]
   },
   {
@@ -9379,23 +9735,24 @@
     "tags": [
       "arrow",
       "cell",
-      "mobile",
       "mobile phone with arrow",
-      "phone",
-      "receive"
+      "portebla",
+      "telefono",
+      "receive",
+      "smartphone"
     ]
   },
   {
     "emoji": "☎️",
     "tags": [
-      "phone",
+      "telefono",
       "telephone"
     ]
   },
   {
     "emoji": "📞",
     "tags": [
-      "phone",
+      "telefono",
       "receiver",
       "telephone"
     ]
@@ -9403,7 +9760,8 @@
   {
     "emoji": "📟",
     "tags": [
-      "pager"
+      "pager",
+      "beeper"
     ]
   },
   {
@@ -9432,15 +9790,17 @@
     "tags": [
       "computer",
       "laptop",
-      "pc",
-      "personal"
+      "personal",
+      "pc"
     ]
   },
   {
     "emoji": "🖥️",
     "tags": [
       "computer",
-      "desktop"
+      "desktop",
+      "monitor",
+      "screen"
     ]
   },
   {
@@ -9448,13 +9808,6 @@
     "tags": [
       "computer",
       "printer"
-    ]
-  },
-  {
-    "emoji": "⌨️",
-    "tags": [
-      "computer",
-      "keyboard"
     ]
   },
   {
@@ -9476,8 +9829,8 @@
     "tags": [
       "computer",
       "disk",
-      "minidisk",
-      "optical"
+      "optical",
+      "minidisk"
     ]
   },
   {
@@ -9485,26 +9838,26 @@
     "tags": [
       "computer",
       "disk",
+      "save",
       "floppy"
     ]
   },
   {
     "emoji": "💿",
     "tags": [
-      "CD",
+      "cd",
       "computer",
-      "disk",
-      "optical"
+      "optical",
+      "disk"
     ]
   },
   {
     "emoji": "📀",
     "tags": [
-      "Blu-ray",
+      "blu-ray",
       "computer",
-      "disk",
       "dvd",
-      "DVD",
+      "disk",
       "optical"
     ]
   },
@@ -9528,8 +9881,8 @@
     "tags": [
       "cinema",
       "film",
-      "frames",
-      "movie"
+      "movie",
+      "frames"
     ]
   },
   {
@@ -9537,9 +9890,11 @@
     "tags": [
       "cinema",
       "film",
-      "movie",
       "projector",
-      "video"
+      "movie",
+      "video",
+      "camera",
+      "blue"
     ]
   },
   {
@@ -9570,15 +9925,16 @@
     "tags": [
       "camera",
       "camera with flash",
-      "flash",
-      "video"
+      "video",
+      "flash"
     ]
   },
   {
     "emoji": "📹",
     "tags": [
       "camera",
-      "video"
+      "video",
+      "camcorder"
     ]
   },
   {
@@ -9586,18 +9942,8 @@
     "tags": [
       "tape",
       "vhs",
-      "video",
-      "videocassette"
-    ]
-  },
-  {
-    "emoji": "🔍",
-    "tags": [
-      "glass",
-      "magnifying",
-      "magnifying glass tilted left",
-      "search",
-      "tool"
+      "videocassette",
+      "video"
     ]
   },
   {
@@ -9605,8 +9951,18 @@
     "tags": [
       "glass",
       "magnifying",
-      "magnifying glass tilted right",
       "search",
+      "magnifying glass tilted right",
+      "tool"
+    ]
+  },
+  {
+    "emoji": "🔍",
+    "tags": [
+      "glass",
+      "magnifying",
+      "search",
+      "magnifying glass tilted left",
       "tool"
     ]
   },
@@ -9622,9 +9978,10 @@
     "tags": [
       "bulb",
       "comic",
-      "electric",
       "idea",
-      "light"
+      "electric",
+      "light",
+      "lightbulb"
     ]
   },
   {
@@ -9632,8 +9989,8 @@
     "tags": [
       "electric",
       "flashlight",
-      "light",
       "tool",
+      "light",
       "torch"
     ]
   },
@@ -9642,8 +9999,8 @@
     "tags": [
       "bar",
       "lantern",
-      "light",
       "red",
+      "light",
       "red paper lantern"
     ]
   },
@@ -9660,8 +10017,8 @@
     "tags": [
       "book",
       "cover",
-      "decorated",
       "notebook",
+      "decorated",
       "notebook with decorative cover"
     ]
   },
@@ -9725,8 +10082,8 @@
     "tags": [
       "curl",
       "document",
-      "page",
-      "page with curl"
+      "page with curl",
+      "page"
     ]
   },
   {
@@ -9757,8 +10114,8 @@
     "tags": [
       "news",
       "newspaper",
-      "paper",
       "rolled",
+      "paper",
       "rolled-up newspaper"
     ]
   },
@@ -9767,8 +10124,8 @@
     "tags": [
       "bookmark",
       "mark",
-      "marker",
-      "tabs"
+      "tabs",
+      "marker"
     ]
   },
   {
@@ -9781,7 +10138,8 @@
   {
     "emoji": "🏷️",
     "tags": [
-      "label"
+      "label",
+      "tag"
     ]
   },
   {
@@ -9789,8 +10147,8 @@
     "tags": [
       "bag",
       "dollar",
-      "money",
-      "moneybag"
+      "moneybag",
+      "money"
     ]
   },
   {
@@ -9798,8 +10156,8 @@
     "tags": [
       "coin",
       "gold",
-      "metal",
       "money",
+      "metal",
       "silver",
       "treasure"
     ]
@@ -9809,8 +10167,8 @@
     "tags": [
       "banknote",
       "bill",
-      "currency",
       "money",
+      "currency",
       "note",
       "yen"
     ]
@@ -9820,8 +10178,8 @@
     "tags": [
       "banknote",
       "bill",
-      "currency",
       "dollar",
+      "currency",
       "money",
       "note"
     ]
@@ -9831,8 +10189,8 @@
     "tags": [
       "banknote",
       "bill",
-      "currency",
       "euro",
+      "currency",
       "money",
       "note"
     ]
@@ -9842,8 +10200,8 @@
     "tags": [
       "banknote",
       "bill",
-      "currency",
       "money",
+      "currency",
       "note",
       "pound"
     ]
@@ -9853,8 +10211,8 @@
     "tags": [
       "banknote",
       "bill",
-      "fly",
       "money",
+      "fly",
       "money with wings",
       "wings"
     ]
@@ -9872,8 +10230,8 @@
     "tags": [
       "accounting",
       "bookkeeping",
-      "evidence",
       "proof",
+      "evidence",
       "receipt"
     ]
   },
@@ -9882,25 +10240,25 @@
     "tags": [
       "chart",
       "chart increasing with yen",
-      "graph",
       "growth",
+      "graph",
       "money",
       "yen"
-    ]
-  },
-  {
-    "emoji": "✉️",
-    "tags": [
-      "email",
-      "envelope",
-      "letter"
     ]
   },
   {
     "emoji": "📧",
     "tags": [
       "e-mail",
-      "email",
+      "retpoŝto",
+      "mail",
+      "letter"
+    ]
+  },
+  {
+    "emoji": "✉️",
+    "tags": [
+      "envelope",
       "letter",
       "mail"
     ]
@@ -9909,9 +10267,9 @@
     "emoji": "📨",
     "tags": [
       "e-mail",
-      "email",
-      "envelope",
+      "retpoŝto",
       "incoming",
+      "envelope",
       "letter",
       "receive"
     ]
@@ -9921,8 +10279,8 @@
     "tags": [
       "arrow",
       "e-mail",
-      "email",
       "envelope",
+      "retpoŝto",
       "envelope with arrow",
       "outgoing"
     ]
@@ -9932,8 +10290,8 @@
     "tags": [
       "box",
       "letter",
-      "mail",
       "outbox",
+      "mail",
       "sent",
       "tray"
     ]
@@ -9943,8 +10301,8 @@
     "tags": [
       "box",
       "inbox",
-      "letter",
       "mail",
+      "letter",
       "receive",
       "tray"
     ]
@@ -9962,8 +10320,8 @@
     "tags": [
       "closed",
       "closed mailbox with raised flag",
-      "mail",
       "mailbox",
+      "mail",
       "postbox"
     ]
   },
@@ -9972,8 +10330,8 @@
     "tags": [
       "closed",
       "closed mailbox with lowered flag",
-      "lowered",
       "mail",
+      "lowered",
       "mailbox",
       "postbox"
     ]
@@ -9983,8 +10341,8 @@
     "tags": [
       "mail",
       "mailbox",
-      "open",
       "open mailbox with raised flag",
+      "open",
       "postbox"
     ]
   },
@@ -9993,8 +10351,8 @@
     "tags": [
       "lowered",
       "mail",
-      "mailbox",
       "open",
+      "mailbox",
       "open mailbox with lowered flag",
       "postbox"
     ]
@@ -10016,17 +10374,11 @@
     ]
   },
   {
-    "emoji": "✏️",
-    "tags": [
-      "pencil"
-    ]
-  },
-  {
     "emoji": "✒️",
     "tags": [
-      "black nib",
-      "nib",
-      "pen"
+      "pen",
+      "pen nib",
+      "nib"
     ]
   },
   {
@@ -10057,10 +10409,19 @@
     ]
   },
   {
+    "emoji": "✏️",
+    "tags": [
+      "pencil"
+    ]
+  },
+  {
     "emoji": "📝",
     "tags": [
       "memo",
-      "pencil"
+      "pencil",
+      "pencil and paper",
+      "paper",
+      "write"
     ]
   },
   {
@@ -10111,8 +10472,8 @@
     "tags": [
       "note",
       "pad",
-      "spiral",
-      "spiral notepad"
+      "spiral notepad",
+      "spiral"
     ]
   },
   {
@@ -10136,8 +10497,8 @@
     "tags": [
       "chart",
       "chart increasing",
-      "graph",
       "growth",
+      "graph",
       "trend",
       "upward"
     ]
@@ -10147,8 +10508,8 @@
     "tags": [
       "chart",
       "chart decreasing",
-      "down",
       "graph",
+      "down",
       "trend"
     ]
   },
@@ -10164,6 +10525,44 @@
     "emoji": "📋",
     "tags": [
       "clipboard"
+    ]
+  },
+  {
+    "emoji": "⚖️",
+    "tags": [
+      "scale",
+      "balance",
+      "law"
+    ]
+  },
+  {
+    "emoji": "⚙️",
+    "tags": [
+      "gear",
+      "cog",
+      "machine"
+    ]
+  },
+  {
+    "emoji": "⚔️",
+    "tags": [
+      "sword",
+      "fencing",
+      "crossed swords"
+    ]
+  },
+  {
+    "emoji": "⚒️",
+    "tags": [
+      "hammer",
+      "pick"
+    ]
+  },
+  {
+    "emoji": "✂️",
+    "tags": [
+      "scissors",
+      "cut"
     ]
   },
   {
@@ -10208,16 +10607,8 @@
     "tags": [
       "ruler",
       "set",
-      "triangle",
-      "triangular ruler"
-    ]
-  },
-  {
-    "emoji": "✂️",
-    "tags": [
-      "cutting",
-      "scissors",
-      "tool"
+      "triangular ruler",
+      "triangle"
     ]
   },
   {
@@ -10239,14 +10630,18 @@
   {
     "emoji": "🗑️",
     "tags": [
-      "wastebasket"
+      "wastebasket",
+      "trash",
+      "can"
     ]
   },
   {
     "emoji": "🔒",
     "tags": [
       "closed",
-      "locked"
+      "locked",
+      "lock",
+      "padlock"
     ]
   },
   {
@@ -10254,8 +10649,9 @@
     "tags": [
       "lock",
       "open",
+      "unlocked",
       "unlock",
-      "unlocked"
+      "padlock"
     ]
   },
   {
@@ -10263,10 +10659,11 @@
     "tags": [
       "ink",
       "lock",
-      "locked with pen",
       "nib",
+      "locked with pen",
       "pen",
-      "privacy"
+      "privacy",
+      "padlock"
     ]
   },
   {
@@ -10274,9 +10671,10 @@
     "tags": [
       "closed",
       "key",
-      "lock",
       "locked with key",
-      "secure"
+      "lock",
+      "secure",
+      "padlock"
     ]
   },
   {
@@ -10292,8 +10690,8 @@
     "tags": [
       "clue",
       "key",
-      "lock",
-      "old"
+      "old",
+      "lock"
     ]
   },
   {
@@ -10308,8 +10706,8 @@
     "tags": [
       "axe",
       "chop",
-      "hatchet",
       "split",
+      "hatchet",
       "wood"
     ]
   },
@@ -10322,21 +10720,12 @@
     ]
   },
   {
-    "emoji": "⚒️",
-    "tags": [
-      "hammer",
-      "hammer and pick",
-      "pick",
-      "tool"
-    ]
-  },
-  {
     "emoji": "🛠️",
     "tags": [
       "hammer",
       "hammer and wrench",
-      "spanner",
       "tool",
+      "spanner",
       "wrench"
     ]
   },
@@ -10349,20 +10738,12 @@
     ]
   },
   {
-    "emoji": "⚔️",
-    "tags": [
-      "crossed",
-      "swords",
-      "weapon"
-    ]
-  },
-  {
     "emoji": "🔫",
     "tags": [
       "gun",
       "handgun",
-      "pistol",
       "revolver",
+      "pistol",
       "tool",
       "water",
       "weapon"
@@ -10373,8 +10754,8 @@
     "tags": [
       "australia",
       "boomerang",
-      "rebound",
-      "repercussion"
+      "repercussion",
+      "rebound"
     ]
   },
   {
@@ -10382,8 +10763,8 @@
     "tags": [
       "archer",
       "arrow",
-      "bow",
       "bow and arrow",
+      "bow",
       "Sagittarius",
       "zodiac"
     ]
@@ -10400,8 +10781,8 @@
     "tags": [
       "carpenter",
       "carpentry saw",
-      "lumber",
       "saw",
+      "lumber",
       "tool"
     ]
   },
@@ -10426,17 +10807,8 @@
     "tags": [
       "bolt",
       "nut",
-      "nut and bolt",
-      "tool"
-    ]
-  },
-  {
-    "emoji": "⚙️",
-    "tags": [
-      "cog",
-      "cogwheel",
-      "gear",
-      "tool"
+      "tool",
+      "nut and bolt"
     ]
   },
   {
@@ -10444,18 +10816,8 @@
     "tags": [
       "clamp",
       "compress",
-      "tool",
-      "vice"
-    ]
-  },
-  {
-    "emoji": "⚖️",
-    "tags": [
-      "balance",
-      "justice",
-      "Libra",
-      "scale",
-      "zodiac"
+      "vice",
+      "tool"
     ]
   },
   {
@@ -10473,6 +10835,25 @@
     ]
   },
   {
+    "emoji": "⚱️",
+    "tags": [
+      "funeral",
+      "urn",
+      "death",
+      "dead"
+    ]
+  },
+  {
+    "emoji": "⚰️",
+    "tags": [
+      "coffin",
+      "death",
+      "dead",
+      "casket",
+      "funeral"
+    ]
+  },
+  {
     "emoji": "⛓️",
     "tags": [
       "chain",
@@ -10484,8 +10865,8 @@
     "tags": [
       "catch",
       "crook",
-      "curve",
       "ensnare",
+      "curve",
       "hook",
       "selling point"
     ]
@@ -10495,8 +10876,8 @@
     "tags": [
       "chest",
       "mechanic",
-      "tool",
-      "toolbox"
+      "toolbox",
+      "tool"
     ]
   },
   {
@@ -10504,8 +10885,8 @@
     "tags": [
       "attraction",
       "horseshoe",
-      "magnet",
-      "magnetic"
+      "magnetic",
+      "magnet"
     ]
   },
   {
@@ -10513,16 +10894,8 @@
     "tags": [
       "climb",
       "ladder",
-      "rung",
-      "step"
-    ]
-  },
-  {
-    "emoji": "⚗️",
-    "tags": [
-      "alembic",
-      "chemistry",
-      "tool"
+      "step",
+      "rung"
     ]
   },
   {
@@ -10530,8 +10903,8 @@
     "tags": [
       "chemist",
       "chemistry",
-      "experiment",
       "lab",
+      "experiment",
       "science",
       "test tube"
     ]
@@ -10541,10 +10914,18 @@
     "tags": [
       "bacteria",
       "biologist",
-      "biology",
       "culture",
+      "biology",
       "lab",
       "petri dish"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "alembic",
+      "science",
+      "chemistry"
     ]
   },
   {
@@ -10552,8 +10933,8 @@
     "tags": [
       "biologist",
       "dna",
-      "evolution",
       "gene",
+      "evolution",
       "genetics",
       "life"
     ]
@@ -10587,8 +10968,8 @@
     "tags": [
       "medicine",
       "needle",
-      "shot",
       "sick",
+      "shot",
       "syringe"
     ]
   },
@@ -10597,8 +10978,8 @@
     "tags": [
       "bleed",
       "blood donation",
-      "drop of blood",
       "injury",
+      "drop of blood",
       "medicine",
       "menstruation"
     ]
@@ -10608,8 +10989,8 @@
     "tags": [
       "doctor",
       "medicine",
-      "pill",
-      "sick"
+      "sick",
+      "pill"
     ]
   },
   {
@@ -10623,9 +11004,9 @@
     "emoji": "🩺",
     "tags": [
       "doctor",
-      "heart",
+      "stethoscope",
       "medicine",
-      "stethoscope"
+      "listen"
     ]
   },
   {
@@ -10639,8 +11020,8 @@
     "tags": [
       "accessibility",
       "elevator",
-      "hoist",
-      "lift"
+      "lift",
+      "hoist"
     ]
   },
   {
@@ -10648,8 +11029,8 @@
     "tags": [
       "mirror",
       "reflection",
-      "reflector",
-      "speculum"
+      "speculum",
+      "reflector"
     ]
   },
   {
@@ -10657,8 +11038,8 @@
     "tags": [
       "frame",
       "fresh air",
-      "opening",
       "transparent",
+      "opening",
       "view",
       "window"
     ]
@@ -10676,8 +11057,8 @@
     "tags": [
       "couch",
       "couch and lamp",
-      "hotel",
-      "lamp"
+      "lamp",
+      "hotel"
     ]
   },
   {
@@ -10699,8 +11080,8 @@
     "tags": [
       "force cup",
       "plumber",
-      "plunger",
       "suction",
+      "plunger",
       "toilet"
     ]
   },
@@ -10715,7 +11096,8 @@
     "emoji": "🛁",
     "tags": [
       "bath",
-      "bathtub"
+      "bathtub",
+      "water"
     ]
   },
   {
@@ -10723,8 +11105,8 @@
     "tags": [
       "bait",
       "mouse trap",
-      "mousetrap",
       "snare",
+      "mousetrap",
       "trap"
     ]
   },
@@ -10741,8 +11123,8 @@
     "tags": [
       "lotion",
       "lotion bottle",
-      "moisturizer",
       "shampoo",
+      "moisturizer",
       "sunscreen"
     ]
   },
@@ -10759,8 +11141,8 @@
     "tags": [
       "broom",
       "cleaning",
-      "sweeping",
-      "witch"
+      "witch",
+      "sweeping"
     ]
   },
   {
@@ -10768,8 +11150,8 @@
     "tags": [
       "basket",
       "farming",
-      "laundry",
-      "picnic"
+      "picnic",
+      "laundry"
     ]
   },
   {
@@ -10785,8 +11167,8 @@
     "tags": [
       "bucket",
       "cask",
-      "pail",
-      "vat"
+      "vat",
+      "pail"
     ]
   },
   {
@@ -10794,8 +11176,8 @@
     "tags": [
       "bar",
       "bathing",
-      "cleaning",
       "lather",
+      "cleaning",
       "soap",
       "soapdish"
     ]
@@ -10805,8 +11187,8 @@
     "tags": [
       "bathroom",
       "brush",
-      "clean",
       "dental",
+      "clean",
       "hygiene",
       "teeth",
       "toothbrush"
@@ -10817,8 +11199,8 @@
     "tags": [
       "absorbing",
       "cleaning",
-      "porous",
-      "sponge"
+      "sponge",
+      "porous"
     ]
   },
   {
@@ -10826,8 +11208,8 @@
     "tags": [
       "extinguish",
       "fire",
-      "fire extinguisher",
-      "quench"
+      "quench",
+      "fire extinguisher"
     ]
   },
   {
@@ -10842,14 +11224,8 @@
     "emoji": "🚬",
     "tags": [
       "cigarette",
-      "smoking"
-    ]
-  },
-  {
-    "emoji": "⚰️",
-    "tags": [
-      "coffin",
-      "death"
+      "smoking",
+      "tobacco"
     ]
   },
   {
@@ -10857,18 +11233,10 @@
     "tags": [
       "cemetery",
       "grave",
-      "graveyard",
       "headstone",
-      "tombstone"
-    ]
-  },
-  {
-    "emoji": "⚱️",
-    "tags": [
-      "ashes",
-      "death",
-      "funeral",
-      "urn"
+      "graveyard",
+      "tombstone",
+      "gravestone"
     ]
   },
   {
@@ -10876,8 +11244,8 @@
     "tags": [
       "face",
       "moai",
-      "moyai",
-      "statue"
+      "statue",
+      "moyai"
     ]
   },
   {
@@ -10885,18 +11253,18 @@
     "tags": [
       "demonstration",
       "picket",
-      "placard",
       "protest",
+      "placard",
       "sign"
     ]
   },
   {
     "emoji": "🏧",
     "tags": [
-      "ATM",
+      "atm",
       "ATM sign",
-      "automated",
       "bank",
+      "automated",
       "teller"
     ]
   },
@@ -10926,34 +11294,28 @@
   {
     "emoji": "🚹",
     "tags": [
-      "bathroom",
       "lavatory",
       "man",
-      "men’s room",
       "restroom",
-      "toilet",
-      "WC"
+      "men’s room",
+      "wc"
     ]
   },
   {
     "emoji": "🚺",
     "tags": [
-      "bathroom",
       "lavatory",
       "restroom",
-      "toilet",
-      "WC",
       "woman",
+      "wc",
       "women’s room"
     ]
   },
   {
     "emoji": "🚻",
     "tags": [
-      "bathroom",
       "lavatory",
       "restroom",
-      "toilet",
       "WC"
     ]
   },
@@ -10968,13 +11330,11 @@
   {
     "emoji": "🚾",
     "tags": [
-      "bathroom",
       "closet",
       "lavatory",
-      "restroom",
-      "toilet",
       "water",
-      "WC"
+      "restroom",
+      "wc"
     ]
   },
   {
@@ -11002,14 +11362,35 @@
     "tags": [
       "baggage",
       "left luggage",
-      "locker",
-      "luggage"
+      "luggage",
+      "locker"
     ]
   },
   {
     "emoji": "⚠️",
     "tags": [
-      "warning"
+      "caution",
+      "warning",
+      "alert",
+      "danger"
+    ]
+  },
+  {
+    "emoji": "☢️",
+    "tags": [
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
+    ]
+  },
+  {
+    "emoji": "☣️",
+    "tags": [
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -11017,8 +11398,8 @@
     "tags": [
       "child",
       "children crossing",
-      "crossing",
       "pedestrian",
+      "crossing",
       "traffic"
     ]
   },
@@ -11027,8 +11408,8 @@
     "tags": [
       "entry",
       "forbidden",
-      "no",
       "not",
+      "no",
       "prohibited",
       "traffic"
     ]
@@ -11038,8 +11419,8 @@
     "tags": [
       "entry",
       "forbidden",
-      "no",
       "not",
+      "no",
       "prohibited"
     ]
   },
@@ -11048,8 +11429,8 @@
     "tags": [
       "bicycle",
       "bike",
-      "forbidden",
       "no",
+      "forbidden",
       "no bicycles",
       "prohibited"
     ]
@@ -11059,8 +11440,8 @@
     "tags": [
       "forbidden",
       "no",
-      "not",
       "prohibited",
+      "not",
       "smoking"
     ]
   },
@@ -11069,8 +11450,8 @@
     "tags": [
       "forbidden",
       "litter",
-      "no",
       "no littering",
+      "no",
       "not",
       "prohibited"
     ]
@@ -11088,8 +11469,8 @@
     "tags": [
       "forbidden",
       "no",
-      "no pedestrians",
       "not",
+      "no pedestrians",
       "pedestrian",
       "prohibited"
     ]
@@ -11099,10 +11480,10 @@
     "tags": [
       "cell",
       "forbidden",
-      "mobile",
       "no",
+      "portebla",
       "no mobile phones",
-      "phone"
+      "telefono"
     ]
   },
   {
@@ -11110,147 +11491,112 @@
     "tags": [
       "18",
       "age restriction",
-      "eighteen",
       "no one under eighteen",
+      "eighteen",
       "prohibited",
       "underage"
-    ]
-  },
-  {
-    "emoji": "☢️",
-    "tags": [
-      "radioactive",
-      "sign"
-    ]
-  },
-  {
-    "emoji": "☣️",
-    "tags": [
-      "biohazard",
-      "sign"
     ]
   },
   {
     "emoji": "⬆️",
     "tags": [
       "arrow",
-      "cardinal",
-      "direction",
-      "north",
-      "up arrow"
+      "up"
     ]
   },
   {
     "emoji": "↗️",
     "tags": [
       "arrow",
-      "direction",
-      "intercardinal",
-      "northeast",
-      "up-right arrow"
+      "up right"
     ]
   },
   {
     "emoji": "➡️",
     "tags": [
       "arrow",
-      "cardinal",
-      "direction",
-      "east",
-      "right arrow"
+      "right"
     ]
   },
   {
     "emoji": "↘️",
     "tags": [
       "arrow",
-      "direction",
-      "down-right arrow",
-      "intercardinal",
-      "southeast"
+      "down right"
     ]
   },
   {
     "emoji": "⬇️",
     "tags": [
       "arrow",
-      "cardinal",
-      "direction",
-      "down",
-      "south"
+      "down right"
     ]
   },
   {
     "emoji": "↙️",
     "tags": [
       "arrow",
-      "direction",
-      "down-left arrow",
-      "intercardinal",
-      "southwest"
+      "down left"
     ]
   },
   {
     "emoji": "⬅️",
     "tags": [
       "arrow",
-      "cardinal",
-      "direction",
-      "left arrow",
-      "west"
+      "left"
     ]
   },
   {
     "emoji": "↖️",
     "tags": [
       "arrow",
-      "direction",
-      "intercardinal",
-      "northwest",
-      "up-left arrow"
+      "up left"
     ]
   },
   {
     "emoji": "↕️",
     "tags": [
       "arrow",
-      "up-down arrow"
+      "up and down",
+      "vertical",
+      "height"
     ]
   },
   {
     "emoji": "↔️",
     "tags": [
       "arrow",
-      "left-right arrow"
+      "left and right",
+      "horizontal",
+      "width"
     ]
   },
   {
     "emoji": "↩️",
     "tags": [
       "arrow",
-      "right arrow curving left"
+      "return"
     ]
   },
   {
     "emoji": "↪️",
     "tags": [
       "arrow",
-      "left arrow curving right"
+      "forward"
     ]
   },
   {
     "emoji": "⤴️",
     "tags": [
       "arrow",
-      "right arrow curving up"
+      "up bend"
     ]
   },
   {
     "emoji": "⤵️",
     "tags": [
       "arrow",
-      "down",
-      "right arrow curving down"
+      "down bend"
     ]
   },
   {
@@ -11258,8 +11604,8 @@
     "tags": [
       "arrow",
       "clockwise",
-      "clockwise vertical arrows",
-      "reload"
+      "reload",
+      "clockwise vertical arrows"
     ]
   },
   {
@@ -11267,8 +11613,8 @@
     "tags": [
       "anticlockwise",
       "arrow",
-      "counterclockwise",
       "counterclockwise arrows button",
+      "counterclockwise",
       "withershins"
     ]
   },
@@ -11276,14 +11622,16 @@
     "emoji": "🔙",
     "tags": [
       "arrow",
-      "BACK"
+      "back",
+      "BACK arrow"
     ]
   },
   {
     "emoji": "🔚",
     "tags": [
       "arrow",
-      "END"
+      "end",
+      "END arrow"
     ]
   },
   {
@@ -11291,23 +11639,25 @@
     "tags": [
       "arrow",
       "mark",
-      "ON",
-      "ON!"
+      "ON! arrow",
+      "ŝaltita"
     ]
   },
   {
     "emoji": "🔜",
     "tags": [
       "arrow",
-      "SOON"
+      "soon",
+      "SOON arrow"
     ]
   },
   {
     "emoji": "🔝",
     "tags": [
       "arrow",
-      "TOP",
-      "up"
+      "top",
+      "up",
+      "TOP arrow"
     ]
   },
   {
@@ -11315,15 +11665,8 @@
     "tags": [
       "place of worship",
       "religion",
-      "worship"
-    ]
-  },
-  {
-    "emoji": "⚛️",
-    "tags": [
-      "atheist",
-      "atom",
-      "atom symbol"
+      "worship",
+      "pray"
     ]
   },
   {
@@ -11335,77 +11678,35 @@
     ]
   },
   {
-    "emoji": "✡️",
+    "emoji": "🕎",
     "tags": [
-      "David",
-      "Jew",
-      "Jewish",
+      "candelabrum",
+      "candlestick",
       "religion",
-      "star",
-      "star of David"
+      "menorah"
     ]
   },
   {
     "emoji": "☸️",
     "tags": [
-      "Buddhist",
-      "dharma",
-      "religion",
       "wheel",
-      "wheel of dharma"
+      "dharma"
     ]
   },
   {
     "emoji": "☯️",
     "tags": [
-      "religion",
-      "tao",
-      "taoist",
+      "yin",
       "yang",
-      "yin"
+      "yin yang"
     ]
   },
   {
-    "emoji": "✝️",
+    "emoji": "✡️",
     "tags": [
-      "Christian",
-      "cross",
-      "latin cross",
-      "religion"
-    ]
-  },
-  {
-    "emoji": "☦️",
-    "tags": [
-      "Christian",
-      "cross",
-      "orthodox cross",
-      "religion"
-    ]
-  },
-  {
-    "emoji": "☪️",
-    "tags": [
-      "islam",
-      "Muslim",
-      "religion",
-      "star and crescent"
-    ]
-  },
-  {
-    "emoji": "☮️",
-    "tags": [
-      "peace",
-      "peace symbol"
-    ]
-  },
-  {
-    "emoji": "🕎",
-    "tags": [
-      "candelabrum",
-      "candlestick",
-      "menorah",
-      "religion"
+      "star",
+      "jewish",
+      "start of david"
     ]
   },
   {
@@ -11414,6 +11715,48 @@
       "dotted six-pointed star",
       "fortune",
       "star"
+    ]
+  },
+  {
+    "emoji": "✝️",
+    "tags": [
+      "cross",
+      "christianity"
+    ]
+  },
+  {
+    "emoji": "☦️",
+    "tags": [
+      "cross",
+      "orthodox cross"
+    ]
+  },
+  {
+    "emoji": "☪️",
+    "tags": [
+      "star and crescent",
+      "islam"
+    ]
+  },
+  {
+    "emoji": "☮️",
+    "tags": [
+      "peace",
+      "peace sign"
+    ]
+  },
+  {
+    "emoji": "♾️",
+    "tags": [
+      "infinity",
+      "infinite",
+      "endless"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "atom"
     ]
   },
   {
@@ -11429,8 +11772,8 @@
     "tags": [
       "bull",
       "ox",
-      "Taurus",
-      "zodiac"
+      "zodiac",
+      "Taurus"
     ]
   },
   {
@@ -11469,8 +11812,8 @@
     "tags": [
       "balance",
       "justice",
-      "Libra",
       "scales",
+      "Libra",
       "zodiac"
     ]
   },
@@ -11479,8 +11822,8 @@
     "tags": [
       "Scorpio",
       "scorpion",
-      "scorpius",
-      "zodiac"
+      "zodiac",
+      "scorpius"
     ]
   },
   {
@@ -11504,8 +11847,8 @@
     "tags": [
       "Aquarius",
       "bearer",
-      "water",
-      "zodiac"
+      "zodiac",
+      "water"
     ]
   },
   {
@@ -11521,9 +11864,56 @@
     "tags": [
       "bearer",
       "Ophiuchus",
-      "serpent",
       "snake",
+      "serpent",
       "zodiac"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "asterisk",
+      "eight spoke"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "star",
+      "eight pointed"
+    ]
+  },
+  {
+    "emoji": "❇️",
+    "tags": [
+      "sparkle"
+    ]
+  },
+  {
+    "emoji": "©️",
+    "tags": [
+      "copyright"
+    ]
+  },
+  {
+    "emoji": "®️",
+    "tags": [
+      "registered",
+      "reserved"
+    ]
+  },
+  {
+    "emoji": "™️",
+    "tags": [
+      "tm",
+      "trademark"
+    ]
+  },
+  {
+    "emoji": "Ⓜ️",
+    "tags": [
+      "m",
+      "m in circle"
     ]
   },
   {
@@ -11539,8 +11929,8 @@
     "tags": [
       "arrow",
       "clockwise",
-      "repeat",
-      "repeat button"
+      "repeat button",
+      "repeat"
     ]
   },
   {
@@ -11548,18 +11938,8 @@
     "tags": [
       "arrow",
       "clockwise",
-      "once",
-      "repeat single button"
-    ]
-  },
-  {
-    "emoji": "▶️",
-    "tags": [
-      "arrow",
-      "play",
-      "play button",
-      "right",
-      "triangle"
+      "repeat single button",
+      "once"
     ]
   },
   {
@@ -11567,8 +11947,8 @@
     "tags": [
       "arrow",
       "double",
-      "fast",
       "fast-forward button",
+      "fast",
       "forward"
     ]
   },
@@ -11577,8 +11957,8 @@
     "tags": [
       "arrow",
       "next scene",
-      "next track",
       "next track button",
+      "next track",
       "triangle"
     ]
   },
@@ -11587,19 +11967,9 @@
     "tags": [
       "arrow",
       "pause",
-      "play",
       "play or pause button",
+      "play",
       "right",
-      "triangle"
-    ]
-  },
-  {
-    "emoji": "◀️",
-    "tags": [
-      "arrow",
-      "left",
-      "reverse",
-      "reverse button",
       "triangle"
     ]
   },
@@ -11608,8 +11978,8 @@
     "tags": [
       "arrow",
       "double",
-      "fast reverse button",
-      "rewind"
+      "rewind",
+      "fast reverse button"
     ]
   },
   {
@@ -11617,8 +11987,8 @@
     "tags": [
       "arrow",
       "last track button",
-      "previous scene",
       "previous track",
+      "previous scene",
       "triangle"
     ]
   },
@@ -11627,8 +11997,8 @@
     "tags": [
       "arrow",
       "button",
-      "red",
-      "upwards button"
+      "upwards button",
+      "red"
     ]
   },
   {
@@ -11644,8 +12014,8 @@
     "tags": [
       "arrow",
       "button",
-      "down",
       "downwards button",
+      "down",
       "red"
     ]
   },
@@ -11654,8 +12024,25 @@
     "tags": [
       "arrow",
       "double",
-      "down",
-      "fast down button"
+      "fast down button",
+      "down"
+    ]
+  },
+  {
+    "emoji": "▶️",
+    "tags": [
+      "play",
+      "go",
+      "play button",
+      "right arrow",
+      "triangle"
+    ]
+  },
+  {
+    "emoji": "◀️",
+    "tags": [
+      "left arrow",
+      "triangle"
     ]
   },
   {
@@ -11663,8 +12050,8 @@
     "tags": [
       "bar",
       "double",
-      "pause",
       "pause button",
+      "pause",
       "vertical"
     ]
   },
@@ -11677,6 +12064,13 @@
     ]
   },
   {
+    "emoji": "⏏️",
+    "tags": [
+      "eject",
+      "eject button"
+    ]
+  },
+  {
     "emoji": "⏺️",
     "tags": [
       "circle",
@@ -11685,10 +12079,11 @@
     ]
   },
   {
-    "emoji": "⏏️",
+    "emoji": "✖️",
     "tags": [
-      "eject",
-      "eject button"
+      "stop",
+      "x",
+      "cross"
     ]
   },
   {
@@ -11696,8 +12091,8 @@
     "tags": [
       "camera",
       "cinema",
-      "film",
-      "movie"
+      "movie",
+      "film"
     ]
   },
   {
@@ -11705,8 +12100,8 @@
     "tags": [
       "brightness",
       "dim",
-      "dim button",
-      "low"
+      "low",
+      "dim button"
     ]
   },
   {
@@ -11722,19 +12117,19 @@
     "tags": [
       "antenna",
       "antenna bars",
-      "bar",
       "cell",
-      "mobile",
-      "phone"
+      "bar",
+      "portebla",
+      "telefono"
     ]
   },
   {
     "emoji": "📳",
     "tags": [
       "cell",
-      "mobile",
+      "portebla",
+      "telefono",
       "mode",
-      "phone",
       "telephone",
       "vibration"
     ]
@@ -11743,9 +12138,9 @@
     "emoji": "📴",
     "tags": [
       "cell",
-      "mobile",
-      "off",
-      "phone",
+      "portebla",
+      "telefono",
+      "malŝaltita",
       "telephone"
     ]
   },
@@ -11757,23 +12152,12 @@
     ]
   },
   {
-    "emoji": "✖️",
-    "tags": [
-      "×",
-      "cancel",
-      "multiplication",
-      "multiply",
-      "sign",
-      "x"
-    ]
-  },
-  {
     "emoji": "➕",
     "tags": [
       "+",
       "math",
-      "plus",
-      "sign"
+      "sign",
+      "plus"
     ]
   },
   {
@@ -11781,8 +12165,8 @@
     "tags": [
       "-",
       "−",
-      "math",
       "minus",
+      "math",
       "sign"
     ]
   },
@@ -11791,42 +12175,9 @@
     "tags": [
       "÷",
       "divide",
-      "division",
       "math",
+      "division",
       "sign"
-    ]
-  },
-  {
-    "emoji": "♾️",
-    "tags": [
-      "forever",
-      "infinity",
-      "unbounded",
-      "universal"
-    ]
-  },
-  {
-    "emoji": "‼️",
-    "tags": [
-      "!",
-      "!!",
-      "bangbang",
-      "double exclamation mark",
-      "exclamation",
-      "mark"
-    ]
-  },
-  {
-    "emoji": "⁉️",
-    "tags": [
-      "!",
-      "!?",
-      "?",
-      "exclamation",
-      "interrobang",
-      "mark",
-      "punctuation",
-      "question"
     ]
   },
   {
@@ -11834,8 +12185,8 @@
     "tags": [
       "?",
       "mark",
-      "punctuation",
       "question",
+      "punctuation",
       "red question mark"
     ]
   },
@@ -11844,8 +12195,8 @@
     "tags": [
       "?",
       "mark",
-      "outlined",
       "punctuation",
+      "outlined",
       "question",
       "white question mark"
     ]
@@ -11855,8 +12206,8 @@
     "tags": [
       "!",
       "exclamation",
-      "mark",
       "outlined",
+      "mark",
       "punctuation",
       "white exclamation mark"
     ]
@@ -11866,47 +12217,80 @@
     "tags": [
       "!",
       "exclamation",
-      "mark",
       "punctuation",
+      "mark",
       "red exclamation mark"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "!",
+      "exclamation",
+      "double exclamation"
+    ]
+  },
+  {
+    "emoji": "⁉️",
+    "tags": [
+      "!?",
+      "exclamation",
+      "question"
     ]
   },
   {
     "emoji": "〰️",
     "tags": [
-      "dash",
-      "punctuation",
-      "wavy"
+      "wave",
+      "wavey",
+      "wavey dash"
+    ]
+  },
+  {
+    "emoji": "➿",
+    "tags": [
+      "loop",
+      "curl",
+      "twist",
+      "double curly loop"
+    ]
+  },
+  {
+    "emoji": "〽️",
+    "tags": [
+      "part alternation mark"
+    ]
+  },
+  {
+    "emoji": "💲",
+    "tags": [
+      "money",
+      "dollars",
+      "cash",
+      "usd",
+      "rich"
     ]
   },
   {
     "emoji": "💱",
     "tags": [
-      "bank",
       "currency",
       "exchange",
       "money"
     ]
   },
   {
-    "emoji": "💲",
-    "tags": [
-      "currency",
-      "dollar",
-      "heavy dollar sign",
-      "money"
-    ]
-  },
-  {
     "emoji": "♻️",
     "tags": [
-      "recycle",
-      "recycling symbol"
+      "recyce",
+      "reuse",
+      "green"
     ]
   },
   {
     "emoji": "⚜️",
     "tags": [
+      "fleur",
       "fleur-de-lis"
     ]
   },
@@ -11915,8 +12299,8 @@
     "tags": [
       "anchor",
       "emblem",
-      "ship",
       "tool",
+      "ship",
       "trident"
     ]
   },
@@ -11932,8 +12316,8 @@
     "tags": [
       "beginner",
       "chevron",
-      "Japanese",
       "Japanese symbol for beginner",
+      "Japanese",
       "leaf"
     ]
   },
@@ -11942,9 +12326,19 @@
     "tags": [
       "circle",
       "hollow red circle",
-      "large",
       "o",
-      "red"
+      "large",
+      "red",
+      "mark"
+    ]
+  },
+  {
+    "emoji": "☑️",
+    "tags": [
+      "check",
+      "check box",
+      "done",
+      "todo"
     ]
   },
   {
@@ -11952,17 +12346,9 @@
     "tags": [
       "✓",
       "button",
+      "mark",
       "check",
-      "mark"
-    ]
-  },
-  {
-    "emoji": "☑️",
-    "tags": [
-      "✓",
-      "box",
-      "check",
-      "check box with check"
+      "yes"
     ]
   },
   {
@@ -11970,7 +12356,8 @@
     "tags": [
       "✓",
       "check",
-      "mark"
+      "mark",
+      "yes"
     ]
   },
   {
@@ -11978,11 +12365,12 @@
     "tags": [
       "×",
       "cancel",
-      "cross",
       "mark",
+      "cross",
       "multiplication",
       "multiply",
-      "x"
+      "x",
+      "no"
     ]
   },
   {
@@ -11990,9 +12378,10 @@
     "tags": [
       "×",
       "cross mark button",
-      "mark",
       "square",
-      "x"
+      "mark",
+      "x",
+      "no"
     ]
   },
   {
@@ -12004,75 +12393,12 @@
     ]
   },
   {
-    "emoji": "➿",
-    "tags": [
-      "curl",
-      "double",
-      "double curly loop",
-      "loop"
-    ]
-  },
-  {
-    "emoji": "〽️",
-    "tags": [
-      "mark",
-      "part",
-      "part alternation mark"
-    ]
-  },
-  {
-    "emoji": "✳️",
-    "tags": [
-      "*",
-      "asterisk",
-      "eight-spoked asterisk"
-    ]
-  },
-  {
-    "emoji": "✴️",
-    "tags": [
-      "*",
-      "eight-pointed star",
-      "star"
-    ]
-  },
-  {
-    "emoji": "❇️",
-    "tags": [
-      "*",
-      "sparkle"
-    ]
-  },
-  {
-    "emoji": "©️",
-    "tags": [
-      "C",
-      "copyright"
-    ]
-  },
-  {
-    "emoji": "®️",
-    "tags": [
-      "R",
-      "registered"
-    ]
-  },
-  {
-    "emoji": "™️",
-    "tags": [
-      "mark",
-      "TM",
-      "trade mark",
-      "trademark"
-    ]
-  },
-  {
     "emoji": "🔠",
     "tags": [
       "ABCD",
       "input",
-      "latin",
       "letters",
+      "latin",
       "uppercase"
     ]
   },
@@ -12081,8 +12407,8 @@
     "tags": [
       "abcd",
       "input",
-      "latin",
       "letters",
+      "latin",
       "lowercase"
     ]
   },
@@ -12107,121 +12433,109 @@
     "tags": [
       "abc",
       "alphabet",
-      "input",
       "latin",
+      "input",
       "letters"
     ]
   },
   {
     "emoji": "🅰️",
     "tags": [
-      "A",
-      "A button (blood type)",
-      "blood type"
-    ]
-  },
-  {
-    "emoji": "🆎",
-    "tags": [
-      "AB",
-      "AB button (blood type)",
-      "blood type"
+      "a",
+      "letter a"
     ]
   },
   {
     "emoji": "🅱️",
     "tags": [
-      "B",
-      "B button (blood type)",
-      "blood type"
+      "b",
+      "letter b"
     ]
   },
   {
-    "emoji": "🆑",
+    "emoji": "🅾️",
     "tags": [
-      "CL",
-      "CL button"
+      "o",
+      "letter o"
     ]
   },
   {
-    "emoji": "🆒",
+    "emoji": "🅿️",
     "tags": [
-      "COOL",
-      "COOL button"
-    ]
-  },
-  {
-    "emoji": "🆓",
-    "tags": [
-      "FREE",
-      "FREE button"
+      "p",
+      "letter p"
     ]
   },
   {
     "emoji": "ℹ️",
     "tags": [
       "i",
-      "information"
+      "letter i"
+    ]
+  },
+  {
+    "emoji": "🆎",
+    "tags": [
+      "ab",
+      "AB button (blood type)",
+      "blood type"
+    ]
+  },
+  {
+    "emoji": "🆑",
+    "tags": [
+      "cl",
+      "CL button"
+    ]
+  },
+  {
+    "emoji": "🆒",
+    "tags": [
+      "cool",
+      "COOL button"
+    ]
+  },
+  {
+    "emoji": "🆓",
+    "tags": [
+      "free",
+      "FREE button"
     ]
   },
   {
     "emoji": "🆔",
     "tags": [
-      "ID",
+      "id",
       "ID button",
       "identity"
     ]
   },
   {
-    "emoji": "Ⓜ️",
-    "tags": [
-      "circle",
-      "circled M",
-      "M"
-    ]
-  },
-  {
     "emoji": "🆕",
     "tags": [
-      "NEW",
+      "new",
       "NEW button"
     ]
   },
   {
     "emoji": "🆖",
     "tags": [
-      "NG",
+      "ng",
       "NG button"
-    ]
-  },
-  {
-    "emoji": "🅾️",
-    "tags": [
-      "blood type",
-      "O",
-      "O button (blood type)"
     ]
   },
   {
     "emoji": "🆗",
     "tags": [
-      "OK",
+      "Bone",
       "OK button"
-    ]
-  },
-  {
-    "emoji": "🅿️",
-    "tags": [
-      "P",
-      "P button",
-      "parking"
     ]
   },
   {
     "emoji": "🆘",
     "tags": [
       "help",
-      "SOS",
+      "sos",
       "SOS button"
     ]
   },
@@ -12229,8 +12543,7 @@
     "emoji": "🆙",
     "tags": [
       "mark",
-      "UP",
-      "UP!",
+      "up",
       "UP! button"
     ]
   },
@@ -12238,177 +12551,169 @@
     "emoji": "🆚",
     "tags": [
       "versus",
-      "VS",
+      "vs",
       "VS button"
     ]
   },
   {
     "emoji": "🈁",
     "tags": [
-      "“here”",
+      "here",
       "Japanese",
+      "katakana",
       "Japanese “here” button",
-      "katakana",
       "ココ"
-    ]
-  },
-  {
-    "emoji": "🈂️",
-    "tags": [
-      "“service charge”",
-      "Japanese",
-      "Japanese “service charge” button",
-      "katakana",
-      "サ"
-    ]
-  },
-  {
-    "emoji": "🈷️",
-    "tags": [
-      "“monthly amount”",
-      "ideograph",
-      "Japanese",
-      "Japanese “monthly amount” button",
-      "月"
     ]
   },
   {
     "emoji": "🈶",
     "tags": [
-      "“not free of charge”",
+      "not free of charge",
       "ideograph",
-      "Japanese",
       "Japanese “not free of charge” button",
+      "Japanese",
       "有"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "service charger",
+      "ideograph",
+      "japanese"
     ]
   },
   {
     "emoji": "🈯",
     "tags": [
-      "“reserved”",
+      "reserved",
       "ideograph",
-      "Japanese",
       "Japanese “reserved” button",
+      "Japanese",
       "指"
     ]
   },
   {
     "emoji": "🉐",
     "tags": [
-      "“bargain”",
+      "bargain",
       "ideograph",
-      "Japanese",
       "Japanese “bargain” button",
+      "Japanese",
       "得"
     ]
   },
   {
     "emoji": "🈹",
     "tags": [
-      "“discount”",
+      "discount",
       "ideograph",
-      "Japanese",
       "Japanese “discount” button",
+      "Japanese",
       "割"
     ]
   },
   {
     "emoji": "🈚",
     "tags": [
-      "“free of charge”",
+      "free of charge",
       "ideograph",
-      "Japanese",
       "Japanese “free of charge” button",
+      "Japanese",
       "無"
     ]
   },
   {
     "emoji": "🈲",
     "tags": [
-      "“prohibited”",
+      "prohibited",
       "ideograph",
-      "Japanese",
       "Japanese “prohibited” button",
+      "Japanese",
       "禁"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "monthly amount",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊗️",
+    "tags": [
+      "congratulations",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "secret",
+      "ideograph",
+      "japanese"
     ]
   },
   {
     "emoji": "🉑",
     "tags": [
-      "“acceptable”",
+      "acceptable",
       "ideograph",
-      "Japanese",
       "Japanese “acceptable” button",
+      "Japanese",
       "可"
     ]
   },
   {
     "emoji": "🈸",
     "tags": [
-      "“application”",
+      "application",
       "ideograph",
-      "Japanese",
       "Japanese “application” button",
+      "Japanese",
       "申"
     ]
   },
   {
     "emoji": "🈴",
     "tags": [
-      "“passing grade”",
+      "passing grade",
       "ideograph",
-      "Japanese",
       "Japanese “passing grade” button",
+      "Japanese",
       "合"
     ]
   },
   {
     "emoji": "🈳",
     "tags": [
-      "“vacancy”",
+      "vacancy",
       "ideograph",
-      "Japanese",
       "Japanese “vacancy” button",
+      "Japanese",
       "空"
-    ]
-  },
-  {
-    "emoji": "㊗️",
-    "tags": [
-      "“congratulations”",
-      "ideograph",
-      "Japanese",
-      "Japanese “congratulations” button",
-      "祝"
-    ]
-  },
-  {
-    "emoji": "㊙️",
-    "tags": [
-      "“secret”",
-      "ideograph",
-      "Japanese",
-      "Japanese “secret” button",
-      "秘"
     ]
   },
   {
     "emoji": "🈺",
     "tags": [
-      "“open for business”",
+      "open for business",
       "ideograph",
-      "Japanese",
       "Japanese “open for business” button",
+      "Japanese",
       "営"
     ]
   },
   {
     "emoji": "🈵",
     "tags": [
-      "“no vacancy”",
+      "no vacancy",
       "ideograph",
-      "Japanese",
       "Japanese “no vacancy” button",
+      "Japanese",
       "満"
     ]
   },
@@ -12468,7 +12773,8 @@
     "tags": [
       "black circle",
       "circle",
-      "geometric"
+      "geometric",
+      "black"
     ]
   },
   {
@@ -12476,7 +12782,8 @@
     "tags": [
       "circle",
       "geometric",
-      "white circle"
+      "white circle",
+      "white"
     ]
   },
   {
@@ -12529,19 +12836,12 @@
     ]
   },
   {
-    "emoji": "⬛",
+    "emoji": "▪️",
     "tags": [
-      "black large square",
-      "geometric",
-      "square"
-    ]
-  },
-  {
-    "emoji": "⬜",
-    "tags": [
+      "black small square",
       "geometric",
       "square",
-      "white large square"
+      "black"
     ]
   },
   {
@@ -12549,7 +12849,26 @@
     "tags": [
       "black medium square",
       "geometric",
-      "square"
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "⬛",
+    "tags": [
+      "black large square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "geometric",
+      "square",
+      "white small square",
+      "white"
     ]
   },
   {
@@ -12557,7 +12876,17 @@
     "tags": [
       "geometric",
       "square",
-      "white medium square"
+      "white medium square",
+      "white"
+    ]
+  },
+  {
+    "emoji": "⬜",
+    "tags": [
+      "geometric",
+      "square",
+      "white large square",
+      "white"
     ]
   },
   {
@@ -12577,28 +12906,12 @@
     ]
   },
   {
-    "emoji": "▪️",
-    "tags": [
-      "black small square",
-      "geometric",
-      "square"
-    ]
-  },
-  {
-    "emoji": "▫️",
-    "tags": [
-      "geometric",
-      "square",
-      "white small square"
-    ]
-  },
-  {
     "emoji": "🔶",
     "tags": [
       "diamond",
       "geometric",
-      "large orange diamond",
-      "orange"
+      "orange",
+      "large orange diamond"
     ]
   },
   {
@@ -12606,8 +12919,8 @@
     "tags": [
       "blue",
       "diamond",
-      "geometric",
-      "large blue diamond"
+      "large blue diamond",
+      "geometric"
     ]
   },
   {
@@ -12615,8 +12928,8 @@
     "tags": [
       "diamond",
       "geometric",
-      "orange",
-      "small orange diamond"
+      "small orange diamond",
+      "orange"
     ]
   },
   {
@@ -12624,8 +12937,8 @@
     "tags": [
       "blue",
       "diamond",
-      "geometric",
-      "small blue diamond"
+      "small blue diamond",
+      "geometric"
     ]
   },
   {
@@ -12641,8 +12954,8 @@
     "tags": [
       "down",
       "geometric",
-      "red",
-      "red triangle pointed down"
+      "red triangle pointed down",
+      "red"
     ]
   },
   {
@@ -12650,8 +12963,8 @@
     "tags": [
       "comic",
       "diamond",
-      "diamond with a dot",
       "geometric",
+      "diamond with a dot",
       "inside"
     ]
   },
@@ -12659,8 +12972,8 @@
     "emoji": "🔘",
     "tags": [
       "button",
-      "geometric",
-      "radio"
+      "radio button",
+      "circle"
     ]
   },
   {
@@ -12668,18 +12981,18 @@
     "tags": [
       "button",
       "geometric",
-      "outlined",
       "square",
+      "outlined",
       "white square button"
     ]
   },
   {
     "emoji": "🔲",
     "tags": [
-      "black square button",
       "button",
       "geometric",
-      "square"
+      "square",
+      "outlined"
     ]
   },
   {
@@ -12687,8 +13000,8 @@
     "tags": [
       "checkered",
       "chequered",
-      "chequered flag",
-      "racing"
+      "racing",
+      "chequered flag"
     ]
   },
   {
@@ -12703,8 +13016,8 @@
     "tags": [
       "celebration",
       "cross",
-      "crossed",
       "crossed flags",
+      "crossed",
       "Japanese"
     ]
   },
@@ -12727,7 +13040,19 @@
     "tags": [
       "pride",
       "rainbow",
-      "rainbow flag"
+      "rainbow flag",
+      "lgbtqia",
+      "lgbt",
+      "lgbtqa",
+      "queer",
+      "gay",
+      "lesbian",
+      "intersex",
+      "bisexual",
+      "transgender",
+      "trans",
+      "asexual",
+      "questioning"
     ]
   },
   {
@@ -12735,9 +13060,118 @@
     "tags": [
       "Jolly Roger",
       "pirate",
-      "pirate flag",
       "plunder",
+      "pirate flag",
       "treasure"
+    ]
+  },
+  {
+    "emoji": "#️⃣",
+    "tags": [
+      "keycap",
+      "pound",
+      "hash"
+    ]
+  },
+  {
+    "emoji": "*️⃣",
+    "tags": [
+      "keycap",
+      "asterisk"
+    ]
+  },
+  {
+    "emoji": "0️⃣",
+    "tags": [
+      "keycap",
+      "0",
+      "zero"
+    ]
+  },
+  {
+    "emoji": "1️⃣",
+    "tags": [
+      "keycap",
+      "1",
+      "one"
+    ]
+  },
+  {
+    "emoji": "2️⃣",
+    "tags": [
+      "keycap",
+      "2",
+      "two"
+    ]
+  },
+  {
+    "emoji": "3️⃣",
+    "tags": [
+      "keycap",
+      "3",
+      "three"
+    ]
+  },
+  {
+    "emoji": "4️⃣",
+    "tags": [
+      "keycap",
+      "4",
+      "four"
+    ]
+  },
+  {
+    "emoji": "5️⃣",
+    "tags": [
+      "keycap",
+      "5",
+      "five"
+    ]
+  },
+  {
+    "emoji": "6️⃣",
+    "tags": [
+      "keycap",
+      "6",
+      "six"
+    ]
+  },
+  {
+    "emoji": "7️⃣",
+    "tags": [
+      "keycap",
+      "7",
+      "seven"
+    ]
+  },
+  {
+    "emoji": "8️⃣",
+    "tags": [
+      "keycap",
+      "8",
+      "eight"
+    ]
+  },
+  {
+    "emoji": "9️⃣",
+    "tags": [
+      "keycap",
+      "9",
+      "nine"
+    ]
+  },
+  {
+    "emoji": "🔟",
+    "tags": [
+      "keycap",
+      "10",
+      "ten"
+    ]
+  },
+  {
+    "emoji": "♨️",
+    "tags": [
+      "hot springs"
     ]
   }
 ]

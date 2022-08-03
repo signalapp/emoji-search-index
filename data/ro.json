@@ -37,7 +37,8 @@
       "zâmbet",
       "grinning face with smiling eyes",
       "deschis",
-      "smiling"
+      "smiling",
+      "fericit"
     ]
   },
   {
@@ -80,7 +81,6 @@
       "rece",
       "sudoare",
       "zâmbet",
-      "răceală",
       "deschis",
       "grinning face with sweat",
       "smiling",
@@ -249,7 +249,9 @@
       "față",
       "față zâmbitoare",
       "relaxare",
-      "zâmbet"
+      "zâmbet",
+      "slightly smiling face",
+      "smiling"
     ]
   },
   {
@@ -1368,7 +1370,7 @@
       "pisică",
       "pisică zâmbitoare cu inimioare la ochi",
       "zâmbet",
-      "inimă",
+      "heart eyes",
       "smiling cat with heart-eyes"
     ]
   },
@@ -1494,7 +1496,8 @@
       "iubire",
       "plic",
       "scrisoare",
-      "scrisoare de dragoste"
+      "scrisoare de dragoste",
+      "heart letter"
     ]
   },
   {
@@ -1542,9 +1545,9 @@
       "inimă care crește",
       "neliniște",
       "excited",
-      "growing",
-      "nervos",
       "growing heart",
+      "nervos",
+      "growing",
       "puls"
     ]
   },
@@ -1597,7 +1600,10 @@
     "tags": [
       "punctuație",
       "semnul exclamării",
-      "semnul exclamării cu inimioară"
+      "semnul exclamării cu inimioară",
+      "heart exclamation",
+      "heart drop",
+      "exclamation"
     ]
   },
   {
@@ -1607,8 +1613,8 @@
       "inimă",
       "inimă zdrobită",
       "break",
-      "broken",
-      "broken heart"
+      "broken heart",
+      "heart break"
     ]
   },
   {
@@ -1622,8 +1628,9 @@
       "iubire",
       "pasiune",
       "burn",
-      "dragoste",
+      "burning heart",
       "heart on fire",
+      "dragoste",
       "lust",
       "sacred heart"
     ]
@@ -1638,12 +1645,13 @@
       "mai sănătos",
       "recuperare",
       "healthier",
-      "improving",
       "mending heart",
+      "heart mending",
       "mending",
       "recovering",
       "recuperating",
-      "well"
+      "well",
+      "improving"
     ]
   },
   {
@@ -1659,7 +1667,8 @@
       "inimă",
       "inimă portocalie",
       "portocaliu",
-      "orange heart"
+      "orange heart",
+      "heart orange"
     ]
   },
   {
@@ -1668,7 +1677,8 @@
       "galben",
       "inimă",
       "inimă galbenă",
-      "yellow heart"
+      "yellow heart",
+      "heart yellow"
     ]
   },
   {
@@ -1676,7 +1686,8 @@
     "tags": [
       "inimă",
       "verde",
-      "green heart"
+      "green heart",
+      "heart green"
     ]
   },
   {
@@ -1685,7 +1696,8 @@
       "albastru",
       "inimă",
       "inimă albastră",
-      "blue heart"
+      "blue heart",
+      "heart blue"
     ]
   },
   {
@@ -1693,14 +1705,17 @@
     "tags": [
       "inimă",
       "mov",
-      "purple heart"
+      "purple heart",
+      "heart purple"
     ]
   },
   {
     "emoji": "🤎",
     "tags": [
       "inimă",
-      "maro"
+      "maro",
+      "brownheart",
+      "heart brown"
     ]
   },
   {
@@ -1711,6 +1726,7 @@
       "malefic",
       "negru",
       "rău",
+      "heart black",
       "wicked"
     ]
   },
@@ -1719,7 +1735,9 @@
     "tags": [
       "alb",
       "albă",
-      "inimă"
+      "inimă",
+      "white heart",
+      "heart white"
     ]
   },
   {
@@ -1824,7 +1842,8 @@
       "dialog",
       "bulă",
       "comic",
-      "speech"
+      "speech",
+      "typing"
     ]
   },
   {
@@ -1882,7 +1901,12 @@
       "mână fluturată",
       "semn",
       "wave",
-      "a face cu mâna"
+      "a face cu mâna",
+      "hi",
+      "hey",
+      "hello",
+      "bye",
+      "goodbye"
     ]
   },
   {
@@ -1915,7 +1939,8 @@
       "sus",
       "high 5",
       "raised hand",
-      "high five"
+      "high five",
+      "hifive"
     ]
   },
   {
@@ -2122,7 +2147,7 @@
       "pozitiv",
       "semn de aprobare",
       "thumbs up",
-      "thumb",
+      "deget",
       "sus"
     ]
   },
@@ -2136,7 +2161,7 @@
       "nu",
       "semn de dezaprobare",
       "jos",
-      "thumb",
+      "deget",
       "thumbs down"
     ]
   },
@@ -2292,7 +2317,7 @@
       "aparat de fotografiat",
       "selfie",
       "telefon",
-      "camera"
+      "cameră"
     ]
   },
   {
@@ -2829,8 +2854,10 @@
       "ridicat",
       "veselie",
       "person raising hand",
-      "fericit",
-      "raised"
+      "raised",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -2842,7 +2869,10 @@
       "mână ridicată",
       "om",
       "raising hand",
-      "man raising hand"
+      "man raising hand",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -2853,7 +2883,10 @@
       "gest",
       "mână ridicată",
       "raising hand",
-      "woman raising hand"
+      "woman raising hand",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3563,8 +3596,7 @@
     "emoji": "🧑‍✈️",
     "tags": [
       "avion",
-      "pilot",
-      "plane"
+      "pilot"
     ]
   },
   {
@@ -3573,8 +3605,7 @@
       "avion",
       "bărbat",
       "pilot",
-      "om",
-      "plane"
+      "om"
     ]
   },
   {
@@ -3582,8 +3613,7 @@
     "tags": [
       "avion",
       "femeie",
-      "pilot",
-      "plane"
+      "pilot"
     ]
   },
   {
@@ -4760,7 +4790,8 @@
       "persoană în saună",
       "saună",
       "person in steamy room",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -4771,7 +4802,8 @@
       "saună",
       "man in steamy room",
       "bărbat",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -4782,7 +4814,8 @@
       "saună",
       "steam room",
       "femeie",
-      "woman in steamy room"
+      "woman in steamy room",
+      "spa"
     ]
   },
   {
@@ -4939,7 +4972,8 @@
       "natație",
       "persoană care înoată",
       "person swimming",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -4951,7 +4985,8 @@
       "natație",
       "om",
       "man swimming",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -4962,7 +4997,8 @@
       "înot",
       "natație",
       "swim",
-      "woman swimming"
+      "woman swimming",
+      "swimmer"
     ]
   },
   {
@@ -6921,7 +6957,12 @@
     "emoji": "☘️",
     "tags": [
       "plantă",
-      "trifoi"
+      "trifoi",
+      "clover",
+      "shamrock",
+      "three-leaf clover",
+      "three",
+      "leaf"
     ]
   },
   {
@@ -8795,7 +8836,7 @@
     "tags": [
       "casă",
       "locuință",
-      "home",
+      "acasă",
       "house"
     ]
   },
@@ -8808,7 +8849,7 @@
       "locuință",
       "verdeață",
       "garden",
-      "home",
+      "acasă",
       "house with garden",
       "house"
     ]
@@ -9175,7 +9216,8 @@
       "apă",
       "căldură",
       "izvoare termale",
-      "izvor"
+      "izvor",
+      "hot springs"
     ]
   },
   {
@@ -9260,7 +9302,7 @@
       "troleibuz",
       "vagon",
       "vagon feroviar",
-      "car",
+      "train car",
       "train",
       "railway",
       "tram",
@@ -9363,7 +9405,7 @@
       "cale ferată",
       "cale ferată montană",
       "munte",
-      "car",
+      "train car",
       "railway"
     ]
   },
@@ -9374,7 +9416,7 @@
       "troleibuz",
       "vagon",
       "vagon de tramvai",
-      "car",
+      "train car",
       "tram",
       "trolleybus"
     ]
@@ -9588,7 +9630,8 @@
       "motor",
       "motoscuter",
       "scuter",
-      "scooter"
+      "scooter",
+      "moped"
     ]
   },
   {
@@ -9597,7 +9640,8 @@
       "accesibilitate",
       "scaun cu rotile manual",
       "accessibility",
-      "manual wheelchair"
+      "manual wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -9606,7 +9650,8 @@
       "accesibilitate",
       "scaun cu rotile motorizat",
       "accessibility",
-      "motorized wheelchair"
+      "motorized wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -9721,12 +9766,11 @@
       "poliție",
       "semnal luminos",
       "beacon",
-      "car",
       "police",
       "light",
       "revolving",
-      "alert",
       "alarm",
+      "alert",
       "emergency",
       "siren"
     ]
@@ -9740,7 +9784,8 @@
       "trafic",
       "horizontal traffic light",
       "light",
-      "signal"
+      "signal",
+      "stoplight"
     ]
   },
   {
@@ -9752,7 +9797,8 @@
       "trafic",
       "light",
       "signal",
-      "vertical traffic light"
+      "vertical traffic light",
+      "stoplight"
     ]
   },
   {
@@ -9877,7 +9923,11 @@
     "tags": [
       "aeronavă",
       "avion",
-      "zbor"
+      "zbor",
+      "aeroplane",
+      "airplane",
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -9888,7 +9938,8 @@
       "ușor",
       "aeroplane",
       "airplane",
-      "small airplane"
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -9902,7 +9953,8 @@
       "aeroplane",
       "airplane",
       "departure",
-      "departures"
+      "departures",
+      "plane"
     ]
   },
   {
@@ -9918,7 +9970,8 @@
       "arrivals",
       "airplane arrival",
       "arriving",
-      "landing"
+      "landing",
+      "plane"
     ]
   },
   {
@@ -10665,7 +10718,8 @@
       "lumină",
       "raze",
       "soare",
-      "strălucitor"
+      "strălucitor",
+      "bright"
     ]
   },
   {
@@ -10738,7 +10792,8 @@
       "constelație",
       "stele",
       "milky way",
-      "space"
+      "space",
+      "galaxy"
     ]
   },
   {
@@ -10747,7 +10802,8 @@
       "înnorat",
       "meteo",
       "nor",
-      "vreme"
+      "vreme",
+      "cloud"
     ]
   },
   {
@@ -10900,7 +10956,18 @@
       "culori",
       "curcubeu",
       "rain",
-      "rainbow"
+      "rainbow",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "pride",
+      "gay",
+      "lesbian",
+      "queer",
+      "transgender",
+      "trans",
+      "intersex",
+      "asexual"
     ]
   },
   {
@@ -10921,7 +10988,9 @@
     "tags": [
       "accesoriu",
       "ploaie",
-      "umbrelă"
+      "umbrelă",
+      "umbrella",
+      "rain"
     ]
   },
   {
@@ -10979,7 +11048,9 @@
       "frig",
       "om",
       "om de zăpadă",
-      "zăpadă"
+      "zăpadă",
+      "răceală",
+      "snowman"
     ]
   },
   {
@@ -11246,7 +11317,8 @@
       "fundă",
       "panglică",
       "sărbătoare",
-      "celebration"
+      "celebration",
+      "bow"
     ]
   },
   {
@@ -11820,7 +11892,9 @@
       "noroc",
       "game",
       "slot",
-      "slot machine"
+      "slot machine",
+      "gambling",
+      "casino"
     ]
   },
   {
@@ -11883,7 +11957,8 @@
       "doll",
       "nesting",
       "russia",
-      "nesting dolls"
+      "nesting dolls",
+      "matryoshka"
     ]
   },
   {
@@ -11892,7 +11967,9 @@
       "cărți",
       "inimă neagră",
       "joc",
-      "pică"
+      "pică",
+      "spade suit",
+      "card suit"
     ]
   },
   {
@@ -11910,7 +11987,9 @@
       "caro",
       "cărți",
       "joc",
-      "romb"
+      "romb",
+      "diamond suit",
+      "card suit"
     ]
   },
   {
@@ -11918,7 +11997,9 @@
     "tags": [
       "cărți",
       "joc",
-      "treflă"
+      "treflă",
+      "club suit",
+      "card suit"
     ]
   },
   {
@@ -12184,7 +12265,8 @@
     "tags": [
       "mână",
       "mănuși",
-      "gloves"
+      "gloves",
+      "mittens"
     ]
   },
   {
@@ -12624,7 +12706,7 @@
       "fără sunet",
       "liniște",
       "sonor tăiat",
-      "mute",
+      "silențios",
       "muted speaker",
       "silent",
       "quiet",
@@ -12698,7 +12780,8 @@
     "tags": [
       "clopoțel",
       "sonerie",
-      "bell"
+      "bell",
+      "ring"
     ]
   },
   {
@@ -12711,7 +12794,6 @@
       "silențios",
       "bell",
       "bell with slash",
-      "mute",
       "quiet",
       "silent"
     ]
@@ -12923,8 +13005,8 @@
       "mobil",
       "telefon",
       "cell",
-      "mobile",
-      "telephone"
+      "telephone",
+      "smartphone"
     ]
   },
   {
@@ -12938,8 +13020,8 @@
       "telefon mobil cu săgeată",
       "cell",
       "mobile phone with arrow",
-      "mobile",
-      "receive"
+      "receive",
+      "smartphone"
     ]
   },
   {
@@ -12964,7 +13046,8 @@
     "tags": [
       "comunicare",
       "dispozitiv",
-      "pager"
+      "pager",
+      "beeper"
     ]
   },
   {
@@ -13018,7 +13101,9 @@
       "computer",
       "computer de birou",
       "computer desktop",
-      "desktop"
+      "desktop",
+      "monitor",
+      "screen"
     ]
   },
   {
@@ -13036,7 +13121,9 @@
     "tags": [
       "computer",
       "tastatură",
-      "taste"
+      "taste",
+      "keyboard",
+      "computer keyboard"
     ]
   },
   {
@@ -13121,7 +13208,7 @@
       "cinema",
       "film",
       "filmare",
-      "camera",
+      "cameră",
       "movie"
     ]
   },
@@ -13147,7 +13234,7 @@
       "video",
       "projector",
       "movie",
-      "camera",
+      "cameră",
       "albastru"
     ]
   },
@@ -13178,7 +13265,7 @@
       "cameră foto",
       "fotografie",
       "video",
-      "camera"
+      "cameră"
     ]
   },
   {
@@ -13189,7 +13276,7 @@
       "cameră foto cu bliț",
       "fotografie",
       "video",
-      "camera",
+      "cameră",
       "camera with flash",
       "flash"
     ]
@@ -13200,7 +13287,6 @@
       "cameră",
       "filmare",
       "video",
-      "camera",
       "camcorder"
     ]
   },
@@ -13225,7 +13311,6 @@
       "mărire",
       "glass",
       "magnifying",
-      "search",
       "magnifying glass tilted left",
       "tool"
     ]
@@ -13237,7 +13322,11 @@
       "instrument",
       "lupă",
       "lupă înclinată spre dreapta",
-      "mărire"
+      "mărire",
+      "glass",
+      "magnifying",
+      "magnifying glass tilted right",
+      "tool"
     ]
   },
   {
@@ -13476,7 +13565,8 @@
     "emoji": "🏷️",
     "tags": [
       "etichetă",
-      "label"
+      "label",
+      "tag"
     ]
   },
   {
@@ -13624,7 +13714,8 @@
     "tags": [
       "e-mail",
       "plic",
-      "scrisoare"
+      "scrisoare",
+      "envelope"
     ]
   },
   {
@@ -13667,7 +13758,7 @@
       "envelope",
       "email",
       "envelope with arrow",
-      "outgoing"
+      "trimitere"
     ]
   },
   {
@@ -13801,7 +13892,10 @@
     "tags": [
       "peniță",
       "peniță neagră",
-      "stilou"
+      "stilou",
+      "pen",
+      "pen nib",
+      "nib"
     ]
   },
   {
@@ -13848,7 +13942,10 @@
       "memo",
       "notă",
       "notiță",
-      "pencil"
+      "pencil",
+      "pencil and paper",
+      "paper",
+      "write"
     ]
   },
   {
@@ -14060,7 +14157,9 @@
       "croitorie",
       "foarfece",
       "instrument",
-      "tăiere"
+      "tăiere",
+      "scissors",
+      "cut"
     ]
   },
   {
@@ -14090,7 +14189,9 @@
     "tags": [
       "coș",
       "coș de gunoi",
-      "wastebasket"
+      "wastebasket",
+      "trash",
+      "can"
     ]
   },
   {
@@ -14100,7 +14201,9 @@
       "închis",
       "lacăt închis",
       "closed",
-      "locked"
+      "locked",
+      "lock",
+      "padlock"
     ]
   },
   {
@@ -14111,7 +14214,8 @@
       "lacăt",
       "lock",
       "unlocked",
-      "unlock"
+      "unlock",
+      "padlock"
     ]
   },
   {
@@ -14127,7 +14231,8 @@
       "nib",
       "locked with pen",
       "pen",
-      "privacy"
+      "privacy",
+      "padlock"
     ]
   },
   {
@@ -14142,7 +14247,8 @@
       "key",
       "locked with key",
       "lock",
-      "secure"
+      "secure",
+      "padlock"
     ]
   },
   {
@@ -14212,7 +14318,9 @@
       "cheie",
       "ciocan și daltă",
       "instrument",
-      "târnăcop"
+      "târnăcop",
+      "hammer",
+      "pick"
     ]
   },
   {
@@ -14247,7 +14355,10 @@
       "arme",
       "încrucișare",
       "săbii încrucișate",
-      "spade"
+      "spade",
+      "sabie",
+      "fencing",
+      "crossed swords"
     ]
   },
   {
@@ -14366,7 +14477,10 @@
       "roată dințată",
       "roată zimțată",
       "rotiță dințată",
-      "rotiță zimțată"
+      "rotiță zimțată",
+      "gear",
+      "cog",
+      "machine"
     ]
   },
   {
@@ -14389,7 +14503,10 @@
       "egalitate",
       "instrument",
       "justiție",
-      "zodiac"
+      "zodiac",
+      "scale",
+      "balance",
+      "law"
     ]
   },
   {
@@ -14624,7 +14741,8 @@
       "medicină",
       "stetoscop",
       "stethoscope",
-      "medicine"
+      "medicine",
+      "listen"
     ]
   },
   {
@@ -14912,7 +15030,8 @@
       "fumat",
       "scrum",
       "țigară",
-      "cigarette"
+      "cigarette",
+      "tobacco"
     ]
   },
   {
@@ -14920,7 +15039,11 @@
     "tags": [
       "coșciug",
       "înmormântare",
-      "moarte"
+      "moarte",
+      "coffin",
+      "mort",
+      "casket",
+      "funeral"
     ]
   },
   {
@@ -14935,7 +15058,8 @@
       "grave",
       "headstone",
       "graveyard",
-      "tombstone"
+      "tombstone",
+      "gravestone"
     ]
   },
   {
@@ -14944,7 +15068,10 @@
       "cenușă",
       "moarte",
       "urnă",
-      "urnă funerară"
+      "urnă funerară",
+      "funeral",
+      "urn",
+      "mort"
     ]
   },
   {
@@ -15122,7 +15249,11 @@
     "emoji": "⚠️",
     "tags": [
       "avertisment",
-      "avertizare"
+      "avertizare",
+      "caution",
+      "warning",
+      "alert",
+      "pericol"
     ]
   },
   {
@@ -15237,7 +15368,6 @@
       "telefoanele mobile sunt interzise",
       "telefon",
       "cell",
-      "mobile",
       "no mobile phones"
     ]
   },
@@ -15263,7 +15393,11 @@
     "tags": [
       "radioactiv",
       "radioactivitate",
-      "simbol"
+      "simbol",
+      "warning",
+      "hazard",
+      "pericol",
+      "radioactive"
     ]
   },
   {
@@ -15272,7 +15406,10 @@
       "biologic",
       "pericol",
       "risc",
-      "simbol"
+      "simbol",
+      "warning",
+      "hazard",
+      "radioactive"
     ]
   },
   {
@@ -15282,7 +15419,8 @@
       "direcție",
       "nord",
       "săgeată",
-      "săgeată orientată în sus"
+      "săgeată orientată în sus",
+      "sus"
     ]
   },
   {
@@ -15292,7 +15430,8 @@
       "intercardinal",
       "nord-est",
       "săgeată",
-      "săgeată orientată în dreapta-sus"
+      "săgeată orientată în dreapta-sus",
+      "up right"
     ]
   },
   {
@@ -15302,7 +15441,8 @@
       "direcție",
       "est",
       "săgeată",
-      "săgeată orientată în dreapta"
+      "săgeată orientată în dreapta",
+      "right"
     ]
   },
   {
@@ -15312,7 +15452,8 @@
       "intercardinal",
       "săgeată",
       "săgeată orientată în dreapta-jos",
-      "sud-est"
+      "sud-est",
+      "down right"
     ]
   },
   {
@@ -15323,7 +15464,8 @@
       "jos",
       "săgeată",
       "săgeată orientată în jos",
-      "sud"
+      "sud",
+      "down right"
     ]
   },
   {
@@ -15333,7 +15475,8 @@
       "intercardinal",
       "săgeată",
       "săgeată orientată în stânga jos",
-      "sud-vest"
+      "sud-vest",
+      "down left"
     ]
   },
   {
@@ -15343,7 +15486,8 @@
       "direcție",
       "săgeată",
       "săgeată orientată în stânga",
-      "vest"
+      "vest",
+      "left"
     ]
   },
   {
@@ -15353,42 +15497,52 @@
       "intercardinal",
       "nord-vest",
       "săgeată",
-      "săgeată orientată în stânga-sus"
+      "săgeată orientată în stânga-sus",
+      "up left"
     ]
   },
   {
     "emoji": "↕️",
     "tags": [
       "săgeată",
-      "săgeată sus-jos"
+      "săgeată sus-jos",
+      "up and down",
+      "vertical",
+      "height"
     ]
   },
   {
     "emoji": "↔️",
     "tags": [
       "săgeată",
-      "săgeată dreapta-stânga"
+      "săgeată dreapta-stânga",
+      "left and right",
+      "horizontal",
+      "width"
     ]
   },
   {
     "emoji": "↩️",
     "tags": [
       "săgeată",
-      "săgeată dreapta curbată spre stânga"
+      "săgeată dreapta curbată spre stânga",
+      "return"
     ]
   },
   {
     "emoji": "↪️",
     "tags": [
       "săgeată",
-      "săgeată stânga curbată spre dreapta"
+      "săgeată stânga curbată spre dreapta",
+      "forward"
     ]
   },
   {
     "emoji": "⤴️",
     "tags": [
       "săgeată",
-      "săgeată dreapta curbată în sus"
+      "săgeată dreapta curbată în sus",
+      "up bend"
     ]
   },
   {
@@ -15396,7 +15550,8 @@
     "tags": [
       "jos",
       "săgeată",
-      "săgeată dreapta curbată în jos"
+      "săgeată dreapta curbată în jos",
+      "down bend"
     ]
   },
   {
@@ -15454,7 +15609,7 @@
       "săgeată cu textul ON!",
       "mark",
       "ON! arrow",
-      "on"
+      "activată"
     ]
   },
   {
@@ -15517,7 +15672,9 @@
       "evreu",
       "iudaism",
       "stea",
-      "steaua lui David"
+      "steaua lui David",
+      "jewish",
+      "start of david"
     ]
   },
   {
@@ -15528,7 +15685,8 @@
       "religie",
       "roată",
       "roata dharma",
-      "roata dharmei"
+      "roata dharmei",
+      "wheel"
     ]
   },
   {
@@ -15537,7 +15695,8 @@
       "religie",
       "taoism",
       "yang",
-      "yin"
+      "yin",
+      "yin yang"
     ]
   },
   {
@@ -15546,7 +15705,9 @@
       "creștinism",
       "cruce",
       "cruce latină",
-      "religie"
+      "religie",
+      "cross",
+      "christianity"
     ]
   },
   {
@@ -15556,7 +15717,9 @@
       "cruce",
       "cruce ortodoxă",
       "ortodoxie",
-      "religie"
+      "religie",
+      "cross",
+      "orthodox cross"
     ]
   },
   {
@@ -15566,14 +15729,18 @@
       "musulman",
       "musulmană",
       "religie",
-      "stea și semilună"
+      "stea și semilună",
+      "star and crescent",
+      "islam"
     ]
   },
   {
     "emoji": "☮️",
     "tags": [
       "pace",
-      "semnul păcii"
+      "semnul păcii",
+      "peace",
+      "peace sign"
     ]
   },
   {
@@ -15794,7 +15961,12 @@
       "dreapta",
       "redare",
       "săgeată",
-      "triunghi"
+      "triunghi",
+      "play",
+      "go",
+      "play button",
+      "right arrow",
+      "triangle"
     ]
   },
   {
@@ -15846,7 +16018,9 @@
       "inversare",
       "săgeată",
       "stânga",
-      "triunghi"
+      "triunghi",
+      "left arrow",
+      "triangle"
     ]
   },
   {
@@ -15967,7 +16141,9 @@
     "tags": [
       "buton",
       "buton de ejectare",
-      "ejectare"
+      "ejectare",
+      "eject",
+      "eject button"
     ]
   },
   {
@@ -15978,7 +16154,6 @@
       "film",
       "filmare",
       "peliculă",
-      "camera",
       "movie"
     ]
   },
@@ -16017,7 +16192,7 @@
       "antenna bars",
       "cell",
       "bar",
-      "mobile",
+      "mobil",
       "telefon"
     ]
   },
@@ -16031,7 +16206,6 @@
       "vibrare",
       "vibrație",
       "cell",
-      "mobile",
       "mode",
       "telephone",
       "vibration"
@@ -16045,8 +16219,7 @@
       "mobil",
       "telefon",
       "cell",
-      "mobile",
-      "off",
+      "dezactivată",
       "telephone"
     ]
   },
@@ -16064,7 +16237,9 @@
       "anulare",
       "înmulțire",
       "semn",
-      "x"
+      "x",
+      "stop",
+      "cross"
     ]
   },
   {
@@ -16112,7 +16287,10 @@
       "etern",
       "infinit",
       "nelimitat",
-      "universal"
+      "universal",
+      "infinity",
+      "infinite",
+      "endless"
     ]
   },
   {
@@ -16134,7 +16312,9 @@
       "exclamație",
       "întrebare",
       "punctuație",
-      "semn de exclamare și întrebare"
+      "semn de exclamare și întrebare",
+      "exclamation",
+      "question"
     ]
   },
   {
@@ -16203,7 +16383,10 @@
     "tags": [
       "liniuță",
       "liniuță ondulată",
-      "ondulat"
+      "ondulat",
+      "wave",
+      "wavey",
+      "wavey dash"
     ]
   },
   {
@@ -16212,7 +16395,9 @@
       "bani",
       "schimb",
       "schimb valutar",
-      "valută"
+      "valută",
+      "currency",
+      "exchange"
     ]
   },
   {
@@ -16220,7 +16405,11 @@
     "tags": [
       "bani",
       "dolar",
-      "semnul dolar îngroșat"
+      "semnul dolar îngroșat",
+      "dollars",
+      "cash",
+      "usd",
+      "rich"
     ]
   },
   {
@@ -16237,7 +16426,9 @@
       "fleur de lis",
       "floare de crin stilizată",
       "Franța",
-      "regalitate"
+      "regalitate",
+      "fleur",
+      "fleur-de-lis"
     ]
   },
   {
@@ -16312,7 +16503,11 @@
       "bifă",
       "casetă",
       "casetă de votare bifată",
-      "vot"
+      "vot",
+      "check",
+      "check box",
+      "done",
+      "todo"
     ]
   },
   {
@@ -16375,7 +16570,11 @@
       "buclă dublă",
       "buclă ondulată dublă",
       "dublu",
-      "onduleu"
+      "onduleu",
+      "loop",
+      "curl",
+      "twist",
+      "double curly loop"
     ]
   },
   {
@@ -16385,7 +16584,8 @@
       "cântăreț",
       "marcaj",
       "schimbare",
-      "semn"
+      "semn",
+      "part alternation mark"
     ]
   },
   {
@@ -16407,7 +16607,8 @@
     "tags": [
       "*",
       "lumină",
-      "strălucire"
+      "strălucire",
+      "sparkle"
     ]
   },
   {
@@ -16423,14 +16624,18 @@
     "tags": [
       "înregistrat",
       "marcă înregistrată",
-      "r"
+      "r",
+      "registered",
+      "reserved"
     ]
   },
   {
     "emoji": "™️",
     "tags": [
       "comercială",
-      "marcă"
+      "marcă",
+      "tm",
+      "trademark"
     ]
   },
   {
@@ -16520,7 +16725,8 @@
     "tags": [
       "b",
       "buton B (grupă sanguină)",
-      "grupă sanguină"
+      "grupă sanguină",
+      "letter b"
     ]
   },
   {
@@ -16552,7 +16758,8 @@
     "emoji": "ℹ️",
     "tags": [
       "i",
-      "informații"
+      "informații",
+      "letter i"
     ]
   },
   {
@@ -16570,7 +16777,8 @@
     "tags": [
       "cerc",
       "litera M într-un cerc",
-      "m"
+      "m",
+      "m in circle"
     ]
   },
   {
@@ -16610,7 +16818,9 @@
     "emoji": "🅿️",
     "tags": [
       "buton P",
-      "parcare"
+      "parcare",
+      "p",
+      "letter p"
     ]
   },
   {
@@ -16651,7 +16861,7 @@
       "buton cu semnificația „aici” în japoneză",
       "japozeză",
       "katakana",
-      "“here”",
+      "here",
       "Japanese",
       "Japanese “here” button",
       "ココ"
@@ -16683,7 +16893,7 @@
       "buton cu semnificația „contra cost” japoneză",
       "ideogramă",
       "japoneză",
-      "“not free of charge”",
+      "not free of charge",
       "ideograph",
       "Japanese “not free of charge” button",
       "Japanese",
@@ -16697,7 +16907,7 @@
       "buton cu semnificația „rezervat” în japoneză",
       "ideogramă",
       "japoneză",
-      "“reserved”",
+      "reserved",
       "ideograph",
       "Japanese “reserved” button",
       "Japanese",
@@ -16711,7 +16921,7 @@
       "buton cu semnificația „ocazie” în japoneză",
       "ideogramă",
       "japoneză",
-      "“bargain”",
+      "bargain",
       "ideograph",
       "Japanese “bargain” button",
       "Japanese",
@@ -16725,7 +16935,7 @@
       "buton cu semnificația „reducere” în japoneză",
       "ideogramă",
       "japoneză",
-      "“discount”",
+      "discount",
       "ideograph",
       "Japanese “discount” button",
       "Japanese",
@@ -16739,7 +16949,7 @@
       "buton cu semnificația „gratis” în japoneză",
       "ideogramă",
       "japoneză",
-      "“free of charge”",
+      "free of charge",
       "ideograph",
       "Japanese “free of charge” button",
       "Japanese",
@@ -16753,7 +16963,7 @@
       "buton cu semnificația „interzis” în japoneză",
       "ideogramă",
       "japoneză",
-      "“prohibited”",
+      "prohibited",
       "ideograph",
       "Japanese “prohibited” button",
       "Japanese",
@@ -16767,7 +16977,7 @@
       "buton cu semnificația „acceptabil” în japoneză",
       "ideogramă",
       "japoneză",
-      "“acceptable”",
+      "acceptable",
       "ideograph",
       "Japanese “acceptable” button",
       "Japanese",
@@ -16781,7 +16991,7 @@
       "buton cu semnificația „aplicare” în japoneză",
       "ideogramă",
       "japoneză",
-      "“application”",
+      "application",
       "ideograph",
       "Japanese “application” button",
       "Japanese",
@@ -16795,7 +17005,7 @@
       "buton cu semnificația „notă de trecere” în japoneză",
       "ideogramă",
       "japoneză",
-      "“passing grade”",
+      "passing grade",
       "ideograph",
       "Japanese “passing grade” button",
       "Japanese",
@@ -16809,7 +17019,7 @@
       "buton cu semnificația „locuri libere” în japoneză",
       "ideogramă",
       "japoneză",
-      "“vacancy”",
+      "vacancy",
       "ideograph",
       "Japanese “vacancy” button",
       "Japanese",
@@ -16822,7 +17032,10 @@
       "„felicitări”",
       "buton cu semnificația „felicitări” în japoneză",
       "ideogramă",
-      "japoneză"
+      "japoneză",
+      "congratulations",
+      "ideograph",
+      "japanese"
     ]
   },
   {
@@ -16841,7 +17054,7 @@
       "buton cu semnificația „deschis pentru afaceri” în japoneză",
       "ideogramă",
       "japoneză",
-      "“open for business”",
+      "open for business",
       "ideograph",
       "Japanese “open for business” button",
       "Japanese",
@@ -16855,7 +17068,7 @@
       "buton cu semnificația „fără locuri libere” în japoneză",
       "ideogramă",
       "japoneză",
-      "“no vacancy”",
+      "no vacancy",
       "ideograph",
       "Japanese “no vacancy” button",
       "Japanese",
@@ -17035,7 +17248,9 @@
       "alb",
       "geometric",
       "pătrat",
-      "pătrat alb mediu"
+      "pătrat alb mediu",
+      "square",
+      "white medium square"
     ]
   },
   {
@@ -17162,7 +17377,10 @@
     "tags": [
       "buton",
       "geometric",
-      "radio"
+      "radio",
+      "button",
+      "radio button",
+      "circle"
     ]
   },
   {
@@ -17184,7 +17402,10 @@
       "buton pătrat negru",
       "geometric",
       "negru",
-      "pătrat"
+      "pătrat",
+      "button",
+      "square",
+      "outlined"
     ]
   },
   {
@@ -17250,7 +17471,19 @@
       "steag curcubeu",
       "pride",
       "rainbow",
-      "rainbow flag"
+      "rainbow flag",
+      "lgbtqia",
+      "lgbt",
+      "lgbtqa",
+      "queer",
+      "gay",
+      "lesbian",
+      "intersex",
+      "bisexual",
+      "transgender",
+      "trans",
+      "asexual",
+      "questioning"
     ]
   },
   {
@@ -17266,6 +17499,181 @@
       "plunder",
       "pirate flag",
       "treasure"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "tags": [
+      "față",
+      "frown",
+      "trist",
+      "slightly frowning face"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "moarte",
+      "craniu",
+      "crossbones",
+      "skull and crossbones",
+      "bones",
+      "mort"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "tags": [
+      "inimă",
+      "red heart"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "heart suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "🗨️",
+    "tags": [
+      "balon",
+      "bulă",
+      "dialog",
+      "comic",
+      "speech"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "zăpadă",
+      "snowflake",
+      "răceală",
+      "ice"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "tags": [
+      "telefon",
+      "telephone"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "pencil"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "alembic",
+      "știință",
+      "chemistry"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "atom"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "asterisk",
+      "eight spoke"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "stea",
+      "eight pointed"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "!",
+      "exclamation",
+      "double exclamation"
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "tags": [
+      "recyce",
+      "reuse",
+      "verde"
+    ]
+  },
+  {
+    "emoji": "🅰️",
+    "tags": [
+      "a",
+      "letter a"
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "tags": [
+      "o",
+      "letter o"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "service charger",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "monthly amount",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "secret",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "tags": [
+      "black small square",
+      "geometric",
+      "square",
+      "negru"
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "tags": [
+      "black medium square",
+      "geometric",
+      "square",
+      "negru"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "geometric",
+      "square",
+      "white small square",
+      "alb"
     ]
   },
   {

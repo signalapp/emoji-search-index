@@ -40,7 +40,8 @@
       "grinning face with smiling eyes",
       "open",
       "smile",
-      "smiling"
+      "smiling",
+      "happy"
     ]
   },
   {
@@ -87,7 +88,6 @@
       "šaltas",
       "šypsena",
       "veidas",
-      "cold",
       "open",
       "grinning face with sweat",
       "smile",
@@ -265,7 +265,10 @@
       "atsipalaidavęs",
       "besišypsantis veidas",
       "šypsena",
-      "veidas"
+      "veidas",
+      "slightly smiling face",
+      "smiling",
+      "smile"
     ]
   },
   {
@@ -1445,7 +1448,7 @@
       "veidas",
       "cat",
       "eye",
-      "heart",
+      "heart eyes",
       "love",
       "smile",
       "smiling cat with heart-eyes"
@@ -1585,7 +1588,7 @@
       "meilės laiškas",
       "paštas",
       "širdis",
-      "heart",
+      "heart letter",
       "letter",
       "mail",
       "love"
@@ -1633,9 +1636,9 @@
       "susijaudinimas",
       "susinervinęs",
       "excited",
-      "growing",
-      "nervous",
       "growing heart",
+      "nervous",
+      "growing",
       "pulse"
     ]
   },
@@ -1676,7 +1679,6 @@
     "tags": [
       "širdelės dekoracija",
       "širdis",
-      "heart",
       "heart decoration"
     ]
   },
@@ -1687,7 +1689,10 @@
       "širdis",
       "skyryba",
       "storas širdelės formos šauktukas",
-      "ženklas"
+      "ženklas",
+      "heart exclamation",
+      "heart drop",
+      "exclamation"
     ]
   },
   {
@@ -1697,8 +1702,8 @@
       "sudaužyta širdelė",
       "sudaužyti",
       "break",
-      "broken",
-      "broken heart"
+      "broken heart",
+      "heart break"
     ]
   },
   {
@@ -1706,9 +1711,9 @@
     "tags": [
       "deganti širdis",
       "burn",
-      "heart",
-      "love",
+      "burning heart",
       "heart on fire",
+      "love",
       "lust",
       "sacred heart"
     ]
@@ -1724,12 +1729,13 @@
       "taisymas",
       "tobulinti",
       "healthier",
-      "improving",
       "mending heart",
+      "heart mending",
       "mending",
       "recovering",
       "recuperating",
-      "well"
+      "well",
+      "improving"
     ]
   },
   {
@@ -1745,7 +1751,8 @@
       "oranžinė",
       "oranžinė širdelė",
       "orange",
-      "orange heart"
+      "orange heart",
+      "heart orange"
     ]
   },
   {
@@ -1754,7 +1761,8 @@
       "geltona",
       "geltona širdelė",
       "yellow",
-      "yellow heart"
+      "yellow heart",
+      "heart yellow"
     ]
   },
   {
@@ -1763,7 +1771,8 @@
       "žalia",
       "žalia širdelė",
       "green",
-      "green heart"
+      "green heart",
+      "heart green"
     ]
   },
   {
@@ -1772,7 +1781,8 @@
       "mėlyna",
       "mėlyna širdelė",
       "blue",
-      "blue heart"
+      "blue heart",
+      "heart blue"
     ]
   },
   {
@@ -1781,7 +1791,8 @@
       "purpurinė",
       "purpurinė širdelė",
       "purple",
-      "purple heart"
+      "purple heart",
+      "heart purple"
     ]
   },
   {
@@ -1790,7 +1801,8 @@
       "ruda",
       "širdelė",
       "brown",
-      "heart"
+      "brownheart",
+      "heart brown"
     ]
   },
   {
@@ -1801,6 +1813,7 @@
       "širdis",
       "black",
       "black heart",
+      "heart black",
       "wicked",
       "evil"
     ]
@@ -1810,8 +1823,9 @@
     "tags": [
       "balta",
       "širdelė",
-      "heart",
-      "white"
+      "white",
+      "white heart",
+      "heart white"
     ]
   },
   {
@@ -1918,7 +1932,8 @@
       "bubble",
       "dialog",
       "comic",
-      "speech"
+      "speech",
+      "typing"
     ]
   },
   {
@@ -1979,7 +1994,12 @@
       "ranka",
       "hand",
       "wave",
-      "waving"
+      "waving",
+      "hi",
+      "hey",
+      "hello",
+      "bye",
+      "goodbye"
     ]
   },
   {
@@ -2014,7 +2034,8 @@
       "hand",
       "high 5",
       "raised hand",
-      "high five"
+      "high five",
+      "hifive"
     ]
   },
   {
@@ -2039,7 +2060,7 @@
       "GERAI ženklas rankomis",
       "ranka",
       "hand",
-      "OK"
+      "Gerai"
     ]
   },
   {
@@ -2423,8 +2444,7 @@
       "asmenukė",
       "fotoaparatas",
       "telefonas",
-      "camera",
-      "phone",
+      "kamera",
       "selfie"
     ]
   },
@@ -2879,7 +2899,8 @@
       "person gesturing NO",
       "hand",
       "prohibited",
-      "X"
+      "X",
+      "no"
     ]
   },
   {
@@ -2897,7 +2918,7 @@
       "man gesturing NO",
       "prohibited",
       "X",
-      "male"
+      "no"
     ]
   },
   {
@@ -2915,7 +2936,7 @@
       "woman",
       "woman gesturing NO",
       "X",
-      "female"
+      "no"
     ]
   },
   {
@@ -2928,7 +2949,7 @@
       "gesture",
       "hand",
       "person gesturing OK",
-      "OK"
+      "Gerai"
     ]
   },
   {
@@ -2943,7 +2964,7 @@
       "hand",
       "man gesturing OK",
       "man",
-      "OK",
+      "Gerai",
       "male"
     ]
   },
@@ -2958,7 +2979,7 @@
       "gesture",
       "hand",
       "woman",
-      "OK",
+      "Gerai",
       "woman gesturing OK",
       "female"
     ]
@@ -3018,8 +3039,10 @@
       "gesture",
       "hand",
       "person raising hand",
-      "happy",
-      "raised"
+      "raised",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3033,7 +3056,10 @@
       "man",
       "raising hand",
       "man raising hand",
-      "male"
+      "male",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3047,7 +3073,10 @@
       "raising hand",
       "woman raising hand",
       "woman",
-      "female"
+      "female",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3822,8 +3851,7 @@
       "lėktuvas",
       "pilotas",
       "pilotuojantis žmogus",
-      "pilot",
-      "plane"
+      "pilot"
     ]
   },
   {
@@ -3832,10 +3860,9 @@
       "lėktuvas",
       "pilotas",
       "vyras",
-      "man",
       "pilot",
       "male",
-      "plane"
+      "man"
     ]
   },
   {
@@ -3845,7 +3872,6 @@
       "moteris",
       "pilotė",
       "pilot",
-      "plane",
       "female",
       "woman"
     ]
@@ -5084,7 +5110,8 @@
       "garų kambarys",
       "sauna",
       "person in steamy room",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -5095,7 +5122,8 @@
       "vyras garų kambaryje",
       "man in steamy room",
       "male",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -5106,7 +5134,8 @@
       "sauna",
       "steam room",
       "female",
-      "woman in steamy room"
+      "woman in steamy room",
+      "spa"
     ]
   },
   {
@@ -5271,7 +5300,8 @@
       "plaukikas",
       "plaukti",
       "person swimming",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -5283,7 +5313,8 @@
       "man",
       "man swimming",
       "male",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -5295,7 +5326,8 @@
       "swim",
       "woman",
       "female",
-      "woman swimming"
+      "woman swimming",
+      "swimmer"
     ]
   },
   {
@@ -7245,7 +7277,12 @@
     "emoji": "☘️",
     "tags": [
       "augalas",
-      "trilapis dobilas"
+      "trilapis dobilas",
+      "clover",
+      "shamrock",
+      "three-leaf clover",
+      "three",
+      "leaf"
     ]
   },
   {
@@ -9116,7 +9153,7 @@
       "namai",
       "namas",
       "pastatas",
-      "home",
+      "namų",
       "house"
     ]
   },
@@ -9128,7 +9165,7 @@
       "namas su sodu",
       "sodas",
       "garden",
-      "home",
+      "namų",
       "house with garden",
       "house"
     ]
@@ -9485,7 +9522,8 @@
       "garai",
       "karšta",
       "karštosios versmės",
-      "versmės"
+      "versmės",
+      "hot springs"
     ]
   },
   {
@@ -9567,7 +9605,7 @@
       "traukinio vagonas",
       "traukinys",
       "troleibusas",
-      "car",
+      "train car",
       "electric",
       "train",
       "railway",
@@ -9666,7 +9704,7 @@
       "geležinkelis",
       "kalnas",
       "kalnų traukinys",
-      "car",
+      "train car",
       "mountain",
       "railway"
     ]
@@ -9678,7 +9716,7 @@
       "tramvajaus vagonas",
       "tramvajus",
       "troleibusas",
-      "car",
+      "train car",
       "tram",
       "trolleybus"
     ]
@@ -9882,7 +9920,8 @@
       "motoroleris",
       "transportas",
       "motor",
-      "scooter"
+      "scooter",
+      "moped"
     ]
   },
   {
@@ -9891,7 +9930,8 @@
       "prieinamumas",
       "rankomis valdomas vežimėlis",
       "accessibility",
-      "manual wheelchair"
+      "manual wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -9900,7 +9940,8 @@
       "motorizuotas vežimėlis",
       "prieinamumas",
       "accessibility",
-      "motorized wheelchair"
+      "motorized wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -10014,11 +10055,10 @@
       "signalinis žibintas",
       "šviesa",
       "beacon",
-      "car",
       "light",
       "revolving",
-      "alert",
       "alarm",
+      "alert",
       "emergency",
       "siren"
     ]
@@ -10033,7 +10073,8 @@
       "horizontal traffic light",
       "light",
       "traffic",
-      "signal"
+      "signal",
+      "stoplight"
     ]
   },
   {
@@ -10046,7 +10087,8 @@
       "light",
       "signal",
       "vertical traffic light",
-      "traffic"
+      "traffic",
+      "stoplight"
     ]
   },
   {
@@ -10159,7 +10201,11 @@
   {
     "emoji": "✈️",
     "tags": [
-      "lėktuvas"
+      "lėktuvas",
+      "aeroplane",
+      "airplane",
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -10169,7 +10215,8 @@
       "mažas lėktuvas",
       "aeroplane",
       "airplane",
-      "small airplane"
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -10184,7 +10231,8 @@
       "airplane",
       "departure",
       "check-in",
-      "departures"
+      "departures",
+      "plane"
     ]
   },
   {
@@ -10200,7 +10248,8 @@
       "arrivals",
       "airplane arrival",
       "arriving",
-      "landing"
+      "landing",
+      "plane"
     ]
   },
   {
@@ -10892,7 +10941,9 @@
       "saulė",
       "saulėta",
       "spinduliai",
-      "šviesu"
+      "šviesu",
+      "sun",
+      "bright"
     ]
   },
   {
@@ -10970,14 +11021,16 @@
       "kosmosas",
       "paukščių takas",
       "milky way",
-      "space"
+      "space",
+      "galaxy"
     ]
   },
   {
     "emoji": "☁️",
     "tags": [
       "debesis",
-      "oras"
+      "oras",
+      "cloud"
     ]
   },
   {
@@ -11127,7 +11180,18 @@
       "lietus",
       "vaivorykštė",
       "rain",
-      "rainbow"
+      "rainbow",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "pride",
+      "gay",
+      "lesbian",
+      "queer",
+      "transgender",
+      "trans",
+      "intersex",
+      "asexual"
     ]
   },
   {
@@ -11148,7 +11212,9 @@
     "tags": [
       "drabužiai",
       "lietus",
-      "skėtis"
+      "skėtis",
+      "umbrella",
+      "rain"
     ]
   },
   {
@@ -11208,7 +11274,10 @@
     "tags": [
       "šaltis",
       "sniegas",
-      "sniego senis"
+      "sniego senis",
+      "cold",
+      "snow",
+      "snowman"
     ]
   },
   {
@@ -11485,7 +11554,8 @@
       "kaspinas",
       "šventė",
       "celebration",
-      "ribbon"
+      "ribbon",
+      "bow"
     ]
   },
   {
@@ -12070,7 +12140,9 @@
       "žaidimų automatas",
       "game",
       "slot",
-      "slot machine"
+      "slot machine",
+      "gambling",
+      "casino"
     ]
   },
   {
@@ -12133,7 +12205,8 @@
       "doll",
       "nesting",
       "russia",
-      "nesting dolls"
+      "nesting dolls",
+      "matryoshka"
     ]
   },
   {
@@ -12141,7 +12214,9 @@
     "tags": [
       "kortos",
       "pikai",
-      "žaidimas"
+      "žaidimas",
+      "spade suit",
+      "card suit"
     ]
   },
   {
@@ -12158,7 +12233,9 @@
       "būgnai",
       "būgnas",
       "kortos",
-      "žaidimas"
+      "žaidimas",
+      "diamond suit",
+      "card suit"
     ]
   },
   {
@@ -12166,7 +12243,9 @@
     "tags": [
       "kortos",
       "kryžiai",
-      "žaidimas"
+      "žaidimas",
+      "club suit",
+      "card suit"
     ]
   },
   {
@@ -12440,7 +12519,8 @@
       "pirštinės",
       "ranka",
       "gloves",
-      "hand"
+      "hand",
+      "mittens"
     ]
   },
   {
@@ -12888,7 +12968,7 @@
       "garsumas",
       "nutildytas",
       "tylus",
-      "mute",
+      "išj. pranešimus",
       "muted speaker",
       "silent",
       "quiet",
@@ -12958,7 +13038,8 @@
     "emoji": "🔔",
     "tags": [
       "varpelis",
-      "bell"
+      "bell",
+      "ring"
     ]
   },
   {
@@ -12971,7 +13052,7 @@
       "varpelis",
       "bell",
       "bell with slash",
-      "mute",
+      "išj. pranešimus",
       "forbidden",
       "quiet",
       "silent"
@@ -13072,7 +13153,7 @@
       "radijas",
       "vaizdo įrašas",
       "radio",
-      "video"
+      "vaizdo skamb."
     ]
   },
   {
@@ -13186,9 +13267,8 @@
       "mobilusis",
       "telefonas",
       "cell",
-      "mobile",
       "telephone",
-      "phone"
+      "smartphone"
     ]
   },
   {
@@ -13202,9 +13282,8 @@
       "arrow",
       "cell",
       "mobile phone with arrow",
-      "mobile",
-      "phone",
-      "receive"
+      "receive",
+      "smartphone"
     ]
   },
   {
@@ -13219,7 +13298,6 @@
       "ragelis",
       "telefonas",
       "telefono ragelis",
-      "phone",
       "receiver",
       "telephone"
     ]
@@ -13228,7 +13306,8 @@
     "emoji": "📟",
     "tags": [
       "gaviklis",
-      "pager"
+      "pager",
+      "beeper"
     ]
   },
   {
@@ -13276,7 +13355,9 @@
       "kompiuteris",
       "stalinis",
       "computer",
-      "desktop"
+      "desktop",
+      "monitor",
+      "screen"
     ]
   },
   {
@@ -13292,7 +13373,9 @@
     "emoji": "⌨️",
     "tags": [
       "klaviatūra",
-      "kompiuteris"
+      "kompiuteris",
+      "keyboard",
+      "computer keyboard"
     ]
   },
   {
@@ -13385,7 +13468,6 @@
       "filmavimo kamera",
       "kamera",
       "kinas",
-      "camera",
       "cinema",
       "movie"
     ]
@@ -13416,8 +13498,8 @@
       "film",
       "projector",
       "movie",
-      "video",
-      "camera",
+      "vaizdo skamb.",
+      "kamera",
       "blue"
     ]
   },
@@ -13440,7 +13522,7 @@
       "vaizdo įrašas",
       "television",
       "tv",
-      "video"
+      "vaizdo skamb."
     ]
   },
   {
@@ -13448,8 +13530,8 @@
     "tags": [
       "fotoaparatas",
       "vaizdo įrašas",
-      "camera",
-      "video"
+      "kamera",
+      "vaizdo skamb."
     ]
   },
   {
@@ -13459,9 +13541,9 @@
       "fotoaparatas",
       "fotoaparatas su blykste",
       "vaizdo įrašas",
-      "camera",
+      "kamera",
       "camera with flash",
-      "video",
+      "vaizdo skamb.",
       "flash"
     ]
   },
@@ -13471,8 +13553,8 @@
       "fotoaparatas",
       "vaizdo įrašas",
       "vaizdo kamera",
-      "camera",
-      "video",
+      "kamera",
+      "vaizdo skamb.",
       "camcorder"
     ]
   },
@@ -13486,7 +13568,7 @@
       "tape",
       "vhs",
       "videocassette",
-      "video"
+      "vaizdo skamb."
     ]
   },
   {
@@ -13499,7 +13581,7 @@
       "stiklas",
       "glass",
       "magnifying",
-      "search",
+      "ieškoti",
       "magnifying glass tilted left",
       "tool"
     ]
@@ -13511,7 +13593,12 @@
       "didinimo stiklas į dešinę",
       "įrankis",
       "paieška",
-      "stiklas"
+      "stiklas",
+      "glass",
+      "magnifying",
+      "ieškoti",
+      "magnifying glass tilted right",
+      "tool"
     ]
   },
   {
@@ -13751,7 +13838,8 @@
     "emoji": "🏷️",
     "tags": [
       "etiketė",
-      "label"
+      "label",
+      "tag"
     ]
   },
   {
@@ -13908,7 +13996,10 @@
     "tags": [
       "el. laiškas",
       "el. paštas",
-      "vokas"
+      "vokas",
+      "envelope",
+      "letter",
+      "mail"
     ]
   },
   {
@@ -13918,7 +14009,7 @@
       "laiškas",
       "paštas",
       "e-mail",
-      "email",
+      "el. paštas",
       "mail",
       "letter"
     ]
@@ -13933,7 +14024,7 @@
       "paštas",
       "vokas",
       "e-mail",
-      "email",
+      "el. paštas",
       "incoming",
       "envelope",
       "letter",
@@ -13951,7 +14042,6 @@
       "arrow",
       "e-mail",
       "envelope",
-      "email",
       "envelope with arrow",
       "outgoing"
     ]
@@ -14092,7 +14182,10 @@
     "tags": [
       "juoda plunksna",
       "rašiklis",
-      "smaigalys"
+      "smaigalys",
+      "pen",
+      "pen nib",
+      "nib"
     ]
   },
   {
@@ -14136,7 +14229,10 @@
       "atmintinė",
       "pieštukas",
       "memo",
-      "pencil"
+      "pencil",
+      "pencil and paper",
+      "paper",
+      "write"
     ]
   },
   {
@@ -14345,7 +14441,9 @@
     "emoji": "✂️",
     "tags": [
       "įrankis",
-      "žirklės"
+      "žirklės",
+      "scissors",
+      "cut"
     ]
   },
   {
@@ -14376,7 +14474,9 @@
     "emoji": "🗑️",
     "tags": [
       "šiukšliadėžė",
-      "wastebasket"
+      "wastebasket",
+      "trash",
+      "can"
     ]
   },
   {
@@ -14385,7 +14485,9 @@
       "spyna",
       "uždaryta",
       "closed",
-      "locked"
+      "locked",
+      "lock",
+      "padlock"
     ]
   },
   {
@@ -14397,7 +14499,8 @@
       "lock",
       "open",
       "unlocked",
-      "unlock"
+      "unlock",
+      "padlock"
     ]
   },
   {
@@ -14414,7 +14517,8 @@
       "nib",
       "locked with pen",
       "pen",
-      "privacy"
+      "privacy",
+      "padlock"
     ]
   },
   {
@@ -14429,7 +14533,8 @@
       "key",
       "locked with key",
       "lock",
-      "secure"
+      "secure",
+      "padlock"
     ]
   },
   {
@@ -14495,7 +14600,9 @@
       "įrankis",
       "kirstuvas",
       "plaktukas",
-      "plaktuvas ir kirstuvas"
+      "plaktuvas ir kirstuvas",
+      "hammer",
+      "pick"
     ]
   },
   {
@@ -14528,7 +14635,10 @@
     "tags": [
       "ginklai",
       "kardai",
-      "sukryžiuoti"
+      "sukryžiuoti",
+      "sword",
+      "fencing",
+      "crossed swords"
     ]
   },
   {
@@ -14639,7 +14749,10 @@
     "emoji": "⚙️",
     "tags": [
       "įrankis",
-      "krumpliaratis"
+      "krumpliaratis",
+      "gear",
+      "cog",
+      "machine"
     ]
   },
   {
@@ -14663,7 +14776,10 @@
       "svarstyklės su lėkštėmis",
       "svoris",
       "teisingumas",
-      "zodiakas"
+      "zodiakas",
+      "scale",
+      "balance",
+      "law"
     ]
   },
   {
@@ -14896,9 +15012,9 @@
       "širdis",
       "stetoskopas",
       "doctor",
-      "heart",
       "stethoscope",
-      "medicine"
+      "medicine",
+      "listen"
     ]
   },
   {
@@ -15196,14 +15312,20 @@
     "tags": [
       "rūkymas",
       "cigarette",
-      "smoking"
+      "smoking",
+      "tobacco"
     ]
   },
   {
     "emoji": "⚰️",
     "tags": [
       "karstas",
-      "mirtis"
+      "mirtis",
+      "coffin",
+      "death",
+      "dead",
+      "casket",
+      "funeral"
     ]
   },
   {
@@ -15216,7 +15338,8 @@
       "grave",
       "headstone",
       "graveyard",
-      "tombstone"
+      "tombstone",
+      "gravestone"
     ]
   },
   {
@@ -15225,7 +15348,11 @@
       "laidojimo urna",
       "laidotuvės",
       "mirtis",
-      "urna"
+      "urna",
+      "funeral",
+      "urn",
+      "death",
+      "dead"
     ]
   },
   {
@@ -15405,7 +15532,11 @@
   {
     "emoji": "⚠️",
     "tags": [
-      "įspėjimas"
+      "įspėjimas",
+      "caution",
+      "warning",
+      "alert",
+      "danger"
     ]
   },
   {
@@ -15544,9 +15675,8 @@
       "cell",
       "forbidden",
       "no",
-      "mobile",
       "no mobile phones",
-      "phone"
+      "telefonas"
     ]
   },
   {
@@ -15571,14 +15701,22 @@
     "emoji": "☢️",
     "tags": [
       "radioaktyvu",
-      "ženklas"
+      "ženklas",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
     "emoji": "☣️",
     "tags": [
       "biorizika",
-      "ženklas"
+      "ženklas",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -15588,7 +15726,9 @@
       "kryptis",
       "rodyklė",
       "rodyklė į viršų",
-      "šiaurė"
+      "šiaurė",
+      "arrow",
+      "up"
     ]
   },
   {
@@ -15597,7 +15737,9 @@
       "kryptis",
       "rodyklė",
       "rodyklė į viršų ir į dešinę",
-      "šiaurės rytai"
+      "šiaurės rytai",
+      "arrow",
+      "up right"
     ]
   },
   {
@@ -15607,7 +15749,9 @@
       "kryptis",
       "rodyklė",
       "rodyklė į dešinę",
-      "rytai"
+      "rytai",
+      "arrow",
+      "right"
     ]
   },
   {
@@ -15616,7 +15760,9 @@
       "kryptis",
       "pietryčiai",
       "rodyklė",
-      "rodyklė į apačią ir į dešinę"
+      "rodyklė į apačią ir į dešinę",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -15627,7 +15773,9 @@
       "kryptis",
       "pietūs",
       "rodyklė",
-      "rodyklė į apačią"
+      "rodyklė į apačią",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -15636,7 +15784,9 @@
       "kryptis",
       "pietvakariai",
       "rodyklė",
-      "rodyklė į apačią ir į kairę"
+      "rodyklė į apačią ir į kairę",
+      "arrow",
+      "down left"
     ]
   },
   {
@@ -15646,7 +15796,9 @@
       "kryptis",
       "rodyklė",
       "rodyklė į kairę",
-      "vakarai"
+      "vakarai",
+      "arrow",
+      "left"
     ]
   },
   {
@@ -15655,42 +15807,58 @@
       "kryptis",
       "rodyklė",
       "rodyklė į viršų ir į kairę",
-      "šiaurės vakarai"
+      "šiaurės vakarai",
+      "arrow",
+      "up left"
     ]
   },
   {
     "emoji": "↕️",
     "tags": [
       "rodyklė",
-      "rodyklė į viršų ir į apačią"
+      "rodyklė į viršų ir į apačią",
+      "arrow",
+      "up and down",
+      "vertical",
+      "height"
     ]
   },
   {
     "emoji": "↔️",
     "tags": [
       "rodyklė",
-      "rodyklė į kairę ir į dešinę"
+      "rodyklė į kairę ir į dešinę",
+      "arrow",
+      "left and right",
+      "horizontal",
+      "width"
     ]
   },
   {
     "emoji": "↩️",
     "tags": [
       "rodyklė",
-      "rodyklė į dešinę, užlenkta į kairę"
+      "rodyklė į dešinę, užlenkta į kairę",
+      "arrow",
+      "return"
     ]
   },
   {
     "emoji": "↪️",
     "tags": [
       "rodyklė",
-      "rodyklė į kairę, užlenkta į dešinę"
+      "rodyklė į kairę, užlenkta į dešinę",
+      "arrow",
+      "forward"
     ]
   },
   {
     "emoji": "⤴️",
     "tags": [
       "rodyklė",
-      "rodyklė į dešinę, užlenkta į viršų"
+      "rodyklė į dešinę, užlenkta į viršų",
+      "arrow",
+      "up bend"
     ]
   },
   {
@@ -15698,7 +15866,9 @@
     "tags": [
       "į apačią",
       "rodyklė",
-      "rodyklė į dešinę, užlenkta į apačią"
+      "rodyklė į dešinę, užlenkta į apačią",
+      "arrow",
+      "down bend"
     ]
   },
   {
@@ -15757,7 +15927,7 @@
       "arrow",
       "mark",
       "ON! arrow",
-      "on"
+      "įjungta"
     ]
   },
   {
@@ -15823,7 +15993,10 @@
       "religija",
       "žvaigždė",
       "žydas",
-      "žydų"
+      "žydų",
+      "star",
+      "jewish",
+      "start of david"
     ]
   },
   {
@@ -15833,7 +16006,8 @@
       "dharma",
       "Dharmos ratas",
       "ratas",
-      "religija"
+      "religija",
+      "wheel"
     ]
   },
   {
@@ -15844,7 +16018,10 @@
       "jang",
       "religija",
       "tao",
-      "taoizmas"
+      "taoizmas",
+      "yin",
+      "yang",
+      "yin yang"
     ]
   },
   {
@@ -15853,7 +16030,9 @@
       "krikščionis",
       "kryžius",
       "religija",
-      "Romos katalikų kryžius"
+      "Romos katalikų kryžius",
+      "cross",
+      "christianity"
     ]
   },
   {
@@ -15862,7 +16041,9 @@
       "krikščionis",
       "kryžius",
       "ortodoksų kryžius",
-      "religija"
+      "religija",
+      "cross",
+      "orthodox cross"
     ]
   },
   {
@@ -15871,14 +16052,18 @@
       "islamas",
       "musulmonas",
       "religija",
-      "žvaigždė ir pusmėnulis"
+      "žvaigždė ir pusmėnulis",
+      "star and crescent",
+      "islam"
     ]
   },
   {
     "emoji": "☮️",
     "tags": [
       "taika",
-      "taikos simbolis"
+      "taikos simbolis",
+      "peace",
+      "peace sign"
     ]
   },
   {
@@ -16092,7 +16277,12 @@
       "dešinė",
       "paleisti",
       "rodyklė",
-      "trikampis"
+      "trikampis",
+      "play",
+      "go",
+      "play button",
+      "right arrow",
+      "triangle"
     ]
   },
   {
@@ -16148,7 +16338,9 @@
       "atvirkštinė tvarka",
       "kairė",
       "rodyklė",
-      "trikampis"
+      "trikampis",
+      "left arrow",
+      "triangle"
     ]
   },
   {
@@ -16271,7 +16463,9 @@
     "emoji": "⏏️",
     "tags": [
       "išmesti",
-      "išmetimo mygtukas"
+      "išmetimo mygtukas",
+      "eject",
+      "eject button"
     ]
   },
   {
@@ -16280,7 +16474,6 @@
       "filmas",
       "kamera",
       "kinas",
-      "camera",
       "cinema",
       "movie",
       "film"
@@ -16322,9 +16515,7 @@
       "antenna",
       "antenna bars",
       "cell",
-      "bar",
-      "mobile",
-      "phone"
+      "bar"
     ]
   },
   {
@@ -16336,8 +16527,6 @@
       "vibravimas",
       "vibravimo režimas",
       "cell",
-      "mobile",
-      "phone",
       "mode",
       "telephone",
       "vibration"
@@ -16351,9 +16540,7 @@
       "mobilusis",
       "telefonas",
       "cell",
-      "mobile",
-      "phone",
-      "off",
+      "išjungta",
       "telephone"
     ]
   },
@@ -16373,7 +16560,9 @@
       "dauginti",
       "daugyba",
       "paryškintas daugybos ženklas",
-      "x"
+      "x",
+      "stop",
+      "cross"
     ]
   },
   {
@@ -16420,7 +16609,10 @@
       "amžinai",
       "begalybė",
       "neribotas",
-      "universalus"
+      "universalus",
+      "infinity",
+      "infinite",
+      "endless"
     ]
   },
   {
@@ -16439,7 +16631,10 @@
       "šauktukas",
       "šauktukas ir klaustukas",
       "skyryba",
-      "žymė"
+      "žymė",
+      "!?",
+      "exclamation",
+      "question"
     ]
   },
   {
@@ -16508,7 +16703,10 @@
     "tags": [
       "brūkšnys",
       "skyryba",
-      "vingiuotas"
+      "vingiuotas",
+      "wave",
+      "wavey",
+      "wavey dash"
     ]
   },
   {
@@ -16518,7 +16716,9 @@
       "keitimas",
       "pinigai",
       "valiuta",
-      "valiutos keitimas"
+      "valiutos keitimas",
+      "currency",
+      "exchange"
     ]
   },
   {
@@ -16527,7 +16727,11 @@
       "doleris",
       "paryškintas dolerio ženklas",
       "pinigai",
-      "valiuta"
+      "valiuta",
+      "dollars",
+      "cash",
+      "usd",
+      "rich"
     ]
   },
   {
@@ -16541,7 +16745,9 @@
     "emoji": "⚜️",
     "tags": [
       "lelija",
-      "lelijos simbolis"
+      "lelijos simbolis",
+      "fleur",
+      "fleur-de-lis"
     ]
   },
   {
@@ -16620,7 +16826,11 @@
       "balsavimas",
       "balsavimo laukelis su varnele",
       "laukelis",
-      "varnelė"
+      "varnelė",
+      "check",
+      "check box",
+      "done",
+      "todo"
     ]
   },
   {
@@ -16684,7 +16894,11 @@
       "dviguba",
       "dviguba kilpelė",
       "kilpa",
-      "raityti"
+      "raityti",
+      "loop",
+      "curl",
+      "twist",
+      "double curly loop"
     ]
   },
   {
@@ -16692,7 +16906,8 @@
     "tags": [
       "dalis",
       "dalių apkeitimo ženklas",
-      "žymė"
+      "žymė",
+      "part alternation mark"
     ]
   },
   {
@@ -16713,26 +16928,32 @@
     "emoji": "❇️",
     "tags": [
       "kibirkštėlė",
-      "kibirkštis"
+      "kibirkštis",
+      "sparkle"
     ]
   },
   {
     "emoji": "©️",
     "tags": [
-      "autorių teisės"
+      "autorių teisės",
+      "copyright"
     ]
   },
   {
     "emoji": "®️",
     "tags": [
-      "užregistruota"
+      "užregistruota",
+      "registered",
+      "reserved"
     ]
   },
   {
     "emoji": "™️",
     "tags": [
       "prekės ženklas",
-      "žymė"
+      "žymė",
+      "tm",
+      "trademark"
     ]
   },
   {
@@ -16821,7 +17042,8 @@
     "tags": [
       "b",
       "mygtukas „B“ (raudona)",
-      "raudona"
+      "raudona",
+      "letter b"
     ]
   },
   {
@@ -16854,7 +17076,8 @@
     "emoji": "ℹ️",
     "tags": [
       "i",
-      "informacija"
+      "informacija",
+      "letter i"
     ]
   },
   {
@@ -16873,7 +17096,8 @@
     "tags": [
       "apskritimas",
       "m",
-      "raidė „M“"
+      "raidė „M“",
+      "m in circle"
     ]
   },
   {
@@ -16905,7 +17129,7 @@
     "tags": [
       "ok",
       "simbolis „OK“",
-      "OK",
+      "Gerai",
       "OK button"
     ]
   },
@@ -16913,7 +17137,9 @@
     "emoji": "🅿️",
     "tags": [
       "automobilių stovėjimas",
-      "simbolis „P“"
+      "simbolis „P“",
+      "p",
+      "letter p"
     ]
   },
   {
@@ -16953,7 +17179,7 @@
       "čia reiškiantis hieroglifas",
       "hieroglifas",
       "japonų",
-      "“here”",
+      "here",
       "Japanese",
       "katakana",
       "Japanese “here” button",
@@ -16985,7 +17211,7 @@
       "japonų",
       "ne nemokamą reiškiantis hieroglifas",
       "ne nemokamas",
-      "“not free of charge”",
+      "not free of charge",
       "ideograph",
       "Japanese “not free of charge” button",
       "Japanese",
@@ -16999,7 +17225,7 @@
       "japonų",
       "rezervavimą reiškiantis hieroglifas",
       "rezervuotas",
-      "“reserved”",
+      "reserved",
       "ideograph",
       "Japanese “reserved” button",
       "Japanese",
@@ -17013,7 +17239,7 @@
       "japonų",
       "susitarimą reiškiantis hieroglifas",
       "susitarimas",
-      "“bargain”",
+      "bargain",
       "ideograph",
       "Japanese “bargain” button",
       "Japanese",
@@ -17027,7 +17253,7 @@
       "japonų",
       "nuolaida",
       "nuolaidą reiškiantis hieroglifas",
-      "“discount”",
+      "discount",
       "ideograph",
       "Japanese “discount” button",
       "Japanese",
@@ -17041,7 +17267,7 @@
       "japonų",
       "nemokamai",
       "nemokamumą reiškiantis hieroglifas",
-      "“free of charge”",
+      "free of charge",
       "ideograph",
       "Japanese “free of charge” button",
       "Japanese",
@@ -17055,7 +17281,7 @@
       "draudimas",
       "hieroglifas",
       "japonų",
-      "“prohibited”",
+      "prohibited",
       "ideograph",
       "Japanese “prohibited” button",
       "Japanese",
@@ -17069,7 +17295,7 @@
       "japonų",
       "sutikimą reiškiantis hieroglifas",
       "sutikimas",
-      "“acceptable”",
+      "acceptable",
       "ideograph",
       "Japanese “acceptable” button",
       "Japanese",
@@ -17083,7 +17309,7 @@
       "japonų",
       "taikymą reiškiantis hieroglifas",
       "taikymas",
-      "“application”",
+      "application",
       "ideograph",
       "Japanese “application” button",
       "Japanese",
@@ -17097,7 +17323,7 @@
       "bendrumas",
       "hieroglifas",
       "japonų",
-      "“passing grade”",
+      "passing grade",
       "ideograph",
       "Japanese “passing grade” button",
       "Japanese",
@@ -17111,7 +17337,7 @@
       "japonų",
       "tuštuma",
       "tuštumą reiškiantis hieroglifas",
-      "“vacancy”",
+      "vacancy",
       "ideograph",
       "Japanese “vacancy” button",
       "Japanese",
@@ -17124,7 +17350,10 @@
       "hieroglifas",
       "japonų",
       "pasveikinimą reiškiantis hieroglifas",
-      "sveikinimas"
+      "sveikinimas",
+      "congratulations",
+      "ideograph",
+      "japanese"
     ]
   },
   {
@@ -17143,7 +17372,7 @@
       "japonų",
       "veikimą reiškiantis hieroglifas",
       "veikti",
-      "“open for business”",
+      "open for business",
       "ideograph",
       "Japanese “open for business” button",
       "Japanese",
@@ -17157,7 +17386,7 @@
       "japonų",
       "pilnatvė",
       "pilnatvę reiškiantis hieroglifas",
-      "“no vacancy”",
+      "no vacancy",
       "ideograph",
       "Japanese “no vacancy” button",
       "Japanese",
@@ -17239,7 +17468,8 @@
       "rutulys",
       "black circle",
       "circle",
-      "geometric"
+      "geometric",
+      "black"
     ]
   },
   {
@@ -17250,7 +17480,8 @@
       "rutulys",
       "circle",
       "geometric",
-      "white circle"
+      "white circle",
+      "white"
     ]
   },
   {
@@ -17324,7 +17555,8 @@
       "kvadratas",
       "black large square",
       "geometric",
-      "square"
+      "square",
+      "black"
     ]
   },
   {
@@ -17335,7 +17567,8 @@
       "kvadratas",
       "geometric",
       "square",
-      "white large square"
+      "white large square",
+      "white"
     ]
   },
   {
@@ -17351,7 +17584,11 @@
     "tags": [
       "baltas vidutinis kvadratas",
       "geometrija",
-      "kvadratas"
+      "kvadratas",
+      "geometric",
+      "square",
+      "white medium square",
+      "white"
     ]
   },
   {
@@ -17488,7 +17725,10 @@
     "tags": [
       "akutė",
       "geometrija",
-      "mygtukas"
+      "mygtukas",
+      "button",
+      "radio button",
+      "circle"
     ]
   },
   {
@@ -17512,7 +17752,11 @@
       "geometrija",
       "juodas kvadratinis mygtukas",
       "kvadratas",
-      "mygtukas"
+      "mygtukas",
+      "button",
+      "geometric",
+      "square",
+      "outlined"
     ]
   },
   {
@@ -17575,7 +17819,19 @@
       "vaivorykštinė vėliava",
       "pride",
       "rainbow",
-      "rainbow flag"
+      "rainbow flag",
+      "lgbtqia",
+      "lgbt",
+      "lgbtqa",
+      "queer",
+      "gay",
+      "lesbian",
+      "intersex",
+      "bisexual",
+      "transgender",
+      "trans",
+      "asexual",
+      "questioning"
     ]
   },
   {
@@ -17591,6 +17847,181 @@
       "plunder",
       "pirate flag",
       "treasure"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "tags": [
+      "veidas",
+      "frown",
+      "sad",
+      "slightly frowning face"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "death",
+      "skull",
+      "crossbones",
+      "skull and crossbones",
+      "bones",
+      "dead"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "tags": [
+      "heart",
+      "red heart"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "heart suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "🗨️",
+    "tags": [
+      "balloon",
+      "bubble",
+      "dialog",
+      "comic",
+      "speech"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "snow",
+      "snowflake",
+      "cold",
+      "ice"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "tags": [
+      "telefonas",
+      "telephone"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "pencil"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "alembic",
+      "science",
+      "chemistry"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "atom"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "asterisk",
+      "eight spoke"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "star",
+      "eight pointed"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "!",
+      "exclamation",
+      "double exclamation"
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "tags": [
+      "recyce",
+      "reuse",
+      "green"
+    ]
+  },
+  {
+    "emoji": "🅰️",
+    "tags": [
+      "a",
+      "letter a"
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "tags": [
+      "o",
+      "letter o"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "service charger",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "monthly amount",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "secret",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "tags": [
+      "black small square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "tags": [
+      "black medium square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "geometric",
+      "square",
+      "white small square",
+      "white"
     ]
   },
   {

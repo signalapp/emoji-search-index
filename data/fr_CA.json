@@ -1769,6 +1769,8 @@
     "tags": [
       "appareil photo",
       "autophoto",
+      "autoportrait",
+      "égoportrait",
       "selfie",
       "téléphone"
     ]
@@ -2099,11 +2101,10 @@
   {
     "emoji": "🙅",
     "tags": [
-      "désaccord",
-      "Geste de négation",
+      "geste",
       "interdit",
       "main",
-      "négation"
+      "personne faisant un geste d’interdiction"
     ]
   },
   {
@@ -2919,7 +2920,8 @@
       "chapeau",
       "gua pi mao",
       "homme",
-      "homme coiffé d’une calotte chinoise"
+      "homme coiffé d’une calotte chinoise",
+      "personne coiffée d’une calotte chinoise"
     ]
   },
   {
@@ -4898,6 +4900,7 @@
   {
     "emoji": "🐚",
     "tags": [
+      "coquillage",
       "coquille",
       "coquille en spirale",
       "spirale"
@@ -4976,7 +4979,8 @@
   {
     "emoji": "🕷️",
     "tags": [
-      "araignée"
+      "araignée",
+      "insecte"
     ]
   },
   {
@@ -5159,6 +5163,7 @@
   {
     "emoji": "🌾",
     "tags": [
+      "grain",
       "plant",
       "plant de riz",
       "riz"
@@ -5243,6 +5248,7 @@
   {
     "emoji": "🍋",
     "tags": [
+      "agrume",
       "citron",
       "fruit"
     ]
@@ -5331,8 +5337,8 @@
   {
     "emoji": "🍅",
     "tags": [
+      "fruit",
       "légume",
-      "plante",
       "tomate"
     ]
   },
@@ -6154,7 +6160,8 @@
     "emoji": "🍸",
     "tags": [
       "cocktail",
-      "verre"
+      "verre",
+      "verre à cocktail"
     ]
   },
   {
@@ -7146,6 +7153,7 @@
       "longboard",
       "planche à roulettes",
       "roulettes",
+      "skate",
       "skateboard"
     ]
   },
@@ -7471,6 +7479,7 @@
     "emoji": "⏲️",
     "tags": [
       "heure",
+      "minuterie",
       "minuteur"
     ]
   },
@@ -7841,8 +7850,7 @@
     "emoji": "🌌",
     "tags": [
       "espace",
-      "voie lactée",
-      "Voie lactée"
+      "voie lactée"
     ]
   },
   {
@@ -8023,7 +8031,7 @@
   {
     "emoji": "☃️",
     "tags": [
-      "bonhomme de neige",
+      "bonhomme",
       "bonhomme de neige avec flocons",
       "flocons",
       "froid",
@@ -8584,6 +8592,7 @@
     "tags": [
       "billard",
       "boule de billard",
+      "boule magique",
       "jeu",
       "pool"
     ]

@@ -43,7 +43,8 @@
       "grinning face with smiling eyes",
       "open",
       "smile",
-      "smiling"
+      "smiling",
+      "happy"
     ]
   },
   {
@@ -89,7 +90,6 @@
       "e hapur",
       "fytyrë e qeshur me djersë të ftohta",
       "fytyrë e qeshur me gojën e hapur dhe djersë të ftohta",
-      "ftohtë",
       "fytyrë",
       "open",
       "grinning face with sweat",
@@ -275,7 +275,10 @@
       "e çlodhur",
       "e qetë",
       "fytyrë",
-      "fytyrë e qeshur"
+      "fytyrë e qeshur",
+      "slightly smiling face",
+      "smiling",
+      "smile"
     ]
   },
   {
@@ -1459,7 +1462,7 @@
       "fytyrë maceje me sy në formë zemre",
       "cat",
       "eye",
-      "heart",
+      "heart eyes",
       "fytyrë",
       "Dashuri",
       "smile",
@@ -1603,7 +1606,7 @@
       "letër dashurie",
       "romancë",
       "zemër",
-      "heart",
+      "heart letter",
       "letter",
       "mail",
       "Dashuri"
@@ -1656,9 +1659,9 @@
       "zemër",
       "zemër që rritet",
       "excited",
-      "growing",
-      "nervous",
       "growing heart",
+      "nervous",
+      "growing",
       "pulse"
     ]
   },
@@ -1702,7 +1705,6 @@
     "tags": [
       "dekorim me zemër",
       "zemër",
-      "heart",
       "heart decoration"
     ]
   },
@@ -1713,7 +1715,10 @@
       "pikësim",
       "shenjë",
       "zbukurim i trashë me pikëçuditje me zemër",
-      "zemër"
+      "zemër",
+      "heart exclamation",
+      "heart drop",
+      "exclamation"
     ]
   },
   {
@@ -1725,8 +1730,8 @@
       "zemër",
       "zemër e thyer",
       "break",
-      "broken",
-      "broken heart"
+      "broken heart",
+      "heart break"
     ]
   },
   {
@@ -1739,9 +1744,9 @@
       "zemër e shenjtë",
       "zemër në flakë",
       "burn",
-      "heart",
-      "Dashuri",
+      "burning heart",
       "heart on fire",
+      "Dashuri",
       "lust",
       "sacred heart"
     ]
@@ -1757,12 +1762,13 @@
       "shërim",
       "zemër në shërim",
       "healthier",
-      "improving",
       "mending heart",
+      "heart mending",
       "mending",
       "recovering",
       "recuperating",
-      "well"
+      "well",
+      "improving"
     ]
   },
   {
@@ -1777,7 +1783,8 @@
     "tags": [
       "portokalli",
       "zemër ngjyrë portokalli",
-      "orange heart"
+      "orange heart",
+      "heart orange"
     ]
   },
   {
@@ -1787,7 +1794,8 @@
       "zemër",
       "zemër e verdhë",
       "yellow",
-      "yellow heart"
+      "yellow heart",
+      "heart yellow"
     ]
   },
   {
@@ -1796,7 +1804,8 @@
       "jeshile",
       "zemër",
       "e gjelbër",
-      "green heart"
+      "green heart",
+      "heart green"
     ]
   },
   {
@@ -1804,7 +1813,8 @@
     "tags": [
       "blu",
       "zemër",
-      "blue heart"
+      "blue heart",
+      "heart blue"
     ]
   },
   {
@@ -1814,7 +1824,8 @@
       "zemër ngjyrë vjollcë",
       "zemër vjollcë",
       "purple",
-      "purple heart"
+      "purple heart",
+      "heart purple"
     ]
   },
   {
@@ -1824,7 +1835,8 @@
       "zemër",
       "zemër në ngjyrë kafe",
       "brown",
-      "heart"
+      "brownheart",
+      "heart brown"
     ]
   },
   {
@@ -1837,6 +1849,7 @@
       "zemër e zezë",
       "black",
       "black heart",
+      "heart black",
       "wicked",
       "evil"
     ]
@@ -1847,8 +1860,9 @@
       "e bardhë",
       "zemër",
       "zemër e bardhë",
-      "heart",
-      "white"
+      "white",
+      "white heart",
+      "heart white"
     ]
   },
   {
@@ -1949,7 +1963,8 @@
       "vizatim komik",
       "balloon",
       "comic",
-      "speech"
+      "speech",
+      "typing"
     ]
   },
   {
@@ -2009,7 +2024,12 @@
       "tund",
       "hand",
       "wave",
-      "waving"
+      "waving",
+      "hi",
+      "hey",
+      "hello",
+      "bye",
+      "goodbye"
     ]
   },
   {
@@ -2045,7 +2065,8 @@
       "hand",
       "high 5",
       "raised hand",
-      "high five"
+      "high five",
+      "hifive"
     ]
   },
   {
@@ -2455,8 +2476,6 @@
       "sellfi",
       "telefon",
       "vetjake",
-      "camera",
-      "phone",
       "selfie"
     ]
   },
@@ -2924,7 +2943,8 @@
       "person gesturing NO",
       "hand",
       "prohibited",
-      "X"
+      "X",
+      "no"
     ]
   },
   {
@@ -2942,7 +2962,7 @@
       "man gesturing NO",
       "prohibited",
       "X",
-      "male"
+      "no"
     ]
   },
   {
@@ -2960,7 +2980,7 @@
       "woman",
       "woman gesturing NO",
       "X",
-      "female"
+      "no"
     ]
   },
   {
@@ -3064,8 +3084,10 @@
       "gesture",
       "hand",
       "person raising hand",
-      "happy",
-      "raised"
+      "raised",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3079,7 +3101,10 @@
       "man",
       "raising hand",
       "man raising hand",
-      "male"
+      "male",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3093,7 +3118,10 @@
       "raising hand",
       "woman raising hand",
       "woman",
-      "female"
+      "female",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3841,8 +3869,7 @@
     "tags": [
       "avion",
       "person pilot",
-      "pilot",
-      "plane"
+      "pilot"
     ]
   },
   {
@@ -3851,9 +3878,8 @@
       "aeroplan",
       "burrë",
       "pilot",
-      "man",
       "male",
-      "plane"
+      "man"
     ]
   },
   {
@@ -3863,7 +3889,6 @@
       "grua",
       "pilote",
       "pilot",
-      "plane",
       "female",
       "woman"
     ]
@@ -5108,7 +5133,8 @@
       "saunë",
       "person in steamy room",
       "sauna",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -5120,7 +5146,8 @@
       "man in steamy room",
       "sauna",
       "male",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -5132,7 +5159,8 @@
       "sauna",
       "steam room",
       "female",
-      "woman in steamy room"
+      "woman in steamy room",
+      "spa"
     ]
   },
   {
@@ -5297,7 +5325,8 @@
       "notar",
       "notoj",
       "person swimming",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -5309,7 +5338,8 @@
       "man",
       "man swimming",
       "male",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -5321,7 +5351,8 @@
       "swim",
       "woman",
       "female",
-      "woman swimming"
+      "woman swimming",
+      "swimmer"
     ]
   },
   {
@@ -7260,7 +7291,11 @@
     "emoji": "☘️",
     "tags": [
       "bimë",
-      "tërfil"
+      "tërfil",
+      "shamrock",
+      "three-leaf clover",
+      "tre",
+      "gjethe"
     ]
   },
   {
@@ -7548,7 +7583,6 @@
     "tags": [
       "patëllxhanë për mbushje",
       "perime",
-      "pjepër",
       "spec",
       "speca për mbushje",
       "piper",
@@ -7860,9 +7894,7 @@
   {
     "emoji": "🥙",
     "tags": [
-      "bukë e sheshtë",
       "bukë e sheshtë me mbushje",
-      "gjiro",
       "mbushje",
       "palapetë",
       "qebap",
@@ -9310,7 +9342,8 @@
       "burim",
       "i nxehtë",
       "llixhë",
-      "me avull"
+      "me avull",
+      "hot springs"
     ]
   },
   {
@@ -9383,7 +9416,7 @@
       "tramvaj",
       "tren",
       "vagon",
-      "automjet",
+      "train car",
       "Bar elektrik",
       "Hekurudhë",
       "tram",
@@ -9480,7 +9513,7 @@
       "makinë",
       "mal",
       "mjet",
-      "automjet",
+      "train car",
       "Hekurudhë"
     ]
   },
@@ -9492,7 +9525,7 @@
       "mjet",
       "tramvaj",
       "vagon tramvaji",
-      "automjet",
+      "train car",
       "tram",
       "trolleybus"
     ]
@@ -9704,7 +9737,8 @@
       "motoçikletë",
       "motor",
       "skuter",
-      "Skutera Me Qira"
+      "Skutera Me Qira",
+      "moped"
     ]
   },
   {
@@ -9713,7 +9747,8 @@
       "karrocë invalidi manuale",
       "qasshmëri",
       "Përdorshmëri",
-      "karrike me rrota"
+      "karrike me rrota",
+      "wheelchair"
     ]
   },
   {
@@ -9722,7 +9757,8 @@
       "karrocë invalidi me motor",
       "qasshmëri",
       "Përdorshmëri",
-      "karrike me rrota"
+      "karrike me rrota",
+      "wheelchair"
     ]
   },
   {
@@ -9830,12 +9866,11 @@
       "rrotulluese",
       "sinjal",
       "Fari",
-      "automjet",
       "polic",
       "e çelët",
       "Mashkulli Rrotullues",
-      "alert",
       "Alarm",
+      "alert",
       "emergency",
       "siren"
     ]
@@ -9850,7 +9885,8 @@
       "trafik",
       "Horizontalisht",
       "e çelët",
-      "Signal"
+      "Signal",
+      "stoplight"
     ]
   },
   {
@@ -9862,7 +9898,8 @@
       "trafik",
       "e çelët",
       "Signal",
-      "Vertikalisht"
+      "Vertikalisht",
+      "stoplight"
     ]
   },
   {
@@ -9975,7 +10012,11 @@
     "tags": [
       "aeroplan",
       "fluturake",
-      "mjet fluturimi"
+      "mjet fluturimi",
+      "Avion",
+      "Aeroplan",
+      "Aeroplan.",
+      "plane"
     ]
   },
   {
@@ -9986,7 +10027,8 @@
       "mjet fluturimi",
       "Avion",
       "Aeroplan",
-      "Aeroplan."
+      "Aeroplan.",
+      "plane"
     ]
   },
   {
@@ -10001,7 +10043,8 @@
       "Aeroplan",
       "Nisja",
       "Shihni që:",
-      "departures"
+      "departures",
+      "plane"
     ]
   },
   {
@@ -10017,7 +10060,8 @@
       "Të ardhur rishtas",
       "Mbërritja",
       "Pasi mbërriti në hotel, hapi laptop-in e tij.",
-      "emër vendi uljeje"
+      "emër vendi uljeje",
+      "plane"
     ]
   },
   {
@@ -10782,7 +10826,8 @@
       "hapësirë",
       "moti",
       "rruga e qumështit",
-      "Kashta e Kumtrit"
+      "Kashta e Kumtrit",
+      "galaxy"
     ]
   },
   {
@@ -10931,7 +10976,18 @@
       "moti",
       "shi",
       "ylber",
-      "rainbow"
+      "rainbow",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "pride",
+      "gay",
+      "lesbian",
+      "queer",
+      "transgender",
+      "trans",
+      "intersex",
+      "asexual"
     ]
   },
   {
@@ -10953,7 +11009,8 @@
       "çadër",
       "moti",
       "shi",
-      "veshje"
+      "veshje",
+      "ombrellë"
     ]
   },
   {
@@ -11013,7 +11070,9 @@
       "borë",
       "ftohtë",
       "moti",
-      "njeri prej bore"
+      "njeri prej bore",
+      "dëborë",
+      "snowman"
     ]
   },
   {
@@ -11288,7 +11347,8 @@
       "festim",
       "fjongo",
       "Për më shumë 30 vjet kam qenë përherë i zënë me filmimin e lidhjeve që krejt ne ndajmë me të tjerët, si qenie njerëzore, me pjesën tjetër të planetit. Çastet që na frymëzojnë dhe na lidhin me gjithësinë përmes kremtimit të jetës. Firefox Flicks-i merret me lidhjen e njerëzve përmes web-it për celular dhe jam i lumtur që ndaj me artistët e filmit të së nesërmes optikën time në këtë shteg.",
-      "The <a href=\"http://www.eff.org/blueribbon.html\">Fushata e Shiritit Blu</a> për Lirinë e Fjalës, Shtypit dhe Shoqërimit Online."
+      "The <a href=\"http://www.eff.org/blueribbon.html\">Fushata e Shiritit Blu</a> për Lirinë e Fjalës, Shtypit dhe Shoqërimit Online.",
+      "bow"
     ]
   },
   {
@@ -11850,7 +11910,9 @@
       "monedhë",
       "game",
       "slot",
-      "slot machine"
+      "slot machine",
+      "gambling",
+      "casino"
     ]
   },
   {
@@ -11914,7 +11976,8 @@
       "doll",
       "nesting",
       "russia",
-      "nesting dolls"
+      "nesting dolls",
+      "matryoshka"
     ]
   },
   {
@@ -11923,7 +11986,9 @@
       "figurë",
       "letër",
       "lojë",
-      "maç"
+      "maç",
+      "spade suit",
+      "card suit"
     ]
   },
   {
@@ -11941,7 +12006,9 @@
       "figurë",
       "karo",
       "letër",
-      "lojë"
+      "lojë",
+      "diamond suit",
+      "card suit"
     ]
   },
   {
@@ -11951,7 +12018,9 @@
       "figurë",
       "letër",
       "lojë",
-      "spathi"
+      "spathi",
+      "club suit",
+      "card suit"
     ]
   },
   {
@@ -12216,7 +12285,8 @@
       "dorashka",
       "dorë",
       "gloves",
-      "hand"
+      "hand",
+      "mittens"
     ]
   },
   {
@@ -12661,7 +12731,7 @@
       "i heshtur",
       "pa zë",
       "volum",
-      "mute",
+      "heshtoje",
       "muted speaker",
       "silent",
       "quiet",
@@ -12740,7 +12810,8 @@
   {
     "emoji": "🔔",
     "tags": [
-      "zile"
+      "zile",
+      "ring"
     ]
   },
   {
@@ -12751,7 +12822,7 @@
       "zile",
       "zile me vizë të pjerrët",
       "\\ (pjerrake)",
-      "mute",
+      "heshtoje",
       "forbidden",
       "quiet",
       "silent"
@@ -12956,9 +13027,8 @@
       "i lëvizshëm",
       "telefon",
       "cell",
-      "mobile",
       "telephone",
-      "phone"
+      "smartphone"
     ]
   },
   {
@@ -12972,9 +13042,9 @@
       "arrow",
       "cell",
       "mobile phone with arrow",
-      "mobile",
-      "phone",
-      "receive"
+      "telefon",
+      "receive",
+      "smartphone"
     ]
   },
   {
@@ -12989,7 +13059,6 @@
       "receptor",
       "receptor telefoni",
       "telefon",
-      "phone",
       "receiver",
       "telephone"
     ]
@@ -12998,7 +13067,8 @@
     "emoji": "📟",
     "tags": [
       "biper",
-      "pager"
+      "pager",
+      "beeper"
     ]
   },
   {
@@ -13042,7 +13112,9 @@
     "tags": [
       "desktop",
       "kompjuter",
-      "computer"
+      "computer",
+      "monitor",
+      "screen"
     ]
   },
   {
@@ -13057,7 +13129,9 @@
     "emoji": "⌨️",
     "tags": [
       "kompjuter",
-      "tastierë"
+      "tastierë",
+      "keyboard",
+      "computer keyboard"
     ]
   },
   {
@@ -13142,7 +13216,6 @@
       "kamerë",
       "kamerë filmi",
       "kinema",
-      "camera",
       "cinema",
       "movie"
     ]
@@ -13171,7 +13244,7 @@
       "cinema",
       "projector",
       "movie",
-      "camera",
+      "kamerë",
       "blu"
     ]
   },
@@ -13199,8 +13272,7 @@
     "emoji": "📷",
     "tags": [
       "kamerë",
-      "video",
-      "camera"
+      "video"
     ]
   },
   {
@@ -13210,7 +13282,6 @@
       "kamerë",
       "kamerë me blic",
       "video",
-      "camera",
       "camera with flash",
       "flash"
     ]
@@ -13221,7 +13292,6 @@
       "kamerë",
       "video",
       "videokamerë",
-      "camera",
       "camcorder"
     ]
   },
@@ -13245,7 +13315,6 @@
       "xham zmadhues",
       "gotë",
       "magnifying",
-      "search",
       "magnifying glass tilted left",
       "vegël"
     ]
@@ -13257,7 +13326,11 @@
       "lupë",
       "lupë zmadhuese e drejtuar djathtas",
       "lupë zmadhuese që tregon djathtas",
-      "xham zmadhues"
+      "xham zmadhues",
+      "gotë",
+      "magnifying",
+      "magnifying glass tilted right",
+      "vegël"
     ]
   },
   {
@@ -13497,7 +13570,8 @@
     "emoji": "🏷️",
     "tags": [
       "etiketë",
-      "label"
+      "label",
+      "tag"
     ]
   },
   {
@@ -13655,7 +13729,10 @@
       "email",
       "letër",
       "postë elektronike",
-      "zarf"
+      "zarf",
+      "envelope",
+      "letter",
+      "mail"
     ]
   },
   {
@@ -13832,7 +13909,10 @@
     "tags": [
       "majë pene",
       "penë",
-      "penë e zezë"
+      "penë e zezë",
+      "pen",
+      "pen nib",
+      "nib"
     ]
   },
   {
@@ -13875,7 +13955,10 @@
       "laps",
       "shënime",
       "memo",
-      "pencil"
+      "pencil",
+      "pencil and paper",
+      "paper",
+      "write"
     ]
   },
   {
@@ -14092,7 +14175,9 @@
     "tags": [
       "gërshërë",
       "prerje",
-      "vegël"
+      "vegël",
+      "scissors",
+      "cut"
     ]
   },
   {
@@ -14122,7 +14207,9 @@
     "emoji": "🗑️",
     "tags": [
       "kosh basketbolli",
-      "wastebasket"
+      "wastebasket",
+      "trash",
+      "kanoçe"
     ]
   },
   {
@@ -14131,7 +14218,9 @@
       "i mbyllur",
       "kyç",
       "closed",
-      "locked"
+      "locked",
+      "lock",
+      "padlock"
     ]
   },
   {
@@ -14144,7 +14233,8 @@
       "lock",
       "open",
       "unlocked",
-      "unlock"
+      "unlock",
+      "padlock"
     ]
   },
   {
@@ -14160,7 +14250,8 @@
       "nib",
       "locked with pen",
       "pen",
-      "privacy"
+      "privacy",
+      "padlock"
     ]
   },
   {
@@ -14175,7 +14266,8 @@
       "key",
       "locked with key",
       "lock",
-      "secure"
+      "secure",
+      "padlock"
     ]
   },
   {
@@ -14241,7 +14333,9 @@
       "çekiç",
       "çekiç dhe kazmë",
       "kazmë",
-      "vegël"
+      "vegël",
+      "hammer",
+      "pick"
     ]
   },
   {
@@ -14274,7 +14368,10 @@
       "e kryqëzuar",
       "shpata",
       "shpata të kryqëzuara",
-      "të kryqëzuara"
+      "të kryqëzuara",
+      "sword",
+      "fencing",
+      "crossed swords"
     ]
   },
   {
@@ -14378,7 +14475,10 @@
     "emoji": "⚙️",
     "tags": [
       "ingranazh",
-      "vegël"
+      "vegël",
+      "gear",
+      "cog",
+      "machine"
     ]
   },
   {
@@ -14401,7 +14501,10 @@
       "ekuilibër",
       "peshë",
       "peshore",
-      "zodiak"
+      "zodiak",
+      "scale",
+      "balance",
+      "law"
     ]
   },
   {
@@ -14634,9 +14737,9 @@
       "stetoskop",
       "zemër",
       "mjek",
-      "heart",
       "stethoscope",
-      "Mjekësi"
+      "Mjekësi",
+      "listen"
     ]
   },
   {
@@ -14942,14 +15045,20 @@
       "cigare",
       "pirje duhani",
       "cigarette",
-      "smoking"
+      "smoking",
+      "tobacco"
     ]
   },
   {
     "emoji": "⚰️",
     "tags": [
       "arkivol",
-      "vdekje"
+      "vdekje",
+      "coffin",
+      "death",
+      "dead",
+      "casket",
+      "funeral"
     ]
   },
   {
@@ -14962,7 +15071,8 @@
       "grave",
       "headstone",
       "graveyard",
-      "tombstone"
+      "tombstone",
+      "gravestone"
     ]
   },
   {
@@ -14971,7 +15081,10 @@
       "funeral",
       "urnë",
       "urnë funerali",
-      "vdekje"
+      "vdekje",
+      "urn",
+      "death",
+      "dead"
     ]
   },
   {
@@ -15154,7 +15267,11 @@
     "emoji": "⚠️",
     "tags": [
       "kujdes",
-      "shenjë"
+      "shenjë",
+      "caution",
+      "warning",
+      "alert",
+      "danger"
     ]
   },
   {
@@ -15286,9 +15403,7 @@
       "cell",
       "forbidden",
       "no",
-      "mobile",
-      "no mobile phones",
-      "phone"
+      "no mobile phones"
     ]
   },
   {
@@ -15310,14 +15425,22 @@
     "emoji": "☢️",
     "tags": [
       "rrezik radioaktiv",
-      "shenjë"
+      "shenjë",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
     "emoji": "☣️",
     "tags": [
       "rrezik biologjik",
-      "shenjë"
+      "shenjë",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -15327,7 +15450,9 @@
       "kryesore",
       "shigjeta lart",
       "shigjetë",
-      "veri"
+      "veri",
+      "arrow",
+      "up"
     ]
   },
   {
@@ -15337,7 +15462,9 @@
       "i ndërmjetëm",
       "shigjeta lart-djathtas",
       "shigjetë",
-      "verilindje"
+      "verilindje",
+      "arrow",
+      "up right"
     ]
   },
   {
@@ -15347,7 +15474,9 @@
       "kryesore",
       "lindje",
       "shigjetë",
-      "shigjetë djathtas"
+      "shigjetë djathtas",
+      "arrow",
+      "right"
     ]
   },
   {
@@ -15357,7 +15486,9 @@
       "i ndërmjetëm",
       "juglindje",
       "shigjetë",
-      "shigjetë poshtë djathtas"
+      "shigjetë poshtë djathtas",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -15367,7 +15498,9 @@
       "jug",
       "kryesore",
       "poshtë",
-      "shigjetë"
+      "shigjetë",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -15377,7 +15510,9 @@
       "i ndërmjetëm",
       "jugperëndim",
       "shigjetë",
-      "shigjetë poshtë majtas"
+      "shigjetë poshtë majtas",
+      "arrow",
+      "down left"
     ]
   },
   {
@@ -15387,7 +15522,9 @@
       "kryesor",
       "perëndim",
       "shigjeta majtas",
-      "shigjetë"
+      "shigjetë",
+      "arrow",
+      "left"
     ]
   },
   {
@@ -15397,42 +15534,58 @@
       "i ndërmjetëm",
       "shigjeta lart-majtas",
       "shigjetë",
-      "veriperëndim"
+      "veriperëndim",
+      "arrow",
+      "up left"
     ]
   },
   {
     "emoji": "↕️",
     "tags": [
       "shigjeta lart-poshtë",
-      "shigjetë"
+      "shigjetë",
+      "arrow",
+      "up and down",
+      "vertical",
+      "height"
     ]
   },
   {
     "emoji": "↔️",
     "tags": [
       "shigjetë",
-      "shigjetë majtas-djathtas"
+      "shigjetë majtas-djathtas",
+      "arrow",
+      "left and right",
+      "horizontal",
+      "width"
     ]
   },
   {
     "emoji": "↩️",
     "tags": [
       "shigjetë",
-      "shigjetë djathtas e përkulur majtas"
+      "shigjetë djathtas e përkulur majtas",
+      "arrow",
+      "return"
     ]
   },
   {
     "emoji": "↪️",
     "tags": [
       "shigjeta majtas me hark djathtas",
-      "shigjetë"
+      "shigjetë",
+      "arrow",
+      "forward"
     ]
   },
   {
     "emoji": "⤴️",
     "tags": [
       "shigjetë",
-      "shigjetë djathtas e përkulur lart"
+      "shigjetë djathtas e përkulur lart",
+      "arrow",
+      "up bend"
     ]
   },
   {
@@ -15440,7 +15593,9 @@
     "tags": [
       "poshtë",
       "shigjetë",
-      "shigjetë djathtas e përkulur poshtë"
+      "shigjetë djathtas e përkulur poshtë",
+      "arrow",
+      "down bend"
     ]
   },
   {
@@ -15569,7 +15724,9 @@
       "hebre",
       "yll",
       "ylli i davidit",
-      "ylli i Davidit"
+      "ylli i Davidit",
+      "jewish",
+      "start of david"
     ]
   },
   {
@@ -15579,7 +15736,8 @@
       "darmë",
       "fe",
       "rrota e darmës",
-      "rrotë"
+      "rrotë",
+      "dharma"
     ]
   },
   {
@@ -15589,7 +15747,10 @@
       "jang",
       "jin",
       "tao",
-      "taoist"
+      "taoist",
+      "yin",
+      "yang",
+      "yin yang"
     ]
   },
   {
@@ -15598,7 +15759,8 @@
       "fe",
       "i krishterë",
       "kryq",
-      "kryqi latin"
+      "kryqi latin",
+      "christianity"
     ]
   },
   {
@@ -15607,7 +15769,8 @@
       "fe",
       "i krishterë",
       "kryq",
-      "kryq ortodoks"
+      "kryq ortodoks",
+      "orthodox cross"
     ]
   },
   {
@@ -15616,14 +15779,18 @@
       "fe",
       "islam",
       "mysliman",
-      "yll dhe gjysmëhënë"
+      "yll dhe gjysmëhënë",
+      "star and crescent",
+      "Islam"
     ]
   },
   {
     "emoji": "☮️",
     "tags": [
       "faqe",
-      "simboli i paqes"
+      "simboli i paqes",
+      "peace",
+      "peace sign"
     ]
   },
   {
@@ -15844,7 +16011,12 @@
       "djathtas",
       "luaj",
       "shigjetë",
-      "trekëndësh"
+      "trekëndësh",
+      "play",
+      "go",
+      "play button",
+      "right arrow",
+      "triangle"
     ]
   },
   {
@@ -15900,7 +16072,9 @@
       "majtas",
       "prapa",
       "shigjetë",
-      "trekëndësh"
+      "trekëndësh",
+      "left arrow",
+      "triangle"
     ]
   },
   {
@@ -16023,7 +16197,9 @@
     "emoji": "⏏️",
     "tags": [
       "butoni i nxjerrjes",
-      "nxirr"
+      "nxirr",
+      "eject",
+      "eject button"
     ]
   },
   {
@@ -16033,7 +16209,6 @@
       "kamerë",
       "kinema",
       "video",
-      "camera",
       "cinema",
       "movie"
     ]
@@ -16074,8 +16249,7 @@
       "antenna bars",
       "cell",
       "bar",
-      "mobile",
-      "phone"
+      "telefon"
     ]
   },
   {
@@ -16087,8 +16261,6 @@
       "modaliteti i dridhjeve",
       "telefon",
       "cell",
-      "mobile",
-      "phone",
       "mode",
       "telephone",
       "vibration"
@@ -16103,8 +16275,6 @@
       "joaktiv",
       "telefon",
       "cell",
-      "mobile",
-      "phone",
       "off",
       "telephone"
     ]
@@ -16125,7 +16295,9 @@
       "shenja x e shumëzimit e trashë",
       "shumëzim",
       "shumëzoj",
-      "x"
+      "x",
+      "ndale",
+      "kryq"
     ]
   },
   {
@@ -16170,7 +16342,10 @@
       "pafundësi",
       "pakufi",
       "përgjithmonë",
-      "universale"
+      "universale",
+      "infinity",
+      "infinite",
+      "endless"
     ]
   },
   {
@@ -16189,7 +16364,10 @@
       "pikëpyetje",
       "pikësim",
       "pyetje",
-      "shenja e pikëpyetjes dhe pikëçuditjes"
+      "shenja e pikëpyetjes dhe pikëçuditjes",
+      "!?",
+      "exclamation",
+      "question"
     ]
   },
   {
@@ -16197,8 +16375,6 @@
     "tags": [
       "?",
       "pikëpyetje e kuqe",
-      "pikësim",
-      "pyetje",
       "shenja e pikëpyetjes e kuqe",
       "shenjë",
       "mark",
@@ -16257,7 +16433,10 @@
       "e valëzuar",
       "pikësim",
       "vijë",
-      "vijë e valëzuar"
+      "vijë e valëzuar",
+      "wave",
+      "wavey",
+      "wavey dash"
     ]
   },
   {
@@ -16267,7 +16446,10 @@
       "këmbim",
       "këmbimi i valutës",
       "monedhë",
-      "para"
+      "para",
+      "currency",
+      "exchange",
+      "money"
     ]
   },
   {
@@ -16276,7 +16458,12 @@
       "dollar",
       "monedhë",
       "para",
-      "shenjë dollari e trashur"
+      "shenjë dollari e trashur",
+      "money",
+      "dollars",
+      "cash",
+      "usd",
+      "rich"
     ]
   },
   {
@@ -16290,7 +16477,9 @@
     "emoji": "⚜️",
     "tags": [
       "shpatore",
-      "simbol"
+      "simbol",
+      "fleur",
+      "fleur-de-lis"
     ]
   },
   {
@@ -16362,7 +16551,11 @@
       "kutia e votimit me shenjën e zgjedhjes",
       "votë",
       "votim",
-      "zgjedhje"
+      "zgjedhje",
+      "check",
+      "check box",
+      "done",
+      "todo"
     ]
   },
   {
@@ -16428,7 +16621,11 @@
       "i dyfishtë",
       "lak",
       "lak i përdredhur dy herë",
-      "përdredhje"
+      "përdredhje",
+      "loop",
+      "curl",
+      "twist",
+      "double curly loop"
     ]
   },
   {
@@ -16436,7 +16633,8 @@
     "tags": [
       "pjesë",
       "shenja e ndryshimit të pjesës",
-      "shenjë"
+      "shenjë",
+      "part alternation mark"
     ]
   },
   {
@@ -16456,26 +16654,32 @@
   {
     "emoji": "❇️",
     "tags": [
-      "xixëllim"
+      "xixëllim",
+      "Gjeni xixën dhe zmadhoni zonën rreth saj. Nëse keni një mi, vëreni kursorin mbi xixën, mandej përdorni rrotëzën e miut. Nëse keni një “trackpad“, vendoseni kursorin mbi xixën, mandej tërhiqni një gisht mbi zonë e djathtë, ose dy gishta në qendër. Te një zonë ku mund të prekni, tërhiqni dy gishta duke u larguar nga xixa, një në çdo drejtim."
     ]
   },
   {
     "emoji": "©️",
     "tags": [
-      "të drejtat e autorit"
+      "të drejtat e autorit",
+      "copyright"
     ]
   },
   {
     "emoji": "®️",
     "tags": [
-      "i regjistruar"
+      "i regjistruar",
+      "registered",
+      "reserved"
     ]
   },
   {
     "emoji": "™️",
     "tags": [
       "markë tregtare",
-      "shenjë"
+      "shenjë",
+      "tm",
+      "trademark"
     ]
   },
   {
@@ -16560,7 +16764,8 @@
     "tags": [
       "b",
       "butoni «B»",
-      "grup gjaku"
+      "grup gjaku",
+      "letter b"
     ]
   },
   {
@@ -16598,7 +16803,8 @@
     "emoji": "ℹ️",
     "tags": [
       "i",
-      "informacion"
+      "informacion",
+      "letter i"
     ]
   },
   {
@@ -16617,7 +16823,8 @@
     "tags": [
       "«M» e rrethuar",
       "m",
-      "rreth"
+      "rreth",
+      "m in circle"
     ]
   },
   {
@@ -16662,7 +16869,9 @@
     "emoji": "🅿️",
     "tags": [
       "butoni «P»",
-      "parkim"
+      "parkim",
+      "p",
+      "letter p"
     ]
   },
   {
@@ -16706,7 +16915,7 @@
       "butoni «këtu» në japonisht",
       "japonisht",
       "katakana",
-      "“here”",
+      "here",
       "Japonisht",
       "Japanese “here” button",
       "ココ"
@@ -16736,7 +16945,7 @@
       "butoni «jo falas» në japonisht",
       "ideograf",
       "japonisht",
-      "“not free of charge”",
+      "not free of charge",
       "ideograph",
       "Japanese “not free of charge” button",
       "Japonisht",
@@ -16750,7 +16959,7 @@
       "butoni «rezervuar» në japonisht",
       "ideograf",
       "japonisht",
-      "“reserved”",
+      "reserved",
       "ideograph",
       "Japanese “reserved” button",
       "Japonisht",
@@ -16764,7 +16973,7 @@
       "butoni «me leverdi» në japonisht",
       "ideograf",
       "japonisht",
-      "“bargain”",
+      "bargain",
       "ideograph",
       "Japanese “bargain” button",
       "Japonisht",
@@ -16778,7 +16987,7 @@
       "butoni «ulje çmimi» në japonisht",
       "ideograf",
       "japonisht",
-      "“discount”",
+      "discount",
       "ideograph",
       "Japanese “discount” button",
       "Japonisht",
@@ -16792,7 +17001,7 @@
       "butoni «falas» në japonisht",
       "ideograf",
       "japonisht",
-      "“free of charge”",
+      "free of charge",
       "ideograph",
       "Japanese “free of charge” button",
       "Japonisht",
@@ -16806,7 +17015,7 @@
       "butoni «ndaluar» në japonisht",
       "ideograf",
       "japonisht",
-      "“prohibited”",
+      "prohibited",
       "ideograph",
       "Japanese “prohibited” button",
       "Japonisht",
@@ -16820,7 +17029,7 @@
       "butoni «miratuar» në japonisht",
       "ideograf",
       "japonisht",
-      "“acceptable”",
+      "acceptable",
       "ideograph",
       "Japanese “acceptable” button",
       "Japonisht",
@@ -16834,7 +17043,7 @@
       "butoni «zbatim» në japonisht",
       "ideograf",
       "japonisht",
-      "“application”",
+      "application",
       "ideograph",
       "Japanese “application” button",
       "Japonisht",
@@ -16848,7 +17057,7 @@
       "butoni «notë kaluese» në japonisht",
       "ideograf",
       "japonisht",
-      "“passing grade”",
+      "passing grade",
       "ideograph",
       "Japanese “passing grade” button",
       "Japonisht",
@@ -16862,7 +17071,7 @@
       "butoni «të lira» në japonisht",
       "ideograf",
       "japonisht",
-      "“vacancy”",
+      "vacancy",
       "ideograph",
       "Japanese “vacancy” button",
       "Japonisht",
@@ -16875,7 +17084,10 @@
       "«urime»",
       "butoni «urime» në japonisht",
       "ideograf",
-      "japonisht"
+      "japonisht",
+      "congratulations",
+      "ideograph",
+      "japanese"
     ]
   },
   {
@@ -16894,7 +17106,7 @@
       "butoni «hapur për punë» në japonisht",
       "ideograf",
       "japonisht",
-      "“open for business”",
+      "open for business",
       "ideograph",
       "Japanese “open for business” button",
       "Japonisht",
@@ -16908,7 +17120,7 @@
       "butoni «jo të lira» në japonisht",
       "ideograf",
       "japonisht",
-      "“no vacancy”",
+      "no vacancy",
       "ideograph",
       "Japanese “no vacancy” button",
       "Japonisht",
@@ -16999,7 +17211,8 @@
       "rreth i zi",
       "black circle",
       "circle",
-      "geometric"
+      "geometric",
+      "black"
     ]
   },
   {
@@ -17010,7 +17223,8 @@
       "rreth i bardhë",
       "circle",
       "geometric",
-      "Shfaqet një pemë familjare.\nQarqet janë të lidhur me segmente për të treguar marrëdhëniet. Çiftet e martuar tregohen me një unazë te segmenti.\nJu jeni personi te qarku i bardhë. Përzgjidhni emrin me të cilin duhet të quani personin te qarku portokalli.\n"
+      "Shfaqet një pemë familjare.\nQarqet janë të lidhur me segmente për të treguar marrëdhëniet. Çiftet e martuar tregohen me një unazë te segmenti.\nJu jeni personi te qarku i bardhë. Përzgjidhni emrin me të cilin duhet të quani personin te qarku portokalli.\n",
+      "white"
     ]
   },
   {
@@ -17091,7 +17305,8 @@
       "katror i madh i zi",
       "black large square",
       "geometric",
-      "square"
+      "square",
+      "black"
     ]
   },
   {
@@ -17102,7 +17317,8 @@
       "katror i madh i bardhë",
       "geometric",
       "square",
-      "white large square"
+      "white large square",
+      "white"
     ]
   },
   {
@@ -17118,7 +17334,11 @@
     "tags": [
       "gjeometrik",
       "katror",
-      "katror mesatar i bardhë"
+      "katror mesatar i bardhë",
+      "geometric",
+      "square",
+      "white medium square",
+      "white"
     ]
   },
   {
@@ -17252,7 +17472,10 @@
       "buton",
       "buton radioje",
       "gjeometrik",
-      "radio"
+      "radio",
+      "button",
+      "radio button",
+      "circle"
     ]
   },
   {
@@ -17276,7 +17499,11 @@
       "buton",
       "buton katror i zi",
       "gjeometri",
-      "katror"
+      "katror",
+      "button",
+      "geometric",
+      "square",
+      "outlined"
     ]
   },
   {
@@ -17340,7 +17567,19 @@
       "ylber",
       "pride",
       "rainbow",
-      "rainbow flag"
+      "rainbow flag",
+      "lgbtqia",
+      "lgbt",
+      "lgbtqa",
+      "queer",
+      "gay",
+      "lesbian",
+      "intersex",
+      "bisexual",
+      "transgender",
+      "trans",
+      "asexual",
+      "questioning"
     ]
   },
   {
@@ -17355,6 +17594,181 @@
       "plunder",
       "pirate flag",
       "treasure"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "tags": [
+      "fytyrë",
+      "frown",
+      "sad",
+      "slightly frowning face"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "death",
+      "skull",
+      "crossbones",
+      "skull and crossbones",
+      "bones",
+      "dead"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "tags": [
+      "heart",
+      "red heart"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "heart suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "🗨️",
+    "tags": [
+      "balloon",
+      "flluskë",
+      "dialog",
+      "comic",
+      "speech"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "dëborë",
+      "snowflake",
+      "ftohtë",
+      "akull"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "tags": [
+      "telefon",
+      "telephone"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "pencil"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "alembic",
+      "science",
+      "chemistry"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "atom"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "asterisk",
+      "eight spoke"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "yll",
+      "eight pointed"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "!",
+      "exclamation",
+      "double exclamation"
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "tags": [
+      "recyce",
+      "reuse",
+      "e gjelbër"
+    ]
+  },
+  {
+    "emoji": "🅰️",
+    "tags": [
+      "a",
+      "letter a"
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "tags": [
+      "o",
+      "letter o"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "service charger",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "monthly amount",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "secret",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "tags": [
+      "black small square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "tags": [
+      "black medium square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "geometric",
+      "square",
+      "white small square",
+      "white"
     ]
   },
   {

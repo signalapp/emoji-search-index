@@ -2,9 +2,9 @@
   {
     "emoji": "😀",
     "tags": [
-      "fuska",
       "fuska mai murmushin baki har kunne",
-      "mai murmushi baki har kunne"
+      "murmushi",
+      "uska"
     ]
   },
   {
@@ -24,7 +24,6 @@
       "a buɗe",
       "baki",
       "fuska",
-      "fuska mai murmushi tare da baki a buɗe &amp; idanu masu murmushi",
       "fuska mai murmushi tare da idanu",
       "ido",
       "murmushi"
@@ -34,8 +33,8 @@
     "emoji": "😁",
     "tags": [
       "fuska",
+      "fuska mai murmushi tare da idanu",
       "fuska mai murmushi tare da idanuu",
-      "fuska mai murmushin baki har kunne tare da idanu masu murmushi",
       "ido",
       "murmushi",
       "murmushi na baki har kunne"
@@ -44,11 +43,9 @@
   {
     "emoji": "😆",
     "tags": [
-      "a buɗe",
       "baki",
       "dariya",
       "fuska",
-      "fuska mai murmushi tare da baki a buɗe &amp; idanu a rufe",
       "gamsu",
       "murmushi",
       "murmushin yaƙe tare da lumshe ido"
@@ -58,8 +55,6 @@
     "emoji": "😅",
     "tags": [
       "a buɗe",
-      "fuska",
-      "fuska mai murmushi tare da baki a buɗe &amp; gumi mai sanyi",
       "fuska mai murmushi tare da gumi mai sanyi",
       "gumi",
       "murmushi",
@@ -115,7 +110,6 @@
     "tags": [
       "fuska",
       "fuska mai murmushi haɗe da idanu",
-      "fuska mai murmushi tare da idanu mai murmushi",
       "ido",
       "ji kunya",
       "murmushi"
@@ -139,8 +133,6 @@
       "cikin soyayya",
       "fuska mai dariya da zukata",
       "ƙauna",
-      "murƙushe",
-      "murmushi murmushi tare da zukata",
       "zukata"
     ]
   },
@@ -158,7 +150,6 @@
     "emoji": "🤩",
     "tags": [
       "buga-tauraro",
-      "cikin soyayya",
       "fuska",
       "idanu",
       "tauraro",
@@ -270,7 +261,6 @@
       "ɗanɗano",
       "fuska",
       "fuska da harshe waje da rufaffun idanu",
-      "fuska tare da harshe a waje da rufaffun idanu",
       "harshe",
       "ido",
       "maƙetaci"
@@ -737,7 +727,6 @@
     "tags": [
       "ɓata wa rai",
       "fuska",
-      "fuska ɓata wa rai amma mai kwancin hankali",
       "fuska mai ɓata rai mai kwanciyar hankali",
       "kwancin hankali",
       "whew"
@@ -1007,7 +996,6 @@
       "a buɗe",
       "baki",
       "fuska",
-      "fuskar kyanwa mai murmushi tare da baki a buɗe",
       "kyanwa",
       "kyanwa mai murmushi baki a buɗe",
       "murmushi"
@@ -1017,7 +1005,6 @@
     "emoji": "😸",
     "tags": [
       "fuska",
-      "fuskar kyanwa mai murmushi baki har kunne tare da idanu masu murmushi",
       "ido",
       "kyanwa",
       "kyanwa baki buɗe idanu masu murmushi",
@@ -1039,12 +1026,12 @@
     "emoji": "😻",
     "tags": [
       "fuska",
-      "fuskar kyanwa mai murmushi tare da idanun-zuciya",
       "ido",
       "kyanwa",
       "kyanwa mai murmushi da idanun-zuciya",
       "ƙauna",
-      "murmushi"
+      "murmushi",
+      "zuciya"
     ]
   },
   {
@@ -1062,9 +1049,9 @@
     "emoji": "😽",
     "tags": [
       "fuska",
-      "fuskar kyanwa mai sumbata tare da rufaffun idanu",
       "ido",
       "kyanwa",
+      "kyanwa mai sumba",
       "kyanwa mai sumba da rufaffun idanu",
       "sumba"
     ]
@@ -1744,7 +1731,6 @@
     "tags": [
       "hannu na inji",
       "hannun inji",
-      "roba",
       "samun dama"
     ]
   },
@@ -1768,7 +1754,6 @@
     "emoji": "🦶",
     "tags": [
       "harbi",
-      "ƙafa",
       "tafin ƙafa",
       "tattaka"
     ]
@@ -1953,8 +1938,9 @@
   {
     "emoji": "🧓",
     "tags": [
-      "babba mafi tsoho",
+      "babba",
       "babba mafi tsufa",
+      "jinsi da ba a fayyace ba",
       "mara danganta ga jinsi",
       "tsoho"
     ]
@@ -1972,8 +1958,7 @@
     "tags": [
       "baliga",
       "dattijuwa",
-      "mace",
-      "tsohuwa"
+      "mace"
     ]
   },
   {
@@ -3223,8 +3208,7 @@
       "allon wasan ƙanƙara",
       "ƙanƙara",
       "mai tsere kan ƙanƙara",
-      "ski",
-      "snowboarder"
+      "ski"
     ]
   },
   {
@@ -3554,11 +3538,11 @@
     "emoji": "👭",
     "tags": [
       "hannu",
-      "mace",
+      "mata",
       "mata biyu suna riƙe da hannuwa",
       "miji da mata",
       "namiji da mata suna riƙew da hannuwa",
-      "riƙe"
+      "riƙe hannuwa"
     ]
   },
   {
@@ -3569,8 +3553,7 @@
       "miji da mata",
       "mutum",
       "namiji da mace riƙe da hannuwa",
-      "namiji da mata suna riƙe da hannuwa",
-      "riƙe"
+      "riƙe hannuwa"
     ]
   },
   {
@@ -3580,10 +3563,8 @@
       "mata da miji",
       "maza",
       "maza biyu riƙe da hannuwa",
-      "maza biyu suna riƙe da hannu",
       "namiji",
       "riƙe hannu",
-      "tagwai",
       "Tagwaye"
     ]
   },
@@ -3763,7 +3744,7 @@
   {
     "emoji": "🐯",
     "tags": [
-      "damisa mai ratsi-ratsi",
+      "damisa",
       "fuska",
       "fuskar damisa mai ratsi-ratsi"
     ]
@@ -3937,7 +3918,7 @@
       "guanaco",
       "raƙumin dajin llama",
       "ulu",
-      "vicuña"
+      "vicuna"
     ]
   },
   {
@@ -4060,9 +4041,9 @@
   {
     "emoji": "🐨",
     "tags": [
-      "dabbar bear",
       "dabbar koala",
-      "koala"
+      "fuska",
+      "marsupial"
     ]
   },
   {
@@ -4078,8 +4059,7 @@
     "tags": [
       "a hankali",
       "dabba mai kasala",
-      "kasala",
-      "malalaci"
+      "kasala"
     ]
   },
   {
@@ -4232,7 +4212,6 @@
     "tags": [
       "agwagwar dodo",
       "babba",
-      "dodo",
       "ƙarewa",
       "Mauritius"
     ]
@@ -4570,7 +4549,6 @@
   {
     "emoji": "🏵️",
     "tags": [
-      "lambar girmamawa",
       "rosette",
       "shuke"
     ]
@@ -4634,8 +4612,7 @@
       "gundura",
       "mara amfani",
       "shuka",
-      "tsire-tsire na tukunya",
-      "tsire-tsiren tukunya"
+      "tsire-tsire na tukunya"
     ]
   },
   {
@@ -4688,7 +4665,6 @@
     "emoji": "☘️",
     "tags": [
       "koren ganye",
-      "shamrock",
       "shuka"
     ]
   },
@@ -4874,14 +4850,13 @@
     "tags": [
       "dabino",
       "kwakwa",
-      "piña colada"
+      "pina colada"
     ]
   },
   {
     "emoji": "🥑",
     "tags": [
       "abinci",
-      "abocado",
       "abokado",
       "ɗan itace"
     ]
@@ -4959,7 +4934,6 @@
   {
     "emoji": "🥦",
     "tags": [
-      "broccoli",
       "burokoli",
       "kabeji na daji"
     ]
@@ -5000,7 +4974,7 @@
     "tags": [
       "chestnut",
       "gyaɗar chestnut",
-      "shuke"
+      "shuka"
     ]
   },
   {
@@ -5044,8 +5018,7 @@
     "emoji": "🥨",
     "tags": [
       "biskit na pretzel",
-      "murɗaɗɗe",
-      "pretzel"
+      "murɗaɗɗe"
     ]
   },
   {
@@ -5054,8 +5027,7 @@
       "burodin bagel",
       "burodin begel",
       "cin abincin safe",
-      "gidan burodi",
-      "yanka"
+      "gidan burodi"
     ]
   },
   {
@@ -5126,8 +5098,7 @@
     "emoji": "🍔",
     "tags": [
       "biredin burger",
-      "biredin hamburger",
-      "hamburger"
+      "biredin hamburger"
     ]
   },
   {
@@ -5143,7 +5114,6 @@
     "tags": [
       "cuku",
       "fanken pizza",
-      "pizza",
       "yanki"
     ]
   },
@@ -5167,14 +5137,12 @@
     "emoji": "🌮",
     "tags": [
       "fanken taco",
-      "na mexico",
-      "taco"
+      "na mexico"
     ]
   },
   {
     "emoji": "🌯",
     "tags": [
-      "burrito",
       "fanken burrito",
       "na mexico",
       "naɗi"
@@ -5185,8 +5153,7 @@
     "tags": [
       "biredin tamale",
       "na mexico",
-      "nannaɗaɗɗe",
-      "tamale"
+      "nannaɗaɗɗe"
     ]
   },
   {
@@ -5205,7 +5172,6 @@
     "emoji": "🧆",
     "tags": [
       "dunƙulen falafel",
-      "falafel",
       "kaji",
       "nama"
     ]
@@ -5413,14 +5379,13 @@
       "biki",
       "kaka",
       "kek ɗin wata",
-      "yuèbǐng"
+      "yuebing"
     ]
   },
   {
     "emoji": "🍡",
     "tags": [
       "alawar dango",
-      "dango",
       "kayan zaƙi",
       "Na japan",
       "sanda",
@@ -5432,7 +5397,7 @@
     "emoji": "🥟",
     "tags": [
       "empanada",
-      "gyōza",
+      "gyoza",
       "jiaozi",
       "ƙaramar kwaɓaɓɓiyar fulawa",
       "pierogi",
@@ -5467,8 +5432,7 @@
       "abincin teku",
       "bisque",
       "fika",
-      "ƙaguwar lobster",
-      "lobster"
+      "ƙaguwar lobster"
     ]
   },
   {
@@ -5684,8 +5648,7 @@
       "kwalba",
       "mashaya",
       "sake",
-      "sha",
-      "shayi"
+      "sha"
     ]
   },
   {
@@ -5767,7 +5730,7 @@
       "gilashi",
       "gilashin tambular",
       "giya",
-      "giyan wiski",
+      "giyar wiski",
       "tambular"
     ]
   },
@@ -5811,7 +5774,6 @@
   {
     "emoji": "🧊",
     "tags": [
-      "kwalin ƙanƙara",
       "ƙankara",
       "ƙanƙara",
       "sanyi",
@@ -6255,9 +6217,8 @@
     "tags": [
       "addini",
       "ɗakin kaaba",
-      "islam",
-      "kaaba",
-      "Musulmi"
+      "Musulmi",
+      "Musulunci"
     ]
   },
   {
@@ -6430,7 +6391,6 @@
       "harsashi",
       "jirgin ƙasa",
       "jirgin ƙasa mai gudun tsiya",
-      "jirgin ƙasa mai matuƙar sauri mai hancin harsashi",
       "reluwe",
       "sauri",
       "shinkansen"
@@ -6447,8 +6407,7 @@
     "emoji": "🚇",
     "tags": [
       "hanyar jirgin ƙasa na rami",
-      "jirgin ƙarƙashin ƙasa",
-      "metro"
+      "jirgin ƙarƙashin ƙasa"
     ]
   },
   {
@@ -6470,8 +6429,7 @@
     "emoji": "🚊",
     "tags": [
       "bas mai aiki da lantarki",
-      "jirgin tram",
-      "tram"
+      "jirgin tram"
     ]
   },
   {
@@ -7713,7 +7671,6 @@
     "tags": [
       "bikin halloween",
       "fitilar-jack-o",
-      "fitilar-jack-o-",
       "jack",
       "shagali"
     ]
@@ -7849,7 +7806,7 @@
     "tags": [
       "fatan alheri",
       "ganin lai",
-      "hóngbāo",
+      "hongbao",
       "jar ambulan",
       "kuɗi",
       "kyauta"
@@ -8000,8 +7957,7 @@
     "tags": [
       "ƙwallo",
       "ƙwallon ƙafa",
-      "ƙwallon ƙafa na rugby",
-      "rugby"
+      "ƙwallon ƙafa na rugby"
     ]
   },
   {
@@ -8194,7 +8150,6 @@
     "emoji": "🪀",
     "tags": [
       "canzawa",
-      "yo-yo",
       "zaren yo-yo",
       "ʼyartsana"
     ]
@@ -8204,8 +8159,7 @@
     "tags": [
       "fiffiluwa",
       "fifiluwa",
-      "kaya",
-      "tashi sosai"
+      "kaya"
     ]
   },
   {
@@ -8309,7 +8263,7 @@
     "tags": [
       "biki",
       "liyafa",
-      "piñata"
+      "pinata"
     ]
   },
   {
@@ -8581,7 +8535,6 @@
     "emoji": "🥻",
     "tags": [
       "naɗin sari",
-      "sari",
       "sutura",
       "tufafi"
     ]
@@ -8681,7 +8634,7 @@
       "sandal na bakin teku",
       "sandaloli",
       "sandaloli masu maɗauri",
-      "zōri"
+      "zori"
     ]
   },
   {
@@ -8933,7 +8886,6 @@
   {
     "emoji": "🎼",
     "tags": [
-      "alama",
       "alamar kiɗa",
       "alamar raujin kiɗa",
       "kiɗa"
@@ -9057,7 +9009,6 @@
   {
     "emoji": "🪕",
     "tags": [
-      "banjo",
       "gurmi",
       "gurmin banjo",
       "kiɗa"
@@ -9223,9 +9174,9 @@
   {
     "emoji": "📀",
     "tags": [
-      "blu-ray",
+      "Blu-ray",
       "diski",
-      "dvd",
+      "DVD",
       "faifan dvd",
       "kwamfuta",
       "na da’ira"
@@ -9376,7 +9327,7 @@
     "emoji": "🪔",
     "tags": [
       "diya",
-      "firila",
+      "fitila",
       "fitilar diya",
       "mai"
     ]
@@ -9512,7 +9463,6 @@
   {
     "emoji": "🏷️",
     "tags": [
-      "alama",
       "alamar liƙawa"
     ]
   },
@@ -9701,8 +9651,7 @@
       "akwatin wasiƙa",
       "mel",
       "rufaffe",
-      "rufaffen akwatin saƙo da ɗagaggiyar tuta",
-      "rufaffen akwatin saƙo tare da ɗagaggiyar tuta"
+      "rufaffen akwatin saƙo da ɗagaggiyar tuta"
     ]
   },
   {
@@ -9723,7 +9672,6 @@
       "akwatin wasiƙa",
       "buɗaɗɗe",
       "buɗaɗɗen akwatin saƙo da ɗagaggiyar tuta",
-      "buɗaɗɗen akwatin saƙo tare da ɗagaggiyar tuta",
       "mel"
     ]
   },
@@ -10198,8 +10146,7 @@
       "daidaito",
       "falaki",
       "Maʼauni",
-      "sikeli",
-      "sikeloli"
+      "sikeli"
     ]
   },
   {
@@ -10263,9 +10210,8 @@
   {
     "emoji": "⚗️",
     "tags": [
-      "alembic",
       "kayan aiki",
-      "kimiyya",
+      "kyamestare",
       "tukunyar alembic"
     ]
   },
@@ -10288,7 +10234,6 @@
       "ƙwayoyin cuta",
       "masanin ilmin halitta",
       "tasar petri",
-      "tasar petri tasa",
       "wurin gwaji"
     ]
   },
@@ -10551,10 +10496,10 @@
   {
     "emoji": "🪥",
     "tags": [
-      "buroshin haƙori",
       "burushi",
       "burushin haƙori",
       "gidan wanka",
+      "goge",
       "haƙora",
       "haƙori",
       "tsafta"
@@ -10574,7 +10519,6 @@
     "tags": [
       "bugu",
       "kashewa",
-      "naʼurar kashe gobara",
       "tokar kashe gobara",
       "wuta"
     ]
@@ -10624,7 +10568,6 @@
     "emoji": "🗿",
     "tags": [
       "fuska",
-      "moai",
       "moyai",
       "mutum-mutumi",
       "sassaƙar moai"
@@ -11079,8 +11022,7 @@
     "tags": [
       "addini",
       "alamar om",
-      "Hindu",
-      "om"
+      "Hindu"
     ]
   },
   {
@@ -11538,7 +11480,6 @@
       "−",
       "alama",
       "deɓewa",
-      "ɗebewa",
       "lissafi"
     ]
   },
@@ -11665,7 +11606,6 @@
   {
     "emoji": "⚜️",
     "tags": [
-      "alama ta fleur-de-lis",
       "alamar fleur-de-lis"
     ]
   },
@@ -12010,8 +11950,7 @@
       "&quot;a nan&quot;",
       "katakana",
       "maɓallin &quot;a nan&quot; Na Japan",
-      "Na Japan",
-      "ココ"
+      "Na Japan"
     ]
   },
   {
@@ -12020,8 +11959,7 @@
       "&quot;cajin aiki&quot;",
       "katakana",
       "maɓallin &quot;cajin aiki&quot; Na Japan",
-      "Na Japan",
-      "サ"
+      "Na Japan"
     ]
   },
   {
@@ -12030,8 +11968,7 @@
       "&quot;kuɗin wata-wata&quot;",
       "maɓallin &quot;kuɗin wata-wata&quot; Na Japan",
       "Na Japan",
-      "zanen harshe",
-      "月"
+      "zanen harshe"
     ]
   },
   {
@@ -12040,8 +11977,7 @@
       "&quot;ba kyauta ba&quot;",
       "maɓallin &quot;ba kyauta ba&quot; Na Japan",
       "Na Japan",
-      "zanen harshe",
-      "有"
+      "zanen harshe"
     ]
   },
   {
@@ -12050,8 +11986,7 @@
       "&quot;ƙayyadadde&quot;",
       "maɓallin &quot;ƙayyadadde&quot; Na Japan",
       "Na Japan",
-      "zanen harshe",
-      "指"
+      "zanen harshe"
     ]
   },
   {
@@ -12060,8 +11995,7 @@
       "&quot;ciniki&quot;",
       "ideograph",
       "maɓallin &quot;ciniki&quot; Na Japan",
-      "Na Japan",
-      "得"
+      "Na Japan"
     ]
   },
   {
@@ -12070,8 +12004,7 @@
       "&quot;rangwame&quot;",
       "maɓallin &quot;rangwame&quot; Na Japan",
       "Na Japan",
-      "zanen harshe",
-      "割"
+      "zanen harshe"
     ]
   },
   {
@@ -12080,8 +12013,7 @@
       "&quot;kyauta&quot;",
       "maɓallin &quot;kyauta&quot; Na Japan",
       "Na Japan",
-      "zanen harshe",
-      "無"
+      "zanen harshe"
     ]
   },
   {
@@ -12090,8 +12022,7 @@
       "&quot;an hana&quot;",
       "maɓallin &quot;an hana&quot; Na Japan",
       "Na Japan",
-      "zanen harshe",
-      "禁"
+      "zanen harshe"
     ]
   },
   {
@@ -12100,8 +12031,7 @@
       "&quot;wanda ake yarda da&quot;",
       "maɓallin &quot;wanda ake yarda da&quot; Na Japan",
       "Na Japan",
-      "zanen harshe",
-      "可"
+      "zanen harshe"
     ]
   },
   {
@@ -12110,8 +12040,7 @@
       "&quot;buƙata&quot;",
       "maɓallin &quot;buƙata&quot; Na Japan",
       "Na Japan",
-      "zanen harshe",
-      "申"
+      "zanen harshe"
     ]
   },
   {
@@ -12120,8 +12049,7 @@
       "&quot;yarjejeniya&quot;",
       "maɓallin &quot;yarjejeniya&quot; Na Japan",
       "Na Japan",
-      "zanen harshe",
-      "合"
+      "zanen harshe"
     ]
   },
   {
@@ -12130,8 +12058,7 @@
       "&quot;mara komai&quot;",
       "maɓallin &quot;mara komai&quot; Na Japan",
       "Na Japan",
-      "zanen harshe",
-      "空"
+      "zanen harshe"
     ]
   },
   {
@@ -12140,8 +12067,7 @@
       "&quot;murna&quot;",
       "maɓallin &quot;murna&quot; Na Japan",
       "Na Japan",
-      "zanen harshe",
-      "祝"
+      "zanen harshe"
     ]
   },
   {
@@ -12150,8 +12076,7 @@
       "&quot;asiri&quot;",
       "maɓallin &quot;asiri&quot; Na Japan",
       "Na Japan",
-      "zanen harshe",
-      "秘"
+      "zanen harshe"
     ]
   },
   {
@@ -12160,8 +12085,7 @@
       "&quot;a buɗe don kasuwanci&quot;",
       "maɓallin &quot;a buɗe don kasuwanci&quot; Na Japan",
       "Na Japan",
-      "zanen harshe",
-      "営"
+      "zanen harshe"
     ]
   },
   {
@@ -12170,8 +12094,7 @@
       "&quot;a cike&quot;",
       "maɓallin &quot;a cike&quot; Na Japan",
       "Na Japan",
-      "zanen harshe",
-      "満"
+      "zanen harshe"
     ]
   },
   {
@@ -12180,7 +12103,6 @@
       "da’ira",
       "ilimin halayen sura",
       "ja",
-      "jan da’ira",
       "jar da’ira"
     ]
   },

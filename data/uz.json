@@ -1413,17 +1413,19 @@
     "tags": [
       "chap nutq pufakchasi",
       "dialog",
-      "nutq"
+      "nutq",
+      "pufak",
+      "shar"
     ]
   },
   {
     "emoji": "🗯️",
     "tags": [
-      "hafa",
-      "jaxl",
+      "jahl",
       "o‘ng burchakli pufakcha",
-      "po‘fak",
-      "shar"
+      "pufak",
+      "shar",
+      "xafa"
     ]
   },
   {
@@ -1441,6 +1443,7 @@
     "tags": [
       "latifa",
       "uyqu",
+      "xayrli tun",
       "xurrak"
     ]
   },
@@ -1560,6 +1563,7 @@
       "ishora",
       "menga telefon qil",
       "qo‘l",
+      "Shaka",
       "telefon qil"
     ]
   },
@@ -4014,7 +4018,8 @@
       "karavotda yotgan kishi",
       "mehmonxona",
       "uxlash",
-      "uyqu"
+      "uyqu",
+      "xayrli tun"
     ]
   },
   {
@@ -4578,7 +4583,8 @@
     "emoji": "🐨",
     "tags": [
       "ayiq",
-      "koala"
+      "koala",
+      "yuz"
     ]
   },
   {
@@ -11360,6 +11366,7 @@
     "emoji": "🚺",
     "tags": [
       "ayol",
+      "ayollar hojatxonasi",
       "ayollar xonasi",
       "hojatxona"
     ]
@@ -11382,7 +11389,8 @@
     "emoji": "🚾",
     "tags": [
       "hojatxona",
-      "suv"
+      "suv",
+      "tualet"
     ]
   },
   {
@@ -12544,6 +12552,7 @@
     "tags": [
       "a",
       "a tugmasi",
+      "a tugmasi (qon turi)",
       "qon"
     ]
   },
@@ -12552,6 +12561,7 @@
     "tags": [
       "ab",
       "ab tugmasi",
+      "ab tugmasi (qon turi)",
       "qon"
     ]
   },
@@ -12560,6 +12570,7 @@
     "tags": [
       "b",
       "b tugmasi",
+      "b tugmasi (qon turi)",
       "qon"
     ]
   },
@@ -12627,6 +12638,7 @@
     "tags": [
       "o",
       "o tugmasi",
+      "o tugmasi (qon turi)",
       "qon"
     ]
   },
@@ -12640,8 +12652,9 @@
   {
     "emoji": "🅿️",
     "tags": [
-      "avtoto‘xtash",
-      "p tugmasi"
+      "p",
+      "p tugmasi",
+      "parking"
     ]
   },
   {

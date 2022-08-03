@@ -45,7 +45,8 @@
       "bocca",
       "grinning face with smiling eyes",
       "aperta",
-      "sorridente"
+      "sorridente",
+      "felice"
     ]
   },
   {
@@ -88,7 +89,6 @@
       "goccia",
       "sorriso teso",
       "sudore",
-      "cold",
       "faccia",
       "aperta",
       "grinning face with sweat",
@@ -276,7 +276,10 @@
       "delineata",
       "faccina",
       "rilassata",
-      "sorridente"
+      "sorridente",
+      "faccia",
+      "slightly smiling face",
+      "smile"
     ]
   },
   {
@@ -1510,7 +1513,7 @@
       "gatto sorridente con occhi a cuore",
       "cat",
       "occhi",
-      "heart",
+      "heart eyes",
       "faccia",
       "love",
       "sorriso",
@@ -1653,7 +1656,7 @@
       "cuore",
       "lettera d’amore",
       "romanticismo",
-      "heart",
+      "heart letter",
       "letter",
       "mail",
       "love"
@@ -1708,9 +1711,9 @@
       "emozionato",
       "nervoso",
       "excited",
-      "growing",
-      "nervous",
       "growing heart",
+      "nervous",
+      "growing",
       "pulse"
     ]
   },
@@ -1756,7 +1759,6 @@
     "tags": [
       "cuore",
       "decorazione con cuore",
-      "heart",
       "heart decoration"
     ]
   },
@@ -1767,7 +1769,10 @@
       "punteggiatura",
       "punto esclamativo",
       "punto esclamativo a cuore",
-      "simbolo"
+      "simbolo",
+      "heart exclamation",
+      "heart drop",
+      "exclamation"
     ]
   },
   {
@@ -1778,8 +1783,8 @@
       "infranto",
       "spezzato",
       "break",
-      "broken",
-      "broken heart"
+      "broken heart",
+      "heart break"
     ]
   },
   {
@@ -1787,9 +1792,9 @@
     "tags": [
       "cuore in fiamme",
       "burn",
-      "heart",
-      "love",
+      "burning heart",
       "heart on fire",
+      "love",
       "lust",
       "sacred heart"
     ]
@@ -1799,12 +1804,13 @@
     "tags": [
       "cuore guarito",
       "healthier",
-      "improving",
       "mending heart",
+      "heart mending",
       "mending",
       "recovering",
       "recuperating",
-      "well"
+      "well",
+      "improving"
     ]
   },
   {
@@ -1821,7 +1827,8 @@
       "arancione",
       "cuore",
       "emozione",
-      "orange heart"
+      "orange heart",
+      "heart orange"
     ]
   },
   {
@@ -1830,7 +1837,8 @@
       "cuore",
       "emozione",
       "giallo",
-      "yellow heart"
+      "yellow heart",
+      "heart yellow"
     ]
   },
   {
@@ -1839,17 +1847,18 @@
       "cuore",
       "emozione",
       "verde",
-      "green heart"
+      "green heart",
+      "heart green"
     ]
   },
   {
     "emoji": "💙",
     "tags": [
-      "azzurro",
+      "blu",
       "cuore",
       "emozione",
-      "blu",
-      "blue heart"
+      "blue heart",
+      "heart blue"
     ]
   },
   {
@@ -1858,7 +1867,8 @@
       "cuore",
       "emozione",
       "viola",
-      "purple heart"
+      "purple heart",
+      "heart purple"
     ]
   },
   {
@@ -1867,7 +1877,8 @@
       "cuore",
       "emozione",
       "marrone",
-      "heart"
+      "brownheart",
+      "heart brown"
     ]
   },
   {
@@ -1879,6 +1890,7 @@
       "tristezza",
       "black",
       "black heart",
+      "heart black",
       "wicked",
       "evil"
     ]
@@ -1889,8 +1901,9 @@
       "bianco",
       "cuore",
       "emozione",
-      "heart",
-      "white"
+      "white",
+      "white heart",
+      "heart white"
     ]
   },
   {
@@ -2002,7 +2015,8 @@
       "bubble",
       "dialog",
       "comic",
-      "speech"
+      "speech",
+      "typing"
     ]
   },
   {
@@ -2060,7 +2074,12 @@
       "salutare",
       "hand",
       "wave",
-      "waving"
+      "waving",
+      "hi",
+      "hey",
+      "hello",
+      "bye",
+      "goodbye"
     ]
   },
   {
@@ -2096,7 +2115,8 @@
       "hand",
       "high 5",
       "raised hand",
-      "high five"
+      "high five",
+      "hifive"
     ]
   },
   {
@@ -2501,8 +2521,7 @@
       "fotocamera",
       "selfie",
       "telefono",
-      "camera",
-      "phone"
+      "camera"
     ]
   },
   {
@@ -2982,7 +3001,8 @@
       "person gesturing NO",
       "hand",
       "prohibited",
-      "X"
+      "X",
+      "no"
     ]
   },
   {
@@ -2999,8 +3019,7 @@
       "hand",
       "man gesturing NO",
       "prohibited",
-      "X",
-      "male"
+      "X"
     ]
   },
   {
@@ -3017,8 +3036,7 @@
       "hand",
       "woman",
       "woman gesturing NO",
-      "X",
-      "female"
+      "X"
     ]
   },
   {
@@ -3121,7 +3139,10 @@
       "gesture",
       "hand",
       "person raising hand",
-      "raised"
+      "raised",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3135,7 +3156,10 @@
       "man",
       "raising hand",
       "man raising hand",
-      "male"
+      "male",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3149,7 +3173,10 @@
       "raising hand",
       "woman raising hand",
       "woman",
-      "female"
+      "female",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3906,8 +3933,7 @@
     "tags": [
       "aereo",
       "pilota",
-      "pilot",
-      "plane"
+      "pilot"
     ]
   },
   {
@@ -3917,10 +3943,9 @@
       "aeroplano",
       "pilota",
       "uomo",
-      "man",
       "pilot",
       "male",
-      "plane"
+      "man"
     ]
   },
   {
@@ -3931,7 +3956,6 @@
       "donna",
       "pilota",
       "pilot",
-      "plane",
       "female",
       "woman"
     ]
@@ -5188,7 +5212,8 @@
       "persona in sauna",
       "sauna",
       "person in steamy room",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -5199,7 +5224,8 @@
       "uomo in sauna",
       "man in steamy room",
       "male",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -5210,7 +5236,8 @@
       "sauna",
       "steam room",
       "female",
-      "woman in steamy room"
+      "woman in steamy room",
+      "spa"
     ]
   },
   {
@@ -5392,7 +5419,8 @@
       "persona che nuota",
       "sport",
       "person swimming",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -5406,7 +5434,8 @@
       "man",
       "man swimming",
       "male",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -5420,7 +5449,8 @@
       "swim",
       "woman",
       "female",
-      "woman swimming"
+      "woman swimming",
+      "swimmer"
     ]
   },
   {
@@ -7452,7 +7482,12 @@
     "tags": [
       "foglia",
       "Irlanda",
-      "trifoglio"
+      "trifoglio",
+      "clover",
+      "shamrock",
+      "three-leaf clover",
+      "three",
+      "leaf"
     ]
   },
   {
@@ -7993,6 +8028,10 @@
   {
     "emoji": "🥩",
     "tags": [
+      "bistecca",
+      "costoletta d’agnello",
+      "costoletta di maiale",
+      "taglio",
       "taglio di carne",
       "chop",
       "cut of meat",
@@ -9290,7 +9329,6 @@
       "abitazione",
       "casa",
       "edificio",
-      "home",
       "house"
     ]
   },
@@ -9302,7 +9340,6 @@
       "edificio",
       "giardino",
       "garden",
-      "home",
       "house with garden",
       "house"
     ]
@@ -9667,7 +9704,8 @@
       "acqua sorgente",
       "acqua termale",
       "sorgenti termali",
-      "terme"
+      "terme",
+      "hot springs"
     ]
   },
   {
@@ -9748,7 +9786,7 @@
       "tram",
       "treno",
       "vagone",
-      "car",
+      "train car",
       "electric",
       "train",
       "railway",
@@ -9843,7 +9881,7 @@
     "tags": [
       "ferrovia di montagna",
       "veicolo",
-      "car",
+      "train car",
       "mountain",
       "railway"
     ]
@@ -9855,7 +9893,7 @@
       "vagone",
       "vagone del tram",
       "veicolo",
-      "car",
+      "train car",
       "trolleybus"
     ]
   },
@@ -10060,7 +10098,8 @@
     "tags": [
       "motorino",
       "scooter",
-      "motor"
+      "motor",
+      "moped"
     ]
   },
   {
@@ -10070,7 +10109,8 @@
       "carrozzina manuale",
       "sedia a rotelle manuale",
       "accessibility",
-      "manual wheelchair"
+      "manual wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -10080,7 +10120,8 @@
       "carrozzina motorizzata",
       "sedia a rotelle motorizzata",
       "accessibility",
-      "motorized wheelchair"
+      "motorized wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -10192,12 +10233,11 @@
       "lampeggiante",
       "sirena della polizia",
       "beacon",
-      "car",
       "police",
       "light",
       "revolving",
-      "alert",
       "alarm",
+      "alert",
       "emergency",
       "siren"
     ]
@@ -10210,7 +10250,8 @@
       "horizontal traffic light",
       "light",
       "traffic",
-      "signal"
+      "signal",
+      "stoplight"
     ]
   },
   {
@@ -10221,7 +10262,8 @@
       "light",
       "signal",
       "vertical traffic light",
-      "traffic"
+      "traffic",
+      "stoplight"
     ]
   },
   {
@@ -10336,7 +10378,11 @@
     "emoji": "✈️",
     "tags": [
       "aeroplano",
-      "velivolo"
+      "velivolo",
+      "aeroplane",
+      "airplane",
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -10346,7 +10392,8 @@
       "velivolo",
       "aeroplane",
       "airplane",
-      "small airplane"
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -10360,7 +10407,8 @@
       "aeroplane",
       "airplane",
       "departure",
-      "departures"
+      "departures",
+      "plane"
     ]
   },
   {
@@ -10376,7 +10424,8 @@
       "arrivals",
       "airplane arrival",
       "arriving",
-      "landing"
+      "landing",
+      "plane"
     ]
   },
   {
@@ -11059,7 +11108,9 @@
       "luce",
       "raggi",
       "sole",
-      "splendente"
+      "splendente",
+      "sun",
+      "bright"
     ]
   },
   {
@@ -11136,14 +11187,16 @@
       "lattea",
       "Via Lattea",
       "milky way",
-      "space"
+      "space",
+      "galaxy"
     ]
   },
   {
     "emoji": "☁️",
     "tags": [
       "meteo",
-      "nuvola"
+      "nuvola",
+      "cloud"
     ]
   },
   {
@@ -11297,7 +11350,18 @@
       "pioggia",
       "sette colori",
       "rain",
-      "rainbow"
+      "rainbow",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "pride",
+      "gay",
+      "lesbian",
+      "queer",
+      "transgender",
+      "trans",
+      "intersex",
+      "asexual"
     ]
   },
   {
@@ -11316,7 +11380,9 @@
     "tags": [
       "meteo",
       "ombrello",
-      "pioggia"
+      "pioggia",
+      "umbrella",
+      "rain"
     ]
   },
   {
@@ -11382,7 +11448,10 @@
       "neve",
       "pupazzo",
       "pupazzo di neve",
-      "pupazzo innevato"
+      "pupazzo innevato",
+      "cold",
+      "snow",
+      "snowman"
     ]
   },
   {
@@ -11657,7 +11726,8 @@
       "festa",
       "fiocco",
       "celebration",
-      "ribbon"
+      "ribbon",
+      "bow"
     ]
   },
   {
@@ -12246,7 +12316,9 @@
       "gioco",
       "slot",
       "slot machine",
-      "game"
+      "game",
+      "gambling",
+      "casino"
     ]
   },
   {
@@ -12305,7 +12377,8 @@
       "russia",
       "doll",
       "nesting",
-      "nesting dolls"
+      "nesting dolls",
+      "matryoshka"
     ]
   },
   {
@@ -12313,7 +12386,9 @@
     "tags": [
       "carte",
       "picche",
-      "seme"
+      "seme",
+      "spade suit",
+      "card suit"
     ]
   },
   {
@@ -12329,7 +12404,9 @@
     "tags": [
       "carte",
       "quadri",
-      "seme"
+      "seme",
+      "diamond suit",
+      "card suit"
     ]
   },
   {
@@ -12337,7 +12414,9 @@
     "tags": [
       "carte",
       "fiori",
-      "seme"
+      "seme",
+      "club suit",
+      "card suit"
     ]
   },
   {
@@ -12609,7 +12688,8 @@
       "guanti",
       "mano",
       "gloves",
-      "hand"
+      "hand",
+      "mittens"
     ]
   },
   {
@@ -13047,7 +13127,7 @@
       "altoparlante disattivato",
       "silenzio",
       "suono disattivato",
-      "mute",
+      "silenzia",
       "muted speaker",
       "silent",
       "quiet",
@@ -13124,7 +13204,8 @@
     "tags": [
       "campana",
       "campanella",
-      "bell"
+      "bell",
+      "ring"
     ]
   },
   {
@@ -13135,7 +13216,7 @@
       "silenzio",
       "bell",
       "bell with slash",
-      "mute",
+      "silenzia",
       "forbidden",
       "quiet",
       "silent"
@@ -13357,9 +13438,8 @@
       "cellulare",
       "telefono",
       "cell",
-      "mobile",
       "telephone",
-      "phone"
+      "smartphone"
     ]
   },
   {
@@ -13373,9 +13453,8 @@
       "arrow",
       "cell",
       "mobile phone with arrow",
-      "mobile",
-      "phone",
-      "receive"
+      "receive",
+      "smartphone"
     ]
   },
   {
@@ -13392,7 +13471,6 @@
       "cornetta",
       "cornetta del telefono",
       "telefono",
-      "phone",
       "receiver",
       "telephone"
     ]
@@ -13402,7 +13480,8 @@
     "tags": [
       "cercapersone",
       "comunicazione",
-      "pager"
+      "pager",
+      "beeper"
     ]
   },
   {
@@ -13454,7 +13533,9 @@
       "desktop",
       "desktop PC",
       "PC tutto in uno",
-      "computer"
+      "computer",
+      "monitor",
+      "screen"
     ]
   },
   {
@@ -13473,7 +13554,9 @@
       "computer",
       "tasti",
       "tastiera",
-      "tastiera senza fili"
+      "tastiera senza fili",
+      "keyboard",
+      "computer keyboard"
     ]
   },
   {
@@ -13677,7 +13760,6 @@
       "lente ingrandimento verso sinistra",
       "glass",
       "magnifying",
-      "search",
       "magnifying glass tilted left",
       "tool"
     ]
@@ -13689,7 +13771,12 @@
       "lente",
       "lente di ingrandimento rivolta a destra",
       "lente ingrandimento",
-      "lente ingrandimento verso destra"
+      "lente ingrandimento verso destra",
+      "glass",
+      "magnifying",
+      "search",
+      "magnifying glass tilted right",
+      "tool"
     ]
   },
   {
@@ -13939,7 +14026,8 @@
       "etichetta",
       "identificativo",
       "talloncino",
-      "label"
+      "label",
+      "tag"
     ]
   },
   {
@@ -14089,7 +14177,10 @@
       "email",
       "lettera",
       "posta",
-      "ricevere posta"
+      "ricevere posta",
+      "envelope",
+      "letter",
+      "mail"
     ]
   },
   {
@@ -14133,8 +14224,7 @@
       "e-mail",
       "envelope",
       "email",
-      "envelope with arrow",
-      "outgoing"
+      "envelope with arrow"
     ]
   },
   {
@@ -14285,7 +14375,10 @@
     "tags": [
       "calamaio",
       "inchiostro",
-      "pennino"
+      "pennino",
+      "pen",
+      "pen nib",
+      "nib"
     ]
   },
   {
@@ -14337,7 +14430,10 @@
       "block notes",
       "matita",
       "memo",
-      "pencil"
+      "pencil",
+      "pencil and paper",
+      "paper",
+      "write"
     ]
   },
   {
@@ -14558,7 +14654,9 @@
     "tags": [
       "forbici",
       "strumento",
-      "tagliare"
+      "tagliare",
+      "scissors",
+      "cut"
     ]
   },
   {
@@ -14595,7 +14693,9 @@
       "cartacce",
       "cestino",
       "rifiuti",
-      "wastebasket"
+      "wastebasket",
+      "trash",
+      "can"
     ]
   },
   {
@@ -14604,7 +14704,9 @@
       "chiuso",
       "lucchetto",
       "closed",
-      "locked"
+      "locked",
+      "lock",
+      "padlock"
     ]
   },
   {
@@ -14615,7 +14717,8 @@
       "lock",
       "aperta",
       "unlocked",
-      "unlock"
+      "unlock",
+      "padlock"
     ]
   },
   {
@@ -14629,7 +14732,8 @@
       "lock",
       "nib",
       "locked with pen",
-      "pen"
+      "pen",
+      "padlock"
     ]
   },
   {
@@ -14643,7 +14747,8 @@
       "key",
       "locked with key",
       "lock",
-      "secure"
+      "secure",
+      "padlock"
     ]
   },
   {
@@ -14712,7 +14817,9 @@
       "lavori manuali",
       "manodopera",
       "piccone e martello",
-      "utensili"
+      "utensili",
+      "hammer",
+      "pick"
     ]
   },
   {
@@ -14747,7 +14854,10 @@
       "armi",
       "combattimento",
       "duello",
-      "spade incrociate"
+      "spade incrociate",
+      "sword",
+      "fencing",
+      "crossed swords"
     ]
   },
   {
@@ -14861,7 +14971,10 @@
       "componente",
       "ingranaggio",
       "meccanismo",
-      "ruota dentata"
+      "ruota dentata",
+      "gear",
+      "cog",
+      "machine"
     ]
   },
   {
@@ -14885,7 +14998,10 @@
       "bilancia",
       "bilancia a doppio piatto",
       "pesare",
-      "piatti della bilancia"
+      "piatti della bilancia",
+      "scale",
+      "balance",
+      "law"
     ]
   },
   {
@@ -15133,9 +15249,9 @@
       "medico",
       "stetoscopio",
       "doctor",
-      "heart",
       "stethoscope",
-      "medicine"
+      "medicine",
+      "listen"
     ]
   },
   {
@@ -15440,7 +15556,8 @@
       "fumo",
       "sigaretta",
       "cigarette",
-      "smoking"
+      "smoking",
+      "tobacco"
     ]
   },
   {
@@ -15449,7 +15566,12 @@
       "bara",
       "funerale",
       "morte",
-      "sepoltura"
+      "sepoltura",
+      "coffin",
+      "death",
+      "dead",
+      "casket",
+      "funeral"
     ]
   },
   {
@@ -15463,7 +15585,8 @@
       "grave",
       "headstone",
       "graveyard",
-      "tombstone"
+      "tombstone",
+      "gravestone"
     ]
   },
   {
@@ -15474,7 +15597,11 @@
       "morte",
       "sepoltura",
       "urna cineraria",
-      "urna funeraria"
+      "urna funeraria",
+      "funeral",
+      "urn",
+      "death",
+      "dead"
     ]
   },
   {
@@ -15671,7 +15798,11 @@
     "tags": [
       "attenzione",
       "pericolo",
-      "simbolo di avviso"
+      "simbolo di avviso",
+      "caution",
+      "warning",
+      "alert",
+      "danger"
     ]
   },
   {
@@ -15801,9 +15932,8 @@
       "cell",
       "forbidden",
       "no",
-      "mobile",
-      "no mobile phones",
-      "phone"
+      "telefono",
+      "no mobile phones"
     ]
   },
   {
@@ -15828,7 +15958,11 @@
       "radioattivo",
       "rifiuti tossici",
       "scorie",
-      "simbolo della radioattività"
+      "simbolo della radioattività",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -15838,7 +15972,11 @@
       "pericolo",
       "rischio biologico",
       "simbolo del rischio biologico",
-      "sostanze pericolose"
+      "sostanze pericolose",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -15849,7 +15987,9 @@
       "freccia in alto",
       "freccia rivolta verso l’alto",
       "nord",
-      "punto cardinale"
+      "punto cardinale",
+      "arrow",
+      "up"
     ]
   },
   {
@@ -15860,7 +16000,9 @@
       "freccia in alto a destra",
       "freccia rivolta verso destra che punta in alto",
       "nord-est",
-      "punto intercardinale"
+      "punto intercardinale",
+      "arrow",
+      "up right"
     ]
   },
   {
@@ -15871,7 +16013,9 @@
       "freccia",
       "freccia a destra",
       "freccia rivolta verso destra",
-      "punto cardinale"
+      "punto cardinale",
+      "arrow",
+      "right"
     ]
   },
   {
@@ -15881,7 +16025,9 @@
       "freccia",
       "freccia in basso a destra",
       "punto intercardinale",
-      "sud-est"
+      "sud-est",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -15892,7 +16038,9 @@
       "freccia in basso",
       "freccia rivolta verso il basso",
       "punto cardinale",
-      "sud"
+      "sud",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -15902,7 +16050,9 @@
       "freccia",
       "freccia in basso a sinistra",
       "punto intercardinale",
-      "sud-ovest"
+      "sud-ovest",
+      "arrow",
+      "down left"
     ]
   },
   {
@@ -15913,7 +16063,9 @@
       "freccia a sinistra",
       "freccia rivolta a sinistra",
       "ovest",
-      "punto cardinale"
+      "punto cardinale",
+      "arrow",
+      "left"
     ]
   },
   {
@@ -15923,7 +16075,9 @@
       "freccia",
       "freccia in alto a sinistra",
       "nord-ovest",
-      "punto intercardinale"
+      "punto intercardinale",
+      "arrow",
+      "up left"
     ]
   },
   {
@@ -15932,7 +16086,11 @@
       "altezza",
       "doppia direzione",
       "freccia",
-      "freccia su-giù"
+      "freccia su-giù",
+      "arrow",
+      "up and down",
+      "vertical",
+      "height"
     ]
   },
   {
@@ -15942,7 +16100,11 @@
       "doppia direzione",
       "freccia",
       "freccia sinistra-destra",
-      "larghezza"
+      "larghezza",
+      "arrow",
+      "left and right",
+      "horizontal",
+      "width"
     ]
   },
   {
@@ -15951,7 +16113,9 @@
       "curva",
       "freccia",
       "freccia curva a sinistra",
-      "verso sinistra"
+      "verso sinistra",
+      "arrow",
+      "return"
     ]
   },
   {
@@ -15960,7 +16124,9 @@
       "curva",
       "freccia",
       "freccia curva a destra",
-      "verso destra"
+      "verso destra",
+      "arrow",
+      "forward"
     ]
   },
   {
@@ -15969,7 +16135,9 @@
       "curva",
       "freccia",
       "freccia curva in alto",
-      "verso l’alto"
+      "verso l’alto",
+      "arrow",
+      "up bend"
     ]
   },
   {
@@ -15978,7 +16146,9 @@
       "curva",
       "freccia",
       "freccia curva in basso",
-      "verso il basso"
+      "verso il basso",
+      "arrow",
+      "down bend"
     ]
   },
   {
@@ -16120,7 +16290,10 @@
       "Ebraismo",
       "ebreo",
       "simbolo ebraico",
-      "stella di David"
+      "stella di David",
+      "star",
+      "jewish",
+      "start of david"
     ]
   },
   {
@@ -16130,7 +16303,9 @@
       "Dharmacakra",
       "religione buddhista",
       "ruota a otto raggi",
-      "ruota del Dharma"
+      "ruota del Dharma",
+      "wheel",
+      "dharma"
     ]
   },
   {
@@ -16139,7 +16314,10 @@
       "Confucianesimo",
       "simbolo",
       "Taoismo",
-      "Yin e Yang"
+      "Yin e Yang",
+      "yin",
+      "yang",
+      "yin yang"
     ]
   },
   {
@@ -16148,7 +16326,9 @@
       "Cristianesimo",
       "croce",
       "croce latina",
-      "religione"
+      "religione",
+      "cross",
+      "christianity"
     ]
   },
   {
@@ -16158,7 +16338,9 @@
       "croce",
       "croce ortodossa",
       "ortodossi",
-      "religione"
+      "religione",
+      "cross",
+      "orthodox cross"
     ]
   },
   {
@@ -16168,7 +16350,9 @@
       "mezzaluna",
       "mezzaluna e stella",
       "religione",
-      "stella"
+      "stella",
+      "star and crescent",
+      "islam"
     ]
   },
   {
@@ -16177,7 +16361,9 @@
       "pace",
       "Pace e amore",
       "Peace and Love",
-      "simbolo della pace"
+      "simbolo della pace",
+      "peace",
+      "peace sign"
     ]
   },
   {
@@ -16404,7 +16590,11 @@
       "pulsante di riproduzione",
       "pulsante play",
       "riproduzione",
-      "triangolo"
+      "triangolo",
+      "go",
+      "play button",
+      "right arrow",
+      "triangle"
     ]
   },
   {
@@ -16460,7 +16650,9 @@
       "pulsante di riavvolgimento",
       "pulsante riavvolgimento",
       "sinistra",
-      "triangolo"
+      "triangolo",
+      "left arrow",
+      "triangle"
     ]
   },
   {
@@ -16580,7 +16772,9 @@
     "tags": [
       "espulsione",
       "pulsante",
-      "pulsante di espulsione"
+      "pulsante di espulsione",
+      "eject",
+      "eject button"
     ]
   },
   {
@@ -16631,9 +16825,7 @@
       "telefono",
       "antenna bars",
       "cell",
-      "bar",
-      "mobile",
-      "phone"
+      "bar"
     ]
   },
   {
@@ -16643,8 +16835,7 @@
       "modalità telefono",
       "modalità vibrazione",
       "cell",
-      "mobile",
-      "phone",
+      "telefono",
       "mode",
       "telephone",
       "vibration"
@@ -16657,9 +16848,6 @@
       "spento",
       "telefono",
       "cell",
-      "mobile",
-      "phone",
-      "off",
       "telephone"
     ]
   },
@@ -16678,7 +16866,10 @@
       "moltiplicazione",
       "segno moltiplicazione",
       "segno per",
-      "X"
+      "X",
+      "stop",
+      "x",
+      "cross"
     ]
   },
   {
@@ -16723,7 +16914,10 @@
       "illimitato",
       "per sempre",
       "simbolo dell’infinito",
-      "universale"
+      "universale",
+      "infinity",
+      "infinite",
+      "endless"
     ]
   },
   {
@@ -16741,7 +16935,10 @@
       "punteggiatura",
       "punto esclamativo",
       "punto esclamativo e interrogativo",
-      "punto interrogativo"
+      "punto interrogativo",
+      "!?",
+      "exclamation",
+      "question"
     ]
   },
   {
@@ -16804,7 +17001,10 @@
     "emoji": "〰️",
     "tags": [
       "ondulato",
-      "trattino"
+      "trattino",
+      "wave",
+      "wavey",
+      "wavey dash"
     ]
   },
   {
@@ -16813,7 +17013,10 @@
       "cambio",
       "cambio di valuta",
       "denaro",
-      "valuta"
+      "valuta",
+      "currency",
+      "exchange",
+      "money"
     ]
   },
   {
@@ -16821,7 +17024,12 @@
     "tags": [
       "denaro",
       "Dollaro",
-      "simbolo del Dollaro"
+      "simbolo del Dollaro",
+      "money",
+      "dollars",
+      "cash",
+      "usd",
+      "rich"
     ]
   },
   {
@@ -16842,7 +17050,9 @@
       "giglio",
       "giglio araldico",
       "simbolo",
-      "stemma"
+      "stemma",
+      "fleur",
+      "fleur-de-lis"
     ]
   },
   {
@@ -16916,7 +17126,11 @@
       "grigio",
       "riquadro",
       "riquadro con spunta",
-      "spunta"
+      "spunta",
+      "check",
+      "check box",
+      "done",
+      "todo"
     ]
   },
   {
@@ -16973,7 +17187,11 @@
     "emoji": "➿",
     "tags": [
       "doppio",
-      "occhiello"
+      "occhiello",
+      "loop",
+      "curl",
+      "twist",
+      "double curly loop"
     ]
   },
   {
@@ -16984,7 +17202,8 @@
       "parti musicali",
       "segno",
       "simbolo di alternanza delle parti",
-      "suddivisione parti"
+      "suddivisione parti",
+      "part alternation mark"
     ]
   },
   {
@@ -17006,7 +17225,8 @@
     "emoji": "❇️",
     "tags": [
       "scintilla",
-      "scintilla stilizzata"
+      "scintilla stilizzata",
+      "sparkle"
     ]
   },
   {
@@ -17019,7 +17239,9 @@
     "emoji": "®️",
     "tags": [
       "marchio registrato",
-      "marchio registrato cerchiato"
+      "marchio registrato cerchiato",
+      "registered",
+      "reserved"
     ]
   },
   {
@@ -17030,7 +17252,8 @@
       "marchio di fabbrica",
       "marchio registrato",
       "TM",
-      "trademark"
+      "trademark",
+      "tm"
     ]
   },
   {
@@ -17120,7 +17343,9 @@
     "emoji": "🅱️",
     "tags": [
       "gruppo B",
-      "gruppo sanguigno B"
+      "gruppo sanguigno B",
+      "b",
+      "letter b"
     ]
   },
   {
@@ -17157,7 +17382,8 @@
     "tags": [
       "i",
       "informazioni",
-      "punto informazioni"
+      "punto informazioni",
+      "letter i"
     ]
   },
   {
@@ -17177,7 +17403,9 @@
       "M azzurra",
       "metro",
       "pulsante M cerchiata",
-      "simbolo M"
+      "simbolo M",
+      "m",
+      "m in circle"
     ]
   },
   {
@@ -17218,7 +17446,9 @@
     "emoji": "🅿️",
     "tags": [
       "area di parcheggio",
-      "pulsante P"
+      "pulsante P",
+      "p",
+      "letter p"
     ]
   },
   {
@@ -17264,7 +17494,7 @@
       "parola",
       "qui",
       "tabelloni",
-      "“here”",
+      "here",
       "Japanese",
       "Japanese “here” button",
       "ココ"
@@ -17296,7 +17526,7 @@
       "giapponese",
       "ideogramma",
       "ideogramma giapponese di “A pagamento”",
-      "“not free of charge”",
+      "not free of charge",
       "ideograph",
       "Japanese “not free of charge” button",
       "Japanese",
@@ -17310,7 +17540,7 @@
       "ideogramma",
       "ideogramma giapponese di “Riservato”",
       "riservato",
-      "“reserved”",
+      "reserved",
       "ideograph",
       "Japanese “reserved” button",
       "Japanese",
@@ -17324,7 +17554,7 @@
       "ideogramma",
       "ideogramma giapponese di “Occasione”",
       "vantaggio",
-      "“bargain”",
+      "bargain",
       "ideograph",
       "Japanese “bargain” button",
       "Japanese",
@@ -17339,7 +17569,7 @@
       "ideogramma giapponese di “Sconto”",
       "prezzo scontato",
       "sconto",
-      "“discount”",
+      "discount",
       "ideograph",
       "Japanese “discount” button",
       "Japanese",
@@ -17353,7 +17583,7 @@
       "gratis",
       "ideogramma",
       "ideogramma giapponese di “Gratis”",
-      "“free of charge”",
+      "free of charge",
       "ideograph",
       "Japanese “free of charge” button",
       "Japanese",
@@ -17367,7 +17597,7 @@
       "ideogramma",
       "ideogramma giapponese di “Proibito”",
       "proibito",
-      "“prohibited”",
+      "prohibited",
       "ideograph",
       "Japanese “prohibited” button",
       "Japanese",
@@ -17381,7 +17611,7 @@
       "giapponese",
       "ideogramma",
       "ideogramma giapponese di “Accettabile”",
-      "“acceptable”",
+      "acceptable",
       "ideograph",
       "Japanese “acceptable” button",
       "Japanese",
@@ -17395,7 +17625,7 @@
       "giapponese",
       "ideogramma",
       "ideogramma giapponese di “Candidatura”",
-      "“application”",
+      "application",
       "ideograph",
       "Japanese “application” button",
       "Japanese",
@@ -17409,7 +17639,7 @@
       "ideogramma",
       "ideogramma giapponese di “Voto di sufficienza”",
       "sufficienza",
-      "“passing grade”",
+      "passing grade",
       "ideograph",
       "Japanese “passing grade” button",
       "Japanese",
@@ -17425,7 +17655,7 @@
       "ideogramma giapponese di “Posto libero”",
       "libero",
       "posto libero",
-      "“vacancy”",
+      "vacancy",
       "ideograph",
       "Japanese “vacancy” button",
       "Japanese",
@@ -17438,7 +17668,10 @@
       "congratulazioni",
       "giapponese",
       "ideogramma",
-      "ideogramma giapponese di “Congratulazioni”"
+      "ideogramma giapponese di “Congratulazioni”",
+      "congratulations",
+      "ideograph",
+      "japanese"
     ]
   },
   {
@@ -17459,7 +17692,7 @@
       "giapponese",
       "ideogramma",
       "ideogramma giapponese di “Aperto al pubblico”",
-      "“open for business”",
+      "open for business",
       "ideograph",
       "Japanese “open for business” button",
       "Japanese",
@@ -17474,7 +17707,7 @@
       "ideogramma giapponese di “Nessun posto libero”",
       "nessun posto libero",
       "pieno",
-      "“no vacancy”",
+      "no vacancy",
       "ideograph",
       "Japanese “no vacancy” button",
       "Japanese",
@@ -17551,7 +17784,8 @@
       "geometria",
       "nero",
       "black circle",
-      "geometric"
+      "geometric",
+      "black"
     ]
   },
   {
@@ -17561,7 +17795,8 @@
       "cerchio",
       "geometria",
       "geometric",
-      "white circle"
+      "white circle",
+      "white"
     ]
   },
   {
@@ -17628,7 +17863,8 @@
       "quadrato",
       "quadrato nero grande",
       "black large square",
-      "geometric"
+      "geometric",
+      "black"
     ]
   },
   {
@@ -17638,7 +17874,8 @@
       "quadrato",
       "quadrato bianco grande",
       "geometric",
-      "white large square"
+      "white large square",
+      "white"
     ]
   },
   {
@@ -17654,7 +17891,10 @@
     "tags": [
       "geometria",
       "quadrato",
-      "quadrato bianco medio"
+      "quadrato bianco medio",
+      "geometric",
+      "white medium square",
+      "white"
     ]
   },
   {
@@ -17783,7 +18023,10 @@
     "tags": [
       "opzione",
       "pulsante",
-      "pulsante rotondo"
+      "pulsante rotondo",
+      "button",
+      "radio button",
+      "circle"
     ]
   },
   {
@@ -17806,7 +18049,11 @@
       "pulsante",
       "pulsante quadrato pieno",
       "quadrato",
-      "tasto quadrato bianco con bordo nero"
+      "tasto quadrato bianco con bordo nero",
+      "button",
+      "geometric",
+      "square",
+      "outlined"
     ]
   },
   {
@@ -17871,7 +18118,19 @@
       "Pride",
       "pride",
       "rainbow",
-      "rainbow flag"
+      "rainbow flag",
+      "lgbtqia",
+      "lgbt",
+      "lgbtqa",
+      "queer",
+      "gay",
+      "lesbian",
+      "intersex",
+      "bisexual",
+      "transgender",
+      "trans",
+      "asexual",
+      "questioning"
     ]
   },
   {
@@ -17887,6 +18146,181 @@
       "plunder",
       "pirate flag",
       "treasure"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "tags": [
+      "face",
+      "frown",
+      "sad",
+      "slightly frowning face"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "death",
+      "skull",
+      "crossbones",
+      "skull and crossbones",
+      "bones",
+      "dead"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "tags": [
+      "heart",
+      "red heart"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "heart suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "🗨️",
+    "tags": [
+      "balloon",
+      "bubble",
+      "dialog",
+      "comic",
+      "speech"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "snow",
+      "snowflake",
+      "cold",
+      "ice"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "tags": [
+      "telefono",
+      "telephone"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "pencil"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "alembic",
+      "science",
+      "chemistry"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "atom"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "asterisk",
+      "eight spoke"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "star",
+      "eight pointed"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "!",
+      "exclamation",
+      "double exclamation"
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "tags": [
+      "recyce",
+      "reuse",
+      "green"
+    ]
+  },
+  {
+    "emoji": "🅰️",
+    "tags": [
+      "a",
+      "letter a"
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "tags": [
+      "o",
+      "letter o"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "service charger",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "monthly amount",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "secret",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "tags": [
+      "black small square",
+      "geometric",
+      "quadrato",
+      "black"
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "tags": [
+      "black medium square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "geometric",
+      "quadrato",
+      "white small square",
+      "white"
     ]
   },
   {

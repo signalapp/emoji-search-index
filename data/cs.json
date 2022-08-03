@@ -43,7 +43,8 @@
       "obličej",
       "grinning face with smiling eyes",
       "otevřená",
-      "smějící se"
+      "smějící se",
+      "šťastný"
     ]
   },
   {
@@ -94,7 +95,6 @@
       "úsměv",
       "výraz",
       "zubící se obličej s kapkou potu",
-      "cold",
       "obličej",
       "otevřená",
       "grinning face with sweat",
@@ -311,7 +311,10 @@
       "tvář",
       "úsměv",
       "usmívající se obličej",
-      "výraz"
+      "výraz",
+      "obličej",
+      "slightly smiling face",
+      "smějící se"
     ]
   },
   {
@@ -1836,7 +1839,7 @@
       "usmívající se kočka se srdíčky místo očí",
       "výraz",
       "cat",
-      "heart",
+      "heart eyes",
       "obličej",
       "love",
       "smiling cat with heart-eyes"
@@ -2030,7 +2033,7 @@
       "romance",
       "romantika",
       "srdce",
-      "heart",
+      "heart letter",
       "letter",
       "mail",
       "love"
@@ -2088,9 +2091,9 @@
       "srdce",
       "vzrušení",
       "excited",
-      "growing",
-      "nervous",
       "growing heart",
+      "nervous",
+      "growing",
       "pulse"
     ]
   },
@@ -2135,7 +2138,6 @@
     "tags": [
       "srdce",
       "srdce jako ozdoba",
-      "heart",
       "heart decoration"
     ]
   },
@@ -2147,7 +2149,10 @@
       "srdce jako vykřičník",
       "vykřičník",
       "značka",
-      "znaménko"
+      "znaménko",
+      "heart exclamation",
+      "heart drop",
+      "exclamation"
     ]
   },
   {
@@ -2158,8 +2163,8 @@
       "zlomený",
       "zlomit",
       "break",
-      "broken",
-      "broken heart"
+      "broken heart",
+      "heart break"
     ]
   },
   {
@@ -2173,9 +2178,9 @@
       "srdce",
       "vášeň",
       "burn",
-      "heart",
-      "love",
+      "burning heart",
       "heart on fire",
+      "love",
       "lust",
       "sacred heart"
     ]
@@ -2192,12 +2197,13 @@
       "zlepšení",
       "zotavení",
       "healthier",
-      "improving",
       "mending heart",
+      "heart mending",
       "mending",
       "recovering",
       "recuperating",
-      "well"
+      "well",
+      "improving"
     ]
   },
   {
@@ -2214,7 +2220,8 @@
       "oranžové srdce",
       "srdce",
       "orange",
-      "orange heart"
+      "orange heart",
+      "heart orange"
     ]
   },
   {
@@ -2224,7 +2231,8 @@
       "žlutá",
       "žluté srdce",
       "yellow",
-      "yellow heart"
+      "yellow heart",
+      "heart yellow"
     ]
   },
   {
@@ -2234,7 +2242,8 @@
       "zelená",
       "zelené srdce",
       "green",
-      "green heart"
+      "green heart",
+      "heart green"
     ]
   },
   {
@@ -2244,7 +2253,8 @@
       "modré srdce",
       "srdce",
       "blue",
-      "blue heart"
+      "blue heart",
+      "heart blue"
     ]
   },
   {
@@ -2254,7 +2264,8 @@
       "fialové srdce",
       "srdce",
       "purple",
-      "purple heart"
+      "purple heart",
+      "heart purple"
     ]
   },
   {
@@ -2264,7 +2275,8 @@
       "hnědé srdce",
       "srdce",
       "brown",
-      "heart"
+      "brownheart",
+      "heart brown"
     ]
   },
   {
@@ -2278,6 +2290,7 @@
       "zlo",
       "black",
       "black heart",
+      "heart black",
       "wicked",
       "evil"
     ]
@@ -2288,8 +2301,9 @@
       "bílá",
       "bílé srdce",
       "srdce",
-      "heart",
-      "white"
+      "white",
+      "white heart",
+      "heart white"
     ]
   },
   {
@@ -2402,7 +2416,8 @@
       "balloon",
       "bubble",
       "comic",
-      "speech"
+      "speech",
+      "typing"
     ]
   },
   {
@@ -2466,7 +2481,12 @@
       "tělo",
       "hand",
       "wave",
-      "waving"
+      "waving",
+      "hi",
+      "hey",
+      "hello",
+      "bye",
+      "goodbye"
     ]
   },
   {
@@ -2505,7 +2525,8 @@
       "hand",
       "high 5",
       "raised hand",
-      "high five"
+      "high five",
+      "hifive"
     ]
   },
   {
@@ -2955,9 +2976,7 @@
       "fotoaparát",
       "selfíčko",
       "selfie",
-      "telefon",
-      "camera",
-      "phone"
+      "telefon"
     ]
   },
   {
@@ -3469,7 +3488,8 @@
       "person gesturing NO",
       "hand",
       "prohibited",
-      "X"
+      "X",
+      "no"
     ]
   },
   {
@@ -3487,7 +3507,7 @@
       "man gesturing NO",
       "prohibited",
       "X",
-      "male"
+      "no"
     ]
   },
   {
@@ -3505,7 +3525,7 @@
       "woman",
       "woman gesturing NO",
       "X",
-      "female"
+      "no"
     ]
   },
   {
@@ -3630,7 +3650,10 @@
       "gesture",
       "hand",
       "person raising hand",
-      "raised"
+      "raised",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3645,7 +3668,10 @@
       "man",
       "raising hand",
       "man raising hand",
-      "male"
+      "male",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3660,7 +3686,10 @@
       "raising hand",
       "woman raising hand",
       "woman",
-      "female"
+      "female",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -4568,8 +4597,7 @@
       "letadlo",
       "pilot",
       "pilot/pilotka",
-      "pilotka",
-      "plane"
+      "pilotka"
     ]
   },
   {
@@ -4578,9 +4606,8 @@
       "letadlo",
       "muž",
       "pilot",
-      "man",
       "male",
-      "plane"
+      "man"
     ]
   },
   {
@@ -4590,7 +4617,6 @@
       "pilotka",
       "žena",
       "pilot",
-      "plane",
       "female",
       "woman"
     ]
@@ -6059,7 +6085,8 @@
       "parní",
       "sauna",
       "person in steamy room",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -6073,7 +6100,8 @@
       "sauna",
       "man in steamy room",
       "male",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -6087,7 +6115,8 @@
       "žena v sauně",
       "steam room",
       "female",
-      "woman in steamy room"
+      "woman in steamy room",
+      "spa"
     ]
   },
   {
@@ -6279,7 +6308,8 @@
       "plavající osoba",
       "plavání",
       "person swimming",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -6291,7 +6321,8 @@
       "man",
       "man swimming",
       "male",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -6303,7 +6334,8 @@
       "swim",
       "woman",
       "female",
-      "woman swimming"
+      "woman swimming",
+      "swimmer"
     ]
   },
   {
@@ -8509,7 +8541,12 @@
     "tags": [
       "jetel",
       "rostlina",
-      "trojlístek"
+      "trojlístek",
+      "clover",
+      "shamrock",
+      "three-leaf clover",
+      "three",
+      "leaf"
     ]
   },
   {
@@ -10609,7 +10646,6 @@
       "domek",
       "domov",
       "dům",
-      "home",
       "house"
     ]
   },
@@ -10622,7 +10658,6 @@
       "dům",
       "zahrada",
       "garden",
-      "home",
       "house with garden",
       "house"
     ]
@@ -11024,7 +11059,8 @@
       "horko",
       "horký pramen",
       "lázeň",
-      "pára"
+      "pára",
+      "hot springs"
     ]
   },
   {
@@ -11105,7 +11141,7 @@
       "vlak",
       "vozidlo",
       "železnice",
-      "car",
+      "train car",
       "electric",
       "train",
       "railway",
@@ -11218,7 +11254,7 @@
       "vagón",
       "vozidlo",
       "železnice",
-      "car",
+      "train car",
       "mountain",
       "railway"
     ]
@@ -11230,7 +11266,7 @@
       "vagón",
       "vagón tramvaje",
       "vozidlo",
-      "car",
+      "train car",
       "tram",
       "trolleybus"
     ]
@@ -11460,7 +11496,8 @@
     "tags": [
       "scooter",
       "skútr",
-      "motor"
+      "motor",
+      "moped"
     ]
   },
   {
@@ -11476,7 +11513,8 @@
       "usnadnění",
       "zpřístupnění",
       "accessibility",
-      "manual wheelchair"
+      "manual wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -11492,7 +11530,8 @@
       "usnadnění",
       "zpřístupnění",
       "accessibility",
-      "motorized wheelchair"
+      "motorized wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -11622,12 +11661,11 @@
       "světlo",
       "vozidlo",
       "beacon",
-      "car",
       "police",
       "light",
       "revolving",
-      "alert",
       "alarm",
+      "alert",
       "emergency",
       "siren"
     ]
@@ -11644,7 +11682,8 @@
       "horizontal traffic light",
       "light",
       "traffic",
-      "signal"
+      "signal",
+      "stoplight"
     ]
   },
   {
@@ -11659,7 +11698,8 @@
       "light",
       "signal",
       "vertical traffic light",
-      "traffic"
+      "traffic",
+      "stoplight"
     ]
   },
   {
@@ -11793,7 +11833,11 @@
     "tags": [
       "doprava",
       "letadlo",
-      "letoun"
+      "letoun",
+      "aeroplane",
+      "airplane",
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -11804,7 +11848,8 @@
       "malé letadlo",
       "aeroplane",
       "airplane",
-      "small airplane"
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -11822,7 +11867,8 @@
       "aeroplane",
       "airplane",
       "departure",
-      "departures"
+      "departures",
+      "plane"
     ]
   },
   {
@@ -11840,7 +11886,8 @@
       "arrivals",
       "airplane arrival",
       "arriving",
-      "landing"
+      "landing",
+      "plane"
     ]
   },
   {
@@ -12665,7 +12712,9 @@
       "počasí",
       "slunce",
       "slunečno",
-      "vesmír"
+      "vesmír",
+      "sun",
+      "bright"
     ]
   },
   {
@@ -12754,7 +12803,8 @@
       "mléčná dráha",
       "vesmír",
       "milky way",
-      "space"
+      "space",
+      "galaxy"
     ]
   },
   {
@@ -12762,7 +12812,8 @@
     "tags": [
       "mrak",
       "oblak",
-      "počasí"
+      "počasí",
+      "cloud"
     ]
   },
   {
@@ -12952,7 +13003,18 @@
       "duha",
       "počasí",
       "rain",
-      "rainbow"
+      "rainbow",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "pride",
+      "gay",
+      "lesbian",
+      "queer",
+      "transgender",
+      "trans",
+      "intersex",
+      "asexual"
     ]
   },
   {
@@ -12975,7 +13037,9 @@
       "déšť",
       "deštník",
       "oblečení",
-      "počasí"
+      "počasí",
+      "umbrella",
+      "rain"
     ]
   },
   {
@@ -13043,7 +13107,10 @@
       "počasí",
       "sněhulák",
       "sníh",
-      "zima"
+      "zima",
+      "cold",
+      "snow",
+      "snowman"
     ]
   },
   {
@@ -13347,7 +13414,8 @@
       "mašle",
       "oslava",
       "celebration",
-      "ribbon"
+      "ribbon",
+      "bow"
     ]
   },
   {
@@ -13999,7 +14067,9 @@
       "výherní automat",
       "game",
       "slot",
-      "slot machine"
+      "slot machine",
+      "gambling",
+      "casino"
     ]
   },
   {
@@ -14062,7 +14132,8 @@
       "doll",
       "nesting",
       "russia",
-      "nesting dolls"
+      "nesting dolls",
+      "matryoshka"
     ]
   },
   {
@@ -14071,7 +14142,9 @@
       "barva",
       "hra",
       "karta",
-      "piky"
+      "piky",
+      "spade suit",
+      "card suit"
     ]
   },
   {
@@ -14090,7 +14163,9 @@
       "hra",
       "kára",
       "karta",
-      "káry"
+      "káry",
+      "diamond suit",
+      "card suit"
     ]
   },
   {
@@ -14100,7 +14175,9 @@
       "hra",
       "karta",
       "kříž",
-      "kříže"
+      "kříže",
+      "club suit",
+      "card suit"
     ]
   },
   {
@@ -14399,7 +14476,8 @@
       "ruka",
       "rukavice",
       "gloves",
-      "hand"
+      "hand",
+      "mittens"
     ]
   },
   {
@@ -14876,7 +14954,7 @@
       "tichý",
       "vypnutý reproduktor",
       "ztlumený",
-      "mute",
+      "ztišit",
       "muted speaker",
       "silent",
       "quiet",
@@ -14963,7 +15041,8 @@
     "tags": [
       "zvon",
       "zvonek",
-      "bell"
+      "bell",
+      "ring"
     ]
   },
   {
@@ -14978,7 +15057,7 @@
       "zvon",
       "bell",
       "bell with slash",
-      "mute",
+      "ztišit",
       "forbidden",
       "quiet",
       "silent"
@@ -15210,9 +15289,8 @@
       "mobilní",
       "telefon",
       "cell",
-      "mobile",
       "telephone",
-      "phone"
+      "smartphone"
     ]
   },
   {
@@ -15229,9 +15307,8 @@
       "arrow",
       "cell",
       "mobile phone with arrow",
-      "mobile",
-      "phone",
-      "receive"
+      "receive",
+      "smartphone"
     ]
   },
   {
@@ -15247,7 +15324,6 @@
       "sluchátko",
       "telefon",
       "telefonní sluchátko",
-      "phone",
       "receiver",
       "telephone"
     ]
@@ -15255,7 +15331,8 @@
   {
     "emoji": "📟",
     "tags": [
-      "pager"
+      "pager",
+      "beeper"
     ]
   },
   {
@@ -15307,7 +15384,9 @@
       "osobní",
       "počítač",
       "stolní",
-      "computer"
+      "computer",
+      "monitor",
+      "screen"
     ]
   },
   {
@@ -15323,7 +15402,9 @@
     "emoji": "⌨️",
     "tags": [
       "klávesnice",
-      "počítač"
+      "počítač",
+      "keyboard",
+      "computer keyboard"
     ]
   },
   {
@@ -15416,7 +15497,7 @@
       "filmová",
       "kamera",
       "kino",
-      "camera",
+      "fotoaparát",
       "cinema",
       "movie"
     ]
@@ -15446,7 +15527,7 @@
       "cinema",
       "projector",
       "movie",
-      "camera",
+      "fotoaparát",
       "blue"
     ]
   },
@@ -15479,8 +15560,7 @@
       "foťák",
       "fotoaparát",
       "fotografický",
-      "video",
-      "camera"
+      "video"
     ]
   },
   {
@@ -15492,7 +15572,7 @@
       "fotoaparát s bleskem",
       "fotografický",
       "video",
-      "camera",
+      "fotoaparát",
       "camera with flash",
       "flash"
     ]
@@ -15503,7 +15583,7 @@
       "kamera",
       "video",
       "videokamera",
-      "camera",
+      "fotoaparát",
       "camcorder"
     ]
   },
@@ -15533,7 +15613,7 @@
       "zvětšování",
       "glass",
       "magnifying",
-      "search",
+      "hledat",
       "magnifying glass tilted left",
       "tool"
     ]
@@ -15548,7 +15628,12 @@
       "sklo",
       "zvětšení",
       "zvětšovací",
-      "zvětšování"
+      "zvětšování",
+      "glass",
+      "magnifying",
+      "hledat",
+      "magnifying glass tilted right",
+      "tool"
     ]
   },
   {
@@ -15809,7 +15894,8 @@
       "jmenovka",
       "štítek",
       "visačka",
-      "label"
+      "label",
+      "tag"
     ]
   },
   {
@@ -15991,7 +16077,10 @@
       "email",
       "obálka",
       "pošta",
-      "psaní"
+      "psaní",
+      "envelope",
+      "letter",
+      "mail"
     ]
   },
   {
@@ -16192,7 +16281,10 @@
     "emoji": "✒️",
     "tags": [
       "hrot černého pera",
-      "pero"
+      "pero",
+      "pen",
+      "pen nib",
+      "nib"
     ]
   },
   {
@@ -16242,7 +16334,10 @@
       "lístek se vzkazem",
       "tužka",
       "memo",
-      "pencil"
+      "pencil",
+      "pencil and paper",
+      "paper",
+      "write"
     ]
   },
   {
@@ -16470,7 +16565,9 @@
       "nástroj",
       "nůžky",
       "střih",
-      "stříhání"
+      "stříhání",
+      "scissors",
+      "cut"
     ]
   },
   {
@@ -16506,7 +16603,9 @@
       "odpad",
       "odpadkový koš",
       "smetí",
-      "wastebasket"
+      "wastebasket",
+      "trash",
+      "can"
     ]
   },
   {
@@ -16520,7 +16619,9 @@
       "zavřeno",
       "zavřený",
       "closed",
-      "locked"
+      "locked",
+      "lock",
+      "padlock"
     ]
   },
   {
@@ -16536,7 +16637,8 @@
       "lock",
       "otevřená",
       "unlocked",
-      "unlock"
+      "unlock",
+      "padlock"
     ]
   },
   {
@@ -16555,7 +16657,8 @@
       "nib",
       "locked with pen",
       "pen",
-      "privacy"
+      "privacy",
+      "padlock"
     ]
   },
   {
@@ -16571,7 +16674,8 @@
       "key",
       "locked with key",
       "lock",
-      "secure"
+      "secure",
+      "padlock"
     ]
   },
   {
@@ -16645,7 +16749,9 @@
       "kladivo",
       "kladivo a špičák",
       "nářadí",
-      "špičák"
+      "špičák",
+      "hammer",
+      "pick"
     ]
   },
   {
@@ -16679,7 +16785,10 @@
     "tags": [
       "meče",
       "zbraň",
-      "zkřížené"
+      "zkřížené",
+      "sword",
+      "fencing",
+      "crossed swords"
     ]
   },
   {
@@ -16799,7 +16908,10 @@
     "emoji": "⚙️",
     "tags": [
       "nářadí",
-      "ozubené kolo"
+      "ozubené kolo",
+      "gear",
+      "cog",
+      "machine"
     ]
   },
   {
@@ -16824,7 +16936,10 @@
       "rovnováha",
       "spravedlnost",
       "váha",
-      "zvěrokruh"
+      "zvěrokruh",
+      "scale",
+      "balance",
+      "law"
     ]
   },
   {
@@ -17096,9 +17211,9 @@
       "srdce",
       "stetoskop",
       "doctor",
-      "heart",
       "stethoscope",
-      "medicine"
+      "medicine",
+      "listen"
     ]
   },
   {
@@ -17435,14 +17550,20 @@
       "cigareta",
       "kouření",
       "cigarette",
-      "smoking"
+      "smoking",
+      "tobacco"
     ]
   },
   {
     "emoji": "⚰️",
     "tags": [
       "rakev",
-      "smrt"
+      "smrt",
+      "coffin",
+      "death",
+      "dead",
+      "casket",
+      "funeral"
     ]
   },
   {
@@ -17458,7 +17579,8 @@
       "grave",
       "headstone",
       "graveyard",
-      "tombstone"
+      "tombstone",
+      "gravestone"
     ]
   },
   {
@@ -17469,7 +17591,11 @@
       "pohřební urna",
       "popel",
       "smrt",
-      "urna"
+      "urna",
+      "funeral",
+      "urn",
+      "death",
+      "dead"
     ]
   },
   {
@@ -17668,7 +17794,11 @@
     "tags": [
       "upozornění",
       "varování",
-      "výstraha"
+      "výstraha",
+      "caution",
+      "warning",
+      "alert",
+      "danger"
     ]
   },
   {
@@ -17813,9 +17943,7 @@
       "cell",
       "forbidden",
       "no",
-      "mobile",
-      "no mobile phones",
-      "phone"
+      "no mobile phones"
     ]
   },
   {
@@ -17842,7 +17970,11 @@
     "tags": [
       "radioaktivita",
       "radioaktivity",
-      "značka"
+      "značka",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -17852,7 +17984,11 @@
       "biologické",
       "nebezpečí",
       "riziko",
-      "značka"
+      "značka",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -17864,7 +18000,9 @@
       "šipka nahoru",
       "směr",
       "strany",
-      "světové"
+      "světové",
+      "arrow",
+      "up"
     ]
   },
   {
@@ -17876,7 +18014,9 @@
       "směr",
       "strany",
       "světové",
-      "vedlejší"
+      "vedlejší",
+      "arrow",
+      "up right"
     ]
   },
   {
@@ -17888,7 +18028,9 @@
       "směr",
       "strany",
       "světové",
-      "východ"
+      "východ",
+      "arrow",
+      "right"
     ]
   },
   {
@@ -17900,7 +18042,9 @@
       "směr",
       "strany",
       "světové",
-      "vedlejší"
+      "vedlejší",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -17912,7 +18056,9 @@
       "šipka dolů",
       "směr",
       "strany",
-      "světové"
+      "světové",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -17924,7 +18070,9 @@
       "směr",
       "strany",
       "světové",
-      "vedlejší"
+      "vedlejší",
+      "arrow",
+      "down left"
     ]
   },
   {
@@ -17936,7 +18084,9 @@
       "směr",
       "strany",
       "světové",
-      "západ"
+      "západ",
+      "arrow",
+      "left"
     ]
   },
   {
@@ -17948,42 +18098,58 @@
       "směr",
       "strany",
       "světové",
-      "vedlejší"
+      "vedlejší",
+      "arrow",
+      "up left"
     ]
   },
   {
     "emoji": "↕️",
     "tags": [
       "šipka",
-      "šipka nahoru a dolů"
+      "šipka nahoru a dolů",
+      "arrow",
+      "up and down",
+      "vertical",
+      "height"
     ]
   },
   {
     "emoji": "↔️",
     "tags": [
       "šipka",
-      "šipka doleva a doprava"
+      "šipka doleva a doprava",
+      "arrow",
+      "left and right",
+      "horizontal",
+      "width"
     ]
   },
   {
     "emoji": "↩️",
     "tags": [
       "šipka",
-      "šipka doprava stáčející se doleva"
+      "šipka doprava stáčející se doleva",
+      "arrow",
+      "return"
     ]
   },
   {
     "emoji": "↪️",
     "tags": [
       "šipka",
-      "šipka doleva stáčející se doprava"
+      "šipka doleva stáčející se doprava",
+      "arrow",
+      "forward"
     ]
   },
   {
     "emoji": "⤴️",
     "tags": [
       "šipka",
-      "šipka doprava stáčející se nahoru"
+      "šipka doprava stáčející se nahoru",
+      "arrow",
+      "up bend"
     ]
   },
   {
@@ -17991,7 +18157,9 @@
     "tags": [
       "dolů",
       "šipka",
-      "šipka doprava stáčející se dolů"
+      "šipka doprava stáčející se dolů",
+      "arrow",
+      "down bend"
     ]
   },
   {
@@ -18064,7 +18232,7 @@
       "arrow",
       "mark",
       "ON! arrow",
-      "on"
+      "zap."
     ]
   },
   {
@@ -18132,7 +18300,10 @@
       "hvězda",
       "náboženství",
       "žid",
-      "židovský"
+      "židovský",
+      "star",
+      "jewish",
+      "start of david"
     ]
   },
   {
@@ -18142,7 +18313,8 @@
       "dharma",
       "kolo",
       "kolo dharmy",
-      "náboženství"
+      "náboženství",
+      "wheel"
     ]
   },
   {
@@ -18153,7 +18325,10 @@
       "jin a jang",
       "náboženství",
       "tao",
-      "taoismus"
+      "taoismus",
+      "yin",
+      "yang",
+      "yin yang"
     ]
   },
   {
@@ -18164,7 +18339,9 @@
       "křesťanství",
       "kříž",
       "latinský kříž",
-      "náboženství"
+      "náboženství",
+      "cross",
+      "christianity"
     ]
   },
   {
@@ -18175,7 +18352,9 @@
       "křesťanství",
       "kříž",
       "náboženství",
-      "pravoslavný kříž"
+      "pravoslavný kříž",
+      "cross",
+      "orthodox cross"
     ]
   },
   {
@@ -18186,14 +18365,18 @@
       "islámský",
       "muslim",
       "muslimský",
-      "náboženství"
+      "náboženství",
+      "star and crescent",
+      "islam"
     ]
   },
   {
     "emoji": "☮️",
     "tags": [
       "mír",
-      "symbol míru"
+      "symbol míru",
+      "peace",
+      "peace sign"
     ]
   },
   {
@@ -18420,7 +18603,12 @@
       "šipka",
       "tlačítko přehrávání",
       "trojúhelník",
-      "vpravo"
+      "vpravo",
+      "play",
+      "go",
+      "play button",
+      "right arrow",
+      "triangle"
     ]
   },
   {
@@ -18484,7 +18672,9 @@
       "tlačítko přehrávání pozpátku",
       "trojúhelník",
       "vlevo",
-      "zpět"
+      "zpět",
+      "left arrow",
+      "triangle"
     ]
   },
   {
@@ -18623,7 +18813,9 @@
     "emoji": "⏏️",
     "tags": [
       "tlačítko vysunutí",
-      "vysunout"
+      "vysunout",
+      "eject",
+      "eject button"
     ]
   },
   {
@@ -18635,7 +18827,7 @@
       "opona",
       "plátno",
       "promítačka",
-      "camera",
+      "fotoaparát",
       "cinema",
       "movie"
     ]
@@ -18685,9 +18877,7 @@
       "antenna",
       "antenna bars",
       "cell",
-      "bar",
-      "mobile",
-      "phone"
+      "bar"
     ]
   },
   {
@@ -18701,8 +18891,6 @@
       "vibrační režim",
       "vibrování",
       "cell",
-      "mobile",
-      "phone",
       "mode",
       "telephone",
       "vibration"
@@ -18717,9 +18905,7 @@
       "vypnuto",
       "vypnutý mobilní telefon",
       "cell",
-      "mobile",
-      "phone",
-      "off",
+      "vyp.",
       "telephone"
     ]
   },
@@ -18740,7 +18926,9 @@
       "součin",
       "x",
       "znak",
-      "zrušení"
+      "zrušení",
+      "stop",
+      "cross"
     ]
   },
   {
@@ -18792,7 +18980,10 @@
       "nekonečno",
       "nekonečnost",
       "neomezenost",
-      "věčnost"
+      "věčnost",
+      "infinity",
+      "infinite",
+      "endless"
     ]
   },
   {
@@ -18814,7 +19005,9 @@
       "interpunkční znaménka",
       "otazník",
       "vykřičník",
-      "vykřičník a otazník"
+      "vykřičník a otazník",
+      "exclamation",
+      "question"
     ]
   },
   {
@@ -18883,7 +19076,10 @@
       "pomlčka",
       "vlnitá",
       "vlny",
-      "znaménka"
+      "znaménka",
+      "wave",
+      "wavey",
+      "wavey dash"
     ]
   },
   {
@@ -18895,7 +19091,10 @@
       "směna",
       "směna peněz",
       "směnárna",
-      "výměna"
+      "výměna",
+      "currency",
+      "exchange",
+      "money"
     ]
   },
   {
@@ -18904,7 +19103,12 @@
       "dolar",
       "měna",
       "peníze",
-      "znak dolaru"
+      "znak dolaru",
+      "money",
+      "dollars",
+      "cash",
+      "usd",
+      "rich"
     ]
   },
   {
@@ -18919,7 +19123,9 @@
     "tags": [
       "erb",
       "heraldická lilie",
-      "lilie"
+      "lilie",
+      "fleur",
+      "fleur-de-lis"
     ]
   },
   {
@@ -19000,7 +19206,11 @@
       "okénko",
       "políčko",
       "zaškrtnuté políčko",
-      "zaškrtnutí"
+      "zaškrtnutí",
+      "check",
+      "check box",
+      "done",
+      "todo"
     ]
   },
   {
@@ -19066,7 +19276,11 @@
       "dvojitá smyčka",
       "dvojitý",
       "smyčka",
-      "spirálka"
+      "spirálka",
+      "loop",
+      "curl",
+      "twist",
+      "double curly loop"
     ]
   },
   {
@@ -19079,7 +19293,8 @@
       "značka přechodu mezi částmi skladby",
       "znak",
       "zpěv",
-      "zpěvák"
+      "zpěvák",
+      "part alternation mark"
     ]
   },
   {
@@ -19104,7 +19319,8 @@
       "*",
       "jiskérka",
       "jiskra",
-      "jiskřička"
+      "jiskřička",
+      "sparkle"
     ]
   },
   {
@@ -19122,7 +19338,9 @@
       "ochranná známka",
       "r",
       "registrováno",
-      "znak registrované ochranné známky"
+      "znak registrované ochranné známky",
+      "registered",
+      "reserved"
     ]
   },
   {
@@ -19238,7 +19456,8 @@
     "tags": [
       "b",
       "krev",
-      "štítek B (krevní skupina)"
+      "štítek B (krevní skupina)",
+      "letter b"
     ]
   },
   {
@@ -19269,7 +19488,8 @@
     "emoji": "ℹ️",
     "tags": [
       "i",
-      "informace"
+      "informace",
+      "letter i"
     ]
   },
   {
@@ -19289,7 +19509,8 @@
       "kroužek",
       "kruh",
       "m",
-      "M v kroužku"
+      "M v kroužku",
+      "m in circle"
     ]
   },
   {
@@ -19332,7 +19553,9 @@
       "parking",
       "parkování",
       "parkoviště",
-      "štítek P"
+      "štítek P",
+      "p",
+      "letter p"
     ]
   },
   {
@@ -19373,7 +19596,7 @@
       "tady",
       "zde",
       "ココ",
-      "“here”",
+      "here",
       "Japanese",
       "Japanese “here” button"
     ]
@@ -19412,7 +19635,7 @@
       "štítek s japonským znakem „není zdarma“",
       "vlastnictví",
       "有",
-      "“not free of charge”",
+      "not free of charge",
       "ideograph",
       "Japanese “not free of charge” button",
       "Japanese"
@@ -19428,7 +19651,7 @@
       "směr",
       "štítek s japonským znakem „rezervováno“",
       "指",
-      "“reserved”",
+      "reserved",
       "ideograph",
       "Japanese “reserved” button",
       "Japanese"
@@ -19444,7 +19667,7 @@
       "výhodná",
       "výhodnost",
       "得",
-      "“bargain”",
+      "bargain",
       "ideograph",
       "Japanese “bargain” button",
       "Japanese"
@@ -19460,7 +19683,7 @@
       "štítek s japonským znakem „sleva“",
       "výprodej",
       "割",
-      "“discount”",
+      "discount",
       "ideograph",
       "Japanese “discount” button",
       "Japanese"
@@ -19475,7 +19698,7 @@
       "štítek s japonským znakem „zdarma“",
       "zdarma",
       "無",
-      "“free of charge”",
+      "free of charge",
       "ideograph",
       "Japanese “free of charge” button",
       "Japanese"
@@ -19489,7 +19712,7 @@
       "štítek s japonským znakem „zákaz“",
       "zakázáno",
       "禁",
-      "“prohibited”",
+      "prohibited",
       "ideograph",
       "Japanese “prohibited” button",
       "Japanese"
@@ -19504,7 +19727,7 @@
       "přijetí",
       "štítek s japonským znakem „přijatelné“",
       "可",
-      "“acceptable”",
+      "acceptable",
       "ideograph",
       "Japanese “acceptable” button",
       "Japanese"
@@ -19520,7 +19743,7 @@
       "přihláška",
       "štítek s japonským znakem „žádost”",
       "申",
-      "“application”",
+      "application",
       "ideograph",
       "Japanese “application” button",
       "Japanese"
@@ -19538,7 +19761,7 @@
       "vyhovující",
       "známka",
       "合",
-      "“passing grade”",
+      "passing grade",
       "ideograph",
       "Japanese “passing grade” button",
       "Japanese"
@@ -19554,7 +19777,7 @@
       "štítek s japonským znakem „volno“",
       "volný",
       "空",
-      "“vacancy”",
+      "vacancy",
       "ideograph",
       "Japanese “vacancy” button",
       "Japanese"
@@ -19569,7 +19792,10 @@
       "japonština",
       "štěstí",
       "štítek s japonským znakem „blahopřání“",
-      "祝"
+      "祝",
+      "congratulations",
+      "ideograph",
+      "japanese"
     ]
   },
   {
@@ -19591,7 +19817,7 @@
       "provozní doba",
       "štítek s japonským znakem „otevřeno“",
       "営",
-      "“open for business”",
+      "open for business",
       "ideograph",
       "Japanese “open for business” button",
       "Japanese"
@@ -19607,7 +19833,7 @@
       "žádná volná",
       "žádné volné",
       "満",
-      "“no vacancy”",
+      "no vacancy",
       "ideograph",
       "Japanese “no vacancy” button",
       "Japanese"
@@ -19706,7 +19932,8 @@
       "kruh",
       "black circle",
       "circle",
-      "geometric"
+      "geometric",
+      "black"
     ]
   },
   {
@@ -19718,7 +19945,8 @@
       "kruh",
       "circle",
       "geometric",
-      "white circle"
+      "white circle",
+      "white"
     ]
   },
   {
@@ -19806,7 +20034,8 @@
       "velký černý čtverec",
       "black large square",
       "geometric",
-      "square"
+      "square",
+      "black"
     ]
   },
   {
@@ -19817,7 +20046,8 @@
       "velký bílý čtverec",
       "geometric",
       "square",
-      "white large square"
+      "white large square",
+      "white"
     ]
   },
   {
@@ -19833,7 +20063,11 @@
     "tags": [
       "čtverec",
       "geometrie",
-      "střední bílý čtverec"
+      "střední bílý čtverec",
+      "geometric",
+      "square",
+      "white medium square",
+      "white"
     ]
   },
   {
@@ -19973,7 +20207,10 @@
       "přepínač",
       "přepínací",
       "rádio",
-      "tlačítko"
+      "tlačítko",
+      "button",
+      "radio button",
+      "circle"
     ]
   },
   {
@@ -19999,7 +20236,11 @@
       "čtvercové",
       "čtverec",
       "geometrie",
-      "tlačítko"
+      "tlačítko",
+      "button",
+      "geometric",
+      "square",
+      "outlined"
     ]
   },
   {
@@ -20074,7 +20315,19 @@
       "vlajka",
       "pride",
       "rainbow",
-      "rainbow flag"
+      "rainbow flag",
+      "lgbtqia",
+      "lgbt",
+      "lgbtqa",
+      "queer",
+      "gay",
+      "lesbian",
+      "intersex",
+      "bisexual",
+      "transgender",
+      "trans",
+      "asexual",
+      "questioning"
     ]
   },
   {
@@ -20090,6 +20343,181 @@
       "plunder",
       "pirate flag",
       "treasure"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "tags": [
+      "obličej",
+      "frown",
+      "sad",
+      "slightly frowning face"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "death",
+      "skull",
+      "crossbones",
+      "skull and crossbones",
+      "bones",
+      "dead"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "tags": [
+      "heart",
+      "red heart"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "heart suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "🗨️",
+    "tags": [
+      "balloon",
+      "bubble",
+      "dialog",
+      "comic",
+      "speech"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "snow",
+      "snowflake",
+      "cold",
+      "ice"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "tags": [
+      "telefon",
+      "telephone"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "pencil"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "alembic",
+      "science",
+      "chemistry"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "atom"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "asterisk",
+      "eight spoke"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "star",
+      "eight pointed"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "!",
+      "exclamation",
+      "double exclamation"
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "tags": [
+      "recyce",
+      "reuse",
+      "green"
+    ]
+  },
+  {
+    "emoji": "🅰️",
+    "tags": [
+      "a",
+      "letter a"
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "tags": [
+      "o",
+      "letter o"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "service charger",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "monthly amount",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "secret",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "tags": [
+      "black small square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "tags": [
+      "black medium square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "geometric",
+      "square",
+      "white small square",
+      "white"
     ]
   },
   {

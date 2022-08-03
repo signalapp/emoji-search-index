@@ -508,11 +508,12 @@
   {
     "emoji": "🥴",
     "tags": [
-      "dizzy",
-      "intoxicated",
-      "tipsy",
-      "uneven eyes",
-      "wavy mouth",
+      "amahlo angalingani",
+      "ikanda",
+      "ubuso obutsekile",
+      "ukubadizi",
+      "ukudakwa",
+      "umlomo odiniwe",
       "woozy face"
     ]
   },
@@ -1212,6 +1213,7 @@
   {
     "emoji": "💙",
     "tags": [
+      "blue heart",
       "inhliziyo",
       "inhliziyo eluhlaza sasibhakabhaka",
       "luhlaza sasibhakabhaka"
@@ -4063,9 +4065,10 @@
   {
     "emoji": "🦝",
     "tags": [
-      "curious",
+      "i-raccoon",
       "raccoon",
-      "sly"
+      "ubuqili",
+      "ukufuna ukwazi"
     ]
   },
   {
@@ -4262,11 +4265,12 @@
   {
     "emoji": "🦙",
     "tags": [
-      "alpaca",
-      "guanaco",
-      "llama",
-      "vicuña",
-      "wool"
+      "i-alpaca",
+      "i-guanoco",
+      "i-llama",
+      "i-vicuña",
+      "iwulu",
+      "llama"
     ]
   },
   {
@@ -4285,11 +4289,12 @@
   {
     "emoji": "🦣",
     "tags": [
-      "extinction",
-      "large",
+      "imammoth",
       "mammoth",
-      "tusk",
-      "woolly"
+      "uboya",
+      "ubukhulu",
+      "ukushabalala",
+      "umboko"
     ]
   },
   {
@@ -4436,8 +4441,9 @@
     "emoji": "🦡",
     "tags": [
       "badger",
-      "honey badger",
-      "pester"
+      "i-badger",
+      "i-pester",
+      "iluju lwe badger"
     ]
   },
   {
@@ -4548,9 +4554,10 @@
     "emoji": "🦤",
     "tags": [
       "dodo",
-      "extinction",
-      "large",
-      "Mauritius"
+      "i-Mauritius",
+      "ubukhulu",
+      "udodo",
+      "ukushabalala"
     ]
   },
   {
@@ -4843,10 +4850,10 @@
   {
     "emoji": "🦠",
     "tags": [
-      "amoeba",
-      "bacteria",
-      "microbe",
-      "virus"
+      "i-amoeba",
+      "i-microbe",
+      "igqiwane",
+      "microbe"
     ]
   },
   {
@@ -5585,9 +5592,10 @@
   {
     "emoji": "🧂",
     "tags": [
-      "condiment",
+      "i-condiment",
+      "i-shaker",
       "salt",
-      "shaker"
+      "usawothi"
     ]
   },
   {
@@ -7329,9 +7337,9 @@
       "00",
       "12",
       "12:00",
-      "clock",
-      "o’clock",
-      "twelve"
+      "ihora",
+      "shumi nambili",
+      "twelve o’clock"
     ]
   },
   {
@@ -7352,9 +7360,9 @@
       "00",
       "1",
       "1:00",
-      "clock",
-      "o’clock",
-      "one"
+      "ihora",
+      "lokuqala",
+      "one o’clock"
     ]
   },
   {
@@ -7364,6 +7372,7 @@
       "1:30",
       "30",
       "clock",
+      "elilodwa nengxenye",
       "one",
       "one-thirty",
       "thirty"
@@ -7375,9 +7384,9 @@
       "00",
       "2",
       "2:00",
-      "clock",
-      "o’clock",
-      "two"
+      "amabili",
+      "ihora",
+      "two o’clock"
     ]
   },
   {
@@ -7398,9 +7407,9 @@
       "00",
       "3",
       "3:00",
-      "clock",
-      "o’clock",
-      "three"
+      "amathathu",
+      "ihora",
+      "three o’clock"
     ]
   },
   {
@@ -7421,9 +7430,9 @@
       "00",
       "4",
       "4:00",
-      "clock",
-      "four",
-      "o’clock"
+      "four o’clock",
+      "ihora",
+      "lesine"
     ]
   },
   {
@@ -7435,6 +7444,7 @@
       "clock",
       "four",
       "four-thirty",
+      "ihora lesine nengxenye",
       "thirty"
     ]
   },
@@ -7444,9 +7454,9 @@
       "00",
       "5",
       "5:00",
-      "clock",
-      "five",
-      "o’clock"
+      "five o’clock",
+      "ihora",
+      "lesihlanu’ ihora"
     ]
   },
   {
@@ -7467,9 +7477,9 @@
       "00",
       "6",
       "6:00",
-      "clock",
-      "o’clock",
-      "six"
+      "ihora",
+      "lesithupha",
+      "six o’clock"
     ]
   },
   {
@@ -7490,9 +7500,9 @@
       "00",
       "7",
       "7:00",
-      "clock",
-      "o’clock",
-      "seven"
+      "ihora",
+      "lesikhombisa",
+      "seven o’clock"
     ]
   },
   {
@@ -7513,9 +7523,9 @@
       "00",
       "8",
       "8:00",
-      "clock",
-      "eight",
-      "o’clock"
+      "eight o’clock",
+      "ihora",
+      "isishiyagalo mbilieight"
     ]
   },
   {
@@ -7536,9 +7546,9 @@
       "00",
       "9",
       "9:00",
-      "clock",
-      "nine",
-      "o’clock"
+      "ihora",
+      "isishiyagalo lunyenine",
+      "nine o’clock"
     ]
   },
   {
@@ -7559,9 +7569,9 @@
       "00",
       "10",
       "10:00",
-      "clock",
-      "o’clock",
-      "ten"
+      "ihora",
+      "leshumi",
+      "ten o’clock"
     ]
   },
   {
@@ -7582,9 +7592,9 @@
       "00",
       "11",
       "11:00",
-      "clock",
-      "eleven",
-      "o’clock"
+      "eleven o’clock",
+      "ihora",
+      "leshumi nanye"
     ]
   },
   {
@@ -8622,6 +8632,15 @@
     ]
   },
   {
+    "emoji": "🪆",
+    "tags": [
+      "doll",
+      "nesting",
+      "nesting dolls",
+      "russia"
+    ]
+  },
+  {
     "emoji": "♠️",
     "tags": [
       "ikhadi",
@@ -8732,6 +8751,7 @@
     "emoji": "🪡",
     "tags": [
       "inaliti",
+      "inaliti yokuthunga",
       "izihlungo",
       "izitishi",
       "ukufeketha",
@@ -10992,7 +11012,8 @@
   {
     "emoji": "🛃",
     "tags": [
-      "customs"
+      "customs",
+      "imikhuba"
     ]
   },
   {

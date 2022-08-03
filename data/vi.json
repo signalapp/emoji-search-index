@@ -36,7 +36,8 @@
       "miệng",
       "mở",
       "mặt cười toét miệng với đôi mắt cười",
-      "mỉm cười"
+      "mỉm cười",
+      "hạnh phúc"
     ]
   },
   {
@@ -77,7 +78,6 @@
       "mặt cười miệng há mồ hôi",
       "mở",
       "mồ hôi",
-      "lạnh lùng",
       "mặt cười toe toét với mồ hôi",
       "mỉm cười",
       "cười to",
@@ -236,7 +236,9 @@
       "cười",
       "mặt",
       "thoải mái",
-      "thư giãn"
+      "thư giãn",
+      "khuôn mặt hơi mỉm cười",
+      "mỉm cười"
     ]
   },
   {
@@ -1317,7 +1319,7 @@
       "mặt mèo cười mắt hình trái tim",
       "nụ cười",
       "thân ái",
-      "trái tim",
+      "heart eyes",
       "mặt",
       "yêu",
       "cười",
@@ -1452,6 +1454,7 @@
       "thư tình",
       "trái tim",
       "yêu",
+      "heart letter",
       "phong thư"
     ]
   },
@@ -1537,7 +1540,10 @@
       "cảm thán",
       "chấm câu",
       "dấu",
-      "dấu chấm than hình trái tim đậm"
+      "dấu chấm than hình trái tim đậm",
+      "heart exclamation",
+      "heart drop",
+      "exclamation"
     ]
   },
   {
@@ -1547,7 +1553,7 @@
       "trái tim tan vỡ",
       "vỡ",
       "break",
-      "broken"
+      "heart break"
     ]
   },
   {
@@ -1561,8 +1567,9 @@
       "trái tim bốc lửa",
       "trái tim linh thiêng",
       "burn",
-      "yêu",
+      "burning heart",
       "trái tim trên lửa",
+      "yêu",
       "lust",
       "trái tim sợ hãi"
     ]
@@ -1577,12 +1584,13 @@
       "phục hồi",
       "trái tim đang lành",
       "healthier",
-      "improving",
       "hàn gắn trái tim",
+      "heart mending",
       "mending",
       "recovering",
       "recuperating",
-      "well"
+      "well",
+      "improving"
     ]
   },
   {
@@ -1597,14 +1605,16 @@
     "tags": [
       "màu cam",
       "trái tim màu cam",
-      "orange"
+      "orange",
+      "heart orange"
     ]
   },
   {
     "emoji": "💛",
     "tags": [
       "màu vàng",
-      "trái tim màu vàng"
+      "trái tim màu vàng",
+      "heart yellow"
     ]
   },
   {
@@ -1613,7 +1623,8 @@
       "màu lục",
       "trái tim màu lục",
       "green",
-      "trái tim màu xanh lá cây"
+      "trái tim màu xanh lá cây",
+      "heart green"
     ]
   },
   {
@@ -1622,7 +1633,8 @@
       "màu lam",
       "trái tim màu lam",
       "màu xanh lam",
-      "trái tim màu xanh da trời"
+      "trái tim màu xanh da trời",
+      "heart blue"
     ]
   },
   {
@@ -1631,7 +1643,8 @@
       "tím",
       "trái tim tím",
       "purple",
-      "trái tim màu tím"
+      "trái tim màu tím",
+      "heart purple"
     ]
   },
   {
@@ -1640,7 +1653,9 @@
       "màu nâu",
       "trái tim",
       "trái tim màu nâu",
-      "brown"
+      "brown",
+      "brownheart",
+      "heart brown"
     ]
   },
   {
@@ -1652,6 +1667,7 @@
       "xấu",
       "black",
       "trái tim màu đen",
+      "heart black",
       "wicked",
       "tà ác"
     ]
@@ -1662,7 +1678,9 @@
       "màu trắng",
       "trái tim",
       "trái tim màu trắng",
-      "white"
+      "white",
+      "white heart",
+      "heart white"
     ]
   },
   {
@@ -1765,7 +1783,8 @@
       "bubble",
       "dialog",
       "comic",
-      "speech"
+      "speech",
+      "typing"
     ]
   },
   {
@@ -1823,7 +1842,12 @@
       "vẫy",
       "hand",
       "wave",
-      "waving"
+      "waving",
+      "hi",
+      "hey",
+      "hello",
+      "bye",
+      "goodbye"
     ]
   },
   {
@@ -1858,7 +1882,8 @@
       "hand",
       "high 5",
       "raised hand",
-      "high five"
+      "high five",
+      "hifive"
     ]
   },
   {
@@ -2271,7 +2296,7 @@
       "máy ảnh",
       "tự sướng",
       "camera",
-      "phone",
+      "số điện thoại",
       "selfie"
     ]
   },
@@ -2735,7 +2760,8 @@
       "person gesturing NO",
       "hand",
       "prohibited",
-      "X"
+      "X",
+      "no"
     ]
   },
   {
@@ -2754,7 +2780,7 @@
       "người đàn ông ra hiệu NO",
       "prohibited",
       "X",
-      "male"
+      "no"
     ]
   },
   {
@@ -2773,7 +2799,7 @@
       "phụ nữ",
       "người phụ nữ ra hiệu NO",
       "X",
-      "female"
+      "no"
     ]
   },
   {
@@ -2879,8 +2905,10 @@
       "gesture",
       "hand",
       "person raising hand",
-      "hạnh phúc",
-      "raised"
+      "raised",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -2895,7 +2923,10 @@
       "đàn ông",
       "raising hand",
       "người đàn ông giơ tay",
-      "male"
+      "male",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -2909,7 +2940,10 @@
       "raising hand",
       "người phụ nữ giơ tay",
       "phụ nữ",
-      "female"
+      "female",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3691,8 +3725,7 @@
     "tags": [
       "máy bay",
       "phi công",
-      "pilot",
-      "plane"
+      "pilot"
     ]
   },
   {
@@ -3702,10 +3735,9 @@
       "nam",
       "phi công",
       "phi công nam",
-      "đàn ông",
       "pilot",
       "male",
-      "plane"
+      "đàn ông"
     ]
   },
   {
@@ -3716,7 +3748,6 @@
       "phi công",
       "phi công nữ",
       "pilot",
-      "plane",
       "female",
       "phụ nữ"
     ]
@@ -4961,7 +4992,8 @@
       "phòng xông hơi",
       "person in steamy room",
       "sauna",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -4973,7 +5005,8 @@
       "người đàn ông trong phòng xông hơi",
       "sauna",
       "male",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -4985,7 +5018,8 @@
       "sauna",
       "steam room",
       "female",
-      "người phụ nữ trong căn phòng xông hơi"
+      "người phụ nữ trong căn phòng xông hơi",
+      "spa"
     ]
   },
   {
@@ -5151,7 +5185,8 @@
       "bơi",
       "người bơi",
       "person swimming",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -5162,7 +5197,8 @@
       "người đàn ông đang bơi",
       "đàn ông",
       "male",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -5172,7 +5208,8 @@
       "người phụ nữ đang bơi",
       "phụ nữ",
       "swim",
-      "female"
+      "female",
+      "swimmer"
     ]
   },
   {
@@ -7106,7 +7143,12 @@
     "emoji": "☘️",
     "tags": [
       "cỏ ba lá",
-      "thực vật"
+      "thực vật",
+      "clover",
+      "shamrock",
+      "three-leaf clover",
+      "three",
+      "leaf"
     ]
   },
   {
@@ -8986,7 +9028,6 @@
     "tags": [
       "ngôi nhà",
       "nhà",
-      "home",
       "house"
     ]
   },
@@ -8998,7 +9039,6 @@
       "nhà có vườn",
       "vườn",
       "garden",
-      "home",
       "house with garden",
       "house"
     ]
@@ -9341,7 +9381,8 @@
       "hơi nước",
       "nóng",
       "suối",
-      "suối nước nóng"
+      "suối nước nóng",
+      "hot springs"
     ]
   },
   {
@@ -9424,7 +9465,7 @@
       "tàu hỏa",
       "toa tàu",
       "xe hơi",
-      "car",
+      "train car",
       "electric",
       "train",
       "railway",
@@ -9527,7 +9568,7 @@
       "đường sắt",
       "núi",
       "toa xe",
-      "car",
+      "train car",
       "mountain",
       "railway"
     ]
@@ -9539,7 +9580,7 @@
       "tàu điện",
       "toa xe",
       "xe điện",
-      "car",
+      "train car",
       "tram",
       "trolleybus"
     ]
@@ -9748,7 +9789,8 @@
       "mô tơ",
       "xe tay ga",
       "motor",
-      "scooter"
+      "scooter",
+      "moped"
     ]
   },
   {
@@ -9758,7 +9800,8 @@
       "trợ năng",
       "xe lăn tay",
       "accessibility",
-      "xe lăn bằng tay"
+      "xe lăn bằng tay",
+      "wheelchair"
     ]
   },
   {
@@ -9768,7 +9811,8 @@
       "trợ năng",
       "xe lăn tự động",
       "accessibility",
-      "motorized wheelchair"
+      "motorized wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -9883,12 +9927,11 @@
       "quay vòng",
       "xe hơi",
       "beacon",
-      "car",
       "police",
       "light",
       "revolving",
-      "alert",
       "alarm",
+      "alert",
       "emergency",
       "siren"
     ]
@@ -9903,7 +9946,8 @@
       "horizontal traffic light",
       "light",
       "traffic",
-      "signal"
+      "signal",
+      "stoplight"
     ]
   },
   {
@@ -9916,7 +9960,8 @@
       "light",
       "signal",
       "vertical traffic light",
-      "traffic"
+      "traffic",
+      "stoplight"
     ]
   },
   {
@@ -10030,7 +10075,11 @@
     "emoji": "✈️",
     "tags": [
       "máy bay",
-      "xe cộ"
+      "xe cộ",
+      "aeroplane",
+      "airplane",
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -10041,7 +10090,8 @@
       "xe cộ",
       "aeroplane",
       "airplane",
-      "small airplane"
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -10057,7 +10107,8 @@
       "airplane",
       "departure",
       "check-in",
-      "departures"
+      "departures",
+      "plane"
     ]
   },
   {
@@ -10073,7 +10124,8 @@
       "arrivals",
       "airplane arrival",
       "arriving",
-      "landing"
+      "landing",
+      "plane"
     ]
   },
   {
@@ -10767,7 +10819,8 @@
       "mặt trời",
       "nắng",
       "sáng",
-      "tia"
+      "tia",
+      "sáng chói"
     ]
   },
   {
@@ -10843,14 +10896,16 @@
       "dải ngân hà",
       "vũ trụ",
       "milky way",
-      "space"
+      "space",
+      "galaxy"
     ]
   },
   {
     "emoji": "☁️",
     "tags": [
       "đám mây",
-      "thời tiết"
+      "thời tiết",
+      "cloud"
     ]
   },
   {
@@ -10995,7 +11050,18 @@
       "cầu vồng",
       "mưa",
       "rain",
-      "rainbow"
+      "rainbow",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "pride",
+      "gay",
+      "lesbian",
+      "queer",
+      "transgender",
+      "trans",
+      "intersex",
+      "asexual"
     ]
   },
   {
@@ -11016,7 +11082,9 @@
     "tags": [
       "cái ô",
       "mưa",
-      "quần áo"
+      "quần áo",
+      "umbrella",
+      "rain"
     ]
   },
   {
@@ -11075,7 +11143,9 @@
     "tags": [
       "lạnh",
       "người tuyết",
-      "tuyết"
+      "tuyết",
+      "lạnh lùng",
+      "snow"
     ]
   },
   {
@@ -11347,7 +11417,8 @@
     "tags": [
       "lễ kỷ niệm",
       "ruy băng",
-      "ăn mừng"
+      "ăn mừng",
+      "bow"
     ]
   },
   {
@@ -11930,7 +12001,9 @@
       "trò chơi",
       "game",
       "slot",
-      "slot machine"
+      "slot machine",
+      "gambling",
+      "casino"
     ]
   },
   {
@@ -11993,7 +12066,8 @@
       "doll",
       "nesting",
       "russia",
-      "nesting dolls"
+      "nesting dolls",
+      "matryoshka"
     ]
   },
   {
@@ -12002,7 +12076,9 @@
       "bài",
       "bộ bài bích",
       "bộ bích",
-      "trò chơi"
+      "trò chơi",
+      "spade suit",
+      "card suit"
     ]
   },
   {
@@ -12020,7 +12096,9 @@
       "bài",
       "bộ bài rô",
       "bộ rô",
-      "trò chơi"
+      "trò chơi",
+      "diamond suit",
+      "card suit"
     ]
   },
   {
@@ -12029,7 +12107,9 @@
       "bài",
       "bộ bài nhép",
       "bộ nhép",
-      "trò chơi"
+      "trò chơi",
+      "club suit",
+      "card suit"
     ]
   },
   {
@@ -12305,7 +12385,8 @@
       "găng tay",
       "tay",
       "gloves",
-      "hand"
+      "hand",
+      "mittens"
     ]
   },
   {
@@ -12753,7 +12834,6 @@
       "không ồn ào",
       "tắt loa",
       "tắt tiếng",
-      "mute",
       "muted speaker",
       "lặng thinh",
       "speaker",
@@ -12824,7 +12904,8 @@
     "emoji": "🔔",
     "tags": [
       "cái chuông",
-      "bell"
+      "bell",
+      "ring"
     ]
   },
   {
@@ -12837,7 +12918,6 @@
       "tắt tiếng",
       "bell",
       "bell with slash",
-      "mute",
       "ngăn cấm",
       "lặng thinh"
     ]
@@ -13050,9 +13130,9 @@
       "điện thoại",
       "điện thoại di động",
       "cell",
-      "mobile",
       "telephone",
-      "phone"
+      "số điện thoại",
+      "smartphone"
     ]
   },
   {
@@ -13066,9 +13146,9 @@
       "nhận",
       "cell",
       "mobile phone with arrow",
-      "mobile",
-      "phone",
-      "receive"
+      "số điện thoại",
+      "receive",
+      "smartphone"
     ]
   },
   {
@@ -13084,7 +13164,7 @@
       "điện thoại",
       "ống nghe",
       "ống nghe điện thoại bàn",
-      "phone",
+      "số điện thoại",
       "receiver",
       "telephone"
     ]
@@ -13093,7 +13173,8 @@
     "emoji": "📟",
     "tags": [
       "máy nhắn tin",
-      "pager"
+      "pager",
+      "beeper"
     ]
   },
   {
@@ -13139,7 +13220,9 @@
       "máy tính",
       "máy tính để bàn",
       "máy vi tính",
-      "desktop"
+      "desktop",
+      "monitor",
+      "screen"
     ]
   },
   {
@@ -13155,7 +13238,9 @@
     "emoji": "⌨️",
     "tags": [
       "bàn phím",
-      "máy tính"
+      "máy tính",
+      "keyboard",
+      "computer keyboard"
     ]
   },
   {
@@ -13346,7 +13431,6 @@
       "tìm kiếm",
       "glass",
       "magnifying",
-      "search",
       "magnifying glass tilted left",
       "tool"
     ]
@@ -13359,7 +13443,11 @@
       "kính lúp nghiêng sang phải",
       "kính phóng đại nghiêng sang phải",
       "phóng đại",
-      "tìm kiếm"
+      "tìm kiếm",
+      "glass",
+      "magnifying",
+      "magnifying glass tilted right",
+      "tool"
     ]
   },
   {
@@ -13596,7 +13684,8 @@
     "emoji": "🏷️",
     "tags": [
       "nhãn",
-      "label"
+      "label",
+      "tag"
     ]
   },
   {
@@ -13751,7 +13840,9 @@
     "tags": [
       "email",
       "phong bì",
-      "thư"
+      "thư",
+      "envelope",
+      "phong thư"
     ]
   },
   {
@@ -13919,7 +14010,10 @@
     "tags": [
       "bút",
       "ngòi",
-      "ngòi bút đen"
+      "ngòi bút đen",
+      "pen",
+      "pen nib",
+      "nib"
     ]
   },
   {
@@ -13962,7 +14056,10 @@
       "bút chì",
       "sổ ghi nhớ",
       "memo",
-      "pencil"
+      "pencil",
+      "pencil and paper",
+      "paper",
+      "write"
     ]
   },
   {
@@ -14177,7 +14274,9 @@
     "tags": [
       "cắt",
       "dụng cụ",
-      "kéo"
+      "kéo",
+      "scissors",
+      "cut"
     ]
   },
   {
@@ -14207,7 +14306,9 @@
     "emoji": "🗑️",
     "tags": [
       "sọt rác",
-      "wastebasket"
+      "wastebasket",
+      "trash",
+      "can"
     ]
   },
   {
@@ -14215,7 +14316,9 @@
     "tags": [
       "đóng",
       "khóa",
-      "locked"
+      "locked",
+      "lock",
+      "padlock"
     ]
   },
   {
@@ -14225,7 +14328,8 @@
       "mở",
       "lock",
       "unlocked",
-      "unlock"
+      "unlock",
+      "padlock"
     ]
   },
   {
@@ -14242,7 +14346,8 @@
       "nib",
       "locked with pen",
       "pen",
-      "privacy"
+      "privacy",
+      "padlock"
     ]
   },
   {
@@ -14256,7 +14361,8 @@
       "key",
       "locked with key",
       "lock",
-      "secure"
+      "secure",
+      "padlock"
     ]
   },
   {
@@ -14326,7 +14432,9 @@
       "búa",
       "búa chim",
       "búa và búa chim",
-      "dụng cụ"
+      "dụng cụ",
+      "hammer",
+      "pick"
     ]
   },
   {
@@ -14361,7 +14469,10 @@
       "bắt chéo",
       "kiếm",
       "kiếm bắt chéo",
-      "vũ khí"
+      "vũ khí",
+      "sword",
+      "fencing",
+      "crossed swords"
     ]
   },
   {
@@ -14474,7 +14585,10 @@
     "emoji": "⚙️",
     "tags": [
       "bánh răng",
-      "dụng cụ"
+      "dụng cụ",
+      "gear",
+      "cog",
+      "machine"
     ]
   },
   {
@@ -14498,7 +14612,10 @@
       "công lý",
       "cung hoàng đạo",
       "thăng bằng",
-      "Thiên Bình"
+      "Thiên Bình",
+      "scale",
+      "balance",
+      "law"
     ]
   },
   {
@@ -14737,9 +14854,9 @@
       "ống nghe",
       "tim",
       "y tế",
-      "trái tim",
       "stethoscope",
-      "medicine"
+      "medicine",
+      "listen"
     ]
   },
   {
@@ -15049,14 +15166,18 @@
       "hút thuốc",
       "thuốc lá",
       "cigarette",
-      "smoking"
+      "smoking",
+      "tobacco"
     ]
   },
   {
     "emoji": "⚰️",
     "tags": [
       "cái chết",
-      "quan tài"
+      "quan tài",
+      "coffin",
+      "casket",
+      "funeral"
     ]
   },
   {
@@ -15070,7 +15191,8 @@
       "grave",
       "headstone",
       "graveyard",
-      "tombstone"
+      "tombstone",
+      "gravestone"
     ]
   },
   {
@@ -15079,7 +15201,9 @@
       "bình đựng di cốt",
       "bình đựng tro cốt",
       "cái chết",
-      "tang lễ"
+      "tang lễ",
+      "funeral",
+      "urn"
     ]
   },
   {
@@ -15261,7 +15385,11 @@
   {
     "emoji": "⚠️",
     "tags": [
-      "cảnh báo"
+      "cảnh báo",
+      "caution",
+      "warning",
+      "alert",
+      "danger"
     ]
   },
   {
@@ -15398,9 +15526,8 @@
       "cell",
       "ngăn cấm",
       "no",
-      "mobile",
       "no mobile phones",
-      "phone"
+      "số điện thoại"
     ]
   },
   {
@@ -15423,14 +15550,22 @@
     "emoji": "☢️",
     "tags": [
       "ký hiệu",
-      "phóng xạ"
+      "phóng xạ",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
     "emoji": "☣️",
     "tags": [
       "ký hiệu",
-      "nguy hiểm sinh học"
+      "nguy hiểm sinh học",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -15440,7 +15575,8 @@
       "chính",
       "hướng",
       "mũi tên",
-      "mũi tên lên"
+      "mũi tên lên",
+      "up"
     ]
   },
   {
@@ -15450,7 +15586,8 @@
       "hướng",
       "mũi tên",
       "mũi tên lên bên phải",
-      "nhiều hướng"
+      "nhiều hướng",
+      "up right"
     ]
   },
   {
@@ -15460,7 +15597,8 @@
       "đông",
       "hướng",
       "mũi tên",
-      "mũi tên phải"
+      "mũi tên phải",
+      "right"
     ]
   },
   {
@@ -15470,7 +15608,8 @@
       "hướng",
       "mũi tên",
       "mũi tên xuống bên phải",
-      "nhiều hướng"
+      "nhiều hướng",
+      "down right"
     ]
   },
   {
@@ -15481,7 +15620,8 @@
       "mũi tên",
       "mũi tên xuống",
       "nam",
-      "xuống"
+      "xuống",
+      "down right"
     ]
   },
   {
@@ -15491,7 +15631,8 @@
       "mũi tên",
       "mũi tên xuống bên trái",
       "nhiều hướng",
-      "tây nam"
+      "tây nam",
+      "down left"
     ]
   },
   {
@@ -15501,7 +15642,8 @@
       "chính",
       "mũi tên",
       "mũi tên trái",
-      "tây"
+      "tây",
+      "left"
     ]
   },
   {
@@ -15511,42 +15653,52 @@
       "mũi tên",
       "mũi tên lên bên trái",
       "nhiều hướng",
-      "tây bắc"
+      "tây bắc",
+      "up left"
     ]
   },
   {
     "emoji": "↕️",
     "tags": [
       "mũi tên",
-      "mũi tên lên xuống"
+      "mũi tên lên xuống",
+      "up and down",
+      "vertical",
+      "height"
     ]
   },
   {
     "emoji": "↔️",
     "tags": [
       "mũi tên",
-      "mũi tên trái phải"
+      "mũi tên trái phải",
+      "left and right",
+      "horizontal",
+      "width"
     ]
   },
   {
     "emoji": "↩️",
     "tags": [
       "mũi tên",
-      "mũi tên phải cong sang trái"
+      "mũi tên phải cong sang trái",
+      "return"
     ]
   },
   {
     "emoji": "↪️",
     "tags": [
       "mũi tên",
-      "mũi tên trái cong sang phải"
+      "mũi tên trái cong sang phải",
+      "forward"
     ]
   },
   {
     "emoji": "⤴️",
     "tags": [
       "mũi tên",
-      "mũi tên phải cong lên"
+      "mũi tên phải cong lên",
+      "up bend"
     ]
   },
   {
@@ -15554,7 +15706,8 @@
     "tags": [
       "mũi tên",
       "mũi tên phải cong xuống",
-      "xuống"
+      "xuống",
+      "down bend"
     ]
   },
   {
@@ -15607,7 +15760,8 @@
       "mũi tên ON!",
       "on",
       "mark",
-      "ON! arrow"
+      "ON! arrow",
+      "bật"
     ]
   },
   {
@@ -15668,7 +15822,9 @@
       "ngôi sao",
       "ngôi sao sáu cánh",
       "người do thái",
-      "tôn giáo"
+      "tôn giáo",
+      "jewish",
+      "start of david"
     ]
   },
   {
@@ -15678,7 +15834,9 @@
       "pháp",
       "pháp luân",
       "phật giáo",
-      "tôn giáo"
+      "tôn giáo",
+      "wheel",
+      "dharma"
     ]
   },
   {
@@ -15688,7 +15846,10 @@
       "đạo",
       "dương",
       "người theo đạo",
-      "tôn giáo"
+      "tôn giáo",
+      "yin",
+      "yang",
+      "yin yang"
     ]
   },
   {
@@ -15697,7 +15858,9 @@
       "chữ thập",
       "cơ đốc",
       "thánh giá la-tinh",
-      "tôn giáo"
+      "tôn giáo",
+      "cross",
+      "christianity"
     ]
   },
   {
@@ -15706,7 +15869,9 @@
       "cơ đốc",
       "thập giá",
       "thập giá chính thống giáo",
-      "tôn giáo"
+      "tôn giáo",
+      "cross",
+      "orthodox cross"
     ]
   },
   {
@@ -15715,14 +15880,18 @@
       "hồi giáo",
       "người theo đạo hồi",
       "sao và trăng lưỡi liềm",
-      "tôn giáo"
+      "tôn giáo",
+      "star and crescent",
+      "islam"
     ]
   },
   {
     "emoji": "☮️",
     "tags": [
       "biểu tượng hòa bình",
-      "hòa bình"
+      "hòa bình",
+      "peace",
+      "peace sign"
     ]
   },
   {
@@ -15944,7 +16113,12 @@
       "mũi tên",
       "nút phát",
       "phát",
-      "tam giác"
+      "tam giác",
+      "play",
+      "go",
+      "play button",
+      "right arrow",
+      "triangle"
     ]
   },
   {
@@ -15998,7 +16172,9 @@
       "nút tua lại",
       "tam giác",
       "trái",
-      "tua lại"
+      "tua lại",
+      "left arrow",
+      "triangle"
     ]
   },
   {
@@ -16117,7 +16293,9 @@
     "emoji": "⏏️",
     "tags": [
       "nút tháo",
-      "tháo"
+      "tháo",
+      "eject",
+      "eject button"
     ]
   },
   {
@@ -16168,8 +16346,7 @@
       "antenna bars",
       "cell",
       "bar",
-      "mobile",
-      "phone"
+      "số điện thoại"
     ]
   },
   {
@@ -16182,8 +16359,7 @@
       "điện thoại di động",
       "rung",
       "cell",
-      "mobile",
-      "phone",
+      "số điện thoại",
       "mode",
       "telephone",
       "vibration"
@@ -16197,9 +16373,7 @@
       "tắt",
       "tắt điện thoại di động",
       "cell",
-      "mobile",
-      "phone",
-      "off",
+      "số điện thoại",
       "telephone"
     ]
   },
@@ -16219,7 +16393,9 @@
       "dấu",
       "hủy",
       "nhân",
-      "x"
+      "x",
+      "stop",
+      "cross"
     ]
   },
   {
@@ -16266,7 +16442,10 @@
       "mãi mãi",
       "toàn cầu",
       "vô cực",
-      "vô tận"
+      "vô tận",
+      "infinity",
+      "infinite",
+      "endless"
     ]
   },
   {
@@ -16285,7 +16464,10 @@
       "chấm hỏi",
       "chấm than",
       "dấu",
-      "dấu chấm than và dấu chấm hỏi"
+      "dấu chấm than và dấu chấm hỏi",
+      "!?",
+      "exclamation",
+      "question"
     ]
   },
   {
@@ -16355,7 +16537,10 @@
       "dấu",
       "dấu gạch ngang",
       "dấu gạch ngang lượn sóng",
-      "lượn sóng"
+      "lượn sóng",
+      "wave",
+      "wavey",
+      "wavey dash"
     ]
   },
   {
@@ -16364,7 +16549,9 @@
       "đổi tiền",
       "ngân hàng",
       "tiền",
-      "tiền tệ"
+      "tiền tệ",
+      "currency",
+      "exchange"
     ]
   },
   {
@@ -16373,7 +16560,11 @@
       "đô la",
       "ký hiệu đô la đậm",
       "tiền",
-      "tiền tệ"
+      "tiền tệ",
+      "dollars",
+      "cash",
+      "usd",
+      "rich"
     ]
   },
   {
@@ -16387,7 +16578,9 @@
     "emoji": "⚜️",
     "tags": [
       "hoa bách hợp",
-      "hoa diên vĩ"
+      "hoa diên vĩ",
+      "fleur",
+      "fleur-de-lis"
     ]
   },
   {
@@ -16463,7 +16656,11 @@
       "✓",
       "chọn",
       "hộp",
-      "hộp kiểm có dấu chọn"
+      "hộp kiểm có dấu chọn",
+      "check",
+      "check box",
+      "done",
+      "todo"
     ]
   },
   {
@@ -16524,7 +16721,11 @@
       "cong",
       "kép",
       "vòng lặp",
-      "vòng lặp đôi"
+      "vòng lặp đôi",
+      "loop",
+      "curl",
+      "twist",
+      "double curly loop"
     ]
   },
   {
@@ -16532,7 +16733,8 @@
     "tags": [
       "ký hiệu",
       "ký hiệu thay đổi luân phiên",
-      "thay đổi luân phiên"
+      "thay đổi luân phiên",
+      "part alternation mark"
     ]
   },
   {
@@ -16557,13 +16759,16 @@
   {
     "emoji": "©️",
     "tags": [
-      "bản quyền"
+      "bản quyền",
+      "copyright"
     ]
   },
   {
     "emoji": "®️",
     "tags": [
-      "đã đăng ký"
+      "đã đăng ký",
+      "registered",
+      "reserved"
     ]
   },
   {
@@ -16571,7 +16776,8 @@
     "tags": [
       "dấu",
       "nhãn hiệu",
-      "tm"
+      "tm",
+      "trademark"
     ]
   },
   {
@@ -16662,7 +16868,8 @@
     "tags": [
       "b",
       "nhóm máu",
-      "nút B (nhóm máu)"
+      "nút B (nhóm máu)",
+      "letter b"
     ]
   },
   {
@@ -16694,7 +16901,8 @@
     "emoji": "ℹ️",
     "tags": [
       "i",
-      "thông tin"
+      "thông tin",
+      "letter i"
     ]
   },
   {
@@ -16712,7 +16920,8 @@
     "tags": [
       "chữ M trong vòng tròn",
       "m",
-      "vòng tròn"
+      "vòng tròn",
+      "m in circle"
     ]
   },
   {
@@ -16752,7 +16961,9 @@
     "emoji": "🅿️",
     "tags": [
       "đỗ xe",
-      "nút P"
+      "nút P",
+      "p",
+      "letter p"
     ]
   },
   {
@@ -16792,7 +17003,7 @@
       "katakana",
       "nút Tiếng Nhật “tại đây”",
       "Tiếng Nhật",
-      "“here”",
+      "here",
       "Japanese",
       "Japanese “here” button",
       "ココ"
@@ -16823,7 +17034,7 @@
       "chữ tượng hình",
       "nút Tiếng Nhật “không miễn phí”",
       "Tiếng Nhật",
-      "“not free of charge”",
+      "not free of charge",
       "ideograph",
       "Japanese “not free of charge” button",
       "Japanese",
@@ -16837,7 +17048,7 @@
       "chữ tượng hình",
       "nút Tiếng Nhật “đặt trước”",
       "Tiếng Nhật",
-      "“reserved”",
+      "reserved",
       "ideograph",
       "Japanese “reserved” button",
       "Japanese",
@@ -16851,7 +17062,7 @@
       "chữ tượng hình",
       "nút Tiếng Nhật “mặc cả”",
       "Tiếng Nhật",
-      "“bargain”",
+      "bargain",
       "ideograph",
       "Japanese “bargain” button",
       "Japanese",
@@ -16865,7 +17076,7 @@
       "chữ tượng hình",
       "nút Tiếng Nhật “giảm giá”",
       "Tiếng Nhật",
-      "“discount”",
+      "discount",
       "ideograph",
       "Japanese “discount” button",
       "Japanese",
@@ -16879,7 +17090,7 @@
       "chữ tượng hình",
       "nút Tiếng Nhật “miễn phí”",
       "Tiếng Nhật",
-      "“free of charge”",
+      "free of charge",
       "ideograph",
       "Japanese “free of charge” button",
       "Japanese",
@@ -16893,7 +17104,7 @@
       "chữ tượng hình",
       "nút Tiếng Nhật “bị cấm”",
       "Tiếng Nhật",
-      "“prohibited”",
+      "prohibited",
       "ideograph",
       "Japanese “prohibited” button",
       "Japanese",
@@ -16907,7 +17118,7 @@
       "chữ tượng hình",
       "nút Tiếng Nhật “có thể chấp nhận”",
       "Tiếng Nhật",
-      "“acceptable”",
+      "acceptable",
       "ideograph",
       "Japanese “acceptable” button",
       "Japanese",
@@ -16921,7 +17132,7 @@
       "chữ tượng hình",
       "nút Tiếng Nhật “đơn xin”",
       "Tiếng Nhật",
-      "“application”",
+      "application",
       "ideograph",
       "Japanese “application” button",
       "Japanese",
@@ -16935,7 +17146,7 @@
       "chữ tượng hình",
       "nút Tiếng Nhật “vượt cấp”",
       "Tiếng Nhật",
-      "“passing grade”",
+      "passing grade",
       "ideograph",
       "Japanese “passing grade” button",
       "Japanese",
@@ -16949,7 +17160,7 @@
       "chữ tượng hình",
       "nút Tiếng Nhật “còn trống”",
       "Tiếng Nhật",
-      "“vacancy”",
+      "vacancy",
       "ideograph",
       "Japanese “vacancy” button",
       "Japanese",
@@ -16962,7 +17173,10 @@
       "“chúc mừng”",
       "chữ tượng hình",
       "nút Tiếng Nhật “chúc mừng”",
-      "Tiếng Nhật"
+      "Tiếng Nhật",
+      "congratulations",
+      "ideograph",
+      "japanese"
     ]
   },
   {
@@ -16981,7 +17195,7 @@
       "chữ tượng hình",
       "nút Tiếng Nhật “mở cửa kinh doanh”",
       "Tiếng Nhật",
-      "“open for business”",
+      "open for business",
       "ideograph",
       "Japanese “open for business” button",
       "Japanese",
@@ -16996,7 +17210,7 @@
       "nút &quot;hết phòng&quot; bằng tiếng Nhật",
       "nút Tiếng Nhật “hết phòng”",
       "Tiếng Nhật",
-      "“no vacancy”",
+      "no vacancy",
       "ideograph",
       "Japanese “no vacancy” button",
       "Japanese",
@@ -17093,7 +17307,8 @@
       "hình tròn màu đen",
       "black circle",
       "circle",
-      "geometric"
+      "geometric",
+      "black"
     ]
   },
   {
@@ -17104,7 +17319,8 @@
       "hình tròn màu trắng",
       "circle",
       "geometric",
-      "white circle"
+      "white circle",
+      "white"
     ]
   },
   {
@@ -17194,7 +17410,8 @@
       "hình vuông lớn màu đen",
       "black large square",
       "geometric",
-      "square"
+      "square",
+      "black"
     ]
   },
   {
@@ -17205,7 +17422,8 @@
       "hình vuông lớn màu trắng",
       "geometric",
       "square",
-      "white large square"
+      "white large square",
+      "white"
     ]
   },
   {
@@ -17221,7 +17439,11 @@
     "tags": [
       "hình học",
       "hình vuông",
-      "hình vuông trung bình màu trắng"
+      "hình vuông trung bình màu trắng",
+      "geometric",
+      "square",
+      "white medium square",
+      "white"
     ]
   },
   {
@@ -17358,7 +17580,10 @@
     "tags": [
       "hình học",
       "nút",
-      "radio"
+      "radio",
+      "button",
+      "radio button",
+      "circle"
     ]
   },
   {
@@ -17382,7 +17607,11 @@
       "hình học",
       "hình vuông",
       "nút",
-      "nút hình vuông màu đen"
+      "nút hình vuông màu đen",
+      "button",
+      "geometric",
+      "square",
+      "outlined"
     ]
   },
   {
@@ -17446,7 +17675,19 @@
       "cờ cầu vồng",
       "pride",
       "rainbow",
-      "rainbow flag"
+      "rainbow flag",
+      "lgbtqia",
+      "lgbt",
+      "lgbtqa",
+      "queer",
+      "gay",
+      "lesbian",
+      "intersex",
+      "bisexual",
+      "transgender",
+      "trans",
+      "asexual",
+      "questioning"
     ]
   },
   {
@@ -17462,6 +17703,181 @@
       "plunder",
       "pirate flag",
       "treasure"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "tags": [
+      "mặt",
+      "nhăn mặt",
+      "buồn",
+      "mặt hơi cau có"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "cái chết",
+      "đầu sọ",
+      "crossbones",
+      "skull and crossbones",
+      "bones",
+      "cái chết"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "tags": [
+      "trái tim",
+      "red heart"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "heart suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "🗨️",
+    "tags": [
+      "balloon",
+      "bubble",
+      "dialog",
+      "comic",
+      "speech"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "snow",
+      "snowflake",
+      "lạnh lùng",
+      "ice"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "tags": [
+      "số điện thoại",
+      "telephone"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "pencil"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "alembic",
+      "science",
+      "chemistry"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "atom"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "asterisk",
+      "eight spoke"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "ngôi sao",
+      "eight pointed"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "!",
+      "exclamation",
+      "double exclamation"
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "tags": [
+      "recyce",
+      "reuse",
+      "green"
+    ]
+  },
+  {
+    "emoji": "🅰️",
+    "tags": [
+      "a",
+      "letter a"
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "tags": [
+      "o",
+      "letter o"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "service charger",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "monthly amount",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "secret",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "tags": [
+      "black small square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "tags": [
+      "black medium square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "geometric",
+      "square",
+      "white small square",
+      "white"
     ]
   },
   {

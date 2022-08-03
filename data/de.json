@@ -39,7 +39,8 @@
       "grinsendes Gesicht mit lächelnden Augen",
       "offen",
       "Lächeln",
-      "lächelnd"
+      "lächelnd",
+      "fröhlich"
     ]
   },
   {
@@ -82,7 +83,6 @@
       "lustig",
       "Schweiß",
       "schwitzen",
-      "kalt",
       "offen",
       "grinsendes Gesicht mit Schweiß",
       "Lächeln",
@@ -239,7 +239,9 @@
       "fröhlich",
       "Lächeln",
       "lächelnd",
-      "lächelndes Gesicht"
+      "lächelndes Gesicht",
+      "Gesicht",
+      "leicht lächelndes Gesicht"
     ]
   },
   {
@@ -1277,7 +1279,7 @@
       "lachendes Katzengesicht mit Herzen als Augen",
       "verliebt",
       "Auge",
-      "Herz",
+      "heart eyes",
       "Liebe",
       "Lächeln",
       "lächelnde Katze mit Herzaugen"
@@ -1401,6 +1403,7 @@
       "Herz",
       "Liebe",
       "Liebesbrief",
+      "heart letter",
       "Post"
     ]
   },
@@ -1443,8 +1446,8 @@
       "Nervosität",
       "wachsendes Herz",
       "aufgeregt",
-      "wachsend",
       "nervös",
+      "wachsend",
       "Puls"
     ]
   },
@@ -1490,7 +1493,10 @@
       "Ausrufezeichen",
       "Herz",
       "Herz als Ausrufezeichen",
-      "Satzzeichen"
+      "Satzzeichen",
+      "heart exclamation",
+      "heart drop",
+      "exclamation"
     ]
   },
   {
@@ -1500,7 +1506,7 @@
       "Schmerz",
       "Trennung",
       "brechen",
-      "gebrochen"
+      "heart break"
     ]
   },
   {
@@ -1508,9 +1514,9 @@
     "tags": [
       "Herz in Flammen",
       "verbrennen",
-      "Herz",
-      "Liebe",
+      "burning heart",
       "brennendes Herz",
+      "Liebe",
       "Begierde",
       "heiliges Herz"
     ]
@@ -1520,12 +1526,13 @@
     "tags": [
       "Herz mit Verband",
       "gesünder",
-      "verbessernd",
       "heilendes Herz",
+      "heart mending",
       "heilend",
       "genesend",
       "Erholen",
-      "gut"
+      "gut",
+      "verbessernd"
     ]
   },
   {
@@ -1539,7 +1546,8 @@
     "emoji": "🧡",
     "tags": [
       "orange",
-      "oranges Herz"
+      "oranges Herz",
+      "heart orange"
     ]
   },
   {
@@ -1547,7 +1555,8 @@
     "tags": [
       "gelb",
       "gelbes Herz",
-      "Herz"
+      "Herz",
+      "heart yellow"
     ]
   },
   {
@@ -1555,7 +1564,8 @@
     "tags": [
       "grün",
       "grünes Herz",
-      "Herz"
+      "Herz",
+      "heart green"
     ]
   },
   {
@@ -1563,7 +1573,8 @@
     "tags": [
       "blau",
       "blaues Herz",
-      "Herz"
+      "Herz",
+      "heart blue"
     ]
   },
   {
@@ -1571,7 +1582,8 @@
     "tags": [
       "Herz",
       "lila",
-      "lila Herz"
+      "lila Herz",
+      "heart purple"
     ]
   },
   {
@@ -1579,7 +1591,9 @@
     "tags": [
       "braun",
       "braunes Herz",
-      "Herz"
+      "Herz",
+      "brownheart",
+      "heart brown"
     ]
   },
   {
@@ -1589,6 +1603,7 @@
       "Herz",
       "schwarz",
       "schwarzes Herz",
+      "heart black",
       "niederträchtig"
     ]
   },
@@ -1597,7 +1612,9 @@
     "tags": [
       "Herz",
       "weiß",
-      "weißes Herz"
+      "weißes Herz",
+      "white heart",
+      "heart white"
     ]
   },
   {
@@ -1691,7 +1708,8 @@
       "Ballon",
       "Blase",
       "Comic",
-      "Sprechen"
+      "Sprechen",
+      "typing"
     ]
   },
   {
@@ -1746,7 +1764,12 @@
       "Hand",
       "Winken",
       "winkende Hand",
-      "winkend"
+      "winkend",
+      "hi",
+      "hey",
+      "Hallo",
+      "bye",
+      "Auf Wiedersehen"
     ]
   },
   {
@@ -1777,7 +1800,8 @@
       "erhobene Hand",
       "Hand",
       "Alle 5",
-      "alle fünf"
+      "alle fünf",
+      "hifive"
     ]
   },
   {
@@ -2558,7 +2582,8 @@
       "Person signalisiert Nein",
       "Hand",
       "untersagt",
-      "X"
+      "X",
+      "nein"
     ]
   },
   {
@@ -2574,7 +2599,7 @@
       "Mann signalisiert Nein",
       "untersagt",
       "X",
-      "männlich"
+      "nein"
     ]
   },
   {
@@ -2590,7 +2615,7 @@
       "Hand",
       "Frau signalisiert Nein",
       "X",
-      "weiblich"
+      "nein"
     ]
   },
   {
@@ -2681,8 +2706,10 @@
       "Geste",
       "Hand",
       "Person hebt die Hand",
-      "fröhlich",
-      "erhoben"
+      "erhoben",
+      "hi",
+      "hey",
+      "Hallo"
     ]
   },
   {
@@ -2694,7 +2721,10 @@
       "Siegerpose",
       "Hand erheben",
       "Mann erhebt die Hand",
-      "männlich"
+      "männlich",
+      "hi",
+      "hey",
+      "Hallo"
     ]
   },
   {
@@ -2706,7 +2736,10 @@
       "Siegerpose",
       "Hand erheben",
       "Frau erhebt die Hand",
-      "weiblich"
+      "weiblich",
+      "hi",
+      "hey",
+      "Hallo"
     ]
   },
   {
@@ -3786,13 +3819,13 @@
     "emoji": "🦸",
     "tags": [
       "Comic",
-      "gut",
       "Held",
       "Superheld",
       "Superheld(in)",
       "Superheldin",
       "Superkraft",
       "Übermensch",
+      "gut",
       "Heldin"
     ]
   },
@@ -4442,7 +4475,8 @@
       "Person in Dampfsauna",
       "Sauna",
       "Person im dampfigen Raum",
-      "Dampbad"
+      "Dampbad",
+      "spa"
     ]
   },
   {
@@ -4453,7 +4487,8 @@
       "Sauna",
       "Mann im dampfigen Raum",
       "männlich",
-      "Dampfbad"
+      "Dampfbad",
+      "spa"
     ]
   },
   {
@@ -4464,7 +4499,8 @@
       "Sauna",
       "Dampfbad",
       "weiblich",
-      "Frau im dampfigen Raum"
+      "Frau im dampfigen Raum",
+      "spa"
     ]
   },
   {
@@ -4625,7 +4661,8 @@
       "Sport",
       "Wasser",
       "schwimmende Person",
-      "schwimmen"
+      "schwimmen",
+      "swimmer"
     ]
   },
   {
@@ -4638,7 +4675,8 @@
       "Schwimmer",
       "Mann",
       "schwimmender Mann",
-      "männlich"
+      "männlich",
+      "swimmer"
     ]
   },
   {
@@ -4651,7 +4689,8 @@
       "Schwimmerin",
       "Frau",
       "weiblich",
-      "schwimmende Frau"
+      "schwimmende Frau",
+      "swimmer"
     ]
   },
   {
@@ -6390,7 +6429,12 @@
     "emoji": "☘️",
     "tags": [
       "Kleeblatt",
-      "Pflanze"
+      "Pflanze",
+      "Klee",
+      "shamrock",
+      "three-leaf clover",
+      "drei",
+      "Türflügel"
     ]
   },
   {
@@ -8320,7 +8364,8 @@
       "dampfend",
       "heiß",
       "heiße Quellen",
-      "Quellen"
+      "Quellen",
+      "hot springs"
     ]
   },
   {
@@ -8391,7 +8436,7 @@
       "Wagen",
       "Waggon",
       "Zug",
-      "Auto",
+      "train car",
       "elektrisch",
       "Eisenbahn",
       "Straßenbahn",
@@ -8476,7 +8521,7 @@
     "tags": [
       "Bahn",
       "Bergbahn",
-      "Auto",
+      "train car",
       "Berg",
       "Eisenbahn"
     ]
@@ -8488,7 +8533,7 @@
       "Straßenbahnwagen",
       "Tram",
       "Tramwagen",
-      "Auto",
+      "train car",
       "Obus"
     ]
   },
@@ -8674,14 +8719,16 @@
       "Motorroller",
       "Roller",
       "Vespa",
-      "Motor"
+      "Motor",
+      "moped"
     ]
   },
   {
     "emoji": "🦽",
     "tags": [
       "Barrierefreiheit",
-      "manueller Rollstuhl"
+      "manueller Rollstuhl",
+      "Rollstuhl"
     ]
   },
   {
@@ -8689,7 +8736,8 @@
     "tags": [
       "Barrierefreiheit",
       "elektrischer Rollstuhl",
-      "motorisierter Rollstuhl"
+      "motorisierter Rollstuhl",
+      "Rollstuhl"
     ]
   },
   {
@@ -8783,11 +8831,10 @@
       "Polizei",
       "Polizeilicht",
       "Leuchtfeuer",
-      "Auto",
       "Licht",
       "drehend",
-      "Alarm",
       "Wecker",
+      "Alarm",
       "Notfall",
       "Sirene"
     ]
@@ -8801,7 +8848,8 @@
       "vertikal",
       "horizontale Ampel",
       "Licht",
-      "Signal"
+      "Signal",
+      "stoplight"
     ]
   },
   {
@@ -8813,7 +8861,8 @@
       "vertikale Verkehrsampel",
       "Licht",
       "Signal",
-      "vertikale Ampel"
+      "vertikale Ampel",
+      "stoplight"
     ]
   },
   {
@@ -8910,7 +8959,8 @@
     "emoji": "✈️",
     "tags": [
       "Flieger",
-      "Flugzeug"
+      "Flugzeug",
+      "kleines Flugzeug"
     ]
   },
   {
@@ -9565,7 +9615,8 @@
       "Sonnenstrahlen",
       "sonnig",
       "Strahlen",
-      "Wetter"
+      "Wetter",
+      "hell"
     ]
   },
   {
@@ -9630,7 +9681,8 @@
     "tags": [
       "Galaxie",
       "Milchstraße",
-      "Weltraum"
+      "Weltraum",
+      "galaxy"
     ]
   },
   {
@@ -9771,7 +9823,18 @@
     "tags": [
       "Regenbogen",
       "Wetter",
-      "Regen"
+      "Regen",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "Pride",
+      "gay",
+      "lesbian",
+      "queer",
+      "transgender",
+      "trans",
+      "intersex",
+      "asexual"
     ]
   },
   {
@@ -9791,7 +9854,8 @@
       "Bekleidung",
       "Regen",
       "Regenschirm",
-      "Wetter"
+      "Wetter",
+      "Schirm"
     ]
   },
   {
@@ -9842,7 +9906,8 @@
     "tags": [
       "Schnee",
       "Schneemann",
-      "Schneemann im Schnee"
+      "Schneemann im Schnee",
+      "kalt"
     ]
   },
   {
@@ -10073,7 +10138,8 @@
     "tags": [
       "Feier",
       "pinke Schleife",
-      "Schleife"
+      "Schleife",
+      "Bogen"
     ]
   },
   {
@@ -10557,7 +10623,9 @@
       "Glücksspiel",
       "Spiel",
       "Spielautomat",
-      "Einwurf"
+      "Einwurf",
+      "gambling",
+      "casino"
     ]
   },
   {
@@ -10606,14 +10674,17 @@
       "Puppe",
       "Russland",
       "Verschachtelung",
-      "Schachtelpuppen"
+      "Schachtelpuppen",
+      "matryoshka"
     ]
   },
   {
     "emoji": "♠️",
     "tags": [
       "Kartenspiel",
-      "Pik"
+      "Pik",
+      "spade suit",
+      "card suit"
     ]
   },
   {
@@ -10627,14 +10698,18 @@
     "emoji": "♦️",
     "tags": [
       "Karo",
-      "Kartenspiel"
+      "Kartenspiel",
+      "diamond suit",
+      "card suit"
     ]
   },
   {
     "emoji": "♣️",
     "tags": [
       "Kartenspiel",
-      "Kreuz"
+      "Kreuz",
+      "club suit",
+      "card suit"
     ]
   },
   {
@@ -10859,7 +10934,8 @@
     "emoji": "🧤",
     "tags": [
       "Hand",
-      "Handschuhe"
+      "Handschuhe",
+      "mittens"
     ]
   },
   {
@@ -11299,7 +11375,8 @@
     "emoji": "🔔",
     "tags": [
       "Glocke",
-      "Ton eingeschaltet"
+      "Ton eingeschaltet",
+      "Ring"
     ]
   },
   {
@@ -11497,7 +11574,8 @@
       "Mobiltelefon",
       "Smartphone",
       "Telefon",
-      "Hörer"
+      "Hörer",
+      "smartphone"
     ]
   },
   {
@@ -11509,7 +11587,8 @@
       "Pfeil",
       "Handy",
       "Hörer",
-      "empfangen"
+      "empfangen",
+      "smartphone"
     ]
   },
   {
@@ -11531,7 +11610,8 @@
   {
     "emoji": "📟",
     "tags": [
-      "Pager"
+      "Pager",
+      "beeper"
     ]
   },
   {
@@ -11576,7 +11656,9 @@
       "Desktop",
       "Desktopcomputer",
       "Monitor",
-      "Rechner"
+      "Rechner",
+      "monitor",
+      "screen"
     ]
   },
   {
@@ -11591,7 +11673,9 @@
     "emoji": "⌨️",
     "tags": [
       "Computer",
-      "Tastatur"
+      "Tastatur",
+      "Keyboard",
+      "computer keyboard"
     ]
   },
   {
@@ -11777,7 +11861,12 @@
     "tags": [
       "Lupe nach rechts",
       "Suche",
-      "Vergrößerungsglas"
+      "Vergrößerungsglas",
+      "Glas",
+      "vergrößernd",
+      "suchen",
+      "magnifying glass tilted right",
+      "Werkzeug"
     ]
   },
   {
@@ -11978,7 +12067,8 @@
     "tags": [
       "Etikett",
       "Label",
-      "Marke"
+      "Marke",
+      "tag"
     ]
   },
   {
@@ -12110,7 +12200,8 @@
     "tags": [
       "Brief",
       "Briefumschlag",
-      "E-Mail"
+      "E-Mail",
+      "Post"
     ]
   },
   {
@@ -12258,7 +12349,9 @@
       "Füller",
       "schwarz",
       "schwarzer Federhalter",
-      "Stift"
+      "Stift",
+      "pen nib",
+      "Schreibfeder"
     ]
   },
   {
@@ -12301,7 +12394,9 @@
       "Nachricht",
       "Papier",
       "Papier und Bleistift",
-      "Notiz"
+      "Notiz",
+      "pencil and paper",
+      "schreiben"
     ]
   },
   {
@@ -12483,7 +12578,9 @@
   {
     "emoji": "✂️",
     "tags": [
-      "Schere"
+      "Schere",
+      "scissors",
+      "cut"
     ]
   },
   {
@@ -12509,7 +12606,9 @@
   {
     "emoji": "🗑️",
     "tags": [
-      "Papierkorb"
+      "Papierkorb",
+      "trash",
+      "Dose"
     ]
   },
   {
@@ -12520,7 +12619,8 @@
       "geschlossenes Schloss",
       "Schloss",
       "Sicherheit",
-      "abgeschlossen"
+      "abgeschlossen",
+      "padlock"
     ]
   },
   {
@@ -12531,7 +12631,8 @@
       "offenes Schloss",
       "Schloss",
       "aufgeschlossen",
-      "aufschließen"
+      "aufschließen",
+      "padlock"
     ]
   },
   {
@@ -12545,7 +12646,8 @@
       "Schloss",
       "Schreibfeder",
       "abgeschlossen mit Stift",
-      "Stift"
+      "Stift",
+      "padlock"
     ]
   },
   {
@@ -12559,7 +12661,8 @@
       "Schlüssel",
       "mit dem Schlüssel abgeschlossen",
       "Schloss",
-      "sicher"
+      "sicher",
+      "padlock"
     ]
   },
   {
@@ -12612,7 +12715,8 @@
       "Hammer",
       "Hammer und Pickel",
       "Pickel",
-      "Werkzeug"
+      "Werkzeug",
+      "Spitzhacke"
     ]
   },
   {
@@ -12638,7 +12742,10 @@
     "tags": [
       "gekreuzt",
       "gekreuzte Schwerter",
-      "Schwerter"
+      "Schwerter",
+      "Degen",
+      "Fechten",
+      "crossed swords"
     ]
   },
   {
@@ -12724,7 +12831,10 @@
     "emoji": "⚙️",
     "tags": [
       "Werkzeug",
-      "Zahnrad"
+      "Zahnrad",
+      "gear",
+      "cog",
+      "machine"
     ]
   },
   {
@@ -12744,7 +12854,10 @@
       "Gewicht",
       "Waage",
       "Werkzeug",
-      "wiegen"
+      "wiegen",
+      "scale",
+      "Ausgewogenheit",
+      "Gesetz"
     ]
   },
   {
@@ -12935,7 +13048,8 @@
       "Herz",
       "Medizin",
       "Stethoskop",
-      "Medizi"
+      "Medizi",
+      "listen"
     ]
   },
   {
@@ -13178,7 +13292,8 @@
     "tags": [
       "Rauchen",
       "Rauchersymbol",
-      "Zigarette"
+      "Zigarette",
+      "tobacco"
     ]
   },
   {
@@ -13187,7 +13302,10 @@
       "Beerdigung",
       "Sarg",
       "Tod",
-      "tot"
+      "tot",
+      "coffin",
+      "casket",
+      "funeral"
     ]
   },
   {
@@ -13198,7 +13316,8 @@
       "Grabstein",
       "Grabstei",
       "Grabfeld",
-      "Grabplatte"
+      "Grabplatte",
+      "gravestone"
     ]
   },
   {
@@ -13207,7 +13326,9 @@
       "Beerdigung",
       "Tod",
       "tot",
-      "Urne"
+      "Urne",
+      "funeral",
+      "urn"
     ]
   },
   {
@@ -13365,7 +13486,11 @@
     "emoji": "⚠️",
     "tags": [
       "Dreieck",
-      "Warnung"
+      "Warnung",
+      "caution",
+      "warning",
+      "Alarm",
+      "Gefahr"
     ]
   },
   {
@@ -13498,14 +13623,22 @@
     "emoji": "☢️",
     "tags": [
       "radioaktiv",
-      "Radioaktiv"
+      "Radioaktiv",
+      "warning",
+      "hazard",
+      "Gefahr",
+      "radioactive"
     ]
   },
   {
     "emoji": "☣️",
     "tags": [
       "Biogefährdung",
-      "Zeichen"
+      "Zeichen",
+      "warning",
+      "hazard",
+      "Gefahr",
+      "radioactive"
     ]
   },
   {
@@ -13516,7 +13649,8 @@
       "nach oben",
       "Norden",
       "Pfeil",
-      "Pfeil nach oben"
+      "Pfeil nach oben",
+      "unten"
     ]
   },
   {
@@ -13525,7 +13659,8 @@
       "nach rechts oben",
       "Nordosten",
       "Pfeil",
-      "Pfeil nach rechts oben"
+      "Pfeil nach rechts oben",
+      "up right"
     ]
   },
   {
@@ -13535,7 +13670,8 @@
       "Osten",
       "Pfeil",
       "Pfeil nach rechts",
-      "Rechtspfeil"
+      "Rechtspfeil",
+      "rechts"
     ]
   },
   {
@@ -13544,7 +13680,8 @@
       "nach rechts unten",
       "Pfeil",
       "Pfeil nach rechts unten",
-      "Südosten"
+      "Südosten",
+      "down right"
     ]
   },
   {
@@ -13555,7 +13692,8 @@
       "nach unten",
       "Pfeil",
       "Pfeil nach unten",
-      "Süden"
+      "Süden",
+      "down right"
     ]
   },
   {
@@ -13563,7 +13701,8 @@
     "tags": [
       "nach links unten",
       "Pfeil",
-      "Pfeil nach links unten"
+      "Pfeil nach links unten",
+      "down left"
     ]
   },
   {
@@ -13573,7 +13712,8 @@
       "nach links",
       "Pfeil",
       "Pfeil nach links",
-      "Westen"
+      "Westen",
+      "left"
     ]
   },
   {
@@ -13582,7 +13722,8 @@
       "nach links oben",
       "Nordwesten",
       "Pfeil",
-      "Pfeil nach links oben"
+      "Pfeil nach links oben",
+      "up left"
     ]
   },
   {
@@ -13591,7 +13732,10 @@
       "entgegengesetzt",
       "nach oben und unten",
       "Pfeil",
-      "Pfeil nach oben und unten"
+      "Pfeil nach oben und unten",
+      "up and down",
+      "vertikal",
+      "height"
     ]
   },
   {
@@ -13600,7 +13744,10 @@
       "entgegengesetzt",
       "nach links und rechts",
       "Pfeil",
-      "Pfeil nach links und rechts"
+      "Pfeil nach links und rechts",
+      "left and right",
+      "horizontal",
+      "width"
     ]
   },
   {
@@ -13610,7 +13757,8 @@
       "geschwungener Pfeil nach links",
       "links",
       "nach links",
-      "Pfeil"
+      "Pfeil",
+      "return"
     ]
   },
   {
@@ -13620,7 +13768,8 @@
       "geschwungener Pfeil nach rechts",
       "nach rechts",
       "Pfeil",
-      "rechts"
+      "rechts",
+      "vorwärts"
     ]
   },
   {
@@ -13630,7 +13779,8 @@
       "geschwungener Pfeil nach oben",
       "nach oben",
       "oben",
-      "Pfeil"
+      "Pfeil",
+      "up bend"
     ]
   },
   {
@@ -13640,7 +13790,8 @@
       "geschwungener Pfeil nach unten",
       "nach unten",
       "Pfeil",
-      "unten"
+      "unten",
+      "down bend"
     ]
   },
   {
@@ -13745,7 +13896,10 @@
     "tags": [
       "Davidstern",
       "jüdisch",
-      "Religion"
+      "Religion",
+      "Stern",
+      "jewish",
+      "start of david"
     ]
   },
   {
@@ -13753,7 +13907,9 @@
     "tags": [
       "Buddhismus",
       "Dharma",
-      "Dharma-Rad"
+      "Dharma-Rad",
+      "Rad",
+      "dharma"
     ]
   },
   {
@@ -13763,7 +13919,10 @@
       "Religion",
       "Yang",
       "Yin",
-      "Yin und Yang"
+      "Yin und Yang",
+      "yin",
+      "yang",
+      "yin yang"
     ]
   },
   {
@@ -13773,7 +13932,8 @@
       "Kreuz",
       "lateinisch",
       "lateinisches Kreuz",
-      "Religion"
+      "Religion",
+      "christianity"
     ]
   },
   {
@@ -13783,7 +13943,8 @@
       "Kreuz",
       "Orthodox",
       "orthodoxes Kreuz",
-      "Religion"
+      "Religion",
+      "orthodox cross"
     ]
   },
   {
@@ -13793,7 +13954,8 @@
       "Hilal und Stern",
       "Islam",
       "Religion",
-      "Stern"
+      "Stern",
+      "star and crescent"
     ]
   },
   {
@@ -13801,7 +13963,9 @@
     "tags": [
       "Friedensbewegung",
       "Friedenssymbol",
-      "Friedenszeichen"
+      "Friedenszeichen",
+      "Frieden",
+      "peace sign"
     ]
   },
   {
@@ -13999,7 +14163,10 @@
       "Dreieck",
       "Pfeil",
       "rechts",
-      "Wiedergabe"
+      "Wiedergabe",
+      "go",
+      "play button",
+      "right arrow"
     ]
   },
   {
@@ -14049,7 +14216,8 @@
       "Dreieck",
       "links",
       "Pfeil",
-      "zurück"
+      "zurück",
+      "left arrow"
     ]
   },
   {
@@ -14168,7 +14336,9 @@
       "Auswerfen",
       "Auswurf",
       "Auswurftaste",
-      "Medien"
+      "Medien",
+      "eject",
+      "eject button"
     ]
   },
   {
@@ -14263,7 +14433,9 @@
       "Multiplikation",
       "Multiplikationszeichen",
       "multiplizieren",
-      "x"
+      "x",
+      "Stopp",
+      "Kreuz"
     ]
   },
   {
@@ -14307,7 +14479,10 @@
       "ewig",
       "grenzenlos",
       "unendlich",
-      "Unendlichkeit"
+      "Unendlichkeit",
+      "infinity",
+      "infinite",
+      "endless"
     ]
   },
   {
@@ -14327,7 +14502,10 @@
       "Ausrufezeichen",
       "Fragezeichen",
       "rot",
-      "Satzzeichen"
+      "Satzzeichen",
+      "!?",
+      "exclamation",
+      "Frage"
     ]
   },
   {
@@ -14384,7 +14562,10 @@
     "tags": [
       "gewellt",
       "Linie",
-      "Wellenlinie"
+      "Wellenlinie",
+      "Welle",
+      "wavey",
+      "wavey dash"
     ]
   },
   {
@@ -14393,7 +14574,8 @@
       "Geld",
       "Geldwechsel",
       "Währung",
-      "Wechsel"
+      "Wechsel",
+      "exchange"
     ]
   },
   {
@@ -14402,7 +14584,11 @@
       "Dollar",
       "Dollarzeichen extrafett",
       "Geld",
-      "Währung"
+      "Währung",
+      "dollars",
+      "cash",
+      "usd",
+      "rich"
     ]
   },
   {
@@ -14416,7 +14602,9 @@
     "emoji": "⚜️",
     "tags": [
       "Fleur-de-Lis",
-      "Lilie"
+      "Lilie",
+      "fleur",
+      "fleur-de-lis"
     ]
   },
   {
@@ -14482,7 +14670,11 @@
       "abgehaktes Kästchen",
       "Feld",
       "Kästchen",
-      "Kästchen mit Häkchen"
+      "Kästchen mit Häkchen",
+      "Check",
+      "check box",
+      "done",
+      "todo"
     ]
   },
   {
@@ -14543,7 +14735,10 @@
     "tags": [
       "Doppelschleife",
       "Rechteck",
-      "Schleife"
+      "Schleife",
+      "eingerollt",
+      "verzwirnen",
+      "double curly loop"
     ]
   },
   {
@@ -14551,7 +14746,8 @@
     "tags": [
       "japanisch",
       "Teilalternationszeichen",
-      "Zeichensetzung"
+      "Zeichensetzung",
+      "part alternation mark"
     ]
   },
   {
@@ -14575,14 +14771,16 @@
     "emoji": "❇️",
     "tags": [
       "*",
-      "Funkeln"
+      "Funkeln",
+      "funkeln"
     ]
   },
   {
     "emoji": "©️",
     "tags": [
       "C",
-      "Copyright"
+      "Copyright",
+      "copyright"
     ]
   },
   {
@@ -14590,7 +14788,9 @@
     "tags": [
       "Markenzeichen",
       "R",
-      "Registered-Trademark"
+      "Registered-Trademark",
+      "registered",
+      "reserved"
     ]
   },
   {
@@ -14598,7 +14798,9 @@
     "tags": [
       "Markenzeichen",
       "TM",
-      "Trademark"
+      "Trademark",
+      "tm",
+      "trademark"
     ]
   },
   {
@@ -14689,7 +14891,8 @@
       "Blutgruppe",
       "Großbuchstabe B in rotem Quadrat",
       "negativ",
-      "positiv"
+      "positiv",
+      "letter b"
     ]
   },
   {
@@ -14724,7 +14927,8 @@
     "tags": [
       "Buchstabe „i“ in blauem Quadrat",
       "i",
-      "Information"
+      "Information",
+      "letter i"
     ]
   },
   {
@@ -14742,7 +14946,9 @@
     "tags": [
       "Buchstabe „M“ in Kreis",
       "Kreis",
-      "M"
+      "M",
+      "m",
+      "m in circle"
     ]
   },
   {
@@ -14789,7 +14995,9 @@
     "tags": [
       "Großbuchstabe P in blauem Quadrat",
       "Parkplatz",
-      "Quadrat"
+      "Quadrat",
+      "p",
+      "letter p"
     ]
   },
   {
@@ -14832,7 +15040,7 @@
       "„koko“",
       "japanisches Schriftzeichen",
       "Schriftzeichen „koko“",
-      "»hier«",
+      "here",
       "japanisch",
       "Katakana",
       "japanische »Hier«-Taste",
@@ -14860,7 +15068,7 @@
       "japanisches Schriftzeichen",
       "nicht gratis",
       "Schriftzeichen für „nicht gratis“",
-      "»nicht kostenlos«",
+      "not free of charge",
       "Sinnbild",
       "japanische »Nicht kostenlos«-Taste",
       "japanisch",
@@ -14873,7 +15081,7 @@
       "japanisches Schriftzeichen",
       "reserviert",
       "Schriftzeichen für „reserviert“",
-      "»reserviert«",
+      "reserved",
       "Sinnbild",
       "japanische »Reserviert«-Taste",
       "japanisch",
@@ -14886,7 +15094,7 @@
       "japanisches Schriftzeichen",
       "Schnäppchen",
       "Schriftzeichen für „Schnäppchen“",
-      "»Schnäppchen«",
+      "bargain",
       "Sinnbild",
       "japanische »Schnäppchen«-Taste",
       "japanisch",
@@ -14899,7 +15107,7 @@
       "japanisches Schriftzeichen",
       "Rabatt",
       "Schriftzeichen für „Rabatt“",
-      "»Rabatt«",
+      "discount",
       "Sinnbild",
       "japanische »Rabatt«-Taste",
       "japanisch",
@@ -14912,7 +15120,7 @@
       "gratis",
       "japanisches Schriftzeichen",
       "Schriftzeichen für „gratis“",
-      "»kostenlos«",
+      "free of charge",
       "Sinnbild",
       "japanische »Kostenlos«-Taste",
       "japanisch",
@@ -14925,7 +15133,7 @@
       "japanisches Schriftzeichen",
       "Schriftzeichen für „verbieten“",
       "verbieten",
-      "»untersagt«",
+      "untersagt",
       "Sinnbild",
       "japanische »Untersagt«-Taste",
       "japanisch",
@@ -14938,7 +15146,7 @@
       "akzeptieren",
       "japanisches Schriftzeichen",
       "Schriftzeichen für „akzeptieren“",
-      "»zulässig«",
+      "acceptable",
       "Sinnbild",
       "japanische »Zulässig«-Taste",
       "japanisch",
@@ -14951,7 +15159,7 @@
       "anwenden",
       "japanisches Schriftzeichen",
       "Schriftzeichen für „anwenden“",
-      "»Anmeldung«",
+      "application",
       "Sinnbild",
       "japanische »Anmeldung«-Taste",
       "japanisch",
@@ -14964,7 +15172,7 @@
       "bestehen",
       "japanisches Schriftzeichen",
       "Schriftzeichen für „Note zum Bestehen“",
-      "»Bestehensnote«",
+      "passing grade",
       "Sinnbild",
       "japanische »Bestehensnote«-Taste",
       "japanisch",
@@ -14977,7 +15185,7 @@
       "japanisches Schriftzeichen",
       "Schriftzeichen für „Zimmer frei“",
       "Zimmer frei",
-      "»freie Stelle«",
+      "vacancy",
       "Sinnbild",
       "japanische »Freie Stelle«-Taste",
       "japanisch",
@@ -14989,7 +15197,10 @@
     "tags": [
       "Gratulation",
       "japanisches Schriftzeichen",
-      "Schriftzeichen für „Gratulation“"
+      "Schriftzeichen für „Gratulation“",
+      "congratulations",
+      "Sinnbild",
+      "japanese"
     ]
   },
   {
@@ -15006,7 +15217,7 @@
       "geöffnet",
       "japanisches Schriftzeichen",
       "Schriftzeichen für „Geöffnet“",
-      "»verkaufsoffen«",
+      "open for business",
       "Sinnbild",
       "japanische »Verkaufsoffen«-Taste",
       "japanisch",
@@ -15019,7 +15230,7 @@
       "japanisches Schriftzeichen",
       "kein Zimmer frei",
       "Schriftzeichen für „Kein Zimmer frei“",
-      "»belegt«",
+      "no vacancy",
       "Sinnbild",
       "japanische »Belegt«-Taste",
       "japanisch",
@@ -15202,7 +15413,9 @@
     "tags": [
       "mittelgroßes weißes Quadrat",
       "Quadrat",
-      "weiß"
+      "weiß",
+      "geometrisch",
+      "white medium square"
     ]
   },
   {
@@ -15327,7 +15540,10 @@
     "emoji": "🔘",
     "tags": [
       "Optionsfeld",
-      "Schaltfläche"
+      "Schaltfläche",
+      "Taste",
+      "radio button",
+      "Kreis"
     ]
   },
   {
@@ -15350,7 +15566,11 @@
       "quadratisch",
       "Schaltfläche",
       "schwarz",
-      "schwarze quadratische Schaltfläche"
+      "schwarze quadratische Schaltfläche",
+      "Taste",
+      "geometrisch",
+      "Quadrat",
+      "umrandet"
     ]
   },
   {
@@ -15415,7 +15635,19 @@
       "Fahne",
       "Regenbogen",
       "Regenbogenflagge",
-      "Pride"
+      "Pride",
+      "lgbtqia",
+      "lgbt",
+      "lgbtqa",
+      "queer",
+      "gay",
+      "lesbian",
+      "intersex",
+      "bisexual",
+      "transgender",
+      "trans",
+      "asexual",
+      "questioning"
     ]
   },
   {
@@ -15427,6 +15659,181 @@
       "Piratenflagge",
       "Schatz",
       "plündern"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "tags": [
+      "Gesicht",
+      "Stirn runzeln",
+      "traurig",
+      "leicht die Stirn runzelndes Gesicht"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "Tod",
+      "Totenkopf",
+      "crossbones",
+      "skull and crossbones",
+      "bones",
+      "tot"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "tags": [
+      "Herz",
+      "red heart"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "heart suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "🗨️",
+    "tags": [
+      "Ballon",
+      "sprudeln",
+      "Dialog",
+      "Comic",
+      "Sprechen"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "Schnee",
+      "snowflake",
+      "kalt",
+      "Eis"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "tags": [
+      "Telefon",
+      "Telefon"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "Bleistift"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "alembic",
+      "Wissenschaft",
+      "Chemie"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "atom"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "Sternchen",
+      "eight spoke"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "Stern",
+      "eight pointed"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "!",
+      "exclamation",
+      "double exclamation"
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "tags": [
+      "recyce",
+      "reuse",
+      "grün"
+    ]
+  },
+  {
+    "emoji": "🅰️",
+    "tags": [
+      "a",
+      "letter a"
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "tags": [
+      "o",
+      "letter o"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "service charger",
+      "Sinnbild",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "monthly amount",
+      "Sinnbild",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "secret",
+      "Sinnbild",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "tags": [
+      "black small square",
+      "geometrisch",
+      "Quadrat",
+      "schwarz"
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "tags": [
+      "black medium square",
+      "geometrisch",
+      "Quadrat",
+      "schwarz"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "geometrisch",
+      "Quadrat",
+      "white small square",
+      "weiß"
     ]
   },
   {

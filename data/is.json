@@ -37,7 +37,8 @@
       "munnur",
       "glottandi andlit með brosandi augu",
       "opið",
-      "brosandi"
+      "brosandi",
+      "gleði"
     ]
   },
   {
@@ -80,7 +81,6 @@
       "bros og kaldur sviti",
       "brosandi sveitt andlit",
       "sviti",
-      "kalt",
       "opið",
       "glottandi andlit með svitadropa",
       "brosandi",
@@ -245,7 +245,11 @@
       "bros",
       "brosandi andlit",
       "broskall",
-      "broskarl"
+      "broskarl",
+      "face",
+      "slightly smiling face",
+      "brosandi",
+      "smile"
     ]
   },
   {
@@ -390,7 +394,7 @@
   {
     "emoji": "🤫",
     "tags": [
-      "andilt að segja uss",
+      "andlit að segja uss",
       "suss",
       "uss",
       "þögn",
@@ -714,8 +718,8 @@
     "emoji": "🥴",
     "tags": [
       "hlykkjóttur munnur",
-      "kenderí",
       "ójöfn augu",
+      "ölvun",
       "ringlað andlit",
       "svima",
       "víma",
@@ -1206,7 +1210,6 @@
       "andlit",
       "beinleggir",
       "dauði",
-      "hausk´úpa og beinleggir",
       "hauskúpa og beinleggir",
       "höfuðkúpa"
     ]
@@ -1372,7 +1375,7 @@
       "brosandi köttur og hjartalaga augu",
       "köttur",
       "auga",
-      "hjarta",
+      "heart eyes",
       "bros",
       "brosandi köttur með hjarta-augu"
     ]
@@ -1501,6 +1504,7 @@
       "bréf með hjarta",
       "hjarta",
       "rómantík",
+      "heart letter",
       "póstur",
       "ást"
     ]
@@ -1551,9 +1555,9 @@
       "stækkandi hjarta",
       "taugaspenna",
       "spenningur",
-      "vaxandi",
-      "nervous",
       "growing heart",
+      "nervous",
+      "vaxandi",
       "pulse"
     ]
   },
@@ -1606,7 +1610,10 @@
       "hjarta",
       "hjarta sem upphrópunarmerki",
       "merki",
-      "upphrópunarmerki"
+      "upphrópunarmerki",
+      "heart exclamation",
+      "heart drop",
+      "exclamation"
     ]
   },
   {
@@ -1616,8 +1623,8 @@
       "brostið",
       "hjarta",
       "break",
-      "bilað",
-      "broken heart"
+      "broken heart",
+      "heart break"
     ]
   },
   {
@@ -1629,6 +1636,7 @@
       "heilagt hjarta",
       "hjarta",
       "logandi hjarta",
+      "burning heart",
       "heart on fire",
       "lust",
       "sacred heart"
@@ -1645,12 +1653,13 @@
       "ná sér",
       "skána",
       "healthier",
-      "improving",
       "mending heart",
+      "heart mending",
       "mending",
       "recovering",
       "recuperating",
-      "batna"
+      "batna",
+      "improving"
     ]
   },
   {
@@ -1666,7 +1675,8 @@
       "appelsínugult",
       "hjarta",
       "tilfinningar",
-      "appelsínugult hjarta"
+      "appelsínugult hjarta",
+      "heart orange"
     ]
   },
   {
@@ -1675,7 +1685,8 @@
       "gult",
       "hjarta",
       "tilfinningar",
-      "yellow heart"
+      "yellow heart",
+      "heart yellow"
     ]
   },
   {
@@ -1684,7 +1695,8 @@
       "grænt",
       "hjarta",
       "tilfinningar",
-      "green heart"
+      "green heart",
+      "heart green"
     ]
   },
   {
@@ -1693,7 +1705,8 @@
       "blátt",
       "hjarta",
       "tilfinningar",
-      "blue heart"
+      "blue heart",
+      "heart blue"
     ]
   },
   {
@@ -1703,14 +1716,17 @@
       "hjarta",
       "tilfinningar",
       "purpurablátt",
-      "purple heart"
+      "purple heart",
+      "heart purple"
     ]
   },
   {
     "emoji": "🤎",
     "tags": [
       "brúnt",
-      "hjarta"
+      "hjarta",
+      "brownheart",
+      "heart brown"
     ]
   },
   {
@@ -1721,6 +1737,7 @@
       "svart hjarta",
       "svartur",
       "svart",
+      "heart black",
       "wicked",
       "evil"
     ]
@@ -1729,7 +1746,9 @@
     "emoji": "🤍",
     "tags": [
       "hjarta",
-      "hvítt"
+      "hvítt",
+      "white heart",
+      "heart white"
     ]
   },
   {
@@ -1829,7 +1848,8 @@
       "tala",
       "talblaðra",
       "samskipti",
-      "myndasaga"
+      "myndasaga",
+      "typing"
     ]
   },
   {
@@ -1881,7 +1901,12 @@
       "hönd veifar",
       "veifa",
       "alda",
-      "waving"
+      "waving",
+      "hi",
+      "hey",
+      "halló",
+      "bye",
+      "bless"
     ]
   },
   {
@@ -1915,7 +1940,8 @@
       "hönd",
       "high 5",
       "raised hand",
-      "high five"
+      "high five",
+      "hifive"
     ]
   },
   {
@@ -2728,7 +2754,8 @@
       "gesture",
       "person gesturing NO",
       "hönd",
-      "X"
+      "X",
+      "nei"
     ]
   },
   {
@@ -2757,8 +2784,7 @@
       "gesture",
       "hönd",
       "woman gesturing NO",
-      "X",
-      "kvenkyns"
+      "X"
     ]
   },
   {
@@ -2851,7 +2877,10 @@
       "gesture",
       "hönd",
       "person raising hand",
-      "lyft"
+      "lyft",
+      "hi",
+      "hey",
+      "halló"
     ]
   },
   {
@@ -2864,7 +2893,10 @@
       "gesture",
       "maður",
       "raising hand",
-      "man raising hand"
+      "man raising hand",
+      "hi",
+      "hey",
+      "halló"
     ]
   },
   {
@@ -2877,7 +2909,10 @@
       "gesture",
       "raising hand",
       "woman raising hand",
-      "kvenkyns"
+      "kvenkyns",
+      "hi",
+      "hey",
+      "halló"
     ]
   },
   {
@@ -3561,8 +3596,7 @@
     "tags": [
       "flugstjóri",
       "flugvél",
-      "pilot",
-      "flötur"
+      "pilot"
     ]
   },
   {
@@ -3573,9 +3607,8 @@
       "flugvél",
       "karl",
       "karlkyns flugstjóri",
-      "maður",
       "pilot",
-      "flötur"
+      "maður"
     ]
   },
   {
@@ -3587,7 +3620,6 @@
       "kona",
       "kvenkyns flugstjóri",
       "pilot",
-      "flötur",
       "kvenkyns"
     ]
   },
@@ -3782,6 +3814,8 @@
   {
     "emoji": "🤴",
     "tags": [
+      "ævintýri",
+      "fólk",
       "prins",
       "prince",
       "kóngur",
@@ -4758,7 +4792,8 @@
       "eimbað",
       "einstaklingur í gufubaði",
       "gufubað",
-      "person in steamy room"
+      "person in steamy room",
+      "spa"
     ]
   },
   {
@@ -4768,7 +4803,8 @@
       "gufubað",
       "maður í gufubaði",
       "man in steamy room",
-      "karl"
+      "karl",
+      "spa"
     ]
   },
   {
@@ -4778,7 +4814,8 @@
       "gufubað",
       "kona í gufubaði",
       "kvenkyns",
-      "woman in steamy room"
+      "woman in steamy room",
+      "spa"
     ]
   },
   {
@@ -4933,7 +4970,8 @@
       "sund",
       "sundmaður",
       "synda",
-      "person swimming"
+      "person swimming",
+      "swimmer"
     ]
   },
   {
@@ -4943,7 +4981,8 @@
       "sund",
       "sundmaður",
       "maður",
-      "man swimming"
+      "man swimming",
+      "swimmer"
     ]
   },
   {
@@ -4953,7 +4992,8 @@
       "sund",
       "sundkona",
       "kvenkyns",
-      "woman swimming"
+      "woman swimming",
+      "swimmer"
     ]
   },
   {
@@ -5055,7 +5095,7 @@
     "emoji": "🤸",
     "tags": [
       "fimleikar",
-      "handalaup",
+      "handahlaup",
       "hlaup",
       "íþrótt",
       "cartwheel",
@@ -5658,8 +5698,8 @@
   {
     "emoji": "🦌",
     "tags": [
-      "´hjartardýr",
       "dýr",
+      "hjartardýr",
       "hjörtur",
       "hreindýr",
       "deer",
@@ -5673,7 +5713,7 @@
     "emoji": "🦬",
     "tags": [
       "buffali",
-      "Evrópusvísundur",
+      "Evrópuvísundur",
       "hjörð",
       "vísundur",
       "buffalo",
@@ -5807,7 +5847,9 @@
   {
     "emoji": "🐫",
     "tags": [
+      "hnúður",
       "kameldýr",
+      "kameldýr með tvo hnúða",
       "bactrian",
       "camel",
       "two-hump camel",
@@ -6268,7 +6310,6 @@
     "emoji": "🐊",
     "tags": [
       "krókódíll",
-      "krókókíll",
       "crocodile"
     ]
   },
@@ -6762,7 +6803,12 @@
     "tags": [
       "músarsmári",
       "planta",
-      "smári"
+      "smári",
+      "clover",
+      "shamrock",
+      "three-leaf clover",
+      "three",
+      "leaf"
     ]
   },
   {
@@ -7172,7 +7218,6 @@
     "emoji": "🫓",
     "tags": [
       "arepa",
-      "flakaka",
       "flatbrauð",
       "flatkaka",
       "flatkökur",
@@ -8781,7 +8826,8 @@
       "gufa",
       "heitt",
       "hverir",
-      "laugar"
+      "laugar",
+      "hot springs"
     ]
   },
   {
@@ -8850,7 +8896,7 @@
       "járnbrautarlest",
       "lestarvagn",
       "rafmagnslest",
-      "bíll",
+      "train car",
       "electric",
       "lest",
       "járnbraut",
@@ -8939,7 +8985,7 @@
       "fjallalest",
       "kláfur",
       "lest",
-      "bíll",
+      "train car",
       "járnbraut"
     ]
   },
@@ -8949,7 +8995,7 @@
       "farartæki",
       "sporvagn",
       "vagn",
-      "bíll",
+      "train car",
       "rafknúinn strætisvagn"
     ]
   },
@@ -9149,7 +9195,8 @@
       "mótorhjól",
       "skellinaðra",
       "vespa",
-      "mótor"
+      "mótor",
+      "moped"
     ]
   },
   {
@@ -9164,8 +9211,9 @@
     "emoji": "🦼",
     "tags": [
       "aðgengi",
-      "vélknúinn hj´ólastóll",
-      "motorized wheelchair"
+      "vélknúinn hjólastóll",
+      "motorized wheelchair",
+      "hjólastóll"
     ]
   },
   {
@@ -9273,11 +9321,10 @@
       "lögregluljós",
       "sírena",
       "sjómerki",
-      "bíll",
       "ljóst",
       "revolving",
-      "alert",
       "áminning",
+      "alert",
       "neyðartilfelli",
       "siren"
     ]
@@ -9290,7 +9337,8 @@
       "umferð",
       "horizontal traffic light",
       "ljóst",
-      "merki"
+      "merki",
+      "stoplight"
     ]
   },
   {
@@ -9301,7 +9349,8 @@
       "umferð",
       "ljóst",
       "merki",
-      "vertical traffic light"
+      "vertical traffic light",
+      "stoplight"
     ]
   },
   {
@@ -9400,7 +9449,10 @@
     "emoji": "✈️",
     "tags": [
       "farartæki",
-      "flugvél"
+      "flugvél",
+      "aeroplane",
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -9408,7 +9460,8 @@
     "tags": [
       "farartæki",
       "flugvél",
-      "lítil flugvél"
+      "lítil flugvél",
+      "flötur"
     ]
   },
   {
@@ -9420,7 +9473,8 @@
       "flugvél í flugtaki",
       "innritun",
       "bóka inn",
-      "departures"
+      "departures",
+      "flötur"
     ]
   },
   {
@@ -9433,7 +9487,8 @@
       "arrivals",
       "airplane arrival",
       "arriving",
-      "lending"
+      "lending",
+      "flötur"
     ]
   },
   {
@@ -9519,8 +9574,8 @@
   {
     "emoji": "🛸",
     "tags": [
-      "flj´úgandi furðuhlutur",
       "fljúgandi diskur",
+      "fljúgandi furðuhlutur",
       "flying saucer",
       "FFH"
     ]
@@ -10058,7 +10113,8 @@
       "geislar",
       "sól",
       "sólargeislar",
-      "sólskin"
+      "sólskin",
+      "sun"
     ]
   },
   {
@@ -10096,7 +10152,7 @@
   {
     "emoji": "⭐",
     "tags": [
-      "hvít stjarna",
+      "gul stjarna",
       "stjarna"
     ]
   },
@@ -10128,7 +10184,8 @@
       "geimurinn",
       "vetrarbrautin",
       "vetrarbraut",
-      "geimur"
+      "geimur",
+      "galaxy"
     ]
   },
   {
@@ -10136,7 +10193,8 @@
     "tags": [
       "ský",
       "skýjað",
-      "svart ský"
+      "svart ský",
+      "cloud"
     ]
   },
   {
@@ -10272,7 +10330,18 @@
       "regn",
       "regnbogi",
       "veður",
-      "rigning"
+      "rigning",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "pride",
+      "gay",
+      "lesbian",
+      "queer",
+      "transgender",
+      "trans",
+      "intersex",
+      "asexual"
     ]
   },
   {
@@ -10295,7 +10364,9 @@
       "klæðnaður",
       "regn",
       "regnhlíf",
-      "veður"
+      "veður",
+      "umbrella",
+      "rain"
     ]
   },
   {
@@ -10317,8 +10388,9 @@
     "tags": [
       "regn",
       "regnhlíf",
-      "regnhlíf á jörðinni",
       "sól",
+      "sólhlíf",
+      "sólhlíf á jörðinni",
       "veður",
       "rigning",
       "umbrella on ground",
@@ -10354,7 +10426,10 @@
       "kalt",
       "snjókarl í snjókomu",
       "snjór",
-      "veður"
+      "veður",
+      "cold",
+      "snow",
+      "snowman"
     ]
   },
   {
@@ -10605,7 +10680,8 @@
       "borði",
       "slaufa",
       "veisla",
-      "celebration"
+      "celebration",
+      "bow"
     ]
   },
   {
@@ -11139,7 +11215,9 @@
       "leikur",
       "spilakassi",
       "slot",
-      "slot machine"
+      "slot machine",
+      "gambling",
+      "casino"
     ]
   },
   {
@@ -11195,7 +11273,8 @@
       "doll",
       "hreiðrun",
       "rússland",
-      "nesting dolls"
+      "nesting dolls",
+      "matryoshka"
     ]
   },
   {
@@ -11204,7 +11283,9 @@
       "leikur",
       "spaði",
       "spil",
-      "spilalitur"
+      "spilalitur",
+      "spade suit",
+      "card suit"
     ]
   },
   {
@@ -11223,7 +11304,9 @@
       "spil",
       "spilalitur",
       "tigull",
-      "tígull"
+      "tígull",
+      "diamond suit",
+      "card suit"
     ]
   },
   {
@@ -11232,7 +11315,9 @@
       "lauf",
       "leikur",
       "spil",
-      "spilalitur"
+      "spilalitur",
+      "club suit",
+      "card suit"
     ]
   },
   {
@@ -11487,7 +11572,8 @@
       "hanskar",
       "hendi",
       "gloves",
-      "hönd"
+      "hönd",
+      "mittens"
     ]
   },
   {
@@ -11819,7 +11905,7 @@
     "emoji": "🧢",
     "tags": [
       "derhúfa",
-      "hafnarboltahúfa",
+      "hafnaboltahúfa",
       "baseball cap",
       "billed cap"
     ]
@@ -11981,7 +12067,8 @@
     "emoji": "🔔",
     "tags": [
       "bjalla",
-      "hringing"
+      "hringing",
+      "hringur"
     ]
   },
   {
@@ -12190,7 +12277,8 @@
     "emoji": "📱",
     "tags": [
       "farsími",
-      "sími"
+      "sími",
+      "smartphone"
     ]
   },
   {
@@ -12201,7 +12289,8 @@
       "hringja",
       "sími",
       "ör",
-      "taka við"
+      "taka við",
+      "smartphone"
     ]
   },
   {
@@ -12223,7 +12312,8 @@
     "emoji": "📟",
     "tags": [
       "samskipti",
-      "símboði"
+      "símboði",
+      "beeper"
     ]
   },
   {
@@ -12266,7 +12356,9 @@
       "borðtölva",
       "heimilistölva",
       "tölva",
-      "skjáborð"
+      "skjáborð",
+      "monitor",
+      "screen"
     ]
   },
   {
@@ -12280,7 +12372,9 @@
     "emoji": "⌨️",
     "tags": [
       "lyklaborð",
-      "tölva"
+      "tölva",
+      "keyboard",
+      "computer keyboard"
     ]
   },
   {
@@ -12471,7 +12565,12 @@
     "tags": [
       "leita",
       "stækkunargler",
-      "stækkunargler sem vísar til hægri"
+      "stækkunargler sem vísar til hægri",
+      "gler",
+      "magnifying",
+      "search",
+      "magnifying glass tilted right",
+      "tool"
     ]
   },
   {
@@ -12662,10 +12761,10 @@
   {
     "emoji": "📑",
     "tags": [
-      "bókamerki í tölvu",
+      "bókamerki",
       "flipar",
       "merki",
-      "bókamerki",
+      "merkiflipar",
       "merking"
     ]
   },
@@ -12681,7 +12780,8 @@
     "tags": [
       "merki",
       "merkimiði",
-      "merking"
+      "merking",
+      "tag"
     ]
   },
   {
@@ -12823,7 +12923,9 @@
     "emoji": "✉️",
     "tags": [
       "tölvupóstur",
-      "umslag"
+      "umslag",
+      "letter",
+      "mail"
     ]
   },
   {
@@ -12981,7 +13083,10 @@
     "tags": [
       "pennaoddur",
       "penni",
-      "svartur pennaoddur"
+      "svartur pennaoddur",
+      "pen",
+      "pen nib",
+      "nib"
     ]
   },
   {
@@ -13024,7 +13129,10 @@
       "minnisbók",
       "minnismiði",
       "samskipti",
-      "blýantur"
+      "blýantur",
+      "pencil and paper",
+      "paper",
+      "write"
     ]
   },
   {
@@ -13221,7 +13329,9 @@
     "emoji": "✂️",
     "tags": [
       "skæri",
-      "verkfæri"
+      "verkfæri",
+      "scissors",
+      "cut"
     ]
   },
   {
@@ -13251,7 +13361,9 @@
     "tags": [
       "rusl",
       "ruslakarfa",
-      "wastebasket"
+      "wastebasket",
+      "trash",
+      "can"
     ]
   },
   {
@@ -13260,7 +13372,8 @@
       "lás",
       "lokaður lás",
       "lokað",
-      "læst"
+      "læst",
+      "padlock"
     ]
   },
   {
@@ -13273,7 +13386,8 @@
       "taka úr lás",
       "opið",
       "ólæst",
-      "aflæsa"
+      "aflæsa",
+      "padlock"
     ]
   },
   {
@@ -13288,7 +13402,8 @@
       "nib",
       "locked with pen",
       "penni",
-      "friðhelgi"
+      "friðhelgi",
+      "padlock"
     ]
   },
   {
@@ -13300,7 +13415,8 @@
       "lokað",
       "lykill",
       "locked with key",
-      "lás"
+      "lás",
+      "padlock"
     ]
   },
   {
@@ -13358,7 +13474,9 @@
       "haki",
       "hamar",
       "hamar og haki",
-      "verkfæri"
+      "verkfæri",
+      "hammer",
+      "pick"
     ]
   },
   {
@@ -13387,7 +13505,10 @@
     "tags": [
       "krosslögð",
       "sverð",
-      "vopn"
+      "vopn",
+      "sword",
+      "fencing",
+      "crossed swords"
     ]
   },
   {
@@ -13483,7 +13604,10 @@
     "emoji": "⚙️",
     "tags": [
       "gírhjól",
-      "verkfæri"
+      "verkfæri",
+      "gear",
+      "cog",
+      "machine"
     ]
   },
   {
@@ -13503,7 +13627,10 @@
       "jafnréttisvog",
       "jafnvægi",
       "vog",
-      "vogarskál"
+      "vogarskál",
+      "scale",
+      "balance",
+      "lög"
     ]
   },
   {
@@ -13614,7 +13741,7 @@
       "gerlaflóra",
       "líffræði",
       "líffræðingur",
-      "petrílskál",
+      "petrískál",
       "tilraunastofa",
       "bacteria",
       "biologist",
@@ -13715,7 +13842,8 @@
       "hlustunarpípa",
       "læknir",
       "læknisfræði",
-      "stethoscope"
+      "stethoscope",
+      "listen"
     ]
   },
   {
@@ -13927,8 +14055,8 @@
     "tags": [
       "bað",
       "löður",
-      "s´ápudiskur",
       "sápa",
+      "sápudiskur",
       "sápustykki",
       "þrif",
       "bar",
@@ -13994,14 +14122,20 @@
     "emoji": "🚬",
     "tags": [
       "reykingar",
-      "sígaretta"
+      "sígaretta",
+      "tobacco"
     ]
   },
   {
     "emoji": "⚰️",
     "tags": [
       "dauði",
-      "líkkista"
+      "líkkista",
+      "coffin",
+      "death",
+      "dead",
+      "casket",
+      "funeral"
     ]
   },
   {
@@ -14013,7 +14147,8 @@
       "legsteinn",
       "leiði",
       "grafreitur",
-      "headstone"
+      "headstone",
+      "gravestone"
     ]
   },
   {
@@ -14022,7 +14157,11 @@
       "aska",
       "dauði",
       "duftker",
-      "jarðarför"
+      "jarðarför",
+      "funeral",
+      "urn",
+      "death",
+      "dead"
     ]
   },
   {
@@ -14193,7 +14332,11 @@
     "tags": [
       "varúð",
       "varúðarmerki",
-      "viðvörun"
+      "viðvörun",
+      "caution",
+      "warning",
+      "alert",
+      "hætta"
     ]
   },
   {
@@ -14320,14 +14463,22 @@
     "emoji": "☢️",
     "tags": [
       "geislavirkni",
-      "merki"
+      "merki",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
     "emoji": "☣️",
     "tags": [
       "efni",
-      "hættuleg"
+      "hættuleg",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -14337,7 +14488,9 @@
       "höfuðátt",
       "norður",
       "ör",
-      "ör upp"
+      "ör upp",
+      "arrow",
+      "up"
     ]
   },
   {
@@ -14346,7 +14499,8 @@
       "átt",
       "norðaustur",
       "ör",
-      "ör ská upp til hægri"
+      "ör ská upp til hægri",
+      "up right"
     ]
   },
   {
@@ -14356,7 +14510,9 @@
       "austur",
       "höfuðátt",
       "ör",
-      "ör til hægri"
+      "ör til hægri",
+      "arrow",
+      "right"
     ]
   },
   {
@@ -14365,7 +14521,9 @@
       "átt",
       "ör",
       "ör ská niður til hægri",
-      "suðaustur"
+      "suðaustur",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -14375,7 +14533,9 @@
       "höfuðátt",
       "niður",
       "ör",
-      "suður"
+      "suður",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -14384,7 +14544,9 @@
       "átt",
       "ör",
       "ör ská niður til vinstri",
-      "suðvestur"
+      "suðvestur",
+      "arrow",
+      "down left"
     ]
   },
   {
@@ -14394,7 +14556,9 @@
       "höfuðátt",
       "ör",
       "ör til vinstri",
-      "vestur"
+      "vestur",
+      "arrow",
+      "left"
     ]
   },
   {
@@ -14403,42 +14567,57 @@
       "átt",
       "norðvestur",
       "ör",
-      "ör ská upp til vinstri"
+      "ör ská upp til vinstri",
+      "arrow",
+      "up left"
     ]
   },
   {
     "emoji": "↕️",
     "tags": [
       "ör",
-      "ör upp og niður"
+      "ör upp og niður",
+      "arrow",
+      "up and down",
+      "lóðrétt",
+      "height"
     ]
   },
   {
     "emoji": "↔️",
     "tags": [
       "ör",
-      "ör til vinstri og hægri"
+      "ör til vinstri og hægri",
+      "arrow",
+      "left and right",
+      "horizontal",
+      "width"
     ]
   },
   {
     "emoji": "↩️",
     "tags": [
       "ör",
-      "sveigð ör til vinstri"
+      "sveigð ör til vinstri",
+      "arrow",
+      "return"
     ]
   },
   {
     "emoji": "↪️",
     "tags": [
       "ör",
-      "sveigð ör til hægri"
+      "sveigð ör til hægri",
+      "áfram"
     ]
   },
   {
     "emoji": "⤴️",
     "tags": [
       "ör",
-      "sveig ör upp"
+      "sveigð ör upp",
+      "arrow",
+      "up bend"
     ]
   },
   {
@@ -14446,7 +14625,8 @@
     "tags": [
       "niður",
       "ör",
-      "sveigð ör niður"
+      "sveigð ör niður",
+      "down bend"
     ]
   },
   {
@@ -14565,7 +14745,10 @@
       "davíðsstjarna",
       "gyðingdómur",
       "gyðingur",
-      "stjarna"
+      "stjarna",
+      "star",
+      "jewish",
+      "start of david"
     ]
   },
   {
@@ -14575,7 +14758,8 @@
       "dharma",
       "dharmahjól",
       "hjól",
-      "trúarbrögð"
+      "trúarbrögð",
+      "wheel"
     ]
   },
   {
@@ -14585,7 +14769,10 @@
       "jin",
       "taó",
       "taóisti",
-      "trúarbrögð"
+      "trúarbrögð",
+      "yin",
+      "yang",
+      "yin yang"
     ]
   },
   {
@@ -14594,7 +14781,8 @@
       "kristni",
       "kross",
       "latneskur kross",
-      "trúarbrögð"
+      "trúarbrögð",
+      "christianity"
     ]
   },
   {
@@ -14603,7 +14791,9 @@
       "kristni",
       "kross",
       "rétttrúnaðarkross",
-      "trúarbrögð"
+      "trúarbrögð",
+      "cross",
+      "orthodox cross"
     ]
   },
   {
@@ -14612,14 +14802,18 @@
       "íslam",
       "múslimi",
       "stjarna og skarður máni",
-      "trúarbrögð"
+      "trúarbrögð",
+      "star and crescent",
+      "islam"
     ]
   },
   {
     "emoji": "☮️",
     "tags": [
       "friðartákn",
-      "friður"
+      "friður",
+      "peace",
+      "peace sign"
     ]
   },
   {
@@ -14825,7 +15019,12 @@
       "ör",
       "spila",
       "spilunartakki",
-      "þríhyrningur"
+      "þríhyrningur",
+      "play",
+      "go",
+      "play button",
+      "right arrow",
+      "triangle"
     ]
   },
   {
@@ -14875,7 +15074,9 @@
       "ör",
       "spóla til baka",
       "vinstri",
-      "þríhyrningur"
+      "þríhyrningur",
+      "left arrow",
+      "triangle"
     ]
   },
   {
@@ -14895,11 +15096,10 @@
       "fyrri sena",
       "hnappur til að skipta á síðustu rás",
       "ör",
-      "þríhyringingur",
+      "þríhyrningur",
       "last track button",
       "fyrra spor",
-      "previous scene",
-      "þríhyrningur"
+      "previous scene"
     ]
   },
   {
@@ -14986,7 +15186,9 @@
     "emoji": "⏏️",
     "tags": [
       "opna",
-      "takki til að opna"
+      "takki til að opna",
+      "eject",
+      "eject button"
     ]
   },
   {
@@ -15075,7 +15277,9 @@
       "margföldun",
       "margföldunartákn",
       "tákn",
-      "x"
+      "x",
+      "stop",
+      "cross"
     ]
   },
   {
@@ -15123,7 +15327,10 @@
       "algilt",
       "eilífð",
       "óendanleiki",
-      "takmarkaleysi"
+      "takmarkaleysi",
+      "infinity",
+      "infinite",
+      "endless"
     ]
   },
   {
@@ -15132,7 +15339,7 @@
       "greinarmerki",
       "merki",
       "tvöfalt upphrópunarmerki",
-      "upphr´ópunarmerki"
+      "upphrópunarmerki"
     ]
   },
   {
@@ -15145,7 +15352,9 @@
       "interrobang",
       "spurningarmerki",
       "upphrópunarmerki",
-      "upphrópunarmerki og spurningarmerki"
+      "upphrópunarmerki og spurningarmerki",
+      "exclamation",
+      "question"
     ]
   },
   {
@@ -15208,7 +15417,10 @@
       "alda",
       "bugða",
       "bugðustrik",
-      "strik"
+      "strik",
+      "wave",
+      "wavey",
+      "wavey dash"
     ]
   },
   {
@@ -15217,7 +15429,10 @@
       "gjaldmiðlar",
       "gjaldmiðlareikningur",
       "gjaldmiðlaskipti",
-      "peningar"
+      "peningar",
+      "currency",
+      "exchange",
+      "money"
     ]
   },
   {
@@ -15227,7 +15442,12 @@
       "dollaramerki",
       "dollari",
       "feitletrað dollaramerki",
-      "peningar"
+      "peningar",
+      "money",
+      "dollars",
+      "cash",
+      "usd",
+      "rich"
     ]
   },
   {
@@ -15242,7 +15462,8 @@
     "emoji": "⚜️",
     "tags": [
       "fleur-de-lis",
-      "fleur-de-lis-tákn"
+      "fleur-de-lis-tákn",
+      "fleur"
     ]
   },
   {
@@ -15314,7 +15535,11 @@
       "hak",
       "hakreitur með haki",
       "hakreitur með hakmerki",
-      "reitur"
+      "reitur",
+      "check",
+      "check box",
+      "done",
+      "todo"
     ]
   },
   {
@@ -15367,14 +15592,19 @@
     "tags": [
       "gormur",
       "lykkjur",
-      "tvöföld lykkja"
+      "tvöföld lykkja",
+      "loop",
+      "curl",
+      "twist",
+      "double curly loop"
     ]
   },
   {
     "emoji": "〽️",
     "tags": [
       "japanskt upphafsmerki söngs",
-      "merki"
+      "merki",
+      "part alternation mark"
     ]
   },
   {
@@ -15397,7 +15627,8 @@
     "emoji": "❇️",
     "tags": [
       "*",
-      "leiftur"
+      "leiftur",
+      "neisti"
     ]
   },
   {
@@ -15405,21 +15636,26 @@
     "tags": [
       "höfundarréttarmerki",
       "höfundarréttarvarið",
-      "höfundarréttur"
+      "höfundarréttur",
+      "copyright"
     ]
   },
   {
     "emoji": "®️",
     "tags": [
       "skráð",
-      "skráð vörumerki"
+      "skráð vörumerki",
+      "registered",
+      "reserved"
     ]
   },
   {
     "emoji": "™️",
     "tags": [
       "skrásett vörumerki",
-      "vörumerki"
+      "vörumerki",
+      "tm",
+      "trademark"
     ]
   },
   {
@@ -15511,7 +15747,9 @@
       "B",
       "B-blóðflokkur",
       "blóð",
-      "blóðflokkur"
+      "blóðflokkur",
+      "b",
+      "letter b"
     ]
   },
   {
@@ -15547,7 +15785,9 @@
     "tags": [
       "u",
       "upplýsingar",
-      "upplýsingaveita"
+      "upplýsingaveita",
+      "i",
+      "letter i"
     ]
   },
   {
@@ -15567,7 +15807,8 @@
     "tags": [
       "bókstafurinn m inni í hring",
       "hringur",
-      "m"
+      "m",
+      "m in circle"
     ]
   },
   {
@@ -15612,7 +15853,9 @@
     "emoji": "🅿️",
     "tags": [
       "bílastæði",
-      "leggja"
+      "leggja",
+      "p",
+      "letter p"
     ]
   },
   {
@@ -15655,7 +15898,7 @@
       "japanska",
       "katakana",
       "katakana koko, kassi",
-      "“hér”",
+      "here",
       "Japanska",
       "Japanese “here” button",
       "ココ"
@@ -15686,7 +15929,7 @@
       "ekki ókeypis",
       "japanska",
       "myndletur",
-      "“ekki gjaldfrjálst”",
+      "not free of charge",
       "ideograph",
       "Japanese “not free of charge” button",
       "Japanska",
@@ -15700,7 +15943,7 @@
       "frátekið",
       "japanska",
       "myndletur",
-      "“frátekið”",
+      "reserved",
       "ideograph",
       "Japanese “reserved” button",
       "Japanska",
@@ -15711,10 +15954,10 @@
     "emoji": "🉐",
     "tags": [
       "„Kjarakaup“ á japönsku",
-      "g´óð kaup",
+      "góð kaup",
       "japanska",
       "myndletur",
-      "“kjarakaup”",
+      "bargain",
       "ideograph",
       "Japanese “bargain” button",
       "Japanska",
@@ -15728,7 +15971,7 @@
       "afsláttur",
       "japanska",
       "myndletur",
-      "“afsláttur”",
+      "discount",
       "ideograph",
       "Japanese “discount” button",
       "Japanska",
@@ -15742,7 +15985,7 @@
       "japanska",
       "myndletur",
       "ókeypis",
-      "“gjaldfrjálst”",
+      "free of charge",
       "ideograph",
       "Japanese “free of charge” button",
       "Japanska",
@@ -15756,7 +15999,7 @@
       "bannað",
       "japanska",
       "myndletur",
-      "“bannað”",
+      "prohibited",
       "ideograph",
       "Japanese “prohibited” button",
       "Japanska",
@@ -15770,7 +16013,7 @@
       "japanska",
       "myndletur",
       "samþykkja",
-      "“ásættanlegt”",
+      "acceptable",
       "ideograph",
       "Japanese “acceptable” button",
       "Japanska",
@@ -15784,7 +16027,7 @@
       "beiðni",
       "japanska",
       "myndletur",
-      "“beiting”",
+      "application",
       "ideograph",
       "Japanese “application” button",
       "Japanska",
@@ -15798,7 +16041,7 @@
       "japanska",
       "lágmarkseinkunn",
       "myndletur",
-      "“passing grade”",
+      "passing grade",
       "ideograph",
       "Japanese “passing grade” button",
       "Japanska",
@@ -15812,7 +16055,7 @@
       "japanska",
       "myndletur",
       "tómt",
-      "“laust”",
+      "vacancy",
       "ideograph",
       "Japanese “vacancy” button",
       "Japanska",
@@ -15822,10 +16065,13 @@
   {
     "emoji": "㊗️",
     "tags": [
-      "„Til hamingju“ ´a japönsku",
+      "„Til hamingju“ á japönsku",
       "japanska",
       "myndletur",
-      "til hamingju"
+      "til hamingju",
+      "congratulations",
+      "ideograph",
+      "japanese"
     ]
   },
   {
@@ -15844,7 +16090,7 @@
       "japanska",
       "myndletur",
       "vinna",
-      "“open for business”",
+      "open for business",
       "ideograph",
       "Japanese “open for business” button",
       "Japanska",
@@ -15858,7 +16104,7 @@
       "allt fullt",
       "japanska",
       "myndletur",
-      "“ekkert laust”",
+      "no vacancy",
       "ideograph",
       "Japanese “no vacancy” button",
       "Japanska",
@@ -15931,7 +16177,8 @@
       "hringur",
       "rúmfræði",
       "svartur",
-      "svartur hringur"
+      "svartur hringur",
+      "svart"
     ]
   },
   {
@@ -15940,7 +16187,8 @@
       "hringur",
       "hvítur",
       "rúmfræði",
-      "white circle"
+      "white circle",
+      "hvítt"
     ]
   },
   {
@@ -16004,7 +16252,8 @@
     "tags": [
       "ferningur",
       "rúmfræði",
-      "stór svartur ferningur"
+      "stór svartur ferningur",
+      "black"
     ]
   },
   {
@@ -16013,7 +16262,8 @@
       "ferningur",
       "rúmfræði",
       "stór hvítur ferningur",
-      "white large square"
+      "white large square",
+      "white"
     ]
   },
   {
@@ -16029,7 +16279,10 @@
     "tags": [
       "ferningur",
       "hvítur meðalstór ferningur",
-      "rúmfræði"
+      "rúmfræði",
+      "geometric",
+      "white medium square",
+      "white"
     ]
   },
   {
@@ -16151,7 +16404,9 @@
     "emoji": "🔘",
     "tags": [
       "hnappur",
-      "valhnappur"
+      "valhnappur",
+      "radio button",
+      "circle"
     ]
   },
   {
@@ -16170,7 +16425,11 @@
     "tags": [
       "ferningur",
       "hnappur",
-      "svartur ferningslaga hnappur"
+      "svartur ferningslaga hnappur",
+      "button",
+      "geometric",
+      "square",
+      "outlined"
     ]
   },
   {
@@ -16239,7 +16498,19 @@
       "gleðiganga",
       "regnbogafáni",
       "regnbogi",
-      "pride"
+      "pride",
+      "lgbtqia",
+      "lgbt",
+      "lgbtqa",
+      "queer",
+      "gay",
+      "lesbian",
+      "intersex",
+      "bisexual",
+      "transgender",
+      "trans",
+      "asexual",
+      "questioning"
     ]
   },
   {
@@ -16254,6 +16525,181 @@
       "plunder",
       "pirate flag",
       "treasure"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "tags": [
+      "face",
+      "frown",
+      "sad",
+      "slightly frowning face"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "death",
+      "skull",
+      "crossbones",
+      "skull and crossbones",
+      "bones",
+      "dead"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "tags": [
+      "hjarta",
+      "red heart"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "heart suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "🗨️",
+    "tags": [
+      "balloon",
+      "blaðra",
+      "dialog",
+      "comic",
+      "speech"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "snow",
+      "snowflake",
+      "kalt",
+      "ice"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "tags": [
+      "phone",
+      "telephone"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "blýantur"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "alembic",
+      "science",
+      "chemistry"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "atom"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "asterisk",
+      "eight spoke"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "star",
+      "eight pointed"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "!",
+      "exclamation",
+      "double exclamation"
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "tags": [
+      "recyce",
+      "reuse",
+      "green"
+    ]
+  },
+  {
+    "emoji": "🅰️",
+    "tags": [
+      "a",
+      "letter a"
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "tags": [
+      "o",
+      "letter o"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "service charger",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "monthly amount",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "secret",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "tags": [
+      "black small square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "tags": [
+      "black medium square",
+      "rúmfræði",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "geometric",
+      "square",
+      "white small square",
+      "hvítt"
     ]
   },
   {

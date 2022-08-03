@@ -37,7 +37,8 @@
       "uśmiechnięta twarz z wesołymi oczami",
       "otwarte",
       "śmiech",
-      "wesołość"
+      "wesołość",
+      "radość"
     ]
   },
   {
@@ -80,7 +81,6 @@
       "uśmiech",
       "uśmiechnięta twarz z otwartymi ustami, oblana zimnym potem",
       "wesoły",
-      "zimny",
       "twarz",
       "otwarty",
       "uśmiechnięta twarz z kroplą potu",
@@ -251,7 +251,11 @@
       "buźka",
       "uśmiech",
       "uśmiechnięta twarz",
-      "zrelaksowany"
+      "zrelaksowany",
+      "face",
+      "slightly smiling face",
+      "wesołość",
+      "smile"
     ]
   },
   {
@@ -448,7 +452,7 @@
       "neutralna twarz",
       "nic",
       "nie mam zdania",
-      "deadpan",
+      "kamienna twarz",
       "twarz",
       "neutralny",
       "eee tam"
@@ -574,9 +578,9 @@
     "tags": [
       "zamyślona buźka",
       "zamyślona twarz",
-      "dejected",
+      "przybity",
       "twarz",
-      "pensive"
+      "melancholijny"
     ]
   },
   {
@@ -730,9 +734,7 @@
       "wstawiony",
       "zamroczona twarz",
       "zawroty głowy",
-      "pijany",
-      "wavy mouth",
-      "woozy face"
+      "pijany"
     ]
   },
   {
@@ -757,7 +759,7 @@
       "spiralna",
       "zahipnotyzowany",
       "kłopoty",
-      "whoa"
+      "o rany"
     ]
   },
   {
@@ -766,7 +768,6 @@
       "eksplodująca głowa",
       "szok",
       "wybuchająca głowa",
-      "mind blown",
       "zszokowany"
     ]
   },
@@ -934,7 +935,7 @@
       "twarz z wypiekami",
       "oszołomiony",
       "twarz",
-      "flushed"
+      "zarumieniony"
     ]
   },
   {
@@ -1038,10 +1039,9 @@
       "twarz krzycząca ze strachu",
       "twarz",
       "krzycząca ze strachu twarz",
-      "munch",
+      "krzyk",
       "strach",
-      "przerażony",
-      "krzyk"
+      "przerażony"
     ]
   },
   {
@@ -1049,7 +1049,7 @@
     "tags": [
       "zakłopotana twarz",
       "zirytowana buźka",
-      "confounded",
+      "zakłopotany",
       "twarz"
     ]
   },
@@ -1060,8 +1060,7 @@
       "uparta twarz",
       "zacięta twarz",
       "twarz",
-      "persevere",
-      "persevering face"
+      "wytrwać"
     ]
   },
   {
@@ -1383,7 +1382,7 @@
       "serca",
       "uśmiechnięty kot z oczami w kształcie serca",
       "zakochany",
-      "serce",
+      "heart eyes",
       "twarz",
       "uśmiech",
       "uśmiechnięty kot z sercami w oczach"
@@ -1533,6 +1532,7 @@
       "miłość",
       "serce",
       "wiadomość",
+      "heart letter",
       "poczta"
     ]
   },
@@ -1576,8 +1576,8 @@
       "tętno",
       "zdenerwowany",
       "podekscytowany",
-      "rosnący",
-      "nerwowy"
+      "nerwowy",
+      "rosnący"
     ]
   },
   {
@@ -1617,7 +1617,6 @@
       "dekoracja",
       "dekoracja z sercem",
       "ozdoba",
-      "serce",
       "ozdobne serce"
     ]
   },
@@ -1628,7 +1627,10 @@
       "serce",
       "wykrzyknik",
       "wykrzyknik w kształcie serca",
-      "znak interpunkcyjny"
+      "znak interpunkcyjny",
+      "heart exclamation",
+      "heart drop",
+      "exclamation"
     ]
   },
   {
@@ -1638,7 +1640,7 @@
       "serce",
       "złamane serce",
       "zerwanie",
-      "złamane"
+      "heart break"
     ]
   },
   {
@@ -1650,6 +1652,7 @@
       "serce",
       "serce w płomieniach",
       "święte serce",
+      "burning heart",
       "pożądanie"
     ]
   },
@@ -1662,11 +1665,12 @@
       "uleczone serce",
       "zdrowsze",
       "zdrowszy",
-      "polepszać się",
       "leczące się serce",
+      "heart mending",
       "naprawiać",
       "dochodzić do siebie",
-      "kurować się"
+      "kurować się",
+      "polepszać się"
     ]
   },
   {
@@ -1683,7 +1687,8 @@
     "tags": [
       "pomarańczowe",
       "pomarańczowe serce",
-      "pomarańczowy"
+      "pomarańczowy",
+      "heart orange"
     ]
   },
   {
@@ -1692,7 +1697,8 @@
       "serce",
       "żółte",
       "żółty",
-      "żółte serce"
+      "żółte serce",
+      "heart yellow"
     ]
   },
   {
@@ -1701,7 +1707,8 @@
       "serce",
       "zielone",
       "zielony",
-      "zielone serce"
+      "zielone serce",
+      "heart green"
     ]
   },
   {
@@ -1710,7 +1717,8 @@
       "niebieskie",
       "serce",
       "niebieski",
-      "niebieskie serce"
+      "niebieskie serce",
+      "heart blue"
     ]
   },
   {
@@ -1720,7 +1728,8 @@
       "purpurowe serce",
       "serce",
       "fioletowy",
-      "fioletowe serce"
+      "fioletowe serce",
+      "heart purple"
     ]
   },
   {
@@ -1728,7 +1737,9 @@
     "tags": [
       "brązowe",
       "serce",
-      "brązowy"
+      "brązowy",
+      "brownheart",
+      "heart brown"
     ]
   },
   {
@@ -1738,6 +1749,7 @@
       "czarny",
       "serce",
       "zło",
+      "heart black",
       "grzeszny",
       "zły"
     ]
@@ -1747,7 +1759,9 @@
     "tags": [
       "białe",
       "serce",
-      "biały"
+      "biały",
+      "white heart",
+      "heart white"
     ]
   },
   {
@@ -1841,7 +1855,8 @@
       "rozmowa",
       "balonik",
       "komiksowy",
-      "mowa"
+      "mowa",
+      "typing"
     ]
   },
   {
@@ -1896,7 +1911,12 @@
       "machająca dłoń",
       "ręka",
       "fala",
-      "powiewać"
+      "powiewać",
+      "hi",
+      "hey",
+      "powitanie",
+      "bye",
+      "pożegnanie"
     ]
   },
   {
@@ -1935,7 +1955,8 @@
       "ręka",
       "piątka",
       "uniesiona dłoń",
-      "przybijanie piątki"
+      "przybijanie piątki",
+      "hifive"
     ]
   },
   {
@@ -1944,11 +1965,11 @@
       "dłoń",
       "palce",
       "salut wolkański",
+      "Spock",
       "wolkański",
       "palec",
       "ręka",
       "Vulkanin",
-      "Spock",
       "vulkańskie pozdrowienie"
     ]
   },
@@ -2026,7 +2047,7 @@
       "znak rockersów",
       "palec",
       "ręka",
-      "rock-on",
+      "cool",
       "symbol rogów",
       "metalowy"
     ]
@@ -2040,7 +2061,7 @@
       "gest zadzwoń",
       "ręka",
       "znak potrząsania",
-      "right on",
+      "w porządku",
       "podziękowanie"
     ]
   },
@@ -2631,7 +2652,7 @@
       "krzywić się",
       "gest",
       "mężczyzna",
-      "person frowning"
+      "niezadowolona osoba"
     ]
   },
   {
@@ -2640,7 +2661,7 @@
       "mężczyzna",
       "zachmurzony mężczyzna",
       "zmarszczone brwi",
-      "frowning",
+      "marszczyć brwi",
       "gest"
     ]
   },
@@ -2650,7 +2671,7 @@
       "kobieta",
       "zachmurzona kobieta",
       "zmarszczone brwi",
-      "frowning",
+      "marszczyć brwi",
       "gest"
     ]
   },
@@ -2698,7 +2719,8 @@
       "człowiek wykonujący gest NIE",
       "ręka",
       "zabronione",
-      "X"
+      "X",
+      "nie"
     ]
   },
   {
@@ -2779,10 +2801,10 @@
       "pomogę",
       "życzliwy",
       "ręka",
-      "person tipping hand",
+      "osoba z uniesioną ręką",
       "informacja",
-      "sassy",
-      "tipping"
+      "opryskliwy",
+      "dawać napiwek"
     ]
   },
   {
@@ -2791,9 +2813,9 @@
       "mężczyzna",
       "mężczyzna z wystawioną dłonią",
       "otwarta dłoń",
-      "man tipping hand",
-      "tipping hand",
-      "sassy"
+      "mężczyzna z uniesioną ręką",
+      "uniesiona ręka",
+      "opryskliwy"
     ]
   },
   {
@@ -2802,9 +2824,9 @@
       "kobieta",
       "kobieta z wystawioną dłonią",
       "otwarta dłoń",
-      "sassy",
-      "tipping hand",
-      "woman tipping hand"
+      "opryskliwy",
+      "uniesiona ręka",
+      "kobieta z uniesioną ręką"
     ]
   },
   {
@@ -2815,9 +2837,10 @@
       "witaj!",
       "gest",
       "ręka",
-      "person raising hand",
-      "radość",
-      "uniesiony"
+      "uniesiony",
+      "hi",
+      "hey",
+      "powitanie"
     ]
   },
   {
@@ -2828,8 +2851,9 @@
       "mężczyzna",
       "mężczyzna podnoszący rękę",
       "powitanie",
-      "raising hand",
-      "man raising hand"
+      "unosić rękę",
+      "hi",
+      "hey"
     ]
   },
   {
@@ -2840,8 +2864,9 @@
       "kobieta",
       "kobieta podnosząca rękę",
       "powitanie",
-      "raising hand",
-      "woman raising hand"
+      "unosić rękę",
+      "hi",
+      "hey"
     ]
   },
   {
@@ -2889,7 +2914,7 @@
       "przykro mi",
       "przeprosiny",
       "ukłon",
-      "kłaniający się człowiek",
+      "kłaniająca się osoba",
       "gest",
       "przepraszać"
     ]
@@ -2932,7 +2957,7 @@
       "irytacja",
       "palma",
       "twarz",
-      "person facepalming"
+      "osoba zasłaniająca twarz dłonią"
     ]
   },
   {
@@ -2945,7 +2970,8 @@
       "niedowierzanie",
       "załamka",
       "irytacja",
-      "man facepalming"
+      "zasłaniać twarz dłonią",
+      "mężczyzna zasłaniający twarz dłonią"
     ]
   },
   {
@@ -2958,8 +2984,8 @@
       "niedowierzanie",
       "załamka",
       "irytacja",
-      "facepalm",
-      "woman facepalming"
+      "zasłaniać twarz dłonią",
+      "kobieta zasłaniająca twarz dłonią"
     ]
   },
   {
@@ -4196,7 +4222,6 @@
       "pieszo",
       "spacer",
       "wędrować",
-      "person walking",
       "chodzić"
     ]
   },
@@ -4422,8 +4447,7 @@
       "mężczyzna",
       "biznes",
       "osoba",
-      "suit",
-      "person in suit levitating"
+      "lewitująca osoba w garniturze"
     ]
   },
   {
@@ -4473,7 +4497,8 @@
       "osoba w zaparowanym pomieszczeniu",
       "sauna",
       "zaparowane pomieszczenie",
-      "osoba w saunie"
+      "osoba w saunie",
+      "spa"
     ]
   },
   {
@@ -4483,7 +4508,8 @@
       "sauna",
       "zaparowane pomieszczenie",
       "mężczyzna w saunie",
-      "mężczyzna"
+      "mężczyzna",
+      "spa"
     ]
   },
   {
@@ -4493,7 +4519,8 @@
       "sauna",
       "zaparowane pomieszczenie",
       "kobieta",
-      "kobieta w saunie"
+      "kobieta w saunie",
+      "spa"
     ]
   },
   {
@@ -4642,7 +4669,8 @@
       "kraulem",
       "pływająca osoba",
       "pływak",
-      "pływać"
+      "pływać",
+      "swimmer"
     ]
   },
   {
@@ -4652,7 +4680,8 @@
       "mężczyzna",
       "pływający mężczyzna",
       "pływanie",
-      "pływać"
+      "pływać",
+      "swimmer"
     ]
   },
   {
@@ -4662,7 +4691,8 @@
       "kraul",
       "pływająca kobieta",
       "pływanie",
-      "pływać"
+      "pływać",
+      "swimmer"
     ]
   },
   {
@@ -4988,7 +5018,7 @@
       "miłość",
       "para",
       "za ręce",
-      "zakochani",
+      "zakochane",
       "ręka",
       "kobiety",
       "trzymanie się za ręce",
@@ -5721,7 +5751,7 @@
     "tags": [
       "borsuk",
       "miodożer",
-      "pester"
+      "dręczyć"
     ]
   },
   {
@@ -5882,7 +5912,7 @@
       "ekstrawagancja",
       "flaming",
       "tropikalny",
-      "flamboyant"
+      "krzykliwy"
     ]
   },
   {
@@ -6327,10 +6357,10 @@
       "podlewać",
       "roślina",
       "roślina doniczkowa",
-      "boring",
-      "grow",
-      "nurturing",
-      "useless"
+      "odwiert",
+      "rosnąć",
+      "pielęgnowanie",
+      "bezużyteczny"
     ]
   },
   {
@@ -6389,7 +6419,11 @@
     "tags": [
       "koniczyna",
       "koniczynka",
-      "roślina"
+      "roślina",
+      "shamrock",
+      "three-leaf clover",
+      "three",
+      "leaf"
     ]
   },
   {
@@ -8342,7 +8376,8 @@
       "gorące źródła",
       "para",
       "woda",
-      "źródło"
+      "źródło",
+      "hot springs"
     ]
   },
   {
@@ -8413,7 +8448,7 @@
       "szynowy",
       "tramwaj",
       "wagon kolejowy",
-      "wagon",
+      "train car",
       "kolej",
       "trolejbus"
     ]
@@ -8505,6 +8540,7 @@
       "kolej górska",
       "pojazd",
       "wagon",
+      "train car",
       "góra"
     ]
   },
@@ -8516,7 +8552,8 @@
       "tramwaj",
       "trolejbus",
       "wagon",
-      "wagon tramwajowy"
+      "wagon tramwajowy",
+      "train car"
     ]
   },
   {
@@ -8712,7 +8749,8 @@
     "tags": [
       "motor",
       "pojazd",
-      "skuter"
+      "skuter",
+      "moped"
     ]
   },
   {
@@ -8720,7 +8758,8 @@
     "tags": [
       "dostępność",
       "wózek inwalidzki ręczny",
-      "ręczny wózek inwalidzki"
+      "ręczny wózek inwalidzki",
+      "wózek inwalidzki"
     ]
   },
   {
@@ -8728,7 +8767,8 @@
     "tags": [
       "dostępność",
       "wózek inwalidzki elektryczny",
-      "elektryczny wózek inwalidzki"
+      "elektryczny wózek inwalidzki",
+      "wózek inwalidzki"
     ]
   },
   {
@@ -8831,12 +8871,11 @@
       "policyjny",
       "sygnalizator świetlny",
       "światło ostrzegawcze",
-      "wagon",
       "policja",
       "lekki",
       "wirujący",
-      "alarm",
       "budzik",
+      "alarm",
       "nagły wypadek",
       "syrena"
     ]
@@ -8848,7 +8887,8 @@
       "sygnalizacja świetlna",
       "pozioma sygnalizacja świetlna",
       "lekki",
-      "światła drogowe"
+      "światła drogowe",
+      "stoplight"
     ]
   },
   {
@@ -8858,7 +8898,8 @@
       "sygnalizacja świetlna",
       "lekki",
       "pionowa sygnalizacja świetlna",
-      "sygnalizacja"
+      "sygnalizacja",
+      "stoplight"
     ]
   },
   {
@@ -8958,7 +8999,10 @@
   {
     "emoji": "✈️",
     "tags": [
-      "samolot"
+      "samolot",
+      "aeroplane",
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -9636,7 +9680,9 @@
       "pogoda",
       "promienie",
       "słońce",
-      "słonecznie"
+      "słonecznie",
+      "sun",
+      "jasna"
     ]
   },
   {
@@ -9711,14 +9757,16 @@
       "gwiazdy",
       "niebo",
       "noc",
-      "przestrzeń kosmiczna"
+      "przestrzeń kosmiczna",
+      "galaxy"
     ]
   },
   {
     "emoji": "☁️",
     "tags": [
       "chmura",
-      "pogoda"
+      "pogoda",
+      "cloud"
     ]
   },
   {
@@ -9856,7 +9904,18 @@
       "deszcz",
       "pogoda",
       "słońce",
-      "tęcza"
+      "tęcza",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "duma",
+      "gay",
+      "lesbian",
+      "queer",
+      "transpłciowy",
+      "trans",
+      "intersex",
+      "asexual"
     ]
   },
   {
@@ -9879,7 +9938,9 @@
       "opady",
       "pada",
       "parasol",
-      "pogoda"
+      "pogoda",
+      "umbrella",
+      "rain"
     ]
   },
   {
@@ -9934,11 +9995,16 @@
   {
     "emoji": "☃️",
     "tags": [
+      "bałwan",
+      "bałwan i płatki śniegu",
       "bałwanek i płatki śniegu",
       "pogoda",
       "śnieg",
       "zabawa na śniegu",
-      "zimno"
+      "zimno",
+      "cold",
+      "snow",
+      "snowman"
     ]
   },
   {
@@ -9946,6 +10012,7 @@
     "tags": [
       "bałwan",
       "bałwan bez śniegu",
+      "bałwanek bez śniegu",
       "pogoda",
       "śnieg",
       "zabawa na śniegu",
@@ -10051,11 +10118,10 @@
   {
     "emoji": "✨",
     "tags": [
-      "* gwiazdki",
+      "*",
       "gwiazda",
       "gwiazdki",
       "gwiazdy",
-      "*",
       "migotać",
       "iskry"
     ]
@@ -10183,7 +10249,8 @@
       "podarunek",
       "prezent",
       "wstążka",
-      "święta"
+      "święta",
+      "ukłon"
     ]
   },
   {
@@ -10209,7 +10276,7 @@
       "wstążka",
       "wstążka pamięci",
       "święta",
-      "reminder"
+      "przypomnienie"
     ]
   },
   {
@@ -10389,7 +10456,8 @@
       "frisbee",
       "latający dysk",
       "ultimate",
-      "flying disc"
+      "lecący dysk",
+      "ostateczny"
     ]
   },
   {
@@ -10705,7 +10773,9 @@
       "automat do gry",
       "jednoręki bandyta",
       "kasyno",
-      "gra"
+      "gra",
+      "gambling",
+      "casino"
     ]
   },
   {
@@ -10762,7 +10832,8 @@
       "matrioszki",
       "rosyjska",
       "lalka w lalce",
-      "rosyjskie"
+      "rosyjskie",
+      "matryoshka"
     ]
   },
   {
@@ -10771,7 +10842,9 @@
       "gra",
       "karta",
       "pik",
-      "talia"
+      "talia",
+      "spade suit",
+      "card suit"
     ]
   },
   {
@@ -10789,7 +10862,9 @@
       "gra",
       "karo",
       "karta",
-      "talia"
+      "talia",
+      "diamond suit",
+      "card suit"
     ]
   },
   {
@@ -10798,7 +10873,9 @@
       "gra",
       "karta",
       "talia",
-      "trefl"
+      "trefl",
+      "club suit",
+      "card suit"
     ]
   },
   {
@@ -10841,9 +10918,9 @@
       "japońska",
       "kwiat",
       "karta",
-      "flower playing cards",
+      "gra w karty",
       "japońskie",
-      "playing"
+      "grać"
     ]
   },
   {
@@ -10931,7 +11008,6 @@
       "węzeł",
       "wiązać",
       "splątany",
-      "twine",
       "skręcać"
     ]
   },
@@ -11040,7 +11116,8 @@
     "emoji": "🧤",
     "tags": [
       "ręka",
-      "rękawiczki"
+      "rękawiczki",
+      "mittens"
     ]
   },
   {
@@ -11488,7 +11565,7 @@
     "tags": [
       "kibicować",
       "megafon",
-      "cheering"
+      "wiwatować"
     ]
   },
   {
@@ -11498,14 +11575,15 @@
       "pocztowa",
       "róg",
       "trąbka",
-      "postal"
+      "trąbka pocztowa"
     ]
   },
   {
     "emoji": "🔔",
     "tags": [
       "dzwon",
-      "dzwonek"
+      "dzwonek",
+      "pierścionek"
     ]
   },
   {
@@ -11518,7 +11596,6 @@
       "przekreślony dzwonek",
       "zabroniony",
       "zakazany",
-      "bell with slash",
       "niemy",
       "zakazane",
       "cichy",
@@ -11701,7 +11778,8 @@
       "komórka",
       "smartfon",
       "telefon",
-      "telefon komórkowy"
+      "telefon komórkowy",
+      "smartphone"
     ]
   },
   {
@@ -11714,7 +11792,8 @@
       "strzałka",
       "telefon",
       "telefon komórkowy ze strzałką",
-      "telefon komórkowy"
+      "telefon komórkowy",
+      "smartphone"
     ]
   },
   {
@@ -11735,7 +11814,8 @@
   {
     "emoji": "📟",
     "tags": [
-      "pager"
+      "pager",
+      "beeper"
     ]
   },
   {
@@ -11780,7 +11860,9 @@
       "ekran",
       "komputer",
       "stacjonarny",
-      "wyświetlacz"
+      "wyświetlacz",
+      "monitor",
+      "screen"
     ]
   },
   {
@@ -11795,7 +11877,9 @@
     "tags": [
       "klawiatura",
       "komputer",
-      "pisać"
+      "pisać",
+      "keyboard",
+      "computer keyboard"
     ]
   },
   {
@@ -11912,9 +11996,7 @@
     "tags": [
       "film",
       "kino",
-      "klaps",
-      "clapper",
-      "clapper board"
+      "klaps"
     ]
   },
   {
@@ -11991,7 +12073,12 @@
       "lupa",
       "lupa pochylona w prawo",
       "skierowana w prawo",
-      "szukaj"
+      "szukaj",
+      "szklanka",
+      "magnifying",
+      "search",
+      "magnifying glass tilted right",
+      "tool"
     ]
   },
   {
@@ -12045,7 +12132,6 @@
       "dipa",
       "lampka",
       "oliwna",
-      "diya",
       "lampa",
       "olej"
     ]
@@ -12192,8 +12278,7 @@
       "zakładka",
       "znak",
       "znacznik",
-      "tabs",
-      "marker"
+      "zakładki"
     ]
   },
   {
@@ -12210,7 +12295,7 @@
       "breloczek",
       "etykieta",
       "przywieszka do kluczy",
-      "label"
+      "tag"
     ]
   },
   {
@@ -12347,7 +12432,9 @@
       "e-mail",
       "koperta",
       "list",
-      "wiadomość"
+      "wiadomość",
+      "letter",
+      "mail"
     ]
   },
   {
@@ -12512,7 +12599,10 @@
     "tags": [
       "pióro",
       "pióro z czarną stalówką",
-      "stalówka"
+      "stalówka",
+      "pen",
+      "pen nib",
+      "nib"
     ]
   },
   {
@@ -12554,7 +12644,10 @@
       "notatka",
       "ołówek",
       "papier",
-      "zapiski"
+      "zapiski",
+      "pencil and paper",
+      "paper",
+      "write"
     ]
   },
   {
@@ -12593,7 +12686,7 @@
       "rozdzielacze",
       "rozdzielacze kartoteki",
       "karta",
-      "dividers",
+      "przekładka",
       "palec wskazujący"
     ]
   },
@@ -12758,7 +12851,9 @@
       "narzędzie",
       "nożyczki",
       "ostre",
-      "przeciąć"
+      "przeciąć",
+      "scissors",
+      "cut"
     ]
   },
   {
@@ -12796,7 +12891,8 @@
       "kosz na śmieci",
       "odpadki",
       "śmieci",
-      "wastebasket"
+      "trash",
+      "puszka"
     ]
   },
   {
@@ -12806,7 +12902,8 @@
       "zablokowane",
       "zamknięta kłódka",
       "zamknięte",
-      "locked"
+      "zamknięty",
+      "padlock"
     ]
   },
   {
@@ -12816,8 +12913,9 @@
       "odblokować",
       "otwarta",
       "otwarte",
-      "unlocked",
-      "unlock"
+      "otwarty",
+      "otworzyć",
+      "padlock"
     ]
   },
   {
@@ -12829,10 +12927,11 @@
       "podpis",
       "prywatność",
       "zamknięta kłódka z piórem",
-      "ink",
+      "tusz",
       "kłódka",
-      "nib",
-      "locked with pen"
+      "stalówka",
+      "kłódka z piórem",
+      "padlock"
     ]
   },
   {
@@ -12846,7 +12945,8 @@
       "zamknięte",
       "klucz",
       "zamknięty na kłódkę",
-      "bezpieczny"
+      "bezpieczny",
+      "padlock"
     ]
   },
   {
@@ -12887,7 +12987,7 @@
       "rozłupywać",
       "siekiera",
       "topór",
-      "split"
+      "rozciąć"
     ]
   },
   {
@@ -12906,7 +13006,9 @@
       "kilof",
       "młot",
       "młoty",
-      "narzędzia"
+      "narzędzia",
+      "hammer",
+      "pick"
     ]
   },
   {
@@ -12934,7 +13036,10 @@
     "tags": [
       "biała broń",
       "miecze",
-      "skrzyżowane"
+      "skrzyżowane",
+      "sword",
+      "fencing",
+      "crossed swords"
     ]
   },
   {
@@ -12956,8 +13061,8 @@
       "Australia",
       "bumerang",
       "wraca",
-      "repercussion",
-      "rebound"
+      "reperkusja",
+      "skutek"
     ]
   },
   {
@@ -12980,7 +13085,6 @@
       "ochrona",
       "osłona",
       "tarcza",
-      "shield",
       "broń"
     ]
   },
@@ -12992,9 +13096,7 @@
       "piła do drewna",
       "stolarz",
       "tarcica",
-      "carpenter",
-      "carpentry saw",
-      "saw",
+      "piła stolarska",
       "bal",
       "narzędzia"
     ]
@@ -13018,8 +13120,6 @@
       "śrubokręt",
       "wkręt",
       "wkrętak",
-      "screw",
-      "screwdriver",
       "narzędzia"
     ]
   },
@@ -13031,10 +13131,9 @@
       "nakrętka",
       "śruba",
       "śruba i nakrętka",
-      "bolt",
       "orzech",
       "narzędzia",
-      "nut and bolt"
+      "wkręt"
     ]
   },
   {
@@ -13044,7 +13143,10 @@
       "koło zębate",
       "skrzynia biegów",
       "zębate",
-      "zębatka"
+      "zębatka",
+      "gear",
+      "cog",
+      "machine"
     ]
   },
   {
@@ -13056,9 +13158,8 @@
       "presja",
       "ścisk",
       "ściskanie",
-      "clamp",
-      "compress",
-      "vice",
+      "ściskać",
+      "imadło",
       "narzędzia"
     ]
   },
@@ -13072,7 +13173,10 @@
       "waga",
       "waga szalkowa",
       "ważyć",
-      "zodiak"
+      "zodiak",
+      "scale",
+      "balance",
+      "prawo"
     ]
   },
   {
@@ -13080,8 +13184,7 @@
     "tags": [
       "biała laska",
       "dostępność",
-      "niewidomy",
-      "white cane"
+      "niewidomy"
     ]
   },
   {
@@ -13111,10 +13214,8 @@
       "połknąć",
       "zakrzywiony",
       "złapać",
-      "crook",
       "złowić",
-      "curve",
-      "selling point"
+      "wygięty"
     ]
   },
   {
@@ -13279,7 +13380,8 @@
       "lekarz",
       "medycyna",
       "serce",
-      "stetoskop"
+      "stetoskop",
+      "listen"
     ]
   },
   {
@@ -13292,8 +13394,7 @@
     "emoji": "🛗",
     "tags": [
       "dostępność",
-      "winda",
-      "hoist"
+      "winda"
     ]
   },
   {
@@ -13366,8 +13467,8 @@
       "przepychać",
       "przepychacz",
       "toaleta",
-      "force cup",
-      "suction"
+      "przetykacz kanalizacyjny",
+      "przyssawka"
     ]
   },
   {
@@ -13414,10 +13515,9 @@
       "krem do opalania",
       "mleczko",
       "szampon",
-      "lotion",
-      "lotion bottle",
-      "moisturizer",
-      "sunscreen"
+      "butelka balsamu",
+      "krem nawilżający",
+      "krem z filtrem"
     ]
   },
   {
@@ -13426,9 +13526,7 @@
       "agrafka",
       "pielucha",
       "punk",
-      "punk rock",
-      "diaper",
-      "safety pin"
+      "punk rock"
     ]
   },
   {
@@ -13438,9 +13536,8 @@
       "miotła",
       "sprzątanie",
       "zamiatanie",
-      "broom",
       "czyścić",
-      "sweeping"
+      "zamiatać"
     ]
   },
   {
@@ -13449,11 +13546,7 @@
       "kosz",
       "piknik",
       "pranie",
-      "rolnictwo",
-      "basket",
-      "farming",
-      "picnic",
-      "laundry"
+      "rolnictwo"
     ]
   },
   {
@@ -13471,10 +13564,7 @@
       "kubeł",
       "wiaderko",
       "wiadro",
-      "bucket",
-      "cask",
-      "vat",
-      "pail"
+      "kadź"
     ]
   },
   {
@@ -13488,9 +13578,8 @@
       "piana",
       "bar",
       "kąpać się",
-      "lather",
-      "czyścić",
-      "soapdish"
+      "mydlić",
+      "czyścić"
     ]
   },
   {
@@ -13548,7 +13637,8 @@
       "dym",
       "dymek",
       "papieros",
-      "palić"
+      "palić",
+      "tobacco"
     ]
   },
   {
@@ -13556,7 +13646,12 @@
     "tags": [
       "pogrzeb",
       "śmierć",
-      "trumna"
+      "trumna",
+      "coffin",
+      "death",
+      "dead",
+      "casket",
+      "funeral"
     ]
   },
   {
@@ -13566,7 +13661,8 @@
       "grób",
       "kamień nagrobny",
       "nagrobek",
-      "grobowiec"
+      "grobowiec",
+      "gravestone"
     ]
   },
   {
@@ -13575,7 +13671,11 @@
       "pogrzeb",
       "śmierć",
       "urna",
-      "urna na prochy"
+      "urna na prochy",
+      "funeral",
+      "urn",
+      "death",
+      "dead"
     ]
   },
   {
@@ -13586,7 +13686,7 @@
       "twarz",
       "wyspa wielkanocna",
       "statua",
-      "moyai"
+      "posągi z Wyspy Wielkanocnej"
     ]
   },
   {
@@ -13631,8 +13731,7 @@
       "pić",
       "pitna",
       "woda",
-      "drinking",
-      "potable",
+      "pitny",
       "wodny"
     ]
   },
@@ -13644,8 +13743,7 @@
       "niepełnosprawny",
       "symbol wózka inwalidzkiego",
       "wózek",
-      "access",
-      "wheelchair symbol"
+      "dostęp"
     ]
   },
   {
@@ -13657,11 +13755,10 @@
       "toaleta męska",
       "ubikacja",
       "ustęp",
-      "lavatory",
+      "łazienka",
       "mężczyzna",
-      "restroom",
-      "men’s room",
-      "wc"
+      "męska toaleta",
+      "WC"
     ]
   },
   {
@@ -13673,11 +13770,10 @@
       "toaleta damska",
       "ubikacja",
       "ustęp",
-      "lavatory",
-      "restroom",
+      "łazienka",
       "kobieta",
-      "wc",
-      "women’s room"
+      "WC",
+      "damska toaleta"
     ]
   },
   {
@@ -13687,8 +13783,6 @@
       "toaleta",
       "toalety",
       "ubikacja",
-      "lavatory",
-      "restroom",
       "WC"
     ]
   },
@@ -13698,8 +13792,8 @@
       "niemowlę",
       "symbol niemowlęcia",
       "dziecko",
-      "baby symbol",
-      "changing"
+      "symbol dziecka",
+      "przebierać"
     ]
   },
   {
@@ -13711,10 +13805,9 @@
       "ustęp",
       "wc",
       "WC",
-      "closet",
-      "lavatory",
-      "wodny",
-      "restroom"
+      "szatnia",
+      "łazienka",
+      "wodny"
     ]
   },
   {
@@ -13725,8 +13818,7 @@
       "kontrola",
       "kontrola paszportowa",
       "paszport",
-      "kontrolki",
-      "passport"
+      "kontrolki"
     ]
   },
   {
@@ -13735,7 +13827,7 @@
       "celna",
       "komora celna",
       "kontrola",
-      "customs"
+      "cło"
     ]
   },
   {
@@ -13743,9 +13835,7 @@
     "tags": [
       "bagaż",
       "odbiór",
-      "odbiór bagażu",
-      "baggage",
-      "claim"
+      "odbiór bagażu"
     ]
   },
   {
@@ -13756,10 +13846,8 @@
       "przechowalnia bagażu",
       "walizka",
       "zamknięcie",
-      "baggage",
-      "left luggage",
       "bagaż",
-      "locker"
+      "skrytka na bagaż"
     ]
   },
   {
@@ -13768,7 +13856,11 @@
       "ostrzeżenie",
       "uwaga",
       "wykrzyknik",
-      "znak ostrzegawczy"
+      "znak ostrzegawczy",
+      "caution",
+      "warning",
+      "alarm",
+      "zagrożenie"
     ]
   },
   {
@@ -13779,9 +13871,9 @@
       "dziecko",
       "przejście da pieszych",
       "uwaga",
-      "children crossing",
-      "pedestrian",
-      "crossing",
+      "uwaga dzieci",
+      "przechodnie",
+      "przejście dla pieszych",
       "sygnalizacja"
     ]
   },
@@ -13864,7 +13956,7 @@
       "zabronione",
       "zakaz",
       "zakaz picia",
-      "non-potable",
+      "woda nienadająca się do picia",
       "wodny"
     ]
   },
@@ -13879,8 +13971,7 @@
       "zakaz ruchu pieszych",
       "zakazane",
       "nie",
-      "no pedestrians",
-      "pedestrian"
+      "przechodnie"
     ]
   },
   {
@@ -13919,7 +14010,11 @@
     "tags": [
       "promieniowanie",
       "radiacja",
-      "radioaktywne"
+      "radioaktywne",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -13930,7 +14025,11 @@
       "organizm",
       "zagrożenie",
       "zagrożenie ze strony organizmów żywych",
-      "żywy"
+      "żywy",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -13940,7 +14039,9 @@
       "północ",
       "strzałka",
       "strzałka do góry",
-      "strzałka w górę"
+      "strzałka w górę",
+      "arrow",
+      "up"
     ]
   },
   {
@@ -13950,7 +14051,9 @@
       "północny wschód",
       "strzałka",
       "strzałka do góry w prawo",
-      "strzałka w górę w prawo"
+      "strzałka w górę w prawo",
+      "strzała",
+      "up right"
     ]
   },
   {
@@ -13959,7 +14062,9 @@
       "kierunek",
       "strzałka",
       "strzałka w prawo",
-      "wschód"
+      "wschód",
+      "arrow",
+      "right"
     ]
   },
   {
@@ -13968,7 +14073,9 @@
       "kierunek",
       "południowy wschód",
       "strzałka",
-      "strzałka w dół w prawo"
+      "strzałka w dół w prawo",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -13978,7 +14085,9 @@
       "południe",
       "strzałka",
       "strzałka na dół",
-      "strzałka w dół"
+      "strzałka w dół",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -13988,7 +14097,9 @@
       "południowy zachód",
       "strzałka",
       "strzałka na dół w lewo",
-      "strzałka w dół w lewo"
+      "strzałka w dół w lewo",
+      "arrow",
+      "down left"
     ]
   },
   {
@@ -13997,7 +14108,9 @@
       "kierunek",
       "strzałka",
       "strzałka w lewo",
-      "zachód"
+      "zachód",
+      "arrow",
+      "left"
     ]
   },
   {
@@ -14007,7 +14120,9 @@
       "północny zachód",
       "strzałka",
       "strzałka do góry w lewo",
-      "strzałka w górę w lewo"
+      "strzałka w górę w lewo",
+      "arrow",
+      "up left"
     ]
   },
   {
@@ -14016,7 +14131,11 @@
       "dwukierunkowa",
       "góra-dół",
       "strzałka do góry i na dół",
-      "strzałka w górę i w dół"
+      "strzałka w górę i w dół",
+      "arrow",
+      "up and down",
+      "pionowy",
+      "height"
     ]
   },
   {
@@ -14025,7 +14144,11 @@
       "dwukierunkowa",
       "lewo-prawo",
       "na boki",
-      "strzałka w lewo i w prawo"
+      "strzałka w lewo i w prawo",
+      "arrow",
+      "left and right",
+      "horizontal",
+      "width"
     ]
   },
   {
@@ -14034,7 +14157,9 @@
       "strzałka",
       "strzałka zakręcona w lewo",
       "zakręt",
-      "zawróć"
+      "zawróć",
+      "arrow",
+      "return"
     ]
   },
   {
@@ -14043,7 +14168,9 @@
       "strzałka",
       "strzałka zakręcona w prawo",
       "zakręt",
-      "zawróć"
+      "zawróć",
+      "strzała",
+      "naprzód"
     ]
   },
   {
@@ -14051,7 +14178,9 @@
     "tags": [
       "strzałka",
       "strzałka w prawo skręcająca w górę",
-      "zakręt"
+      "zakręt",
+      "arrow",
+      "up bend"
     ]
   },
   {
@@ -14060,7 +14189,9 @@
       "strzałka",
       "strzałka w prawo skręcająca dół",
       "strzałka w prawo skręcająca w dół",
-      "zakręt"
+      "zakręt",
+      "strzała",
+      "down bend"
     ]
   },
   {
@@ -14072,7 +14203,6 @@
       "pionowe strzałki zgodnie z ruchem wskazówek zegara",
       "strzałka",
       "zgodnie z ruchem wskazówek zegara",
-      "reload",
       "pionowe strzałki skierowane zgodnie ze wskazówkami zegara"
     ]
   },
@@ -14084,10 +14214,9 @@
       "przycisk ze strzałkami przeciwnie do ruchu wskazówek zegara",
       "przycisk ze strzałkami w kierunku przeciwnym do ruchu wskazówek zegara",
       "strzałka",
-      "anticlockwise",
+      "przeciwnie do ruchu wskazówek zegara",
       "Przycisk ze strzałkami skierowanymi przeciwnie do ruchu zegara",
-      "counterclockwise",
-      "withershins"
+      "w złą stronę"
     ]
   },
   {
@@ -14096,7 +14225,6 @@
       "strzałka",
       "strzałka z napisem BACK",
       "wstecz",
-      "back",
       "strzałka cofnij"
     ]
   },
@@ -14106,7 +14234,6 @@
       "koniec",
       "strzałka",
       "strzałka z napisem END",
-      "end",
       "strzałka koniec"
     ]
   },
@@ -14118,7 +14245,7 @@
       "włączone",
       "znacznik",
       "strzałka ON!",
-      "on"
+      "strzałka z napisem \"na\""
     ]
   },
   {
@@ -14127,7 +14254,6 @@
       "strzałka",
       "strzałka z napisem SOON",
       "wkrótce",
-      "soon",
       "strzałka wkrótce"
     ]
   },
@@ -14151,8 +14277,7 @@
       "modlitwa",
       "religia",
       "świątynia",
-      "place of worship",
-      "worship"
+      "czcić"
     ]
   },
   {
@@ -14168,7 +14293,7 @@
       "hinduizm",
       "om",
       "religia",
-      "Hindu"
+      "Hinduizm"
     ]
   },
   {
@@ -14180,7 +14305,10 @@
       "gwiazda dawidowa",
       "religia",
       "żyd",
-      "żydowska"
+      "żydowska",
+      "star",
+      "jewish",
+      "start of david"
     ]
   },
   {
@@ -14191,7 +14319,8 @@
       "dharma",
       "koło",
       "koło dharmy",
-      "religia"
+      "religia",
+      "wheel"
     ]
   },
   {
@@ -14202,7 +14331,8 @@
       "taoizm",
       "yang",
       "yin",
-      "yin-yang"
+      "yin-yang",
+      "yin yang"
     ]
   },
   {
@@ -14212,7 +14342,9 @@
       "krzyż",
       "krzyż łaciński",
       "krzyżyk",
-      "religia"
+      "religia",
+      "krzyżować",
+      "christianity"
     ]
   },
   {
@@ -14223,7 +14355,9 @@
       "krzyż ortodoksyjny",
       "krzyż prawosławny",
       "krzyżyk",
-      "religia"
+      "religia",
+      "cross",
+      "orthodox cross"
     ]
   },
   {
@@ -14232,14 +14366,17 @@
       "gwiazda i półksiężyc",
       "islam",
       "muzułmanin",
-      "religia"
+      "religia",
+      "star and crescent"
     ]
   },
   {
     "emoji": "☮️",
     "tags": [
       "pacyfa",
-      "symbol pokoju"
+      "symbol pokoju",
+      "peace",
+      "peace sign"
     ]
   },
   {
@@ -14249,9 +14386,7 @@
       "menora",
       "religia",
       "świecznik",
-      "candelabrum",
-      "candlestick",
-      "menorah"
+      " świecznik"
     ]
   },
   {
@@ -14259,7 +14394,7 @@
     "tags": [
       "gwiazda sześcioramienna z kropką",
       "szczęście",
-      "dotted six-pointed star",
+      "sześcioramienna gwiazda z kropkami",
       "los",
       "gwiazda"
     ]
@@ -14329,8 +14464,7 @@
       "znak zodiaku",
       "zodiak",
       "równowaga",
-      "sprawiedliwość",
-      "Libra"
+      "sprawiedliwość"
     ]
   },
   {
@@ -14339,8 +14473,7 @@
       "skorpion",
       "Skorpion",
       "znak zodiaku",
-      "zodiak",
-      "scorpius"
+      "zodiak"
     ]
   },
   {
@@ -14444,7 +14577,12 @@
       "odtwórz",
       "strzałka",
       "trójkąt",
-      "w prawo"
+      "w prawo",
+      "play",
+      "go",
+      "play button",
+      "right arrow",
+      "triangle"
     ]
   },
   {
@@ -14495,7 +14633,9 @@
       "strzałka",
       "trójkąt",
       "w lewo",
-      "wstecz"
+      "wstecz",
+      "left arrow",
+      "triangle"
     ]
   },
   {
@@ -14546,7 +14686,7 @@
       "strzałka",
       "w górę",
       "podwójny",
-      "fast up button"
+      "przycisk szybko w górę"
     ]
   },
   {
@@ -14557,7 +14697,7 @@
       "strzałka",
       "trójkąt",
       "przycisk",
-      "downwards button",
+      "przycisk w dół",
       "w dół",
       "czerwony"
     ]
@@ -14571,7 +14711,7 @@
       "strzałka",
       "w dół",
       "podwójny",
-      "fast down button"
+      "przycisk szybko w dół"
     ]
   },
   {
@@ -14612,7 +14752,9 @@
     "tags": [
       "kreska",
       "trójkąt",
-      "wysuń"
+      "wysuń",
+      "eject",
+      "eject button"
     ]
   },
   {
@@ -14703,7 +14845,9 @@
       "mnożenie",
       "x",
       "znak",
-      "znak mnożenia"
+      "znak mnożenia",
+      "stop",
+      "cross"
     ]
   },
   {
@@ -14746,7 +14890,10 @@
     "tags": [
       "bezgraniczność",
       "nieskończoność",
-      "wieczność"
+      "wieczność",
+      "infinity",
+      "infinite",
+      "endless"
     ]
   },
   {
@@ -14772,7 +14919,9 @@
       "wykrzyknik",
       "wykrzyknik ze znakiem zapytania",
       "zaskoczenie",
-      "znak zapytania"
+      "znak zapytania",
+      "exclamation",
+      "question"
     ]
   },
   {
@@ -14833,7 +14982,10 @@
       "fala",
       "falista kreska",
       "linia",
-      "pofalowana"
+      "pofalowana",
+      "wave",
+      "wavey",
+      "wavey dash"
     ]
   },
   {
@@ -14842,7 +14994,10 @@
       "kantor",
       "waluta",
       "wymiana",
-      "wymiana walut"
+      "wymiana walut",
+      "currency",
+      "exchange",
+      "money"
     ]
   },
   {
@@ -14852,7 +15007,11 @@
       "gruby symbol dolara",
       "pieniądze",
       "usd",
-      "waluta"
+      "waluta",
+      "money",
+      "dollars",
+      "cash",
+      "rich"
     ]
   },
   {
@@ -14867,7 +15026,9 @@
     "emoji": "⚜️",
     "tags": [
       "harcerze",
-      "lilijka"
+      "lilijka",
+      "fleur",
+      "fleur-de-lis"
     ]
   },
   {
@@ -14878,7 +15039,7 @@
       "kotwica",
       "okręt",
       "statek",
-      "emblem",
+      "symbol",
       "narzędzia",
       "trójząb"
     ]
@@ -14888,8 +15049,7 @@
     "tags": [
       "plakietka",
       "z imieniem",
-      "badge",
-      "name"
+      "odznaka"
     ]
   },
   {
@@ -14901,9 +15061,7 @@
       "szewron",
       "w dół",
       "żółty",
-      "beginner",
-      "chevron",
-      "Japanese symbol for beginner",
+      "japoński symbol początkującego",
       "japońskie",
       "liść"
     ]
@@ -14942,7 +15100,11 @@
       "parafka",
       "pole ze znacznikiem wyboru",
       "ptaszek",
-      "zaznaczenie"
+      "zaznaczenie",
+      "check",
+      "check box",
+      "done",
+      "todo"
     ]
   },
   {
@@ -14997,8 +15159,7 @@
       "pętla",
       "zawijas",
       "zawinięty",
-      "curly loop",
-      "loop"
+      "okrągła pętla"
     ]
   },
   {
@@ -15006,7 +15167,11 @@
     "tags": [
       "pętla",
       "podwójna",
-      "zawijas"
+      "zawijas",
+      "loop",
+      "curl",
+      "twist",
+      "double curly loop"
     ]
   },
   {
@@ -15014,7 +15179,8 @@
     "tags": [
       "początek partii wokalnej",
       "znak",
-      "zygzak"
+      "zygzak",
+      "part alternation mark"
     ]
   },
   {
@@ -15037,7 +15203,8 @@
     "emoji": "❇️",
     "tags": [
       "*",
-      "iskra"
+      "iskra",
+      "migotać"
     ]
   },
   {
@@ -15054,14 +15221,18 @@
       "R",
       "towarowy",
       "zarejestrowany",
-      "zarejestrowany znak towarowy"
+      "zarejestrowany znak towarowy",
+      "registered",
+      "reserved"
     ]
   },
   {
     "emoji": "™️",
     "tags": [
       "TM",
-      "znak towarowy"
+      "znak towarowy",
+      "tm",
+      "trademark"
     ]
   },
   {
@@ -15076,7 +15247,6 @@
       "wielkimi literami",
       "wprowadzać",
       "ABCD",
-      "input",
       "litery",
       "wielkie litery"
     ]
@@ -15090,7 +15260,6 @@
       "małymi literami",
       "pisać",
       "wprowadzać",
-      "input",
       "litery",
       "małe litery"
     ]
@@ -15102,7 +15271,7 @@
       "cyfry",
       "liczby",
       "pisać",
-      "input"
+      "wprowadzać"
     ]
   },
   {
@@ -15112,8 +15281,7 @@
       "symbole",
       "wprowadzać",
       "znaki",
-      "〒♪&amp;%",
-      "input"
+      "〒♪&amp;%"
     ]
   },
   {
@@ -15126,7 +15294,7 @@
       "pierwsze litery",
       "abc",
       "łacińskie",
-      "input",
+      "wprowadzać",
       "litery"
     ]
   },
@@ -15146,8 +15314,8 @@
       "grupa AB",
       "grupa krwi AB",
       "krew",
-      "AB button (blood type)",
-      "blood type"
+      "przycisk AB grupa krwi",
+      "grupa krwi"
     ]
   },
   {
@@ -15156,7 +15324,9 @@
       "B",
       "grupa B",
       "grupa krwi B",
-      "krew"
+      "krew",
+      "b",
+      "letter b"
     ]
   },
   {
@@ -15164,8 +15334,7 @@
     "tags": [
       "przycisk CL",
       "znak CL",
-      "cl",
-      "CL button"
+      "cl"
     ]
   },
   {
@@ -15176,8 +15345,7 @@
       "przycisk COOL",
       "świetnie",
       "zachwyt",
-      "super",
-      "COOL button"
+      "super"
     ]
   },
   {
@@ -15186,8 +15354,7 @@
       "przycisk FREE",
       "znak braku opłaty",
       "znak FREE",
-      "free",
-      "FREE button"
+      "darmowy"
     ]
   },
   {
@@ -15197,7 +15364,8 @@
       "informacja",
       "informacje",
       "punkt informacyjny",
-      "źródło informacji"
+      "źródło informacji",
+      "letter i"
     ]
   },
   {
@@ -15207,9 +15375,8 @@
       "identyfikator",
       "przycisk ID",
       "znak ID",
-      "id",
-      "ID button",
-      "identity"
+      "dowód",
+      "tożsamość"
     ]
   },
   {
@@ -15218,7 +15385,8 @@
       "kółko",
       "koło z literą M",
       "m",
-      "metro"
+      "metro",
+      "m in circle"
     ]
   },
   {
@@ -15228,8 +15396,7 @@
       "nowość",
       "nowy",
       "przycisk NEW",
-      "new",
-      "NEW button"
+      "przycisk nowy"
     ]
   },
   {
@@ -15239,8 +15406,7 @@
       "niedobrze",
       "przycisk NG",
       "źle",
-      "ng",
-      "NG button"
+      "ng"
     ]
   },
   {
@@ -15259,15 +15425,16 @@
       "przycisk OK",
       "w porządku",
       "zgoda",
-      "OK",
-      "OK button"
+      "OK"
     ]
   },
   {
     "emoji": "🅿️",
     "tags": [
       "parking",
-      "postój"
+      "postój",
+      "p",
+      "letter p"
     ]
   },
   {
@@ -15278,8 +15445,7 @@
       "ratunek",
       "ratunku",
       "pomoc",
-      "sos",
-      "SOS button"
+      "SOS"
     ]
   },
   {
@@ -15289,8 +15455,7 @@
       "przycisk UP!",
       "znak UP!",
       "znacznik",
-      "w górę",
-      "UP! button"
+      "w górę"
     ]
   },
   {
@@ -15300,8 +15465,7 @@
       "przycisk VS",
       "versus",
       "VS",
-      "vs",
-      "VS button"
+      "vs"
     ]
   },
   {
@@ -15311,10 +15475,10 @@
       "japoński",
       "japoński przycisk „tutaj”",
       "koko",
-      "“here”",
+      "here",
       "japońskie",
       "katakana",
-      "Japanese “here” button",
+      "japoński przycisk \"tutaj\"",
       "ココ"
     ]
   },
@@ -15323,8 +15487,13 @@
     "tags": [
       "ideogram",
       "japoński",
+      "japoński przycisk „usługa”",
+      "opłata serwisowa",
+      "opłata za usługę",
       "sa",
-      "sa w języku katakana"
+      "sa w katakanie",
+      "usługa",
+      "zapłata za usługę"
     ]
   },
   {
@@ -15343,8 +15512,8 @@
       "istnienie",
       "japoński",
       "japoński przycisk „płatne”",
-      "“not free of charge”",
-      "Japanese “not free of charge” button",
+      "not free of charge",
+      "japoński przycisk \"za opłatą\"",
       "japońskie",
       "有"
     ]
@@ -15356,8 +15525,8 @@
       "japoński",
       "japoński przycisk „zarezerwowane”",
       "palec",
-      "“reserved”",
-      "Japanese “reserved” button",
+      "reserved",
+      "japoński przycisk \"zarezerwowane\"",
       "japońskie",
       "指"
     ]
@@ -15370,8 +15539,8 @@
       "japoński przycisk „okazja”",
       "korzyść",
       "przewaga",
-      "“bargain”",
-      "Japanese “bargain” button",
+      "bargain",
+      "japoński przycisk \"okazja\"",
       "japońskie",
       "得"
     ]
@@ -15383,7 +15552,7 @@
       "japoński",
       "japoński przycisk „rabat”",
       "podział",
-      "\"zniżka\"",
+      "discount",
       "japoński przycisk \"zniżka\"",
       "japońskie",
       "割"
@@ -15396,8 +15565,8 @@
       "japoński",
       "japoński przycisk „bezpłatne”",
       "negacja",
-      "“free of charge”",
-      "Japanese “free of charge” button",
+      "free of charge",
+      "japoński przycisk \"za darmo\"",
       "japońskie",
       "無"
     ]
@@ -15409,8 +15578,8 @@
       "japoński",
       "japoński przycisk „zabronione”",
       "zakaz",
-      "“prohibited”",
-      "Japanese “prohibited” button",
+      "prohibited",
+      "japoński przycisk \"zabronione\"",
       "japońskie",
       "禁"
     ]
@@ -15422,8 +15591,8 @@
       "chiński",
       "ideogram",
       "japoński przycisk „dozwolone”",
-      "“acceptable”",
-      "Japanese “acceptable” button",
+      "acceptable",
+      "japoński przycisk \"dopuszczalne\"",
       "japońskie",
       "可"
     ]
@@ -15435,7 +15604,7 @@
       "japoński",
       "japoński przycisk „wniosek”",
       "zastosowanie",
-      "aplikacja",
+      "application",
       "japoński przycisk \"aplikacja\"",
       "japońskie",
       "申"
@@ -15448,8 +15617,8 @@
       "japoński",
       "japoński przycisk „ocena pozytywna”",
       "razem",
-      "“passing grade”",
-      "Japanese “passing grade” button",
+      "passing grade",
+      "japoński przycisk \"dopuszczający\"",
       "japońskie",
       "合"
     ]
@@ -15461,7 +15630,7 @@
       "japoński",
       "japoński przycisk „wolne miejsce”",
       "pusty",
-      "wolne miejsca",
+      "vacancy",
       "japoński przycisk \"wolne miejsca\"",
       "japońskie",
       "空"
@@ -15473,7 +15642,9 @@
       "gratulacje",
       "ideogram",
       "japoński",
-      "japoński przycisk „gratulacje”"
+      "japoński przycisk „gratulacje”",
+      "congratulations",
+      "japanese"
     ]
   },
   {
@@ -15492,7 +15663,7 @@
       "ideogram",
       "japoński",
       "japoński przycisk „czynne”",
-      "czynne",
+      "open for business",
       "japoński przycisk \"czynne\"",
       "japońskie",
       "営"
@@ -15505,7 +15676,7 @@
       "japoński",
       "japoński przycisk „brak wolnych miejsc”",
       "wypełnienie",
-      "brak miejsc",
+      "no vacancy",
       "japoński przycisk \"brak miejsc\"",
       "japońskie",
       "満"
@@ -15586,7 +15757,8 @@
       "kółko",
       "koło",
       "czarne koło",
-      "geometryczny"
+      "geometryczny",
+      "czarny"
     ]
   },
   {
@@ -15597,7 +15769,8 @@
       "kółko",
       "koło",
       "geometryczny",
-      "białe koło"
+      "białe koło",
+      "biały"
     ]
   },
   {
@@ -15666,7 +15839,8 @@
       "kwadrat",
       "średni",
       "duży czarny kwadrat",
-      "geometryczny"
+      "geometryczny",
+      "black"
     ]
   },
   {
@@ -15677,7 +15851,8 @@
       "figura geometryczna",
       "kwadrat",
       "geometryczny",
-      "duży biały kwadrat"
+      "duży biały kwadrat",
+      "white"
     ]
   },
   {
@@ -15697,7 +15872,10 @@
       "duży",
       "figura geometryczna",
       "kwadrat",
-      "średni"
+      "średni",
+      "geometric",
+      "white medium square",
+      "white"
     ]
   },
   {
@@ -15843,7 +16021,10 @@
       "figura geometryczna",
       "kółko",
       "przycisk radiowy",
-      "przycisk wyboru opcji"
+      "przycisk wyboru opcji",
+      "przycisk",
+      "radio button",
+      "circle"
     ]
   },
   {
@@ -15869,7 +16050,11 @@
       "czarny kwadratowy przycisk",
       "figura geometryczna",
       "kwadrat",
-      "obramowanie"
+      "obramowanie",
+      "button",
+      "geometric",
+      "square",
+      "outlined"
     ]
   },
   {
@@ -15934,7 +16119,19 @@
       "flaga",
       "tęcza",
       "tęczowa flaga",
-      "duma"
+      "duma",
+      "lgbtqia",
+      "lgbt",
+      "lgbtqa",
+      "queer",
+      "gay",
+      "lesbian",
+      "intersex",
+      "bisexual",
+      "transpłciowy",
+      "trans",
+      "asexual",
+      "questioning"
     ]
   },
   {
@@ -15947,6 +16144,181 @@
       "pirat",
       "skarb",
       "rabować"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "tags": [
+      "face",
+      "krzywić się",
+      "sad",
+      "slightly frowning face"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "śmierć",
+      "skull",
+      "crossbones",
+      "skull and crossbones",
+      "bones",
+      "martwy"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "tags": [
+      "serce",
+      "red heart"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "heart suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "🗨️",
+    "tags": [
+      "balloon",
+      "dymek",
+      "dialog",
+      "comic",
+      "speech"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "snow",
+      "snowflake",
+      "zimny",
+      "ice"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "tags": [
+      "phone",
+      "telephone"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "ołówek"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "alembic",
+      "science",
+      "chemistry"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "atom"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "asterisk",
+      "eight spoke"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "star",
+      "eight pointed"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "!",
+      "exclamation",
+      "double exclamation"
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "tags": [
+      "recyce",
+      "reuse",
+      "green"
+    ]
+  },
+  {
+    "emoji": "🅰️",
+    "tags": [
+      "a",
+      "letter a"
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "tags": [
+      "o",
+      "letter o"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "service charger",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "monthly amount",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "secret",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "tags": [
+      "black small square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "tags": [
+      "black medium square",
+      "geometryczny",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "geometric",
+      "square",
+      "white small square",
+      "biały"
     ]
   },
   {

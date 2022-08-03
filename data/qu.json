@@ -31,10 +31,8 @@
   {
     "emoji": "😁",
     "tags": [
-      "asiy",
       "kancharisqa uya kusisqa ñawikunawan",
       "kusi",
-      "kʼancharisqa uya kusisqa ñawikunawan",
       "ñawi",
       "uya"
     ]
@@ -64,11 +62,11 @@
   {
     "emoji": "🤣",
     "tags": [
-      "hallpʼa",
       "kusi",
       "muyusqa",
-      "muyusqa kusi hallpʼapi",
+      "muyusqa kusi allpapi",
       "muyusqa kusi jallpʼapi",
+      "pampa",
       "uya"
     ]
   },
@@ -178,8 +176,8 @@
       "chiqchisqa uya",
       "kusi",
       "kusisqa uya",
+      "muyusqa",
       "samasqa",
-      "siqisqa",
       "uya"
     ]
   },
@@ -218,12 +216,12 @@
     "emoji": "😋",
     "tags": [
       "kusi",
-      "mikhuchkan",
-      "mikhusqa mikhuna",
-      "miskʼi",
+      "mikuspa",
+      "miski",
       "mmm",
       "uya",
-      "uya mikhusqa mikhuna"
+      "uya mikuspa mikuna",
+      "uya mikusqa mikuna"
     ]
   },
   {
@@ -258,8 +256,8 @@
   {
     "emoji": "😝",
     "tags": [
-      "mikhuy",
-      "millana wichqasqa ñawikuna qalluwan",
+      "mikuy",
+      "millana",
       "ñawi",
       "qallu",
       "uya",
@@ -269,9 +267,9 @@
   {
     "emoji": "🤑",
     "tags": [
-      "qallu",
       "qullqi",
-      "qullqi simi uya",
+      "qullqi simi uyawan",
+      "simi",
       "simi qullqiwan uya",
       "uya"
     ]
@@ -279,10 +277,12 @@
   {
     "emoji": "🤗",
     "tags": [
-      "mak’alli",
-      "mak’allisqa",
-      "uya",
-      "ya makʼalliwan"
+      "kicasqa makikuna",
+      "kusisqa uya",
+      "kusisqa uya kichasqa makikunawan",
+      "markaspa",
+      "marqay",
+      "uya"
     ]
   },
   {
@@ -295,10 +295,8 @@
   {
     "emoji": "🤫",
     "tags": [
-      "ch’in uya",
-      "chʼin",
-      "chʼin uya",
-      "ñañiq"
+      "chin niy",
+      "chin niy uya"
     ]
   },
   {
@@ -322,17 +320,15 @@
     "tags": [
       "eseptico",
       "mana iñisqa",
-      "uya wichasqa qhiñipa",
-      "uya wichqasqa qhiñipa"
+      "uya wichasqa urku chukchapi"
     ]
   },
   {
     "emoji": "😐",
     "tags": [
-      "chʼusaq uya",
+      "chusaq uya",
       "kikin",
-      "neural",
-      "uh",
+      "neutral",
       "uya"
     ]
   },
@@ -398,7 +394,7 @@
       "muesca",
       "uya",
       "uya muecaswan",
-      "uya muescaswan"
+      "uya muescakunawan"
     ]
   },
   {
@@ -495,19 +491,17 @@
   {
     "emoji": "🤢",
     "tags": [
-      "ñat’isqa",
-      "ñatʼisqa uya",
-      "q’ipna",
-      "uya"
+      "unqusqa",
+      "uya",
+      "wischusqa uya"
     ]
   },
   {
     "emoji": "🤮",
     "tags": [
-      "q’ipina uya",
-      "qʼipina",
-      "qʼipina uya",
-      "unqusqa"
+      "qipina",
+      "unqusqa",
+      "wischusqa uya"
     ]
   },
   {
@@ -534,12 +528,10 @@
     "emoji": "🥶",
     "tags": [
       "anqas uya",
-      "chhullunkaa",
       "chiri",
-      "chiri uy",
       "chiri uya",
-      "khutu",
-      "khutuy"
+      "ritiyachisqa",
+      "ritiyachiy"
     ]
   },
   {
@@ -575,10 +567,9 @@
   {
     "emoji": "🤯",
     "tags": [
-      "luqlu yuyay",
       "mancharisqa",
-      "p’akisqa uma",
-      "pʼakisqa uma"
+      "tuqyasqa",
+      "tuqyasqa uma"
     ]
   },
   {
@@ -681,11 +672,10 @@
   {
     "emoji": "😯",
     "tags": [
-      "chʼin kasqa uya",
-      "kakka",
-      "manchachisqa",
-      "p’inqakusqa",
-      "uya"
+      "chin kasqa uya",
+      "chin niy",
+      "manchakusqa uya",
+      "mancharisqa"
     ]
   },
   {
@@ -701,8 +691,7 @@
     "emoji": "😳",
     "tags": [
       "kuyusqa",
-      "p’inqakusqa",
-      "pʼinqakusqa uya",
+      "manchakusqa",
       "uya"
     ]
   },
@@ -833,8 +822,7 @@
   {
     "emoji": "😫",
     "tags": [
-      "sayk’usqa",
-      "saykʼusqa uya",
+      "saykusqa",
       "uya"
     ]
   },
@@ -859,11 +847,10 @@
   {
     "emoji": "😡",
     "tags": [
-      "phiña",
-      "phiñakuq",
-      "phiñakuy",
+      "piña",
+      "piñasqa",
+      "piñay",
       "puka",
-      "turisqa uya",
       "uya"
     ]
   },
@@ -1454,7 +1441,6 @@
     "emoji": "🖐️",
     "tags": [
       "maki",
-      "maki iskay ruk’anakunawa mast’asqa",
       "maki iskay rukanakunawa mastasqa",
       "mastasqa",
       "rukana"
@@ -1929,8 +1915,7 @@
       "chukcha",
       "qillu",
       "qillu chukcha runa",
-      "runa: qillu chukcha",
-      "runa: qʼillu chukcha"
+      "runa: qillu chukcha"
     ]
   },
   {
@@ -1963,7 +1948,8 @@
       "qʼillu",
       "runa",
       "runa: qillu chukcha",
-      "runa:qillu chukcha"
+      "runa:qillu chukcha",
+      "tata: qillu chukcha"
     ]
   },
   {
@@ -5196,8 +5182,7 @@
     "emoji": "🍏",
     "tags": [
       "manzana",
-      "q’umir",
-      "qʼumir manzana",
+      "qumir",
       "ruru"
     ]
   },
@@ -5211,7 +5196,6 @@
   {
     "emoji": "🍑",
     "tags": [
-      "peach",
       "rurasnu",
       "ruru"
     ]
@@ -5720,17 +5704,17 @@
     "tags": [
       "arroz",
       "arroz currywan",
-      "curry"
+      "curry nisqa"
     ]
   },
   {
     "emoji": "🍜",
     "tags": [
-      "chhapukucha",
-      "chhapukucha fideoswan",
-      "cuenco",
-      "fideos",
-      "tallarines"
+      "fideus",
+      "mati",
+      "mati fideuswan",
+      "mikuna",
+      "ramen"
     ]
   },
   {
@@ -5786,10 +5770,10 @@
   {
     "emoji": "🥮",
     "tags": [
-      "[yuèbǐng]",
       "killa pastel",
       "otoño",
-      "raymi"
+      "raymi",
+      "yuebing]"
     ]
   },
   {
@@ -5969,7 +5953,6 @@
     "emoji": "🍬",
     "tags": [
       "miski",
-      "miskʼi",
       "postre"
     ]
   },
@@ -6284,9 +6267,18 @@
   {
     "emoji": "🗾",
     "tags": [
-      "Japñon Saywasiqʼi",
       "Japón",
-      "saywasiq’i"
+      "Japón saywasiqi",
+      "sawaysiqi"
+    ]
+  },
+  {
+    "emoji": "🧭",
+    "tags": [
+      "compas",
+      "magnetico",
+      "navegacion",
+      "tarikuynin"
     ]
   },
   {
@@ -6375,9 +6367,33 @@
     ]
   },
   {
+    "emoji": "🧱",
+    "tags": [
+      "ladrillu",
+      "pirqa",
+      "pirqakuna"
+    ]
+  },
+  {
     "emoji": "🪨",
     "tags": [
-      "rumi"
+      "llasaq",
+      "rumi",
+      "solido"
+    ]
+  },
+  {
+    "emoji": "🪵",
+    "tags": [
+      "kuru",
+      "kuru wasichaypaq"
+    ]
+  },
+  {
+    "emoji": "🛖",
+    "tags": [
+      "chuklla",
+      "wasi"
     ]
   },
   {
@@ -6543,9 +6559,19 @@
     ]
   },
   {
+    "emoji": "🛕",
+    "tags": [
+      "indu",
+      "templo"
+    ]
+  },
+  {
     "emoji": "🕍",
     "tags": [
-      "sinagoga"
+      "Judío",
+      "religion",
+      "sinagoga",
+      "templo"
     ]
   },
   {
@@ -6685,6 +6711,13 @@
       "poste",
       "poste barberopaq",
       "rutuy"
+    ]
+  },
+  {
+    "emoji": "🎪",
+    "tags": [
+      "circo",
+      "qatu"
     ]
   },
   {
@@ -6880,6 +6913,14 @@
       "autocaravana",
       "recreacional",
       "ruwasqa pukllay"
+    ]
+  },
+  {
+    "emoji": "🛻",
+    "tags": [
+      "carru",
+      "carru pallaypaq",
+      "pallay"
     ]
   },
   {
@@ -7129,6 +7170,13 @@
     ]
   },
   {
+    "emoji": "🪂",
+    "tags": [
+      "paracaídas",
+      "pawaypaq"
+    ]
+  },
+  {
     "emoji": "💺",
     "tags": [
       "silla",
@@ -7202,6 +7250,12 @@
     "emoji": "🧳",
     "tags": [
       "equipaje"
+    ]
+  },
+  {
+    "emoji": "⌛",
+    "tags": [
+      "tukusqa arenawan intiwatana"
     ]
   },
   {
@@ -7501,6 +7555,22 @@
     ]
   },
   {
+    "emoji": "🌛",
+    "tags": [
+      "chawpi killa uya",
+      "killa",
+      "uya"
+    ]
+  },
+  {
+    "emoji": "🌜",
+    "tags": [
+      "killa",
+      "qipa chawpi killa uya",
+      "uya"
+    ]
+  },
+  {
     "emoji": "🌡️",
     "tags": [
       "llaphiya",
@@ -7516,12 +7586,29 @@
     ]
   },
   {
+    "emoji": "🌝",
+    "tags": [
+      "chuya",
+      "hunta",
+      "killa",
+      "uya"
+    ]
+  },
+  {
     "emoji": "🌞",
     "tags": [
       "inti",
       "inti uyawan",
       "k’anchay",
       "uya"
+    ]
+  },
+  {
+    "emoji": "🪐",
+    "tags": [
+      "anillukunawan planeta",
+      "saturnino",
+      "saturno"
     ]
   },
   {
@@ -7655,7 +7742,9 @@
   {
     "emoji": "🌀",
     "tags": [
-      "ciclón"
+      "ciclón",
+      "huracan",
+      "tifon"
     ]
   },
   {
@@ -7704,7 +7793,10 @@
   {
     "emoji": "⚡",
     "tags": [
-      "kuraq voltaje"
+      "electrico",
+      "kuraq voltaje",
+      "manchakuypaq",
+      "voltaje"
     ]
   },
   {
@@ -7760,9 +7852,8 @@
     "emoji": "🌊",
     "tags": [
       "mama qucha",
-      "wallch’a",
-      "yaku",
-      "yaku wallchʼa"
+      "wallcha",
+      "yaku"
     ]
   },
   {
@@ -7779,9 +7870,8 @@
     "emoji": "🎄",
     "tags": [
       "Navidad",
-      "Navidad sachʼa",
       "raymi",
-      "sach’a"
+      "sacha"
     ]
   },
   {
@@ -7798,6 +7888,14 @@
       "k’anchay",
       "pinchi",
       "raymi"
+    ]
+  },
+  {
+    "emoji": "🧨",
+    "tags": [
+      "dinamita",
+      "petardo",
+      "tuqyay"
     ]
   },
   {
@@ -7819,9 +7917,8 @@
   {
     "emoji": "🎉",
     "tags": [
-      "ch’amqaq",
+      "chamqaq",
       "confeti",
-      "confeti chʼamqaq",
       "raymi"
     ]
   },
@@ -7857,16 +7954,19 @@
   {
     "emoji": "🎎",
     "tags": [
-      "Japonesa urpukuna"
+      "Japonesa",
+      "Japonesa urpukuna",
+      "raymi",
+      "urpu"
     ]
   },
   {
     "emoji": "🎏",
     "tags": [
       "carpa",
-      "carpas wiphala",
+      "qawaq",
       "raymi",
-      "wiphala"
+      "wipala carpaswan"
     ]
   },
   {
@@ -7882,7 +7982,18 @@
   {
     "emoji": "🎑",
     "tags": [
-      "killa itu qawaypaq"
+      "killa",
+      "killa itu qawaypaq",
+      "raymi"
+    ]
+  },
+  {
+    "emoji": "🧧",
+    "tags": [
+      "allinmi kay",
+      "puka carta",
+      "qullqi",
+      "suñay"
     ]
   },
   {
@@ -7968,6 +8079,9 @@
   {
     "emoji": "🥉",
     "tags": [
+      "bronce",
+      "kimsañiqi",
+      "medalla",
       "medalla 3qi kitipaq"
     ]
   },
@@ -7984,6 +8098,14 @@
     "tags": [
       "beisbol",
       "p’ulu"
+    ]
+  },
+  {
+    "emoji": "🥎",
+    "tags": [
+      "muyu",
+      "softball",
+      "softball nisqa"
     ]
   },
   {
@@ -8028,6 +8150,13 @@
     ]
   },
   {
+    "emoji": "🥏",
+    "tags": [
+      "pawasqa disku",
+      "tukuq"
+    ]
+  },
+  {
     "emoji": "🎳",
     "tags": [
       "bolos",
@@ -8064,6 +8193,15 @@
       "k’aspi",
       "puck",
       "pukllay"
+    ]
+  },
+  {
+    "emoji": "🥍",
+    "tags": [
+      "gol",
+      "kaspa",
+      "lacrosse nisqa",
+      "pulu"
     ]
   },
   {
@@ -8134,6 +8272,13 @@
     ]
   },
   {
+    "emoji": "🤿",
+    "tags": [
+      "buceo",
+      "buceo lentekuna"
+    ]
+  },
+  {
     "emoji": "🎽",
     "tags": [
       "atletico",
@@ -8168,13 +8313,33 @@
   {
     "emoji": "🎯",
     "tags": [
-      "diana"
+      "chiqaq chusu",
+      "dardu",
+      "diana",
+      "pukllay"
+    ]
+  },
+  {
+    "emoji": "🪀",
+    "tags": [
+      "pukllana",
+      "yoyo"
+    ]
+  },
+  {
+    "emoji": "🪁",
+    "tags": [
+      "cometa nisqa",
+      "paway"
     ]
   },
   {
     "emoji": "🎱",
     "tags": [
-      "billar"
+      "8",
+      "billar",
+      "pukllay",
+      "pusaq"
     ]
   },
   {
@@ -8187,6 +8352,21 @@
       "p’ulu",
       "qhispillu",
       "qulli"
+    ]
+  },
+  {
+    "emoji": "🪄",
+    "tags": [
+      "magica",
+      "magica warra"
+    ]
+  },
+  {
+    "emoji": "🧿",
+    "tags": [
+      "nazar",
+      "nazar amuleto",
+      "talisman"
     ]
   },
   {
@@ -8222,6 +8402,38 @@
     ]
   },
   {
+    "emoji": "🧩",
+    "tags": [
+      "parti",
+      "patma",
+      "rompecabeza parti",
+      "rompecabezas"
+    ]
+  },
+  {
+    "emoji": "🧸",
+    "tags": [
+      "peluche",
+      "pukllana"
+    ]
+  },
+  {
+    "emoji": "🪅",
+    "tags": [
+      "piñata",
+      "raymi"
+    ]
+  },
+  {
+    "emoji": "🪆",
+    "tags": [
+      "qisa",
+      "qisa urpukuna",
+      "rusia",
+      "urpu"
+    ]
+  },
+  {
     "emoji": "♠️",
     "tags": [
       "espada tarhita",
@@ -8251,6 +8463,14 @@
       "pukllay",
       "tarhita",
       "trebol tarhita"
+    ]
+  },
+  {
+    "emoji": "♟️",
+    "tags": [
+      "ajedres",
+      "peon",
+      "peón"
     ]
   },
   {
@@ -8284,7 +8504,10 @@
   {
     "emoji": "🎭",
     "tags": [
-      "artes escenicas"
+      "artes escenicas",
+      "arti",
+      "maskara",
+      "teatro"
     ]
   },
   {
@@ -8309,117 +8532,254 @@
     ]
   },
   {
+    "emoji": "🧵",
+    "tags": [
+      "hilo",
+      "qisa"
+    ]
+  },
+  {
+    "emoji": "🪡",
+    "tags": [
+      "hilo",
+      "sutura",
+      "uku",
+      "uku hilopaq"
+    ]
+  },
+  {
     "emoji": "👓",
     "tags": [
-      "lentes"
+      "lentes",
+      "lentes intipaq",
+      "lenteskuna",
+      "ñawi",
+      "pacha"
     ]
   },
   {
     "emoji": "🕶️",
     "tags": [
-      "lentes intipaq"
+      "lentes",
+      "lentes intipaq",
+      "ñawi",
+      "yana"
+    ]
+  },
+  {
+    "emoji": "🥽",
+    "tags": [
+      "goggles",
+      "goggles nisqa",
+      "naryay",
+      "ñawipaq harkaynin"
+    ]
+  },
+  {
+    "emoji": "🥼",
+    "tags": [
+      "cientifico",
+      "experimentu",
+      "hampiq",
+      "laboratorio pacha",
+      "laboratoriomanta pacha"
+    ]
+  },
+  {
+    "emoji": "🦺",
+    "tags": [
+      "chaleku harkaypaq",
+      "emergencia",
+      "harkay",
+      "pacha"
     ]
   },
   {
     "emoji": "👔",
     "tags": [
-      "corbata"
+      "corbata",
+      "pacha"
     ]
   },
   {
     "emoji": "👕",
     "tags": [
-      "camisa"
+      "camisa",
+      "pacha"
     ]
   },
   {
     "emoji": "👖",
     "tags": [
-      "jeans"
+      "jeans",
+      "pacha"
     ]
   },
   {
     "emoji": "🧣",
     "tags": [
-      "chalina"
+      "chalina",
+      "kunka"
     ]
   },
   {
     "emoji": "🧤",
     "tags": [
-      "guantes"
+      "guantes",
+      "maki"
     ]
   },
   {
     "emoji": "🧥",
     "tags": [
-      "abrigo"
+      "abrigo",
+      "pacha"
     ]
   },
   {
     "emoji": "🧦",
     "tags": [
-      "medias"
+      "medias",
+      "pacha"
     ]
   },
   {
     "emoji": "👗",
     "tags": [
-      "aqsu"
+      "aqsu",
+      "pacha"
     ]
   },
   {
     "emoji": "👘",
     "tags": [
-      "kimono"
+      "kimono",
+      "pacha"
+    ]
+  },
+  {
+    "emoji": "🥻",
+    "tags": [
+      "aqsu",
+      "pacha",
+      "sari"
+    ]
+  },
+  {
+    "emoji": "🩱",
+    "tags": [
+      "naryaypaq pacha",
+      "pacha"
+    ]
+  },
+  {
+    "emoji": "🩲",
+    "tags": [
+      "huk pacha",
+      "naryaypaq",
+      "yakupaq pacha"
+    ]
+  },
+  {
+    "emoji": "🩳",
+    "tags": [
+      "naryaypaq",
+      "uchuy pantalon"
     ]
   },
   {
     "emoji": "👙",
     "tags": [
-      "bikini"
+      "bikini",
+      "pacha"
     ]
   },
   {
     "emoji": "👚",
     "tags": [
-      "warmip pʼachan´"
+      "pacha",
+      "warmi",
+      "warmipa pachan"
     ]
   },
   {
     "emoji": "👛",
     "tags": [
-      "pulcera"
+      "pacha",
+      "pulcera",
+      "qullqi"
     ]
   },
   {
     "emoji": "👜",
     "tags": [
-      "bolso"
+      "bolso",
+      "manilla",
+      "pacha"
     ]
   },
   {
     "emoji": "👝",
     "tags": [
-      "cartera"
+      "cartera",
+      "pacha",
+      "qipi"
     ]
   },
   {
     "emoji": "🛍️",
     "tags": [
-      "ratina qamaña"
+      "qamaña",
+      "rantikuna",
+      "ratina qamaña",
+      "samana wasikuna"
+    ]
+  },
+  {
+    "emoji": "🎒",
+    "tags": [
+      "mochila",
+      "qamaña",
+      "qipi",
+      "yachaywasi"
+    ]
+  },
+  {
+    "emoji": "🩴",
+    "tags": [
+      "sandalia",
+      "sandalia playapaq"
     ]
   },
   {
     "emoji": "👞",
     "tags": [
-      "runap phapatun"
+      "pacha",
+      "qari",
+      "runapa papatun"
     ]
   },
   {
     "emoji": "👟",
     "tags": [
-      "phawasqa phapatu"
+      "atletiku",
+      "pacha",
+      "pawasqa papatu"
+    ]
+  },
+  {
+    "emoji": "🥾",
+    "tags": [
+      "acampar",
+      "bota",
+      "saqiypaq bota"
+    ]
+  },
+  {
+    "emoji": "🥿",
+    "tags": [
+      "balet papatu",
+      "planu papatu"
     ]
   },
   {
@@ -8701,7 +9061,9 @@
   {
     "emoji": "🔌",
     "tags": [
-      "enchufe"
+      "electricidad",
+      "enchufe",
+      "kallpa"
     ]
   },
   {
@@ -8954,6 +9316,176 @@
     "emoji": "🏷️",
     "tags": [
       "sutichaq"
+    ]
+  },
+  {
+    "emoji": "💰",
+    "tags": [
+      "qulli qipi"
+    ]
+  },
+  {
+    "emoji": "💳",
+    "tags": [
+      "mañay",
+      "qullqi",
+      "tarhita"
+    ]
+  },
+  {
+    "emoji": "🧾",
+    "tags": [
+      "recibo"
+    ]
+  },
+  {
+    "emoji": "✉️",
+    "tags": [
+      "chaski",
+      "correo electronico",
+      "karta"
+    ]
+  },
+  {
+    "emoji": "📮",
+    "tags": [
+      "chaski churana"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "qillqana"
+    ]
+  },
+  {
+    "emoji": "🖊️",
+    "tags": [
+      "tintawan qillqana"
+    ]
+  },
+  {
+    "emoji": "🖍️",
+    "tags": [
+      "crayon"
+    ]
+  },
+  {
+    "emoji": "📎",
+    "tags": [
+      "clip rapipaq"
+    ]
+  },
+  {
+    "emoji": "🖇️",
+    "tags": [
+      "tinkisqa clipkuna rapipaq"
+    ]
+  },
+  {
+    "emoji": "🔒",
+    "tags": [
+      "harkana",
+      "harkasqa",
+      "wichqasqa"
+    ]
+  },
+  {
+    "emoji": "🔑",
+    "tags": [
+      "kichana"
+    ]
+  },
+  {
+    "emoji": "🗝️",
+    "tags": [
+      "ñawpa kichana"
+    ]
+  },
+  {
+    "emoji": "🧲",
+    "tags": [
+      "magnetu"
+    ]
+  },
+  {
+    "emoji": "🔬",
+    "tags": [
+      "microscopio"
+    ]
+  },
+  {
+    "emoji": "🔭",
+    "tags": [
+      "telescopio"
+    ]
+  },
+  {
+    "emoji": "🚪",
+    "tags": [
+      "punku"
+    ]
+  },
+  {
+    "emoji": "🛗",
+    "tags": [
+      "elevador",
+      "siqay",
+      "yaykuna"
+    ]
+  },
+  {
+    "emoji": "🪞",
+    "tags": [
+      "espejo"
+    ]
+  },
+  {
+    "emoji": "🚬",
+    "tags": [
+      "cigarru",
+      "fumay"
+    ]
+  },
+  {
+    "emoji": "⚰️",
+    "tags": [
+      "tawakuchu wañuypaq",
+      "wañuy"
+    ]
+  },
+  {
+    "emoji": "🪦",
+    "tags": [
+      "cementerio",
+      "rumi wañusqakunapaq",
+      "tumba"
+    ]
+  },
+  {
+    "emoji": "⚱️",
+    "tags": [
+      "funeral",
+      "urna",
+      "urna funeraria",
+      "wañuy"
+    ]
+  },
+  {
+    "emoji": "🗿",
+    "tags": [
+      "estatua",
+      "moai",
+      "moyai",
+      "uya"
+    ]
+  },
+  {
+    "emoji": "🪧",
+    "tags": [
+      "pankarta",
+      "qawaypaq",
+      "unancha"
     ]
   },
   {
@@ -9894,7 +10426,6 @@
       "!?",
       "?",
       "chimpu",
-      "interrobang",
       "qapariq",
       "qapariq tapuna chinpuy",
       "tapuna"
@@ -10055,8 +10586,7 @@
       "chimpu",
       "chinkachiy",
       "mirachina",
-      "mirachiy",
-      "x"
+      "mirachiy"
     ]
   },
   {

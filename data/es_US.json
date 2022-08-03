@@ -723,7 +723,7 @@
   {
     "emoji": "🥺",
     "tags": [
-      "cara de por favor",
+      "cara suplicante",
       "implorar",
       "ojos adorables",
       "piedad",
@@ -1362,10 +1362,9 @@
   {
     "emoji": "💢",
     "tags": [
-      "comic",
+      "cómic",
+      "enfadado",
       "enfado",
-      "enojado",
-      "enojo",
       "símbolo de enfado"
     ]
   },
@@ -1868,11 +1867,11 @@
   {
     "emoji": "🫀",
     "tags": [
-      "anatómico",
-      "centro",
+      "anatomía",
+      "cardiología",
+      "corazón",
       "corazón humano",
       "latido",
-      "núcleo",
       "órgano",
       "pulso"
     ]
@@ -3245,7 +3244,8 @@
     "emoji": "🧜",
     "tags": [
       "persona sirena",
-      "sirena"
+      "sirena",
+      "tritón"
     ]
   },
   {
@@ -3313,7 +3313,6 @@
   {
     "emoji": "🧟",
     "tags": [
-      "caminante",
       "muerto viviente",
       "no muerto",
       "zombi"
@@ -3694,11 +3693,10 @@
   {
     "emoji": "🤺",
     "tags": [
-      "deporte",
       "esgrima",
       "esgrimista",
       "espada",
-      "persona"
+      "persona haciendo esgrima"
     ]
   },
   {
@@ -3716,7 +3714,8 @@
     "tags": [
       "esquí",
       "esquiador",
-      "nieve"
+      "nieve",
+      "persona esquiando"
     ]
   },
   {
@@ -3797,7 +3796,6 @@
   {
     "emoji": "🏊",
     "tags": [
-      "deporte",
       "nadar",
       "natación",
       "persona nadando"
@@ -4182,7 +4180,6 @@
     "tags": [
       "bustos",
       "dos siluetas de bustos",
-      "personas",
       "siluetas"
     ]
   },
@@ -4225,9 +4222,9 @@
   {
     "emoji": "🦍",
     "tags": [
-      "animal",
-      "cara",
-      "gorila"
+      "gorila",
+      "primate",
+      "simio"
     ]
   },
   {
@@ -4242,9 +4239,9 @@
   {
     "emoji": "🐶",
     "tags": [
-      "animal",
       "cara",
       "cara de perro",
+      "mascota",
       "perro"
     ]
   },
@@ -4294,7 +4291,6 @@
   {
     "emoji": "🦊",
     "tags": [
-      "animal",
       "cara",
       "zorro"
     ]
@@ -4311,10 +4307,10 @@
   {
     "emoji": "🐱",
     "tags": [
-      "animal",
       "cara",
       "cara de gato",
-      "gato"
+      "gato",
+      "mascota"
     ]
   },
   {
@@ -4344,7 +4340,7 @@
   {
     "emoji": "🐯",
     "tags": [
-      "animal",
+      "cara",
       "cara de tigre",
       "tigre"
     ]
@@ -4366,7 +4362,6 @@
   {
     "emoji": "🐴",
     "tags": [
-      "animal",
       "caballo",
       "cara",
       "cara de caballo"
@@ -4376,8 +4371,8 @@
     "emoji": "🐎",
     "tags": [
       "caballo",
-      "caballo corriendo",
-      "caballo de carrera",
+      "caballo de carreras",
+      "carreras de caballos",
       "ecuestre"
     ]
   },
@@ -4413,7 +4408,6 @@
   {
     "emoji": "🐮",
     "tags": [
-      "animal",
       "cara",
       "cara de vaca",
       "vaca"
@@ -4431,7 +4425,7 @@
   {
     "emoji": "🐃",
     "tags": [
-      "animal",
+      "agua",
       "búfalo",
       "búfalo de agua"
     ]
@@ -4447,10 +4441,10 @@
   {
     "emoji": "🐷",
     "tags": [
-      "animal",
       "cara",
       "cara de cerdo",
-      "cerdo"
+      "cerdo",
+      "gorrino"
     ]
   },
   {
@@ -4576,7 +4570,6 @@
   {
     "emoji": "🐭",
     "tags": [
-      "animal",
       "cara",
       "cara de ratón",
       "ratón"
@@ -4599,7 +4592,6 @@
   {
     "emoji": "🐹",
     "tags": [
-      "animal",
       "cara",
       "hámster",
       "mascota"
@@ -4625,7 +4617,6 @@
   {
     "emoji": "🐿️",
     "tags": [
-      "animal",
       "ardilla"
     ]
   },
@@ -4647,7 +4638,6 @@
   {
     "emoji": "🦇",
     "tags": [
-      "animal",
       "murciélago",
       "vampiro"
     ]
@@ -4655,7 +4645,6 @@
   {
     "emoji": "🐻",
     "tags": [
-      "animal",
       "cara",
       "oso"
     ]
@@ -4672,8 +4661,9 @@
   {
     "emoji": "🐨",
     "tags": [
-      "bambú",
-      "koala"
+      "cara",
+      "koala",
+      "marsupial"
     ]
   },
   {
@@ -4741,7 +4731,6 @@
   {
     "emoji": "🦃",
     "tags": [
-      "animal",
       "ave",
       "pavo"
     ]
@@ -4897,7 +4886,6 @@
   {
     "emoji": "🐸",
     "tags": [
-      "animal",
       "cara",
       "rana"
     ]
@@ -4947,7 +4935,6 @@
   {
     "emoji": "🐉",
     "tags": [
-      "animal",
       "cuento",
       "dragón",
       "fantasía"
@@ -4973,7 +4960,6 @@
   {
     "emoji": "🐳",
     "tags": [
-      "animal",
       "ballena",
       "ballena soltando un chorro",
       "chorro de agua"
@@ -5013,16 +4999,13 @@
   {
     "emoji": "🐠",
     "tags": [
-      "animal",
-      "pescado",
       "pez",
-      "pez tropical"
+      "tropical"
     ]
   },
   {
     "emoji": "🐡",
     "tags": [
-      "animal",
       "globo",
       "pez"
     ]
@@ -5084,7 +5067,6 @@
     "emoji": "🐝",
     "tags": [
       "abeja",
-      "flores",
       "insecto",
       "miel"
     ]
@@ -5126,7 +5108,6 @@
   {
     "emoji": "🕷️",
     "tags": [
-      "animal",
       "araña",
       "insecto"
     ]
@@ -5200,8 +5181,7 @@
     "tags": [
       "cerezo",
       "flor",
-      "flor de cerezo",
-      "primavera"
+      "flor de cerezo"
     ]
   },
   {
@@ -5252,10 +5232,7 @@
   {
     "emoji": "🌼",
     "tags": [
-      "campo",
-      "flor",
-      "planta",
-      "primavera"
+      "flor"
     ]
   },
   {
@@ -6843,7 +6820,7 @@
     "tags": [
       "colegio",
       "edificio",
-      "edificio de colegio"
+      "escuela"
     ]
   },
   {
@@ -8751,6 +8728,7 @@
       "balón",
       "juego",
       "pelota",
+      "pelota de voleibol",
       "voleibol"
     ]
   },
@@ -8934,10 +8912,10 @@
   {
     "emoji": "🎿",
     "tags": [
-      "deporte",
       "esquí",
       "esquíes",
-      "esquís"
+      "esquís",
+      "nieve"
     ]
   },
   {
@@ -9423,8 +9401,7 @@
       "accesorios",
       "cartera",
       "complementos",
-      "monedero",
-      "mujer"
+      "monedero"
     ]
   },
   {
@@ -9432,8 +9409,7 @@
     "tags": [
       "accesorios",
       "bolso",
-      "complementos",
-      "mujer"
+      "complementos"
     ]
   },
   {
@@ -9509,7 +9485,6 @@
     "tags": [
       "bailarina",
       "calzado",
-      "mujer",
       "zapato"
     ]
   },
@@ -9846,6 +9821,7 @@
       "instrumento",
       "instrumento musical",
       "música",
+      "piano",
       "teclado",
       "teclado musical"
     ]
@@ -10234,6 +10210,7 @@
   {
     "emoji": "📚",
     "tags": [
+      "libro",
       "libros"
     ]
   },

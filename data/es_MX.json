@@ -290,6 +290,7 @@
     "tags": [
       "cara",
       "cara pensativa",
+      "duda",
       "pensando"
     ]
   },
@@ -1612,6 +1613,7 @@
       "dorso de mano con dedo índice hacia arriba",
       "índice",
       "mano",
+      "mano con dedo índice hacia arriba",
       "señalar"
     ]
   },
@@ -1633,6 +1635,7 @@
       "dorso de mano con dedo índice hacia abajo",
       "índice",
       "mano",
+      "mano con dedo índice hacia abajo",
       "señalar"
     ]
   },
@@ -1760,7 +1763,6 @@
   {
     "emoji": "✍️",
     "tags": [
-      "cuerpo",
       "escribir",
       "lápiz",
       "mano",
@@ -1924,8 +1926,6 @@
     "emoji": "👄",
     "tags": [
       "boca",
-      "cara",
-      "cuerpo",
       "labios"
     ]
   },
@@ -2888,11 +2888,9 @@
   {
     "emoji": "👷",
     "tags": [
+      "casco",
       "construcción",
-      "hombre",
       "obrero",
-      "obrero de construcción",
-      "persona",
       "persona obrera de construcción",
       "profesional de la construcción",
       "trabajador"
@@ -2974,9 +2972,10 @@
     "tags": [
       "gorro",
       "gua",
-      "hombre",
-      "hombre con gorro chino",
-      "mao"
+      "gua pi mao",
+      "mao",
+      "persona",
+      "persona con gorro chino"
     ]
   },
   {
@@ -3279,7 +3278,8 @@
     "emoji": "🧜",
     "tags": [
       "persona sirena",
-      "sirena"
+      "sirena",
+      "tritón"
     ]
   },
   {
@@ -3649,10 +3649,10 @@
   {
     "emoji": "🕴️",
     "tags": [
-      "hombre",
-      "hombre trajeado levitando",
       "levitar",
       "negocios",
+      "persona",
+      "persona trajeada levitando",
       "traje"
     ]
   },
@@ -3740,11 +3740,10 @@
   {
     "emoji": "🤺",
     "tags": [
-      "deporte",
       "esgrima",
       "esgrimista",
       "espada",
-      "persona"
+      "persona haciendo esgrima"
     ]
   },
   {
@@ -3764,13 +3763,14 @@
       "esquí",
       "esquiador",
       "esquiar",
-      "nieve"
+      "nieve",
+      "persona esquiando"
     ]
   },
   {
     "emoji": "🏂",
     "tags": [
-      "deporte",
+      "nieve",
       "practicante de snowboard",
       "snowboard"
     ]
@@ -3834,7 +3834,6 @@
   {
     "emoji": "🏊",
     "tags": [
-      "deporte",
       "nadar",
       "natación",
       "persona nadando"
@@ -3966,10 +3965,8 @@
   {
     "emoji": "🤼",
     "tags": [
-      "deporte",
       "lucha",
       "luchador",
-      "persona",
       "personas luchando"
     ]
   },
@@ -4028,8 +4025,6 @@
     "tags": [
       "balonmanista",
       "balonmano",
-      "deporte",
-      "persona",
       "persona jugando al balonmano"
     ]
   },
@@ -4195,7 +4190,6 @@
     "emoji": "👤",
     "tags": [
       "busto",
-      "personas",
       "silueta",
       "silueta de busto"
     ]
@@ -4205,7 +4199,6 @@
     "tags": [
       "bustos",
       "dos siluetas de bustos",
-      "personas",
       "siluetas"
     ]
   },
@@ -4232,7 +4225,6 @@
   {
     "emoji": "🐵",
     "tags": [
-      "animal",
       "cara",
       "cara de mono",
       "mono"
@@ -4321,7 +4313,6 @@
   {
     "emoji": "🦊",
     "tags": [
-      "animal",
       "cara",
       "zorro"
     ]
@@ -4337,10 +4328,10 @@
   {
     "emoji": "🐱",
     "tags": [
-      "animal",
       "cara",
       "cara de gato",
-      "gato"
+      "gato",
+      "mascota"
     ]
   },
   {
@@ -4372,7 +4363,7 @@
   {
     "emoji": "🐯",
     "tags": [
-      "animal",
+      "cara",
       "cara de tigre",
       "tigre"
     ]
@@ -4396,7 +4387,6 @@
   {
     "emoji": "🐴",
     "tags": [
-      "animal",
       "caballo",
       "cara",
       "cara de caballo"
@@ -4429,8 +4419,8 @@
   {
     "emoji": "🦌",
     "tags": [
-      "animal",
-      "cara",
+      "bambi",
+      "cervatillo",
       "ciervo"
     ]
   },
@@ -4443,7 +4433,6 @@
   {
     "emoji": "🐮",
     "tags": [
-      "animal",
       "cara",
       "cara de vaca",
       "vaca"
@@ -4461,7 +4450,7 @@
   {
     "emoji": "🐃",
     "tags": [
-      "animal",
+      "agua",
       "búfalo",
       "búfalo de agua"
     ]
@@ -4589,8 +4578,7 @@
   {
     "emoji": "🦏",
     "tags": [
-      "animal",
-      "cabeza",
+      "paquidermo",
       "rinoceronte"
     ]
   },
@@ -4604,7 +4592,6 @@
   {
     "emoji": "🐭",
     "tags": [
-      "animal",
       "cara",
       "cara de ratón",
       "ratón"
@@ -4627,7 +4614,6 @@
   {
     "emoji": "🐹",
     "tags": [
-      "animal",
       "cara",
       "hámster",
       "mascota"
@@ -4669,7 +4655,6 @@
   {
     "emoji": "🦇",
     "tags": [
-      "animal",
       "murciélago",
       "vampiro"
     ]
@@ -4677,7 +4662,6 @@
   {
     "emoji": "🐻",
     "tags": [
-      "animal",
       "cara",
       "oso"
     ]
@@ -4694,14 +4678,14 @@
   {
     "emoji": "🐨",
     "tags": [
-      "bambú",
-      "koala"
+      "cara",
+      "koala",
+      "marsupial"
     ]
   },
   {
     "emoji": "🐼",
     "tags": [
-      "animal",
       "cara",
       "oso panda",
       "panda"
@@ -4750,7 +4734,6 @@
   {
     "emoji": "🐾",
     "tags": [
-      "animal",
       "huellas",
       "huellas de pezuñas",
       "pezuñas"
@@ -4759,7 +4742,6 @@
   {
     "emoji": "🦃",
     "tags": [
-      "animal",
       "ave",
       "pavo"
     ]
@@ -4791,7 +4773,6 @@
   {
     "emoji": "🐤",
     "tags": [
-      "animal",
       "ave",
       "pollito",
       "pollo",
@@ -4801,7 +4782,6 @@
   {
     "emoji": "🐥",
     "tags": [
-      "animal",
       "ave",
       "pollito",
       "pollito de frente",
@@ -4912,7 +4892,6 @@
   {
     "emoji": "🐸",
     "tags": [
-      "animal",
       "cara",
       "rana"
     ]
@@ -4990,7 +4969,6 @@
   {
     "emoji": "🐳",
     "tags": [
-      "animal",
       "ballena",
       "ballena soltando un chorro",
       "chorro de agua"
@@ -5026,16 +5004,13 @@
   {
     "emoji": "🐠",
     "tags": [
-      "animal",
-      "pescado",
       "pez",
-      "pez tropical"
+      "tropical"
     ]
   },
   {
     "emoji": "🐡",
     "tags": [
-      "animal",
       "globo",
       "pez"
     ]
@@ -5114,6 +5089,7 @@
     "emoji": "🐞",
     "tags": [
       "cochinilla",
+      "insecto",
       "mariquita"
     ]
   },
@@ -5135,7 +5111,6 @@
   {
     "emoji": "🕷️",
     "tags": [
-      "animal",
       "araña",
       "insecto"
     ]
@@ -5195,8 +5170,7 @@
       "bouquet",
       "flores",
       "ramo",
-      "ramo de flores",
-      "romance"
+      "ramo de flores"
     ]
   },
   {
@@ -5204,8 +5178,7 @@
     "tags": [
       "cerezo",
       "flor",
-      "flor de cerezo",
-      "primavera"
+      "flor de cerezo"
     ]
   },
   {
@@ -5238,8 +5211,7 @@
       "flor",
       "marchita",
       "marchitada",
-      "marchitarse",
-      "tristeza"
+      "marchitarse"
     ]
   },
   {
@@ -8065,8 +8037,8 @@
   {
     "emoji": "⭐",
     "tags": [
-      "estrella",
-      "estrella blanca mediana"
+      "estelar",
+      "estrella"
     ]
   },
   {
@@ -8251,9 +8223,9 @@
     "emoji": "⚡",
     "tags": [
       "alto voltaje",
+      "electricidad",
       "peligro",
       "peligro de alto voltaje",
-      "señal",
       "señal de alto voltaje",
       "voltaje"
     ]
@@ -8783,10 +8755,10 @@
   {
     "emoji": "🎿",
     "tags": [
-      "deporte",
       "esquí",
       "esquíes",
-      "esquís"
+      "esquís",
+      "nieve"
     ]
   },
   {
@@ -9255,8 +9227,7 @@
       "accesorios",
       "cartera",
       "complementos",
-      "monedero",
-      "mujer"
+      "monedero"
     ]
   },
   {
@@ -9656,6 +9627,7 @@
       "instrumento",
       "instrumento musical",
       "música",
+      "piano",
       "teclado",
       "teclado musical"
     ]
@@ -10016,6 +9988,7 @@
   {
     "emoji": "📚",
     "tags": [
+      "libro",
       "libros"
     ]
   },
@@ -11207,8 +11180,7 @@
       "señal",
       "señal con un hombre",
       "señal del baño de los hombres",
-      "servicio",
-      "símbolo de hombre"
+      "servicio"
     ]
   },
   {
@@ -11370,6 +11342,8 @@
   {
     "emoji": "🔞",
     "tags": [
+      "18",
+      "no apto para menores",
       "prohibido",
       "prohibido para menores de 18 años",
       "prohibido para menos de 18 años"
@@ -11899,7 +11873,8 @@
       "flecha doble a la izquierda",
       "izquierda",
       "rebobinado",
-      "rebobinar"
+      "rebobinar",
+      "retroceso rápido"
     ]
   },
   {
@@ -12723,7 +12698,6 @@
     "emoji": "🔴",
     "tags": [
       "círculo",
-      "círculo rojo grande",
       "geometría",
       "rojo"
     ]
@@ -12754,7 +12728,6 @@
     "tags": [
       "azul",
       "círculo",
-      "círculo azul grande",
       "geometría"
     ]
   },

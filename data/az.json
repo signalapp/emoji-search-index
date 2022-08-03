@@ -38,7 +38,8 @@
       "iri gözlərlə gülən üz",
       "aç",
       "gülümsəmə",
-      "gülür"
+      "gülür",
+      "xoşbəxt"
     ]
   },
   {
@@ -245,7 +246,11 @@
       "rahat",
       "sakit",
       "təbəssüm",
-      "üz"
+      "üz",
+      "face",
+      "slightly smiling face",
+      "gülür",
+      "smile"
     ]
   },
   {
@@ -1319,6 +1324,7 @@
       "ürək",
       "ürək formalı gözləri olan gülən pişik üzü",
       "üz",
+      "heart eyes",
       "gülümsəmə",
       "ürəkli gözlərlə gülümsəyən pişik"
     ]
@@ -1449,7 +1455,8 @@
       "romantika",
       "sevgi",
       "sevgi məktubu",
-      "ürək"
+      "ürək",
+      "heart letter"
     ]
   },
   {
@@ -1492,9 +1499,9 @@
       "ürək",
       "ürək döyüntüsü",
       "həyacanlı",
-      "böyüyən",
-      "əsəbi",
       "böyüyən ürək",
+      "əsəbi",
+      "böyüyən",
       "döyünmək"
     ]
   },
@@ -1541,7 +1548,10 @@
       "işarə",
       "nida",
       "ürək",
-      "ürək nida işarəsi ornamenti"
+      "ürək nida işarəsi ornamenti",
+      "heart exclamation",
+      "heart drop",
+      "exclamation"
     ]
   },
   {
@@ -1552,7 +1562,7 @@
       "sınmış ürək",
       "ürək",
       "sınmaq",
-      "sınmış"
+      "heart break"
     ]
   },
   {
@@ -1564,6 +1574,7 @@
       "şəhvət",
       "ürək",
       "yanmaq",
+      "burning heart",
       "yanan ürək",
       "arzu"
     ]
@@ -1577,12 +1588,13 @@
       "yara bandı bağlamaq",
       "yara bandlı ürək",
       "daha sağlam",
-      "yaxşılaşan",
       "ürəyi bərpa etmək",
+      "heart mending",
       "bərpa etmək",
       "xilas etmək",
       "sağalmaq",
-      "yaxşılaşmaq"
+      "yaxşılaşmaq",
+      "yaxşılaşan"
     ]
   },
   {
@@ -1596,7 +1608,8 @@
     "emoji": "🧡",
     "tags": [
       "narıncı",
-      "narıncı ürək"
+      "narıncı ürək",
+      "heart orange"
     ]
   },
   {
@@ -1604,7 +1617,8 @@
     "tags": [
       "sarı",
       "ürək",
-      "sarı ürək"
+      "sarı ürək",
+      "heart yellow"
     ]
   },
   {
@@ -1612,7 +1626,8 @@
     "tags": [
       "ürək",
       "yaşıl",
-      "yaşıl ürək"
+      "yaşıl ürək",
+      "heart green"
     ]
   },
   {
@@ -1621,7 +1636,8 @@
       "mavi",
       "ürək",
       "göy",
-      "göy ürək"
+      "göy ürək",
+      "heart blue"
     ]
   },
   {
@@ -1629,14 +1645,17 @@
     "tags": [
       "bənövşəyi",
       "ürək",
-      "bənövşəyi ürək"
+      "bənövşəyi ürək",
+      "heart purple"
     ]
   },
   {
     "emoji": "🤎",
     "tags": [
       "qəhvəyi",
-      "ürək"
+      "ürək",
+      "brownheart",
+      "heart brown"
     ]
   },
   {
@@ -1647,14 +1666,17 @@
       "qara-ürək adam",
       "ürək",
       "xislət",
-      "qara ürək"
+      "qara ürək",
+      "heart black"
     ]
   },
   {
     "emoji": "🤍",
     "tags": [
       "ağ",
-      "ürək"
+      "ürək",
+      "white heart",
+      "heart white"
     ]
   },
   {
@@ -1742,7 +1764,8 @@
       "nitq şarı",
       "şar",
       "qabarcıq",
-      "danışıq"
+      "danışıq",
+      "typing"
     ]
   },
   {
@@ -1797,7 +1820,12 @@
       "orqan",
       "yelləmə",
       "yelləmək",
-      "yellənir"
+      "yellənir",
+      "hi",
+      "hey",
+      "salam",
+      "bye",
+      "sağ salamat"
     ]
   },
   {
@@ -1833,7 +1861,8 @@
       "qaldırımış əl",
       "5 barmaq",
       "qalxmış əl",
-      "beş barmaq"
+      "beş barmaq",
+      "hifive"
     ]
   },
   {
@@ -2593,7 +2622,8 @@
       "qadağan edilmiş",
       "XEYR hərəkəti edən şəxs",
       "qadağandır",
-      "X"
+      "X",
+      "no"
     ]
   },
   {
@@ -2609,7 +2639,7 @@
       "qadağan edilmiş",
       "XEYR hərəkəti edən kişi",
       "X",
-      "erkək"
+      "no"
     ]
   },
   {
@@ -2624,7 +2654,7 @@
       "qadağan edilmiş",
       "XEYR hərəkəti edən qadın",
       "X",
-      "dişi"
+      "no"
     ]
   },
   {
@@ -2712,7 +2742,10 @@
       "qaldırılmış",
       "xoşbəxt",
       "əlini qaldırmış adam",
-      "qalxmış"
+      "qalxmış",
+      "hi",
+      "hey",
+      "salam"
     ]
   },
   {
@@ -2724,7 +2757,10 @@
       "kişi",
       "əlini qaldırmaq",
       "əlini qaldırmış kişi",
-      "erkək"
+      "erkək",
+      "hi",
+      "hey",
+      "salam"
     ]
   },
   {
@@ -2736,7 +2772,10 @@
       "qadın",
       "əlini qaldırmaq",
       "əlini qaldırmış qadın",
-      "dişi"
+      "dişi",
+      "hi",
+      "hey",
+      "salam"
     ]
   },
   {
@@ -4458,7 +4497,8 @@
       "buxarlı otaq",
       "buxarlı otaqda adam",
       "sauna",
-      "buxar otağı"
+      "buxar otağı",
+      "spa"
     ]
   },
   {
@@ -4468,7 +4508,8 @@
       "buxarlı otaqda kişi",
       "sauna",
       "erkək",
-      "buxar otağı"
+      "buxar otağı",
+      "spa"
     ]
   },
   {
@@ -4478,7 +4519,8 @@
       "buxarlı otaqda qadın",
       "sauna",
       "buxar otağı",
-      "dişi"
+      "dişi",
+      "spa"
     ]
   },
   {
@@ -4626,7 +4668,8 @@
     "tags": [
       "üzgüçü",
       "üzmək",
-      "üzən adam"
+      "üzən adam",
+      "swimmer"
     ]
   },
   {
@@ -4636,7 +4679,8 @@
       "üzgüçü kişi",
       "üzmək",
       "üzən kişi",
-      "erkək"
+      "erkək",
+      "swimmer"
     ]
   },
   {
@@ -4646,7 +4690,8 @@
       "üzgüçü qadın",
       "üzmək",
       "dişi",
-      "üzən qadın"
+      "üzən qadın",
+      "swimmer"
     ]
   },
   {
@@ -5543,18 +5588,14 @@
       "dovşan",
       "dovşan üzü",
       "ev heyvanı",
-      "üz",
-      "bunny",
-      "rabbit"
+      "üz"
     ]
   },
   {
     "emoji": "🐇",
     "tags": [
       "dovşan",
-      "ev heyvanı",
-      "bunny",
-      "rabbit"
+      "ev heyvanı"
     ]
   },
   {
@@ -5562,10 +5603,10 @@
     "tags": [
       "brunduk",
       "burunduk",
-      "chipmunk",
-      "squirrel",
-      "nuts",
-      "acorn"
+      "sincap",
+      "dələ",
+      "qoz-fındıq",
+      "palamut"
     ]
   },
   {
@@ -5573,25 +5614,21 @@
     "tags": [
       "dişi",
       "qunduz",
-      "beaver",
-      "dam"
+      "bənd"
     ]
   },
   {
     "emoji": "🦔",
     "tags": [
       "kirpi",
-      "tikanlı",
-      "hedgehog",
-      "spiny"
+      "tikanlı"
     ]
   },
   {
     "emoji": "🦇",
     "tags": [
       "vampir",
-      "yarasa",
-      "bat"
+      "yarasa"
     ]
   },
   {
@@ -5599,8 +5636,7 @@
     "tags": [
       "ayı",
       "ayı üzü",
-      "üz",
-      "bear"
+      "üz"
     ]
   },
   {
@@ -5610,17 +5646,14 @@
       "arktika",
       "ayı",
       "qütb ayısı",
-      "arctic",
-      "bear",
-      "polar bear"
+      "qütb"
     ]
   },
   {
     "emoji": "🐨",
     "tags": [
       "ayı",
-      "koala",
-      "bear"
+      "koala"
     ]
   },
   {
@@ -5629,7 +5662,7 @@
       "panda",
       "panda üzü",
       "üz",
-      "bear"
+      "ayı"
     ]
   },
   {
@@ -5637,9 +5670,7 @@
     "tags": [
       "tənbəl",
       "yavaş",
-      "lazy",
-      "sloth",
-      "slow"
+      "tənbəllik"
     ]
   },
   {
@@ -5648,9 +5679,9 @@
       "balıqtutma",
       "oynamağa həvəsli",
       "samur",
-      "fishing",
-      "otter",
-      "playful"
+      "balıqçılıq",
+      "su samuru",
+      "oynaq"
     ]
   },
   {
@@ -5658,8 +5689,7 @@
     "tags": [
       "skunsk",
       "üfunət",
-      "skunk",
-      "stink"
+      "skuns"
     ]
   },
   {
@@ -5670,11 +5700,8 @@
       "kenquru balası",
       "kisəli",
       "tullanma",
-      "Australia",
-      "joey",
-      "kangaroo",
-      "jump",
-      "marsupial"
+      "gənc kenquru",
+      "tullanmaq"
     ]
   },
   {
@@ -5682,9 +5709,8 @@
     "tags": [
       "porsuq",
       "zəhlətökən",
-      "badger",
-      "honey badger",
-      "pester"
+      "bal porsuğu",
+      "bezdirmək"
     ]
   },
   {
@@ -5694,18 +5720,14 @@
       "iz",
       "pəncə",
       "pəncə izləri",
-      "feet",
-      "paw",
-      "paw prints"
+      "ayaqlar"
     ]
   },
   {
     "emoji": "🦃",
     "tags": [
       "hinduşka",
-      "quş",
-      "bird",
-      "turkey"
+      "quş"
     ]
   },
   {
@@ -5713,9 +5735,7 @@
     "tags": [
       "quş",
       "toyuq",
-      "bird",
-      "chicken",
-      "hen"
+      "dişi toyuq"
     ]
   },
   {
@@ -5723,10 +5743,8 @@
     "tags": [
       "quş",
       "xoruz",
-      "bird",
-      "rooster",
-      "hen",
-      "chicken"
+      "dişi toyuq",
+      "toyuq"
     ]
   },
   {
@@ -5736,9 +5754,8 @@
       "körpə",
       "yumurtadan çıxan cücə",
       "yumurtadan çıxmaq",
-      "bird",
-      "hatching",
-      "chick"
+      "quş",
+      "yumurtadan çıxma"
     ]
   },
   {
@@ -5746,9 +5763,7 @@
     "tags": [
       "cücə",
       "körpə",
-      "quş",
-      "bird",
-      "chick"
+      "quş"
     ]
   },
   {
@@ -5758,25 +5773,20 @@
       "körpə",
       "qabağa baxan balaca cücə",
       "quş",
-      "bird",
-      "front-facing baby chick",
-      "chick"
+      "önə baxan körpə cücə"
     ]
   },
   {
     "emoji": "🐦",
     "tags": [
-      "quş",
-      "bird"
+      "quş"
     ]
   },
   {
     "emoji": "🐧",
     "tags": [
       "pinqvin",
-      "quş",
-      "bird",
-      "penguin"
+      "quş"
     ]
   },
   {
@@ -5785,28 +5795,21 @@
       "göyərçin",
       "quş",
       "sülh",
-      "uçmaq",
-      "bird",
-      "dove",
-      "peace"
+      "uçmaq"
     ]
   },
   {
     "emoji": "🦅",
     "tags": [
       "qartal",
-      "quş",
-      "bird",
-      "eagle"
+      "quş"
     ]
   },
   {
     "emoji": "🦆",
     "tags": [
       "ördək",
-      "quş",
-      "bird",
-      "duck"
+      "quş"
     ]
   },
   {
@@ -5816,10 +5819,9 @@
       "qu balası",
       "quş",
       "suya girmə",
-      "bird",
-      "cygnet",
-      "ugly duckling",
-      "swan"
+      "qu quşunun balası",
+      "çirkin ördək balası",
+      "qu quşu"
     ]
   },
   {
@@ -5827,10 +5829,7 @@
     "tags": [
       "bayquş",
       "müdrik",
-      "quş",
-      "bird",
-      "owl",
-      "wise"
+      "quş"
     ]
   },
   {
@@ -5852,11 +5851,8 @@
       "tük",
       "uçuş",
       "yüngül",
-      "bird",
-      "feather",
-      "light",
-      "flight",
-      "plumage"
+      "qonmaq",
+      "uçmaq"
     ]
   },
   {
@@ -5865,9 +5861,7 @@
       "flaminqo",
       "rəngli",
       "tropik",
-      "flamboyant",
-      "flamingo",
-      "tropical"
+      "parıltılı"
     ]
   },
   {
@@ -5877,10 +5871,9 @@
       "qürrəli",
       "quş",
       "tovuz",
-      "bird",
-      "ostentatious",
-      "peahen",
-      "peacock",
+      "təmtəraqlı",
+      "dişi tovuz quşu",
+      "tovuz quşu",
       "qürurlu"
     ]
   },
@@ -5891,10 +5884,7 @@
       "quş",
       "söhbət",
       "tutuquşu",
-      "bird",
-      "parrot",
-      "talk",
-      "pirate"
+      "danışmaq"
     ]
   },
   {
@@ -5902,15 +5892,13 @@
     "tags": [
       "qurbağa",
       "qurbağa üzü",
-      "üz",
-      "frog"
+      "üz"
     ]
   },
   {
     "emoji": "🐊",
     "tags": [
-      "timsah",
-      "crocodile"
+      "timsah"
     ]
   },
   {
@@ -5919,18 +5907,14 @@
       "bağa",
       "su tısbağası",
       "tısbağa",
-      "terrapin",
-      "tortoise",
-      "turtle"
+      "su qurbağası"
     ]
   },
   {
     "emoji": "🦎",
     "tags": [
       "kərtənkələ",
-      "sürünən",
-      "lizard",
-      "reptile"
+      "sürünən"
     ]
   },
   {
@@ -5940,10 +5924,7 @@
       "ilan",
       "ilandaşıyan",
       "zodiak",
-      "bearer",
       "Ophiuchus",
-      "snake",
-      "serpent",
       "bürc"
     ]
   },
@@ -5953,16 +5934,14 @@
       "əjdaha",
       "əjdaha üzü",
       "nağıl",
-      "üz",
-      "dragon"
+      "üz"
     ]
   },
   {
     "emoji": "🐉",
     "tags": [
       "əjdaha",
-      "nağıl",
-      "dragon"
+      "nağıl"
     ]
   },
   {
@@ -5972,7 +5951,6 @@
       "brontozavr",
       "diplodok",
       "sauropod",
-      "brachiosaurus",
       "brontosaurus",
       "diplodocus",
       "dinosaur"
@@ -6041,8 +6019,7 @@
     "tags": [
       "balıq",
       "tropik",
-      "fish",
-      "tropical"
+      "fish"
     ]
   },
   {
@@ -6455,7 +6432,12 @@
     "emoji": "☘️",
     "tags": [
       "bitki",
-      "yonca"
+      "yonca",
+      "clover",
+      "shamrock",
+      "three-leaf clover",
+      "three",
+      "leaf"
     ]
   },
   {
@@ -6587,8 +6569,7 @@
       "meyvə",
       "tropik",
       "fruit",
-      "mango",
-      "tropical"
+      "mango"
     ]
   },
   {
@@ -6988,7 +6969,7 @@
       "ev quşları",
       "sümük",
       "toyuq budu",
-      "chicken",
+      "toyuq",
       "drumstick",
       "poultry"
     ]
@@ -7818,8 +7799,7 @@
       "içmək",
       "tropik",
       "tropik içki",
-      "drink",
-      "tropical"
+      "drink"
     ]
   },
   {
@@ -8059,7 +8039,7 @@
       "qlobus",
       "yer kürəsi",
       "Asia",
-      "Australia",
+      "Avstraliye",
       "globe",
       "earth",
       "globe showing Asia-Australia",
@@ -8298,7 +8278,6 @@
       "ev",
       "ev binası",
       "mənzil",
-      "home",
       "house"
     ]
   },
@@ -8311,7 +8290,6 @@
       "ev",
       "mənzil",
       "garden",
-      "home",
       "house with garden",
       "house"
     ]
@@ -8667,7 +8645,8 @@
       "bulaqlar",
       "buxarlanan",
       "isti",
-      "qaynar bulaqlar"
+      "qaynar bulaqlar",
+      "hot springs"
     ]
   },
   {
@@ -8746,7 +8725,7 @@
       "dəmir yolu qatarı vaqonu",
       "elektrik",
       "maşın",
-      "car",
+      "train car",
       "electric",
       "train",
       "railway",
@@ -8853,7 +8832,7 @@
       "dəmir yolu",
       "maşın",
       "nəqliyyat",
-      "car",
+      "train car",
       "railway"
     ]
   },
@@ -8864,7 +8843,7 @@
       "tramvay",
       "tramvay vaqonu",
       "trolleybus",
-      "car",
+      "train car",
       "tram"
     ]
   },
@@ -9080,7 +9059,8 @@
       "motosikl",
       "skuter",
       "motor",
-      "scooter"
+      "scooter",
+      "moped"
     ]
   },
   {
@@ -9089,7 +9069,8 @@
       "əlverişlilik",
       "manual təkərli kreslo",
       "əlçatan",
-      "manual wheelchair"
+      "manual wheelchair",
+      "əlil arabası"
     ]
   },
   {
@@ -9098,7 +9079,8 @@
       "əlverişlilik",
       "motorlu təkərli kreslo",
       "əlçatan",
-      "motorized wheelchair"
+      "motorized wheelchair",
+      "əlil arabası"
     ]
   },
   {
@@ -9215,10 +9197,9 @@
       "polis",
       "polis maşının işığı",
       "beacon",
-      "car",
-      "light",
-      "alert",
+      "qonmaq",
       "alarm",
+      "alert",
       "emergency",
       "siren"
     ]
@@ -9231,9 +9212,10 @@
       "siqnal",
       "üfüqi işıqfor",
       "horizontal traffic light",
-      "light",
+      "qonmaq",
       "traffic",
-      "signal"
+      "signal",
+      "stoplight"
     ]
   },
   {
@@ -9243,10 +9225,11 @@
       "nəqliyyat",
       "şaquli işıqfor",
       "siqnal",
-      "light",
+      "qonmaq",
       "signal",
       "vertical traffic light",
-      "traffic"
+      "traffic",
+      "stoplight"
     ]
   },
   {
@@ -9356,7 +9339,11 @@
     "emoji": "✈️",
     "tags": [
       "nəqliyyat",
-      "təyyarə"
+      "təyyarə",
+      "aeroplane",
+      "airplane",
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -10040,7 +10027,9 @@
       "hava",
       "kosmos",
       "parlaq",
-      "şüalar"
+      "şüalar",
+      "sun",
+      "bright"
     ]
   },
   {
@@ -10115,14 +10104,16 @@
       "kosmos",
       "süd yolu",
       "milky way",
-      "space"
+      "space",
+      "galaxy"
     ]
   },
   {
     "emoji": "☁️",
     "tags": [
       "bulud",
-      "hava"
+      "hava",
+      "cloud"
     ]
   },
   {
@@ -10276,7 +10267,18 @@
       "hava",
       "yağış",
       "rain",
-      "rainbow"
+      "rainbow",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "pride",
+      "gay",
+      "lesbian",
+      "queer",
+      "transgender",
+      "trans",
+      "intersex",
+      "asexual"
     ]
   },
   {
@@ -10298,7 +10300,9 @@
       "çətir",
       "geyim",
       "hava",
-      "yağış"
+      "yağış",
+      "umbrella",
+      "rain"
     ]
   },
   {
@@ -10361,7 +10365,10 @@
       "hava",
       "qar",
       "qar adam",
-      "soyuq"
+      "soyuq",
+      "cold",
+      "snow",
+      "snowman"
     ]
   },
   {
@@ -10627,7 +10634,8 @@
     "tags": [
       "bayram",
       "lent",
-      "qeyd etmə"
+      "qeyd etmə",
+      "təzim"
     ]
   },
   {
@@ -10863,7 +10871,7 @@
       "kriket",
       "oyun",
       "top",
-      "bat",
+      "yarasa",
       "game",
       "cricket game"
     ]
@@ -10920,7 +10928,7 @@
       "raketka",
       "stolüstü tennis",
       "top",
-      "bat",
+      "yarasa",
       "paddle",
       "game",
       "ping pong",
@@ -11188,7 +11196,9 @@
       "oyun",
       "game",
       "slot",
-      "slot machine"
+      "slot machine",
+      "gambling",
+      "casino"
     ]
   },
   {
@@ -11251,7 +11261,8 @@
       "doll",
       "nesting",
       "russia",
-      "nesting dolls"
+      "nesting dolls",
+      "matryoshka"
     ]
   },
   {
@@ -11261,7 +11272,9 @@
       "kart",
       "oyun",
       "qaratoxmaq",
-      "qaratoxmaq dəsti"
+      "qaratoxmaq dəsti",
+      "spade suit",
+      "card suit"
     ]
   },
   {
@@ -11283,7 +11296,9 @@
       "oyun",
       "romb",
       "romb dəsti",
-      "romblar"
+      "romblar",
+      "diamond suit",
+      "card suit"
     ]
   },
   {
@@ -11294,7 +11309,9 @@
       "klub",
       "klub dəsti",
       "klublar",
-      "oyun"
+      "oyun",
+      "club suit",
+      "card suit"
     ]
   },
   {
@@ -11559,7 +11576,8 @@
     "tags": [
       "əl",
       "əlcəklər",
-      "gloves"
+      "gloves",
+      "mittens"
     ]
   },
   {
@@ -11974,7 +11992,7 @@
       "səssiz",
       "səsucaldan",
       "səsucaldan sönülüdür",
-      "mute",
+      "səssizə al",
       "muted speaker",
       "speaker",
       "volume"
@@ -12050,7 +12068,8 @@
     "emoji": "🔔",
     "tags": [
       "zəng",
-      "bell"
+      "bell",
+      "ring"
     ]
   },
   {
@@ -12063,7 +12082,7 @@
       "üstündən xətt çəkilmiş zəng",
       "bell",
       "bell with slash",
-      "mute",
+      "səssizə al",
       "qadağan edilmiş"
     ]
   },
@@ -12158,7 +12177,8 @@
     "emoji": "📻",
     "tags": [
       "radio",
-      "video"
+      "video",
+      "görüntülü"
     ]
   },
   {
@@ -12276,7 +12296,7 @@
       "mobil",
       "telefon",
       "cell",
-      "mobile"
+      "smartphone"
     ]
   },
   {
@@ -12290,8 +12310,8 @@
       "zəng",
       "cell",
       "mobile phone with arrow",
-      "mobile",
-      "receive"
+      "receive",
+      "smartphone"
     ]
   },
   {
@@ -12313,7 +12333,8 @@
     "emoji": "📟",
     "tags": [
       "peycer",
-      "pager"
+      "pager",
+      "beeper"
     ]
   },
   {
@@ -12361,7 +12382,9 @@
       "kompüter",
       "masaüstü",
       "computer",
-      "desktop"
+      "desktop",
+      "monitor",
+      "screen"
     ]
   },
   {
@@ -12376,7 +12399,9 @@
     "emoji": "⌨️",
     "tags": [
       "klaviatura",
-      "kompüter"
+      "kompüter",
+      "keyboard",
+      "computer keyboard"
     ]
   },
   {
@@ -12494,6 +12519,7 @@
       "video",
       "cinema",
       "movie",
+      "görüntülü",
       "kamera",
       "göy"
     ]
@@ -12514,14 +12540,16 @@
       "televizor",
       "tv",
       "video",
-      "television"
+      "television",
+      "görüntülü"
     ]
   },
   {
     "emoji": "📷",
     "tags": [
       "kamera",
-      "video"
+      "video",
+      "görüntülü"
     ]
   },
   {
@@ -12532,6 +12560,7 @@
       "kamera",
       "video",
       "camera with flash",
+      "görüntülü",
       "flash"
     ]
   },
@@ -12540,6 +12569,7 @@
     "tags": [
       "kamera",
       "video",
+      "görüntülü",
       "camcorder"
     ]
   },
@@ -12551,7 +12581,8 @@
       "video",
       "video kaset",
       "tape",
-      "videocassette"
+      "videocassette",
+      "görüntülü"
     ]
   },
   {
@@ -12564,7 +12595,7 @@
       "şüşə",
       "glass",
       "magnifying",
-      "search",
+      "axtar",
       "magnifying glass tilted left",
       "tool"
     ]
@@ -12576,7 +12607,12 @@
       "axtarmaq",
       "böyüdücü",
       "sağa yönəlmiş böyüdücü şüşə",
-      "şüşə"
+      "şüşə",
+      "glass",
+      "magnifying",
+      "search",
+      "magnifying glass tilted right",
+      "tool"
     ]
   },
   {
@@ -12585,7 +12621,7 @@
       "işıq",
       "şam",
       "candle",
-      "light"
+      "qonmaq"
     ]
   },
   {
@@ -12600,7 +12636,7 @@
       "bulb",
       "idea",
       "electric",
-      "light",
+      "qonmaq",
       "lightbulb"
     ]
   },
@@ -12614,7 +12650,7 @@
       "electric",
       "flashlight",
       "tool",
-      "light",
+      "qonmaq",
       "torch"
     ]
   },
@@ -12628,7 +12664,7 @@
       "qırmızı kağız fənər",
       "yapon",
       "lantern",
-      "light",
+      "qonmaq",
       "red paper lantern"
     ]
   },
@@ -12807,7 +12843,8 @@
     "emoji": "🏷️",
     "tags": [
       "etiket",
-      "label"
+      "label",
+      "tag"
     ]
   },
   {
@@ -12963,7 +13000,10 @@
     "tags": [
       "e-poçt",
       "elektron poçt",
-      "zərf"
+      "zərf",
+      "envelope",
+      "letter",
+      "mail"
     ]
   },
   {
@@ -12972,8 +13012,7 @@
       "e-poçt",
       "məktub",
       "poçt",
-      "e-mail",
-      "email"
+      "e-mail"
     ]
   },
   {
@@ -12987,7 +13026,6 @@
       "qəbul etmək",
       "zərf",
       "e-mail",
-      "email",
       "incoming",
       "envelope",
       "receive"
@@ -13005,7 +13043,6 @@
       "ox",
       "e-mail",
       "envelope",
-      "email",
       "envelope with arrow",
       "outgoing"
     ]
@@ -13135,7 +13172,10 @@
     "tags": [
       "qara qələm",
       "qələm",
-      "qələm ucu"
+      "qələm ucu",
+      "pen",
+      "pen nib",
+      "nib"
     ]
   },
   {
@@ -13179,7 +13219,10 @@
       "karandaş",
       "yaddaş qeydi",
       "memo",
-      "pencil"
+      "pencil",
+      "pencil and paper",
+      "paper",
+      "write"
     ]
   },
   {
@@ -13386,7 +13429,9 @@
     "emoji": "✂️",
     "tags": [
       "alət",
-      "qayçı"
+      "qayçı",
+      "scissors",
+      "cut"
     ]
   },
   {
@@ -13416,7 +13461,9 @@
     "emoji": "🗑️",
     "tags": [
       "zibilqabı",
-      "wastebasket"
+      "wastebasket",
+      "trash",
+      "can"
     ]
   },
   {
@@ -13424,7 +13471,9 @@
     "tags": [
       "bağlı",
       "kilid",
-      "locked"
+      "locked",
+      "lock",
+      "padlock"
     ]
   },
   {
@@ -13436,7 +13485,8 @@
       "lock",
       "aç",
       "unlocked",
-      "unlock"
+      "unlock",
+      "padlock"
     ]
   },
   {
@@ -13453,7 +13503,8 @@
       "nib",
       "locked with pen",
       "pen",
-      "privacy"
+      "privacy",
+      "padlock"
     ]
   },
   {
@@ -13466,7 +13517,8 @@
       "secure",
       "key",
       "locked with key",
-      "lock"
+      "lock",
+      "padlock"
     ]
   },
   {
@@ -13533,7 +13585,9 @@
       "alət",
       "çəkic",
       "çəkic və külüng",
-      "külüng"
+      "külüng",
+      "hammer",
+      "pick"
     ]
   },
   {
@@ -13566,7 +13620,10 @@
     "tags": [
       "kəsişən",
       "qılınclar",
-      "silah"
+      "silah",
+      "sword",
+      "fencing",
+      "crossed swords"
     ]
   },
   {
@@ -13675,7 +13732,10 @@
     "emoji": "⚙️",
     "tags": [
       "alət",
-      "mexanizm"
+      "mexanizm",
+      "gear",
+      "cog",
+      "machine"
     ]
   },
   {
@@ -13697,7 +13757,10 @@
       "çəki",
       "ədalət",
       "libra",
-      "tarazlıq tərəzisi"
+      "tarazlıq tərəzisi",
+      "scale",
+      "balance",
+      "qanun"
     ]
   },
   {
@@ -13930,7 +13993,8 @@
       "ürək",
       "həkim",
       "stethoscope",
-      "medicine"
+      "medicine",
+      "listen"
     ]
   },
   {
@@ -14229,14 +14293,20 @@
     "tags": [
       "siqaret",
       "cigarette",
-      "smoking"
+      "smoking",
+      "tobacco"
     ]
   },
   {
     "emoji": "⚰️",
     "tags": [
       "ölüm",
-      "tabut"
+      "tabut",
+      "coffin",
+      "death",
+      "dead",
+      "casket",
+      "funeral"
     ]
   },
   {
@@ -14251,7 +14321,8 @@
       "grave",
       "headstone",
       "graveyard",
-      "tombstone"
+      "tombstone",
+      "gravestone"
     ]
   },
   {
@@ -14260,7 +14331,11 @@
       "cənazə",
       "cənazə urnası",
       "ölüm",
-      "urna"
+      "urna",
+      "funeral",
+      "urn",
+      "death",
+      "dead"
     ]
   },
   {
@@ -14435,7 +14510,11 @@
   {
     "emoji": "⚠️",
     "tags": [
-      "xəbərdarlıq"
+      "xəbərdarlıq",
+      "caution",
+      "warning",
+      "alert",
+      "təhlükəli"
     ]
   },
   {
@@ -14574,7 +14653,6 @@
       "cell",
       "qadağan edilmiş",
       "no",
-      "mobile",
       "mobil telefon olmaz"
     ]
   },
@@ -14597,14 +14675,22 @@
     "emoji": "☢️",
     "tags": [
       "işarə",
-      "radioaktiv"
+      "radioaktiv",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
     "emoji": "☣️",
     "tags": [
       "biotəhlükəli",
-      "işarə"
+      "işarə",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -14614,7 +14700,9 @@
       "istiqamət",
       "ox",
       "şimal",
-      "üzüyuxarı ox"
+      "üzüyuxarı ox",
+      "arrow",
+      "up"
     ]
   },
   {
@@ -14624,7 +14712,8 @@
       "istiqamət",
       "ox",
       "şimal şərq",
-      "üzüyuxarı sağa yönəlmiş ox"
+      "üzüyuxarı sağa yönəlmiş ox",
+      "up right"
     ]
   },
   {
@@ -14634,7 +14723,9 @@
       "istiqamət",
       "ox",
       "sağa ox",
-      "şərq"
+      "şərq",
+      "arrow",
+      "right"
     ]
   },
   {
@@ -14644,7 +14735,9 @@
       "interkardinal",
       "istiqamət",
       "ox",
-      "üzüaşağı sağa yönəlmiş ox"
+      "üzüaşağı sağa yönəlmiş ox",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -14655,7 +14748,9 @@
       "əsas",
       "istiqamət",
       "ox",
-      "üzüaşağı ox"
+      "üzüaşağı ox",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -14665,7 +14760,9 @@
       "interkardinal",
       "istiqamət",
       "ox",
-      "üzüaşağı sola yönəlmiş ox"
+      "üzüaşağı sola yönəlmiş ox",
+      "arrow",
+      "down left"
     ]
   },
   {
@@ -14675,7 +14772,9 @@
       "kardinal",
       "ox",
       "qərb",
-      "sola ox"
+      "sola ox",
+      "arrow",
+      "left"
     ]
   },
   {
@@ -14685,42 +14784,57 @@
       "istiqamət",
       "ox",
       "şimal qərb",
-      "üzüyuxarı sola yönəlmiş ox"
+      "üzüyuxarı sola yönəlmiş ox",
+      "arrow",
+      "up left"
     ]
   },
   {
     "emoji": "↕️",
     "tags": [
       "ox",
-      "üzü aşağı-yuxarı ox"
+      "üzü aşağı-yuxarı ox",
+      "arrow",
+      "up and down",
+      "vertical",
+      "height"
     ]
   },
   {
     "emoji": "↔️",
     "tags": [
       "ox",
-      "sola-sağa ox"
+      "sola-sağa ox",
+      "arrow",
+      "left and right",
+      "horizontal",
+      "width"
     ]
   },
   {
     "emoji": "↩️",
     "tags": [
       "ox",
-      "sola dönən sağ ox"
+      "sola dönən sağ ox",
+      "arrow",
+      "return"
     ]
   },
   {
     "emoji": "↪️",
     "tags": [
       "ox",
-      "sağa dönən sol ox"
+      "sağa dönən sol ox",
+      "forward"
     ]
   },
   {
     "emoji": "⤴️",
     "tags": [
       "ox",
-      "yuxarı dönən sağ ox"
+      "yuxarı dönən sağ ox",
+      "arrow",
+      "up bend"
     ]
   },
   {
@@ -14728,7 +14842,8 @@
     "tags": [
       "aşağı",
       "aşağı dönən sağ ox",
-      "ox"
+      "ox",
+      "down bend"
     ]
   },
   {
@@ -14784,7 +14899,7 @@
       "üstündə",
       "mark",
       "ON! arrow",
-      "on"
+      "açıq"
     ]
   },
   {
@@ -14845,7 +14960,10 @@
       "davud ulduzu",
       "din",
       "ulduz",
-      "yəhudi"
+      "yəhudi",
+      "star",
+      "jewish",
+      "start of david"
     ]
   },
   {
@@ -14855,7 +14973,8 @@
       "çarx",
       "dharma",
       "dharma çarxı",
-      "din"
+      "din",
+      "wheel"
     ]
   },
   {
@@ -14865,7 +14984,10 @@
       "daoist",
       "din",
       "in",
-      "yan"
+      "yan",
+      "yin",
+      "yang",
+      "yin yang"
     ]
   },
   {
@@ -14874,7 +14996,9 @@
       "din",
       "latın xaçı",
       "xaç",
-      "xristian"
+      "xristian",
+      "çarpaz",
+      "christianity"
     ]
   },
   {
@@ -14883,7 +15007,9 @@
       "din",
       "ortodoks xaçı",
       "xaç",
-      "xristian"
+      "xristian",
+      "cross",
+      "orthodox cross"
     ]
   },
   {
@@ -14892,14 +15018,17 @@
       "din",
       "islam",
       "müsəlman",
-      "ulduz və aypara"
+      "ulduz və aypara",
+      "star and crescent"
     ]
   },
   {
     "emoji": "☮️",
     "tags": [
       "sülh",
-      "sülh simvolu"
+      "sülh simvolu",
+      "peace",
+      "peace sign"
     ]
   },
   {
@@ -15038,7 +15167,6 @@
       "su",
       "zodiak",
       "Aquarius",
-      "bearer",
       "bürc"
     ]
   },
@@ -15060,10 +15188,7 @@
       "ilan",
       "ilandaşıyan",
       "zodiak",
-      "bearer",
       "Ophiuchus",
-      "snake",
-      "serpent",
       "bürc"
     ]
   },
@@ -15108,7 +15233,12 @@
       "işə sal düyməsi",
       "ox",
       "sağ",
-      "üçbucaq"
+      "üçbucaq",
+      "play",
+      "go",
+      "play button",
+      "right arrow",
+      "triangle"
     ]
   },
   {
@@ -15162,7 +15292,9 @@
       "geriyə düyməsi",
       "ox",
       "sol",
-      "üçbucaq"
+      "üçbucaq",
+      "left arrow",
+      "triangle"
     ]
   },
   {
@@ -15277,7 +15409,9 @@
     "emoji": "⏏️",
     "tags": [
       "çıxart",
-      "çıxart düyməsi"
+      "çıxart düyməsi",
+      "eject",
+      "eject button"
     ]
   },
   {
@@ -15325,7 +15459,8 @@
       "telefon",
       "antena çubuqları",
       "cell",
-      "bar"
+      "bar",
+      "mobil"
     ]
   },
   {
@@ -15337,7 +15472,6 @@
       "vibrasiya",
       "vibrasiya rejimi",
       "cell",
-      "mobile",
       "mode",
       "vibration"
     ]
@@ -15350,8 +15484,7 @@
       "sönülü",
       "telefon",
       "cell",
-      "mobile",
-      "off"
+      "bağlı"
     ]
   },
   {
@@ -15370,7 +15503,10 @@
       "ləğv et",
       "qalın vurma x",
       "vur",
-      "vurma"
+      "vurma",
+      "stop",
+      "x",
+      "cross"
     ]
   },
   {
@@ -15416,7 +15552,10 @@
       "həmişəlik",
       "limitsiz",
       "sonsuzluq",
-      "universal"
+      "universal",
+      "infinity",
+      "infinite",
+      "endless"
     ]
   },
   {
@@ -15437,7 +15576,10 @@
       "nida",
       "nida və sual işarələrinin liqaturası",
       "nida və sual işarəsi",
-      "sual"
+      "sual",
+      "!?",
+      "exclamation",
+      "question"
     ]
   },
   {
@@ -15507,7 +15649,10 @@
       "dalğalı tire",
       "dalğavari",
       "durğu işarəsi",
-      "tire"
+      "tire",
+      "wave",
+      "wavey",
+      "wavey dash"
     ]
   },
   {
@@ -15517,7 +15662,10 @@
       "mübadilə",
       "pul",
       "valyuta",
-      "valyuta mübadiləsi"
+      "valyuta mübadiləsi",
+      "currency",
+      "exchange",
+      "money"
     ]
   },
   {
@@ -15526,7 +15674,12 @@
       "dollar",
       "pul",
       "qalın dollar işarəsi",
-      "valyuta"
+      "valyuta",
+      "money",
+      "dollars",
+      "cash",
+      "usd",
+      "rich"
     ]
   },
   {
@@ -15539,7 +15692,9 @@
   {
     "emoji": "⚜️",
     "tags": [
-      "zanbaq"
+      "zanbaq",
+      "fleur",
+      "fleur-de-lis"
     ]
   },
   {
@@ -15618,7 +15773,11 @@
       "işarələ",
       "qutu",
       "seçki",
-      "təsdiqlənmiş seçim düzbucaqlısı"
+      "təsdiqlənmiş seçim düzbucaqlısı",
+      "check",
+      "check box",
+      "done",
+      "todo"
     ]
   },
   {
@@ -15680,7 +15839,11 @@
     "tags": [
       "ikiqat",
       "ilmə",
-      "spiral"
+      "spiral",
+      "loop",
+      "curl",
+      "twist",
+      "double curly loop"
     ]
   },
   {
@@ -15688,7 +15851,8 @@
     "tags": [
       "hissə",
       "hissələri bir-birindən ayırmaq işarəsi",
-      "işarə"
+      "işarə",
+      "part alternation mark"
     ]
   },
   {
@@ -15714,14 +15878,17 @@
   {
     "emoji": "©️",
     "tags": [
-      "müəllif hüququ"
+      "müəllif hüququ",
+      "copyright"
     ]
   },
   {
     "emoji": "®️",
     "tags": [
       "qeydiyyata alınmış",
-      "qeydiyyatlı"
+      "qeydiyyatlı",
+      "registered",
+      "reserved"
     ]
   },
   {
@@ -15729,7 +15896,9 @@
     "tags": [
       "işarə",
       "ticarət nişanı",
-      "tn"
+      "tn",
+      "tm",
+      "trademark"
     ]
   },
   {
@@ -15821,7 +15990,8 @@
     "tags": [
       "b",
       "b düyməsi",
-      "qan"
+      "qan",
+      "letter b"
     ]
   },
   {
@@ -15852,7 +16022,8 @@
     "emoji": "ℹ️",
     "tags": [
       "i",
-      "məlumat"
+      "məlumat",
+      "letter i"
     ]
   },
   {
@@ -15870,7 +16041,8 @@
     "tags": [
       "dairə",
       "dairə içində M",
-      "m"
+      "m",
+      "m in circle"
     ]
   },
   {
@@ -15910,7 +16082,9 @@
     "emoji": "🅿️",
     "tags": [
       "p düyməsi",
-      "parkinq"
+      "parkinq",
+      "p",
+      "letter p"
     ]
   },
   {
@@ -15949,7 +16123,7 @@
     "tags": [
       "kvadrat katakana koko",
       "yapon",
-      "“here”",
+      "here",
       "Japanese",
       "katakana",
       "Japanese “here” button",
@@ -15981,7 +16155,7 @@
       "yapon",
       "yapon &quot;pulsuz deyil&quot; düyməsi",
       "有",
-      "\"ödənişsiz deyil\"",
+      "not free of charge",
       "ideograph",
       "Yaponca \"ödənişsiz deyil\" düyməsi",
       "Japanese"
@@ -15995,7 +16169,7 @@
       "yapon",
       "yapon &quot;məxsusdur&quot; düyməsi",
       "指",
-      "“reserved”",
+      "reserved",
       "ideograph",
       "Japanese “reserved” button",
       "Japanese"
@@ -16009,7 +16183,7 @@
       "yapon",
       "yapon &quot;yaxşı sövdələşmə&quot; düyməsi",
       "得",
-      "“bargain”",
+      "bargain",
       "ideograph",
       "Japanese “bargain” button",
       "Japanese"
@@ -16020,7 +16194,7 @@
     "tags": [
       "kvadrat bölmə ideoqramı",
       "yapon",
-      "“discount”",
+      "discount",
       "ideograph",
       "Japanese “discount” button",
       "Japanese",
@@ -16035,7 +16209,7 @@
       "yapon",
       "yapon &quot;pulsuzdur&quot; düyməsi",
       "無",
-      "\"ödənişsizdir\"",
+      "free of charge",
       "ideograph",
       "Yaponca \"ödənişsizdir\" düyməsi",
       "Japanese"
@@ -16046,7 +16220,7 @@
     "tags": [
       "kvadrat qadağa ideoqramı",
       "yapon",
-      "“prohibited”",
+      "prohibited",
       "ideograph",
       "Japanese “prohibited” button",
       "Japanese",
@@ -16061,7 +16235,7 @@
       "yapon",
       "yapon &quot;qəbul edilə bilən&quot; düyməsi",
       "可",
-      "“acceptable”",
+      "acceptable",
       "ideograph",
       "Japanese “acceptable” button",
       "Japanese"
@@ -16072,7 +16246,7 @@
     "tags": [
       "çin",
       "kvadrat tətbiq ideoqramı",
-      "“application”",
+      "application",
       "ideograph",
       "Japanese “application” button",
       "Japanese",
@@ -16087,7 +16261,7 @@
       "yapon",
       "yapon &quot;keçən qiymət&quot; düyməsi",
       "合",
-      "“passing grade”",
+      "passing grade",
       "ideograph",
       "Japanese “passing grade” button",
       "Japanese"
@@ -16098,7 +16272,7 @@
     "tags": [
       "çin",
       "kvadrat boş ideoqramı",
-      "“vacancy”",
+      "vacancy",
       "ideograph",
       "Japanese “vacancy” button",
       "Japanese",
@@ -16112,7 +16286,10 @@
       "ideoqram",
       "yapon",
       "yapon &quot;təbriklər&quot; düyməsi",
-      "祝"
+      "祝",
+      "congratulations",
+      "ideograph",
+      "japanese"
     ]
   },
   {
@@ -16133,7 +16310,7 @@
       "yapon",
       "yapon &quot;iş&quot; düyməsi",
       "営",
-      "“open for business”",
+      "open for business",
       "ideograph",
       "Japanese “open for business” button",
       "Japanese"
@@ -16147,7 +16324,7 @@
       "yapon",
       "yapon &quot;tamamilə dolu&quot; düyməsi",
       "満",
-      "“no vacancy”",
+      "no vacancy",
       "ideograph",
       "Japanese “no vacancy” button",
       "Japanese"
@@ -16223,7 +16400,8 @@
       "qara dairə",
       "black circle",
       "circle",
-      "geometric"
+      "geometric",
+      "qara"
     ]
   },
   {
@@ -16234,7 +16412,8 @@
       "həndəsi",
       "circle",
       "geometric",
-      "white circle"
+      "white circle",
+      "ağ"
     ]
   },
   {
@@ -16302,7 +16481,8 @@
       "qara böyük kvadrat",
       "black large square",
       "geometric",
-      "square"
+      "square",
+      "black"
     ]
   },
   {
@@ -16313,7 +16493,8 @@
       "kvadrat",
       "geometric",
       "square",
-      "white large square"
+      "white large square",
+      "white"
     ]
   },
   {
@@ -16329,7 +16510,11 @@
     "tags": [
       "ağ orta ölçülü kvadrat",
       "həndəsi",
-      "kvadrat"
+      "kvadrat",
+      "geometric",
+      "square",
+      "white medium square",
+      "white"
     ]
   },
   {
@@ -16461,7 +16646,10 @@
       "düymə",
       "həndəsi",
       "radio",
-      "radio düyməsi"
+      "radio düyməsi",
+      "button",
+      "radio button",
+      "circle"
     ]
   },
   {
@@ -16485,7 +16673,11 @@
       "düymə",
       "həndəsi",
       "kvadrat",
-      "qara kvadrat düymə"
+      "qara kvadrat düymə",
+      "button",
+      "geometric",
+      "square",
+      "outlined"
     ]
   },
   {
@@ -16548,7 +16740,19 @@
       "göy qurşağı bayrağı",
       "pride",
       "rainbow",
-      "göyqurşağı bayrağı"
+      "göyqurşağı bayrağı",
+      "lgbtqia",
+      "lgbt",
+      "lgbtqa",
+      "queer",
+      "gay",
+      "lesbian",
+      "intersex",
+      "bisexual",
+      "transgender",
+      "trans",
+      "asexual",
+      "questioning"
     ]
   },
   {
@@ -16560,9 +16764,183 @@
       "quldur bayrağı",
       "Şən Roger",
       "Jolly Roger",
-      "pirate",
       "plunder",
       "treasure"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "tags": [
+      "face",
+      "kefsiz",
+      "sad",
+      "slightly frowning face"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "ölüm",
+      "skull",
+      "crossbones",
+      "skull and crossbones",
+      "bones",
+      "ölü"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "tags": [
+      "ürək",
+      "red heart"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "heart suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "🗨️",
+    "tags": [
+      "balloon",
+      "qabarcıq",
+      "dialog",
+      "comic",
+      "speech"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "snow",
+      "snowflake",
+      "soyuq",
+      "ice"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "tags": [
+      "phone",
+      "telephone"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "pencil"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "alembic",
+      "science",
+      "chemistry"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "atom"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "asterisk",
+      "eight spoke"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "star",
+      "eight pointed"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "!",
+      "exclamation",
+      "double exclamation"
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "tags": [
+      "recyce",
+      "reuse",
+      "green"
+    ]
+  },
+  {
+    "emoji": "🅰️",
+    "tags": [
+      "a",
+      "letter a"
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "tags": [
+      "o",
+      "letter o"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "service charger",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "monthly amount",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "secret",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "tags": [
+      "black small square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "tags": [
+      "black medium square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "geometric",
+      "square",
+      "white small square",
+      "ağ"
     ]
   },
   {

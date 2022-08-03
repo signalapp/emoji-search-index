@@ -10,7 +10,13 @@
       "微笑",
       "笑臉",
       "正在微笑",
-      "快樂"
+      "快樂",
+      "face",
+      "grin",
+      "smile",
+      "grinning face",
+      "smiling",
+      "happy"
     ]
   },
   {
@@ -26,7 +32,14 @@
       "嘴巴",
       "微笑",
       "正在微笑",
-      "快樂"
+      "快樂",
+      "face",
+      "grinning face with big eyes",
+      "open",
+      "mouth",
+      "smile",
+      "smiling",
+      "happy"
     ]
   },
   {
@@ -44,7 +57,15 @@
       "笑瞇瞇的眼睛笑著的表情",
       "打開",
       "微笑",
-      "正在微笑"
+      "正在微笑",
+      "快樂",
+      "face",
+      "mouth",
+      "grinning face with smiling eyes",
+      "open",
+      "smile",
+      "smiling",
+      "happy"
     ]
   },
   {
@@ -59,7 +80,13 @@
       "表情",
       "微笑",
       "正在微笑",
-      "快樂"
+      "快樂",
+      "beaming face with smiling eyes",
+      "grin",
+      "face",
+      "smile",
+      "smiling",
+      "happy"
     ]
   },
   {
@@ -79,7 +106,13 @@
       "微笑",
       "正在微笑",
       "squint",
-      "快樂"
+      "快樂",
+      "face",
+      "grinning squinting face",
+      "mouth",
+      "smile",
+      "smiling",
+      "happy"
     ]
   },
   {
@@ -89,7 +122,6 @@
       "汗",
       "脸",
       "苦笑",
-      "cold",
       "表情",
       "打開",
       "汗流浹背的笑臉",
@@ -97,7 +129,12 @@
       "sweat",
       "正在微笑",
       "laugh",
-      "funny"
+      "funny",
+      "face",
+      "open",
+      "grinning face with sweat",
+      "smile",
+      "smiling"
     ]
   },
   {
@@ -116,7 +153,8 @@
       "rolling on the floor laughing",
       "rotfl",
       "funny",
-      "cry"
+      "cry",
+      "face"
     ]
   },
   {
@@ -132,7 +170,9 @@
       "joy",
       "tear",
       "funny",
-      "cry"
+      "cry",
+      "face",
+      "face with tears of joy"
     ]
   },
   {
@@ -145,7 +185,11 @@
       "表情",
       "微微笑的表情",
       "正在微笑",
-      "微笑"
+      "微笑",
+      "face",
+      "slightly smiling face",
+      "smiling",
+      "smile"
     ]
   },
   {
@@ -160,7 +204,8 @@
       "sarcasm",
       "silly",
       "sarcastic",
-      "uh oh"
+      "uh oh",
+      "face"
     ]
   },
   {
@@ -171,7 +216,9 @@
       "笑",
       "表情",
       "wink",
-      "眨眼的表情"
+      "眨眼的表情",
+      "face",
+      "winking face"
     ]
   },
   {
@@ -186,7 +233,10 @@
       "blush",
       "eye",
       "表情",
-      "笑臉帶著笑眼"
+      "笑臉帶著笑眼",
+      "smile",
+      "face",
+      "smiling face with smiling eyes"
     ]
   },
   {
@@ -204,7 +254,9 @@
       "halo",
       "fantasy",
       "innocent",
-      "帶光環的笑臉"
+      "帶光環的笑臉",
+      "face",
+      "smiling face with halo"
     ]
   },
   {
@@ -219,7 +271,8 @@
       "crush",
       "in love",
       "hearts",
-      "微笑的表情與心情"
+      "微笑的表情與心情",
+      "smiling face with hearts"
     ]
   },
   {
@@ -234,7 +287,10 @@
       "微笑",
       "love",
       "帶著心眼的表情",
-      "hearts"
+      "hearts",
+      "face",
+      "smile",
+      "smiling face with heart-eyes"
     ]
   },
   {
@@ -248,7 +304,8 @@
       "表情",
       "star",
       "grinning",
-      "star-struck"
+      "star-struck",
+      "face"
     ]
   },
   {
@@ -262,7 +319,8 @@
       "face blowing a kiss",
       "flirt",
       "kiss",
-      "kiss with heart"
+      "kiss with heart",
+      "face"
     ]
   },
   {
@@ -274,7 +332,8 @@
       "表情",
       "kiss",
       "pout",
-      "kissing face"
+      "kissing face",
+      "face"
     ]
   },
   {
@@ -285,7 +344,14 @@
       "微笑",
       "放松",
       "笑",
-      "脸"
+      "脸",
+      "表情",
+      "微微笑的表情",
+      "正在微笑",
+      "face",
+      "slightly smiling face",
+      "smiling",
+      "smile"
     ]
   },
   {
@@ -302,7 +368,8 @@
       "kiss",
       "表情",
       "kissing face with closed eyes",
-      "kiss squinty"
+      "kiss squinty",
+      "face"
     ]
   },
   {
@@ -316,7 +383,9 @@
       "eye",
       "表情",
       "kissing face with smiling eyes",
-      "kiss"
+      "kiss",
+      "face",
+      "smile"
     ]
   },
   {
@@ -335,7 +404,8 @@
       "relieved",
       "smiling face with tear",
       "tear",
-      "touched"
+      "touched",
+      "smiling"
     ]
   },
   {
@@ -350,7 +420,9 @@
       "savouring",
       "face savoring food",
       "微笑",
-      "yum"
+      "yum",
+      "face",
+      "smile"
     ]
   },
   {
@@ -362,7 +434,8 @@
       "调皮",
       "表情",
       "face with tongue",
-      "tongue"
+      "tongue",
+      "face"
     ]
   },
   {
@@ -378,7 +451,8 @@
       "tongue",
       "joke",
       "wink",
-      "winking face with tongue"
+      "winking face with tongue",
+      "face"
     ]
   },
   {
@@ -412,7 +486,8 @@
       "squinting face with tongue",
       "horrible",
       "taste",
-      "tongue"
+      "tongue",
+      "face"
     ]
   },
   {
@@ -426,7 +501,9 @@
       "表情",
       "money",
       "嘴巴",
-      "money-mouth face"
+      "money-mouth face",
+      "face",
+      "mouth"
     ]
   },
   {
@@ -439,7 +516,8 @@
       "脸",
       "表情",
       "hug",
-      "hugging"
+      "hugging",
+      "face"
     ]
   },
   {
@@ -474,7 +552,8 @@
       "想一想",
       "脸",
       "表情",
-      "thinking"
+      "thinking",
+      "face"
     ]
   },
   {
@@ -487,7 +566,9 @@
       "嘴巴",
       "zipper-mouth face",
       "zipper",
-      "shh"
+      "shh",
+      "face",
+      "mouth"
     ]
   },
   {
@@ -513,7 +594,8 @@
       "deadpan",
       "表情",
       "neutral",
-      "meh"
+      "meh",
+      "face"
     ]
   },
   {
@@ -527,7 +609,8 @@
       "表情",
       "meh",
       "inexpressive",
-      "unexpressive"
+      "unexpressive",
+      "face"
     ]
   },
   {
@@ -541,7 +624,9 @@
       "face without mouth",
       "quiet",
       "嘴巴",
-      "silent"
+      "silent",
+      "face",
+      "mouth"
     ]
   },
   {
@@ -561,7 +646,8 @@
       "得意",
       "表情",
       "smirk",
-      "smirking face"
+      "smirking face",
+      "face"
     ]
   },
   {
@@ -575,7 +661,8 @@
       "鄙视",
       "表情",
       "unamused",
-      "unhappy"
+      "unhappy",
+      "face"
     ]
   },
   {
@@ -589,7 +676,8 @@
       "eyes",
       "face with rolling eyes",
       "表情",
-      "rolling"
+      "rolling",
+      "face"
     ]
   },
   {
@@ -602,7 +690,8 @@
       "龇牙咧嘴",
       "表情",
       "grimace",
-      "grimacing face"
+      "grimacing face",
+      "face"
     ]
   },
   {
@@ -628,7 +717,8 @@
       "表情",
       "lie",
       "pinocchio",
-      "lying face"
+      "lying face",
+      "face"
     ]
   },
   {
@@ -639,7 +729,8 @@
       "松口气",
       "脸",
       "表情",
-      "relieved"
+      "relieved",
+      "face"
     ]
   },
   {
@@ -650,7 +741,8 @@
       "脸",
       "dejected",
       "表情",
-      "pensive"
+      "pensive",
+      "face"
     ]
   },
   {
@@ -663,7 +755,8 @@
       "表情",
       "sleep",
       "snore",
-      "sleepy face"
+      "sleepy face",
+      "face"
     ]
   },
   {
@@ -674,7 +767,8 @@
       "流口水",
       "脸",
       "drooling",
-      "表情"
+      "表情",
+      "face"
     ]
   },
   {
@@ -688,7 +782,8 @@
       "sleep",
       "zzz",
       "sleeping face",
-      "tired"
+      "tired",
+      "face"
     ]
   },
   {
@@ -704,7 +799,8 @@
       "face with medical mask",
       "表情",
       "mask",
-      "sick"
+      "sick",
+      "face"
     ]
   },
   {
@@ -719,7 +815,8 @@
       "face with thermometer",
       "sick",
       "ill",
-      "thermometer"
+      "thermometer",
+      "face"
     ]
   },
   {
@@ -732,7 +829,8 @@
       "表情",
       "hurt",
       "face with head-bandage",
-      "injury"
+      "injury",
+      "face"
     ]
   },
   {
@@ -746,7 +844,8 @@
       "nauseated",
       "sick",
       "vomit",
-      "throw up"
+      "throw up",
+      "face"
     ]
   },
   {
@@ -773,7 +872,8 @@
       "gesundheit",
       "sneezing face",
       "sneeze",
-      "sick"
+      "sick",
+      "face"
     ]
   },
   {
@@ -838,7 +938,8 @@
       "dead",
       "表情",
       "knocked-out face",
-      "knocked out"
+      "knocked out",
+      "face"
     ]
   },
   {
@@ -873,7 +974,8 @@
       "cowboy",
       "cowgirl",
       "hat",
-      "表情"
+      "表情",
+      "face"
     ]
   },
   {
@@ -905,7 +1007,8 @@
       "glasses",
       "表情",
       "incognito",
-      "nose"
+      "nose",
+      "face"
     ]
   },
   {
@@ -921,7 +1024,8 @@
       "smiling face with sunglasses",
       "表情",
       "sun",
-      "sunglasses"
+      "sunglasses",
+      "face"
     ]
   },
   {
@@ -934,7 +1038,8 @@
       "geek",
       "glasses",
       "nerd",
-      "smart"
+      "smart",
+      "face"
     ]
   },
   {
@@ -956,7 +1061,8 @@
       "脸",
       "confused",
       "表情",
-      "meh"
+      "meh",
+      "face"
     ]
   },
   {
@@ -970,7 +1076,8 @@
       "脸",
       "表情",
       "worried",
-      "sad"
+      "sad",
+      "face"
     ]
   },
   {
@@ -985,7 +1092,8 @@
       "表情",
       "frown",
       "sad",
-      "slightly frowning face"
+      "slightly frowning face",
+      "face"
     ]
   },
   {
@@ -1010,7 +1118,10 @@
       "打開",
       "嘴巴",
       "sympathy",
-      "wow"
+      "wow",
+      "face",
+      "open",
+      "mouth"
     ]
   },
   {
@@ -1022,7 +1133,8 @@
       "表情",
       "hushed",
       "surprised",
-      "stunned"
+      "stunned",
+      "face"
     ]
   },
   {
@@ -1036,7 +1148,8 @@
       "表情",
       "totally",
       "shocked",
-      "wow"
+      "wow",
+      "face"
     ]
   },
   {
@@ -1051,7 +1164,8 @@
       "迷茫",
       "dazed",
       "表情",
-      "flushed"
+      "flushed",
+      "face"
     ]
   },
   {
@@ -1079,7 +1193,10 @@
       "frown",
       "嘴巴",
       "frowning face with open mouth",
-      "打開"
+      "打開",
+      "face",
+      "mouth",
+      "open"
     ]
   },
   {
@@ -1090,7 +1207,8 @@
       "脸",
       "难受",
       "anguished",
-      "表情"
+      "表情",
+      "face"
     ]
   },
   {
@@ -1104,7 +1222,8 @@
       "表情",
       "fear",
       "scared",
-      "fearful"
+      "fearful",
+      "face"
     ]
   },
   {
@@ -1121,7 +1240,8 @@
       "表情",
       "cold",
       "rushed",
-      "sweat"
+      "sweat",
+      "face"
     ]
   },
   {
@@ -1135,7 +1255,8 @@
       "表情",
       "sad but relieved face",
       "relieved",
-      "whew"
+      "whew",
+      "face"
     ]
   },
   {
@@ -1149,7 +1270,8 @@
       "crying face",
       "sad",
       "表情",
-      "tear"
+      "tear",
+      "face"
     ]
   },
   {
@@ -1166,7 +1288,8 @@
       "sad",
       "loudly crying face",
       "sob",
-      "tear"
+      "tear",
+      "face"
     ]
   },
   {
@@ -1183,7 +1306,8 @@
       "munch",
       "fear",
       "scared",
-      "scream"
+      "scream",
+      "face"
     ]
   },
   {
@@ -1194,7 +1318,8 @@
       "纠结",
       "脸",
       "confounded",
-      "表情"
+      "表情",
+      "face"
     ]
   },
   {
@@ -1206,7 +1331,8 @@
       "难受",
       "表情",
       "persevere",
-      "persevering face"
+      "persevering face",
+      "face"
     ]
   },
   {
@@ -1217,7 +1343,8 @@
       "脸",
       "难过",
       "disappointed",
-      "表情"
+      "表情",
+      "face"
     ]
   },
   {
@@ -1230,7 +1357,8 @@
       "cold",
       "downcast face with sweat",
       "sweat",
-      "表情"
+      "表情",
+      "face"
     ]
   },
   {
@@ -1245,7 +1373,8 @@
       "表情",
       "tired",
       "despair",
-      "weary"
+      "weary",
+      "face"
     ]
   },
   {
@@ -1258,7 +1387,8 @@
       "脸",
       "表情",
       "tired",
-      "despair"
+      "despair",
+      "face"
     ]
   },
   {
@@ -1288,7 +1418,8 @@
       "face with steam from nose",
       "won",
       "triumph",
-      "angry"
+      "angry",
+      "face"
     ]
   },
   {
@@ -1305,7 +1436,8 @@
       "pouting",
       "mad",
       "rage",
-      "red"
+      "red",
+      "face"
     ]
   },
   {
@@ -1318,7 +1450,8 @@
       "anger",
       "angry",
       "mad",
-      "表情"
+      "表情",
+      "face"
     ]
   },
   {
@@ -1345,7 +1478,9 @@
       "horns",
       "fantasy",
       "微笑",
-      "smiling face with horns"
+      "smiling face with horns",
+      "face",
+      "smile"
     ]
   },
   {
@@ -1359,7 +1494,8 @@
       "表情",
       "devil",
       "fantasy",
-      "imp"
+      "imp",
+      "face"
     ]
   },
   {
@@ -1376,7 +1512,8 @@
       "fairy tale",
       "skull",
       "dead",
-      "funny"
+      "funny",
+      "face"
     ]
   },
   {
@@ -1403,7 +1540,8 @@
       "pile of poo",
       "monster",
       "poo",
-      "poop"
+      "poop",
+      "face"
     ]
   },
   {
@@ -1414,7 +1552,8 @@
       "脸",
       "clown",
       "表情",
-      "silly"
+      "silly",
+      "face"
     ]
   },
   {
@@ -1433,7 +1572,8 @@
       "monster",
       "ogre",
       "devil",
-      "demon"
+      "demon",
+      "face"
     ]
   },
   {
@@ -1451,7 +1591,8 @@
       "goblin",
       "monster",
       "devil",
-      "demon"
+      "demon",
+      "face"
     ]
   },
   {
@@ -1470,7 +1611,8 @@
       "ghost",
       "monster",
       "boo",
-      "spooky"
+      "spooky",
+      "face"
     ]
   },
   {
@@ -1487,7 +1629,8 @@
       "creature",
       "表情",
       "extraterrestrial",
-      "fantasy"
+      "fantasy",
+      "face"
     ]
   },
   {
@@ -1505,7 +1648,8 @@
       "creature",
       "表情",
       "extraterrestrial",
-      "monster"
+      "monster",
+      "face"
     ]
   },
   {
@@ -1515,7 +1659,8 @@
       "机器人",
       "表情",
       "monster",
-      "robot"
+      "robot",
+      "face"
     ]
   },
   {
@@ -1531,7 +1676,11 @@
       "嘴巴",
       "grinning",
       "打開",
-      "微笑"
+      "微笑",
+      "face",
+      "mouth",
+      "open",
+      "smile"
     ]
   },
   {
@@ -1546,7 +1695,10 @@
       "eye",
       "表情",
       "grinning cat with smiling eyes",
-      "微笑"
+      "微笑",
+      "grin",
+      "face",
+      "smile"
     ]
   },
   {
@@ -1562,7 +1714,8 @@
       "cat with tears of joy",
       "joy",
       "表情",
-      "tear"
+      "tear",
+      "face"
     ]
   },
   {
@@ -1576,11 +1729,13 @@
       "花痴的猫",
       "cat",
       "eye",
-      "heart",
+      "heart eyes",
       "表情",
       "love",
       "微笑",
-      "smiling cat with heart-eyes"
+      "smiling cat with heart-eyes",
+      "face",
+      "smile"
     ]
   },
   {
@@ -1596,7 +1751,10 @@
       "ironic",
       "表情",
       "微笑",
-      "wry"
+      "wry",
+      "cat with wry smile",
+      "face",
+      "smile"
     ]
   },
   {
@@ -1611,7 +1769,8 @@
       "eye",
       "kiss",
       "表情",
-      "kissing cat"
+      "kissing cat",
+      "face"
     ]
   },
   {
@@ -1627,7 +1786,8 @@
       "表情",
       "surprised",
       "oh",
-      "weary"
+      "weary",
+      "face"
     ]
   },
   {
@@ -1644,7 +1804,8 @@
       "表情",
       "crying cat",
       "sad",
-      "tear"
+      "tear",
+      "face"
     ]
   },
   {
@@ -1656,7 +1817,8 @@
       "脸",
       "cat",
       "表情",
-      "pouting"
+      "pouting",
+      "face"
     ]
   },
   {
@@ -1671,7 +1833,8 @@
       "monkey",
       "forbidden",
       "see",
-      "see-no-evil monkey"
+      "see-no-evil monkey",
+      "face"
     ]
   },
   {
@@ -1686,7 +1849,8 @@
       "hear",
       "forbidden",
       "hear-no-evil monkey",
-      "monkey"
+      "monkey",
+      "face"
     ]
   },
   {
@@ -1701,7 +1865,8 @@
       "monkey",
       "forbidden",
       "speak",
-      "speak-no-evil monkey"
+      "speak-no-evil monkey",
+      "face"
     ]
   },
   {
@@ -1722,7 +1887,7 @@
       "信",
       "情书",
       "邮件",
-      "heart",
+      "heart letter",
       "letter",
       "mail",
       "love"
@@ -1774,9 +1939,9 @@
       "紧张",
       "红心",
       "excited",
-      "growing",
-      "nervous",
       "growing heart",
+      "nervous",
+      "growing",
       "pulse"
     ]
   },
@@ -1817,7 +1982,6 @@
     "tags": [
       "心型装饰",
       "装饰",
-      "heart",
       "heart decoration"
     ]
   },
@@ -1826,7 +1990,10 @@
     "tags": [
       "叹号",
       "心动",
-      "心叹号"
+      "心叹号",
+      "heart exclamation",
+      "heart drop",
+      "exclamation"
     ]
   },
   {
@@ -1835,8 +2002,8 @@
       "伤心",
       "心碎",
       "break",
-      "broken",
-      "broken heart"
+      "broken heart",
+      "heart break"
     ]
   },
   {
@@ -1844,9 +2011,9 @@
     "tags": [
       "火上之心",
       "burn",
-      "heart",
-      "love",
+      "burning heart",
       "heart on fire",
+      "love",
       "lust",
       "sacred heart"
     ]
@@ -1856,12 +2023,13 @@
     "tags": [
       "修复受伤的心灵",
       "healthier",
-      "improving",
       "mending heart",
+      "heart mending",
       "mending",
       "recovering",
       "recuperating",
-      "well"
+      "well",
+      "improving"
     ]
   },
   {
@@ -1878,7 +2046,8 @@
       "橙",
       "橙心",
       "orange",
-      "orange heart"
+      "orange heart",
+      "heart orange"
     ]
   },
   {
@@ -1887,7 +2056,8 @@
       "黄",
       "黄心",
       "yellow",
-      "yellow heart"
+      "yellow heart",
+      "heart yellow"
     ]
   },
   {
@@ -1896,7 +2066,8 @@
       "绿",
       "绿心",
       "green",
-      "green heart"
+      "green heart",
+      "heart green"
     ]
   },
   {
@@ -1905,7 +2076,8 @@
       "蓝",
       "蓝心",
       "blue",
-      "blue heart"
+      "blue heart",
+      "heart blue"
     ]
   },
   {
@@ -1914,7 +2086,8 @@
       "紫",
       "紫心",
       "purple",
-      "purple heart"
+      "purple heart",
+      "heart purple"
     ]
   },
   {
@@ -1925,7 +2098,8 @@
       "棕",
       "棕心",
       "brown",
-      "heart"
+      "brownheart",
+      "heart brown"
     ]
   },
   {
@@ -1937,6 +2111,7 @@
       "黑色",
       "black",
       "black heart",
+      "heart black",
       "wicked",
       "evil"
     ]
@@ -1948,8 +2123,9 @@
       "心形",
       "白",
       "白心",
-      "heart",
-      "white"
+      "white",
+      "white heart",
+      "heart white"
     ]
   },
   {
@@ -2051,7 +2227,8 @@
       "bubble",
       "dialog",
       "comic",
-      "speech"
+      "speech",
+      "typing"
     ]
   },
   {
@@ -2108,7 +2285,12 @@
       "挥手",
       "hand",
       "wave",
-      "waving"
+      "waving",
+      "hi",
+      "hey",
+      "hello",
+      "bye",
+      "goodbye"
     ]
   },
   {
@@ -2146,7 +2328,8 @@
       "hand",
       "high 5",
       "raised hand",
-      "high five"
+      "high five",
+      "hifive"
     ]
   },
   {
@@ -2170,7 +2353,8 @@
     "tags": [
       "OK",
       "手",
-      "hand"
+      "hand",
+      "好"
     ]
   },
   {
@@ -2482,7 +2666,8 @@
       "摊手",
       "hand",
       "打開",
-      "open hands"
+      "open hands",
+      "open"
     ]
   },
   {
@@ -2555,9 +2740,11 @@
       "手机",
       "相机",
       "自拍",
-      "camera",
-      "phone",
-      "selfie"
+      "相機",
+      "電話",
+      "selfie",
+      "电话",
+      "phone"
     ]
   },
   {
@@ -2759,7 +2946,8 @@
       "唇",
       "嘴",
       "lips",
-      "嘴巴"
+      "嘴巴",
+      "mouth"
     ]
   },
   {
@@ -3038,7 +3226,8 @@
       "person gesturing NO",
       "hand",
       "prohibited",
-      "X"
+      "X",
+      "no"
     ]
   },
   {
@@ -3056,7 +3245,7 @@
       "man gesturing NO",
       "prohibited",
       "X",
-      "male"
+      "no"
     ]
   },
   {
@@ -3074,7 +3263,7 @@
       "woman",
       "woman gesturing NO",
       "X",
-      "female"
+      "no"
     ]
   },
   {
@@ -3086,7 +3275,8 @@
       "gesture",
       "hand",
       "person gesturing OK",
-      "OK"
+      "OK",
+      "好"
     ]
   },
   {
@@ -3102,7 +3292,8 @@
       "hand",
       "man gesturing OK",
       "man",
-      "male"
+      "male",
+      "好"
     ]
   },
   {
@@ -3118,7 +3309,8 @@
       "hand",
       "woman",
       "woman gesturing OK",
-      "female"
+      "female",
+      "好"
     ]
   },
   {
@@ -3169,8 +3361,10 @@
       "gesture",
       "hand",
       "person raising hand",
-      "快樂",
-      "raised"
+      "raised",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3183,7 +3377,10 @@
       "man",
       "raising hand",
       "man raising hand",
-      "male"
+      "male",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3196,7 +3393,10 @@
       "raising hand",
       "woman raising hand",
       "woman",
-      "female"
+      "female",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -3302,7 +3502,8 @@
       "exasperation",
       "palm",
       "表情",
-      "person facepalming"
+      "person facepalming",
+      "face"
     ]
   },
   {
@@ -3964,8 +4165,7 @@
     "tags": [
       "飞机",
       "飞行员",
-      "pilot",
-      "plane"
+      "pilot"
     ]
   },
   {
@@ -3974,10 +4174,9 @@
       "男",
       "男飞行员",
       "飞机",
-      "man",
       "pilot",
       "male",
-      "plane"
+      "man"
     ]
   },
   {
@@ -3987,7 +4186,6 @@
       "女飞行员",
       "飞机",
       "pilot",
-      "plane",
       "female",
       "woman"
     ]
@@ -4440,7 +4638,8 @@
       "baby",
       "fairy tale",
       "表情",
-      "fantasy"
+      "fantasy",
+      "face"
     ]
   },
   {
@@ -4825,7 +5024,8 @@
       "表情",
       "massage",
       "salon",
-      "person getting massage"
+      "person getting massage",
+      "face"
     ]
   },
   {
@@ -4838,7 +5038,8 @@
       "man",
       "massage",
       "man getting massage",
-      "male"
+      "male",
+      "face"
     ]
   },
   {
@@ -4851,7 +5052,8 @@
       "massage",
       "woman getting massage",
       "woman",
-      "female"
+      "female",
+      "face"
     ]
   },
   {
@@ -5256,7 +5458,8 @@
       "蒸房里的人",
       "person in steamy room",
       "sauna",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -5268,7 +5471,8 @@
       "man in steamy room",
       "sauna",
       "male",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -5280,7 +5484,8 @@
       "sauna",
       "steam room",
       "female",
-      "woman in steamy room"
+      "woman in steamy room",
+      "spa"
     ]
   },
   {
@@ -5446,7 +5651,8 @@
     "tags": [
       "游泳",
       "person swimming",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -5458,7 +5664,8 @@
       "man",
       "man swimming",
       "male",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -5470,7 +5677,8 @@
       "swim",
       "woman",
       "female",
-      "woman swimming"
+      "woman swimming",
+      "swimmer"
     ]
   },
   {
@@ -5958,7 +6166,8 @@
       "silhouette",
       "speaking",
       "shadow",
-      "shout"
+      "shout",
+      "face"
     ]
   },
   {
@@ -6018,7 +6227,8 @@
       "猴",
       "猴头",
       "表情",
-      "monkey"
+      "monkey",
+      "face"
     ]
   },
   {
@@ -6057,7 +6267,8 @@
       "dog",
       "表情",
       "pet",
-      "puppy"
+      "puppy",
+      "face"
     ]
   },
   {
@@ -6118,7 +6329,8 @@
       "狼",
       "脸",
       "表情",
-      "wolf"
+      "wolf",
+      "face"
     ]
   },
   {
@@ -6128,7 +6340,8 @@
       "狐狸",
       "脸",
       "表情",
-      "fox"
+      "fox",
+      "face"
     ]
   },
   {
@@ -6153,7 +6366,8 @@
       "表情",
       "pet",
       "kitten",
-      "kitty"
+      "kitty",
+      "face"
     ]
   },
   {
@@ -6191,7 +6405,8 @@
       "表情",
       "Leo",
       "zodiac",
-      "lion"
+      "lion",
+      "face"
     ]
   },
   {
@@ -6201,7 +6416,8 @@
       "老虎头",
       "脸",
       "表情",
-      "tiger"
+      "tiger",
+      "face"
     ]
   },
   {
@@ -6230,7 +6446,8 @@
       "马",
       "马头",
       "表情",
-      "horse"
+      "horse",
+      "face"
     ]
   },
   {
@@ -6253,7 +6470,8 @@
       "独角兽",
       "脸",
       "表情",
-      "unicorn"
+      "unicorn",
+      "face"
     ]
   },
   {
@@ -6297,7 +6515,8 @@
       "脸",
       "cow",
       "表情",
-      "moo"
+      "moo",
+      "face"
     ]
   },
   {
@@ -6339,7 +6558,8 @@
       "脸",
       "表情",
       "pig",
-      "piggy"
+      "piggy",
+      "face"
     ]
   },
   {
@@ -6371,7 +6591,8 @@
       "表情",
       "nose",
       "pig",
-      "piggy"
+      "piggy",
+      "face"
     ]
   },
   {
@@ -6504,7 +6725,8 @@
       "老鼠头",
       "鼠",
       "表情",
-      "mouse"
+      "mouse",
+      "face"
     ]
   },
   {
@@ -6536,7 +6758,8 @@
       "pet",
       "gerbil",
       "chinchilla",
-      "guinea pig"
+      "guinea pig",
+      "face"
     ]
   },
   {
@@ -6547,7 +6770,8 @@
       "bunny",
       "表情",
       "rabbit",
-      "pet"
+      "pet",
+      "face"
     ]
   },
   {
@@ -6604,7 +6828,8 @@
       "熊",
       "脸",
       "bear",
-      "表情"
+      "表情",
+      "face"
     ]
   },
   {
@@ -6638,7 +6863,8 @@
       "脸",
       "表情",
       "panda",
-      "bear"
+      "bear",
+      "face"
     ]
   },
   {
@@ -6690,7 +6916,8 @@
       "joey",
       "kangaroo",
       "jump",
-      "marsupial"
+      "marsupial",
+      "澳洲"
     ]
   },
   {
@@ -6859,7 +7086,8 @@
       "dodo",
       "extinction",
       "Mauritius",
-      "large"
+      "large",
+      "毛厘士"
     ]
   },
   {
@@ -6923,7 +7151,8 @@
       "脸",
       "青蛙",
       "表情",
-      "frog"
+      "frog",
+      "face"
     ]
   },
   {
@@ -6975,7 +7204,8 @@
       "龙头",
       "dragon",
       "表情",
-      "fairy tale"
+      "fairy tale",
+      "face"
     ]
   },
   {
@@ -7018,7 +7248,8 @@
       "鲸",
       "表情",
       "spouting",
-      "whale"
+      "whale",
+      "face"
     ]
   },
   {
@@ -7471,7 +7702,12 @@
     "tags": [
       "三叶草",
       "苜蓿",
-      "酢浆草"
+      "酢浆草",
+      "clover",
+      "shamrock",
+      "three-leaf clover",
+      "three",
+      "leaf"
     ]
   },
   {
@@ -9319,8 +9555,9 @@
     "tags": [
       "家",
       "房子",
-      "home",
-      "house"
+      "住家",
+      "house",
+      "home"
     ]
   },
   {
@@ -9331,9 +9568,10 @@
       "房子",
       "花园",
       "garden",
-      "home",
+      "住家",
       "house with garden",
-      "house"
+      "house",
+      "home"
     ]
   },
   {
@@ -9687,7 +9925,8 @@
       "水",
       "泉",
       "温泉",
-      "热气腾腾"
+      "热气腾腾",
+      "hot springs"
     ]
   },
   {
@@ -9760,7 +9999,7 @@
     "tags": [
       "电车",
       "轨道车",
-      "car",
+      "train car",
       "electric",
       "train",
       "railway",
@@ -9861,7 +10100,7 @@
       "山区铁路",
       "火车",
       "铁路",
-      "car",
+      "train car",
       "mountain",
       "railway"
     ]
@@ -9870,7 +10109,7 @@
     "emoji": "🚋",
     "tags": [
       "有轨电车",
-      "car",
+      "train car",
       "tram",
       "trolleybus"
     ]
@@ -10071,7 +10310,8 @@
     "tags": [
       "小型摩托车",
       "motor",
-      "scooter"
+      "scooter",
+      "moped"
     ]
   },
   {
@@ -10081,7 +10321,8 @@
       "无障碍",
       "轮椅",
       "accessibility",
-      "manual wheelchair"
+      "manual wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -10091,7 +10332,8 @@
       "电动轮椅",
       "轮椅",
       "accessibility",
-      "motorized wheelchair"
+      "motorized wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -10208,12 +10450,11 @@
       "警示",
       "警车灯",
       "beacon",
-      "car",
       "police",
       "light",
       "revolving",
-      "alert",
       "alarm",
+      "alert",
       "emergency",
       "siren"
     ]
@@ -10228,7 +10469,8 @@
       "horizontal traffic light",
       "light",
       "traffic",
-      "signal"
+      "signal",
+      "stoplight"
     ]
   },
   {
@@ -10241,7 +10483,8 @@
       "light",
       "signal",
       "vertical traffic light",
-      "traffic"
+      "traffic",
+      "stoplight"
     ]
   },
   {
@@ -10346,7 +10589,11 @@
   {
     "emoji": "✈️",
     "tags": [
-      "飞机"
+      "飞机",
+      "aeroplane",
+      "airplane",
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -10356,7 +10603,8 @@
       "飞机",
       "aeroplane",
       "airplane",
-      "small airplane"
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -10370,7 +10618,8 @@
       "airplane",
       "departure",
       "check-in",
-      "departures"
+      "departures",
+      "plane"
     ]
   },
   {
@@ -10384,7 +10633,8 @@
       "arrivals",
       "airplane arrival",
       "arriving",
-      "landing"
+      "landing",
+      "plane"
     ]
   },
   {
@@ -10965,7 +11215,8 @@
       "朔月",
       "表情",
       "moon",
-      "new moon face"
+      "new moon face",
+      "face"
     ]
   },
   {
@@ -10977,7 +11228,8 @@
       "表情",
       "first quarter moon face",
       "quarter",
-      "moon"
+      "moon",
+      "face"
     ]
   },
   {
@@ -10989,7 +11241,8 @@
       "表情",
       "last quarter moon face",
       "quarter",
-      "moon"
+      "moon",
+      "face"
     ]
   },
   {
@@ -11007,7 +11260,9 @@
     "tags": [
       "太阳",
       "晴",
-      "晴天"
+      "晴天",
+      "sun",
+      "bright"
     ]
   },
   {
@@ -11020,7 +11275,8 @@
       "bright",
       "表情",
       "moon",
-      "full"
+      "full",
+      "face"
     ]
   },
   {
@@ -11031,7 +11287,8 @@
       "bright",
       "表情",
       "sun with face",
-      "sun"
+      "sun",
+      "face"
     ]
   },
   {
@@ -11081,14 +11338,16 @@
       "星空",
       "银河",
       "milky way",
-      "space"
+      "space",
+      "galaxy"
     ]
   },
   {
     "emoji": "☁️",
     "tags": [
       "云",
-      "阴"
+      "阴",
+      "cloud"
     ]
   },
   {
@@ -11213,7 +11472,8 @@
       "blow",
       "cloud",
       "wind",
-      "表情"
+      "表情",
+      "face"
     ]
   },
   {
@@ -11234,7 +11494,18 @@
     "tags": [
       "彩虹",
       "rain",
-      "rainbow"
+      "rainbow",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "pride",
+      "gay",
+      "lesbian",
+      "queer",
+      "transgender",
+      "trans",
+      "intersex",
+      "asexual"
     ]
   },
   {
@@ -11255,7 +11526,9 @@
     "tags": [
       "伞",
       "雨",
-      "雨伞"
+      "雨伞",
+      "umbrella",
+      "rain"
     ]
   },
   {
@@ -11310,7 +11583,10 @@
     "tags": [
       "雪",
       "雪与雪人",
-      "雪人"
+      "雪人",
+      "cold",
+      "snow",
+      "snowman"
     ]
   },
   {
@@ -11588,7 +11864,8 @@
       "缎带",
       "蝴蝶结",
       "celebration",
-      "ribbon"
+      "ribbon",
+      "bow"
     ]
   },
   {
@@ -12165,7 +12442,9 @@
       "赌博",
       "game",
       "slot",
-      "slot machine"
+      "slot machine",
+      "gambling",
+      "casino"
     ]
   },
   {
@@ -12228,7 +12507,8 @@
       "doll",
       "nesting",
       "russia",
-      "nesting dolls"
+      "nesting dolls",
+      "matryoshka"
     ]
   },
   {
@@ -12237,7 +12517,9 @@
       "扑克",
       "牌",
       "葵扇",
-      "黑桃"
+      "黑桃",
+      "spade suit",
+      "card suit"
     ]
   },
   {
@@ -12255,7 +12537,9 @@
       "扑克",
       "方块",
       "方片",
-      "牌"
+      "牌",
+      "diamond suit",
+      "card suit"
     ]
   },
   {
@@ -12264,7 +12548,9 @@
       "扑克",
       "梅花",
       "牌",
-      "草花"
+      "草花",
+      "club suit",
+      "card suit"
     ]
   },
   {
@@ -12536,7 +12822,8 @@
     "tags": [
       "手套",
       "gloves",
-      "hand"
+      "hand",
+      "mittens"
     ]
   },
   {
@@ -12912,7 +13199,8 @@
       "hat",
       "表情",
       "helmet",
-      "rescue worker’s helmet"
+      "rescue worker’s helmet",
+      "face"
     ]
   },
   {
@@ -12970,7 +13258,7 @@
       "扬声器关闭",
       "无声",
       "静音",
-      "mute",
+      "靜音",
       "muted speaker",
       "silent",
       "quiet",
@@ -13056,7 +13344,8 @@
       "叮当",
       "响铃",
       "铃铛",
-      "bell"
+      "bell",
+      "ring"
     ]
   },
   {
@@ -13069,7 +13358,7 @@
       "静音",
       "bell",
       "bell with slash",
-      "mute",
+      "靜音",
       "forbidden",
       "quiet",
       "silent"
@@ -13188,7 +13477,9 @@
       "无线电",
       "电台",
       "radio",
-      "video"
+      "影片",
+      "视频",
+      "視像"
     ]
   },
   {
@@ -13319,8 +13610,11 @@
       "电话",
       "移动",
       "cell",
-      "mobile",
+      "手機",
       "telephone",
+      "電話",
+      "smartphone",
+      "mobile",
       "phone"
     ]
   },
@@ -13335,9 +13629,13 @@
       "arrow",
       "cell",
       "mobile phone with arrow",
+      "手機",
+      "電話",
+      "receive",
+      "smartphone",
+      "电话",
       "mobile",
-      "phone",
-      "receive"
+      "phone"
     ]
   },
   {
@@ -13357,9 +13655,10 @@
       "座机",
       "电话",
       "电话听筒",
-      "phone",
+      "電話",
       "receiver",
-      "telephone"
+      "telephone",
+      "phone"
     ]
   },
   {
@@ -13369,7 +13668,8 @@
       "传呼机",
       "呼机",
       "寻呼机",
-      "pager"
+      "pager",
+      "beeper"
     ]
   },
   {
@@ -13432,7 +13732,9 @@
       "显示屏",
       "计算机",
       "computer",
-      "desktop"
+      "desktop",
+      "monitor",
+      "screen"
     ]
   },
   {
@@ -13455,7 +13757,9 @@
       "按键",
       "电脑",
       "输入",
-      "键盘"
+      "键盘",
+      "keyboard",
+      "computer keyboard"
     ]
   },
   {
@@ -13558,9 +13862,10 @@
       "摄影机",
       "电影",
       "电影摄影机",
-      "camera",
+      "相機",
       "cinema",
-      "movie"
+      "movie",
+      "相机"
     ]
   },
   {
@@ -13591,9 +13896,10 @@
       "film",
       "projector",
       "movie",
-      "video",
-      "camera",
-      "blue"
+      "相機",
+      "blue",
+      "相机",
+      "視像"
     ]
   },
   {
@@ -13618,7 +13924,8 @@
       "节目",
       "television",
       "tv",
-      "video"
+      "影片",
+      "視像"
     ]
   },
   {
@@ -13630,8 +13937,10 @@
       "照片",
       "照相机",
       "相机",
-      "camera",
-      "video"
+      "相機",
+      "影片",
+      "视频",
+      "視像"
     ]
   },
   {
@@ -13642,10 +13951,12 @@
       "相机",
       "闪光灯",
       "闪光灯打开",
-      "camera",
+      "相機",
       "camera with flash",
-      "video",
-      "flash"
+      "影片",
+      "flash",
+      "视频",
+      "視像"
     ]
   },
   {
@@ -13657,9 +13968,11 @@
       "摄像机",
       "摄影机",
       "视频",
-      "camera",
-      "video",
-      "camcorder"
+      "相機",
+      "影片",
+      "camcorder",
+      "相机",
+      "視像"
     ]
   },
   {
@@ -13672,7 +13985,9 @@
       "tape",
       "vhs",
       "videocassette",
-      "video"
+      "影片",
+      "视频",
+      "視像"
     ]
   },
   {
@@ -13686,7 +14001,7 @@
       "查找",
       "glass",
       "magnifying",
-      "search",
+      "搜尋",
       "magnifying glass tilted left",
       "tool"
     ]
@@ -13699,7 +14014,12 @@
       "搜索",
       "放大",
       "放大镜",
-      "查找"
+      "查找",
+      "glass",
+      "magnifying",
+      "搜尋",
+      "magnifying glass tilted right",
+      "tool"
     ]
   },
   {
@@ -13812,7 +14132,8 @@
       "读书",
       "阅读",
       "book",
-      "打開"
+      "打開",
+      "open"
     ]
   },
   {
@@ -13982,7 +14303,8 @@
       "标签",
       "标记",
       "行李牌",
-      "label"
+      "label",
+      "tag"
     ]
   },
   {
@@ -14149,7 +14471,10 @@
       "信封",
       "信息",
       "来信",
-      "邮件"
+      "邮件",
+      "envelope",
+      "letter",
+      "mail"
     ]
   },
   {
@@ -14159,9 +14484,11 @@
       "电子邮件",
       "邮件",
       "e-mail",
-      "email",
+      "電子郵件",
       "mail",
-      "letter"
+      "letter",
+      "邮箱",
+      "email"
     ]
   },
   {
@@ -14174,11 +14501,13 @@
       "来信",
       "电子邮件",
       "e-mail",
-      "email",
+      "電子郵件",
       "incoming",
       "envelope",
       "letter",
-      "receive"
+      "receive",
+      "邮箱",
+      "email"
     ]
   },
   {
@@ -14195,9 +14524,12 @@
       "arrow",
       "e-mail",
       "envelope",
-      "email",
+      "電子郵件",
       "envelope with arrow",
-      "outgoing"
+      "outgoing",
+      "邮箱",
+      "已发出",
+      "email"
     ]
   },
   {
@@ -14289,7 +14621,8 @@
       "mailbox",
       "open mailbox with raised flag",
       "打開",
-      "postbox"
+      "postbox",
+      "open"
     ]
   },
   {
@@ -14304,7 +14637,8 @@
       "打開",
       "mailbox",
       "open mailbox with lowered flag",
-      "postbox"
+      "postbox",
+      "open"
     ]
   },
   {
@@ -14350,7 +14684,10 @@
       "硬笔",
       "笔尖",
       "钢笔",
-      "钢笔尖"
+      "钢笔尖",
+      "pen",
+      "pen nib",
+      "nib"
     ]
   },
   {
@@ -14404,7 +14741,10 @@
       "便笺",
       "备忘录",
       "memo",
-      "pencil"
+      "pencil",
+      "pencil and paper",
+      "paper",
+      "write"
     ]
   },
   {
@@ -14439,7 +14779,8 @@
       "文具",
       "file",
       "folder",
-      "打開"
+      "打開",
+      "open"
     ]
   },
   {
@@ -14650,7 +14991,9 @@
       "剪刀",
       "剪子",
       "剪裁",
-      "工具"
+      "工具",
+      "scissors",
+      "cut"
     ]
   },
   {
@@ -14688,7 +15031,9 @@
       "垃圾桶",
       "垃圾篓",
       "废纸篓",
-      "wastebasket"
+      "wastebasket",
+      "trash",
+      "can"
     ]
   },
   {
@@ -14700,7 +15045,9 @@
       "锁住",
       "锁定",
       "closed",
-      "locked"
+      "locked",
+      "lock",
+      "padlock"
     ]
   },
   {
@@ -14714,7 +15061,9 @@
       "lock",
       "打開",
       "unlocked",
-      "unlock"
+      "unlock",
+      "padlock",
+      "open"
     ]
   },
   {
@@ -14731,7 +15080,8 @@
       "nib",
       "locked with pen",
       "pen",
-      "privacy"
+      "privacy",
+      "padlock"
     ]
   },
   {
@@ -14746,7 +15096,8 @@
       "key",
       "locked with key",
       "lock",
-      "secure"
+      "secure",
+      "padlock"
     ]
   },
   {
@@ -14825,7 +15176,9 @@
       "铁镐",
       "锤子",
       "锤子与镐",
-      "镐子"
+      "镐子",
+      "hammer",
+      "pick"
     ]
   },
   {
@@ -14860,7 +15213,10 @@
       "交叉",
       "交叉放置的剑",
       "剑",
-      "双剑"
+      "双剑",
+      "sword",
+      "fencing",
+      "crossed swords"
     ]
   },
   {
@@ -14980,7 +15336,10 @@
       "工具",
       "机械",
       "零件",
-      "齿轮"
+      "齿轮",
+      "gear",
+      "cog",
+      "machine"
     ]
   },
   {
@@ -15004,7 +15363,10 @@
       "公正",
       "天平",
       "正义",
-      "法律"
+      "法律",
+      "scale",
+      "balance",
+      "law"
     ]
   },
   {
@@ -15268,9 +15630,9 @@
       "心跳",
       "诊断",
       "doctor",
-      "heart",
       "stethoscope",
-      "medicine"
+      "medicine",
+      "listen"
     ]
   },
   {
@@ -15604,7 +15966,8 @@
       "烟草",
       "香烟",
       "cigarette",
-      "smoking"
+      "smoking",
+      "tobacco"
     ]
   },
   {
@@ -15615,7 +15978,12 @@
       "死亡",
       "灵柩",
       "葬礼",
-      "陵墓"
+      "陵墓",
+      "coffin",
+      "death",
+      "dead",
+      "casket",
+      "funeral"
     ]
   },
   {
@@ -15629,7 +15997,8 @@
       "grave",
       "headstone",
       "graveyard",
-      "tombstone"
+      "tombstone",
+      "gravestone"
     ]
   },
   {
@@ -15638,7 +16007,11 @@
       "瓮",
       "缸",
       "葬礼",
-      "骨灰缸"
+      "骨灰缸",
+      "funeral",
+      "urn",
+      "death",
+      "dead"
     ]
   },
   {
@@ -15654,7 +16027,8 @@
       "表情",
       "moai",
       "statue",
-      "moyai"
+      "moyai",
+      "face"
     ]
   },
   {
@@ -15834,7 +16208,11 @@
   {
     "emoji": "⚠️",
     "tags": [
-      "警告"
+      "警告",
+      "caution",
+      "warning",
+      "alert",
+      "danger"
     ]
   },
   {
@@ -15958,8 +16336,11 @@
       "cell",
       "forbidden",
       "no",
-      "mobile",
+      "手機",
       "no mobile phones",
+      "電話",
+      "手机",
+      "mobile",
       "phone"
     ]
   },
@@ -15982,7 +16363,11 @@
     "tags": [
       "放射性",
       "标识",
-      "辐射"
+      "辐射",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -15990,7 +16375,11 @@
     "tags": [
       "动物",
       "当心感染",
-      "生物危害"
+      "生物危害",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -15999,7 +16388,9 @@
       "北",
       "向上箭头",
       "方向",
-      "标识"
+      "标识",
+      "arrow",
+      "up"
     ]
   },
   {
@@ -16008,7 +16399,9 @@
       "东北",
       "右上箭头",
       "方向",
-      "标识"
+      "标识",
+      "arrow",
+      "up right"
     ]
   },
   {
@@ -16017,7 +16410,9 @@
       "东",
       "向右箭头",
       "方向",
-      "标识"
+      "标识",
+      "arrow",
+      "right"
     ]
   },
   {
@@ -16026,7 +16421,9 @@
       "东南",
       "右下箭头",
       "方向",
-      "标识"
+      "标识",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -16037,7 +16434,9 @@
       "基本",
       "方位",
       "正南",
-      "箭头"
+      "箭头",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -16046,7 +16445,9 @@
       "左下箭头",
       "方向",
       "标识",
-      "西南"
+      "西南",
+      "arrow",
+      "down left"
     ]
   },
   {
@@ -16055,7 +16456,9 @@
       "向左箭头",
       "方向",
       "标识",
-      "西"
+      "西",
+      "arrow",
+      "left"
     ]
   },
   {
@@ -16064,7 +16467,9 @@
       "左上箭头",
       "方向",
       "标识",
-      "西北"
+      "西北",
+      "arrow",
+      "up left"
     ]
   },
   {
@@ -16072,7 +16477,11 @@
     "tags": [
       "上下",
       "上下箭头",
-      "箭头"
+      "箭头",
+      "arrow",
+      "up and down",
+      "vertical",
+      "height"
     ]
   },
   {
@@ -16080,7 +16489,11 @@
     "tags": [
       "左右",
       "左右箭头",
-      "箭头"
+      "箭头",
+      "arrow",
+      "left and right",
+      "horizontal",
+      "width"
     ]
   },
   {
@@ -16089,7 +16502,9 @@
       "右转弯",
       "右转弯箭头",
       "向左弯曲的右箭头",
-      "箭头"
+      "箭头",
+      "arrow",
+      "return"
     ]
   },
   {
@@ -16098,7 +16513,9 @@
       "向右弯曲的左箭头",
       "左转弯",
       "左转弯箭头",
-      "箭头"
+      "箭头",
+      "arrow",
+      "forward"
     ]
   },
   {
@@ -16107,7 +16524,9 @@
       "右上弯",
       "右上弯箭头",
       "向上弯曲的右箭头",
-      "箭头"
+      "箭头",
+      "arrow",
+      "up bend"
     ]
   },
   {
@@ -16116,7 +16535,9 @@
       "右下弯",
       "右下弯箭头",
       "向下弯曲的右箭头",
-      "箭头"
+      "箭头",
+      "arrow",
+      "down bend"
     ]
   },
   {
@@ -16180,7 +16601,8 @@
       "arrow",
       "mark",
       "ON! arrow",
-      "on"
+      "開啟",
+      "开启"
     ]
   },
   {
@@ -16244,7 +16666,10 @@
       "六芒星",
       "大卫之星",
       "宗教",
-      "犹太"
+      "犹太",
+      "star",
+      "jewish",
+      "start of david"
     ]
   },
   {
@@ -16253,7 +16678,9 @@
       "佛",
       "宗教",
       "法轮",
-      "达摩"
+      "达摩",
+      "wheel",
+      "dharma"
     ]
   },
   {
@@ -16265,7 +16692,10 @@
       "道教",
       "阳",
       "阴",
-      "阴阳"
+      "阴阳",
+      "yin",
+      "yang",
+      "yin yang"
     ]
   },
   {
@@ -16274,7 +16704,9 @@
       "十字架",
       "基督",
       "天主教",
-      "宗教"
+      "宗教",
+      "cross",
+      "christianity"
     ]
   },
   {
@@ -16284,7 +16716,9 @@
       "东正教十字架",
       "十字架",
       "基督",
-      "宗教"
+      "宗教",
+      "cross",
+      "orthodox cross"
     ]
   },
   {
@@ -16293,14 +16727,18 @@
       "伊斯兰",
       "宗教",
       "星月",
-      "穆斯林"
+      "穆斯林",
+      "star and crescent",
+      "islam"
     ]
   },
   {
     "emoji": "☮️",
     "tags": [
       "和平",
-      "和平符号"
+      "和平符号",
+      "peace",
+      "peace sign"
     ]
   },
   {
@@ -16522,7 +16960,12 @@
       "三角",
       "向右",
       "播放按钮",
-      "箭头"
+      "箭头",
+      "play",
+      "go",
+      "play button",
+      "right arrow",
+      "triangle"
     ]
   },
   {
@@ -16573,7 +17016,9 @@
       "三角",
       "倒退按钮",
       "后退",
-      "向左"
+      "向左",
+      "left arrow",
+      "triangle"
     ]
   },
   {
@@ -16689,7 +17134,9 @@
     "tags": [
       "向上三角",
       "弹出",
-      "推出按钮"
+      "推出按钮",
+      "eject",
+      "eject button"
     ]
   },
   {
@@ -16698,10 +17145,11 @@
       "场所",
       "影片",
       "电影院",
-      "camera",
+      "相機",
       "cinema",
       "movie",
-      "film"
+      "film",
+      "相机"
     ]
   },
   {
@@ -16740,6 +17188,9 @@
       "antenna bars",
       "cell",
       "bar",
+      "手機",
+      "電話",
+      "电话",
       "mobile",
       "phone"
     ]
@@ -16751,11 +17202,14 @@
       "振动模式",
       "震动",
       "cell",
-      "mobile",
-      "phone",
+      "手機",
+      "電話",
       "mode",
       "telephone",
-      "vibration"
+      "vibration",
+      "电话",
+      "mobile",
+      "phone"
     ]
   },
   {
@@ -16765,10 +17219,13 @@
       "手机",
       "手机关机",
       "cell",
+      "手機",
+      "電話",
+      "關閉",
+      "telephone",
+      "电话",
       "mobile",
-      "phone",
-      "off",
-      "telephone"
+      "phone"
     ]
   },
   {
@@ -16787,7 +17244,10 @@
       "乘号",
       "取消",
       "相乘",
-      "符号"
+      "符号",
+      "stop",
+      "x",
+      "cross"
     ]
   },
   {
@@ -16841,7 +17301,10 @@
       "宇宙",
       "无尽",
       "无穷大",
-      "极大"
+      "极大",
+      "infinity",
+      "infinite",
+      "endless"
     ]
   },
   {
@@ -16864,7 +17327,10 @@
       "吃惊",
       "感叹疑问号",
       "标点符号",
-      "问号"
+      "问号",
+      "!?",
+      "exclamation",
+      "question"
     ]
   },
   {
@@ -16874,11 +17340,12 @@
       "标点符号",
       "红色问号",
       "问号",
-      "?",
+      "？",
       "mark",
       "question",
       "punctuation",
-      "red question mark"
+      "red question mark",
+      "?"
     ]
   },
   {
@@ -16889,12 +17356,12 @@
       "标点符号",
       "白色问号",
       "空心",
-      "?",
       "mark",
       "punctuation",
       "outlined",
       "question",
-      "white question mark"
+      "white question mark",
+      "?"
     ]
   },
   {
@@ -16933,7 +17400,10 @@
     "tags": [
       "标点符号",
       "波浪型破折号",
-      "浪花"
+      "浪花",
+      "wave",
+      "wavey",
+      "wavey dash"
     ]
   },
   {
@@ -16944,7 +17414,10 @@
       "换汇",
       "汇率",
       "流通",
-      "货币兑换"
+      "货币兑换",
+      "currency",
+      "exchange",
+      "money"
     ]
   },
   {
@@ -16953,7 +17426,12 @@
       "粗美元符号",
       "美元",
       "货币",
-      "金钱"
+      "金钱",
+      "money",
+      "dollars",
+      "cash",
+      "usd",
+      "rich"
     ]
   },
   {
@@ -16968,7 +17446,9 @@
     "emoji": "⚜️",
     "tags": [
       "百合花饰",
-      "鸢尾花"
+      "鸢尾花",
+      "fleur",
+      "fleur-de-lis"
     ]
   },
   {
@@ -17048,7 +17528,11 @@
       "勾选框",
       "复选框",
       "带勾方格",
-      "打勾"
+      "打勾",
+      "check",
+      "check box",
+      "done",
+      "todo"
     ]
   },
   {
@@ -17113,7 +17597,11 @@
     "tags": [
       "双卷曲环",
       "双环",
-      "标志"
+      "标志",
+      "loop",
+      "curl",
+      "twist",
+      "double curly loop"
     ]
   },
   {
@@ -17121,7 +17609,8 @@
     "tags": [
       "庵点",
       "开始歌唱",
-      "符号"
+      "符号",
+      "part alternation mark"
     ]
   },
   {
@@ -17144,20 +17633,24 @@
     "tags": [
       "火花",
       "烟火",
-      "闪耀"
+      "闪耀",
+      "sparkle"
     ]
   },
   {
     "emoji": "©️",
     "tags": [
-      "版权"
+      "版权",
+      "copyright"
     ]
   },
   {
     "emoji": "®️",
     "tags": [
       "注册",
-      "注册标记"
+      "注册标记",
+      "registered",
+      "reserved"
     ]
   },
   {
@@ -17165,7 +17658,9 @@
     "tags": [
       "产品",
       "商标",
-      "标志"
+      "标志",
+      "tm",
+      "trademark"
     ]
   },
   {
@@ -17257,7 +17752,8 @@
       "b",
       "B型血",
       "按钮",
-      "血液"
+      "血液",
+      "letter b"
     ]
   },
   {
@@ -17295,7 +17791,9 @@
     "tags": [
       "信息",
       "查询",
-      "资料"
+      "资料",
+      "i",
+      "letter i"
     ]
   },
   {
@@ -17316,7 +17814,9 @@
       "圆圈包围的M",
       "圈",
       "字母",
-      "米"
+      "米",
+      "m",
+      "m in circle"
     ]
   },
   {
@@ -17356,7 +17856,8 @@
       "同意",
       "按键",
       "OK",
-      "OK button"
+      "OK button",
+      "好"
     ]
   },
   {
@@ -17364,7 +17865,9 @@
     "tags": [
       "停车按钮",
       "按键",
-      "泊车"
+      "泊车",
+      "p",
+      "letter p"
     ]
   },
   {
@@ -17407,7 +17910,7 @@
       "日文",
       "日文的“这里”按钮",
       "此处",
-      "“here”",
+      "here",
       "Japanese",
       "katakana",
       "Japanese “here” button",
@@ -17441,7 +17944,7 @@
       "日文",
       "日文的“收费”按钮",
       "费用",
-      "“not free of charge”",
+      "not free of charge",
       "ideograph",
       "Japanese “not free of charge” button",
       "Japanese",
@@ -17455,7 +17958,7 @@
       "日文",
       "日文的“预留”按钮",
       "预订",
-      "“reserved”",
+      "reserved",
       "ideograph",
       "Japanese “reserved” button",
       "Japanese",
@@ -17469,7 +17972,7 @@
       "日文",
       "日文的“议价”按钮",
       "讨价还价",
-      "“bargain”",
+      "bargain",
       "ideograph",
       "Japanese “bargain” button",
       "Japanese",
@@ -17483,7 +17986,7 @@
       "按键",
       "日文",
       "日文的“打折”按钮",
-      "“discount”",
+      "discount",
       "ideograph",
       "Japanese “discount” button",
       "Japanese",
@@ -17497,7 +18000,7 @@
       "按键",
       "日文",
       "日文的“免费”按钮",
-      "“free of charge”",
+      "free of charge",
       "ideograph",
       "Japanese “free of charge” button",
       "Japanese",
@@ -17511,7 +18014,7 @@
       "按键",
       "日文",
       "日文的“禁止”按钮",
-      "“prohibited”",
+      "prohibited",
       "ideograph",
       "Japanese “prohibited” button",
       "Japanese",
@@ -17525,7 +18028,7 @@
       "日文",
       "日文的“可接受”按钮",
       "许可",
-      "“acceptable”",
+      "acceptable",
       "ideograph",
       "Japanese “acceptable” button",
       "Japanese",
@@ -17542,7 +18045,7 @@
       "申请",
       "申请书",
       "申请表",
-      "“application”",
+      "application",
       "ideograph",
       "Japanese “application” button",
       "Japanese"
@@ -17555,7 +18058,7 @@
       "日文",
       "日文的“合格”按钮",
       "通过",
-      "“passing grade”",
+      "passing grade",
       "ideograph",
       "Japanese “passing grade” button",
       "Japanese",
@@ -17572,7 +18075,7 @@
       "空",
       "空位",
       "空闲",
-      "“vacancy”",
+      "vacancy",
       "ideograph",
       "Japanese “vacancy” button",
       "Japanese"
@@ -17584,7 +18087,10 @@
       "庆贺",
       "按键",
       "日文",
-      "日文的“祝贺”按钮"
+      "日文的“祝贺”按钮",
+      "congratulations",
+      "ideograph",
+      "japanese"
     ]
   },
   {
@@ -17603,7 +18109,7 @@
       "按键",
       "日文",
       "日文的“开始营业”按钮",
-      "“open for business”",
+      "open for business",
       "ideograph",
       "Japanese “open for business” button",
       "Japanese",
@@ -17618,7 +18124,7 @@
       "日文",
       "日文的“没有空位”按钮",
       "满",
-      "“no vacancy”",
+      "no vacancy",
       "ideograph",
       "Japanese “no vacancy” button",
       "Japanese",
@@ -17712,7 +18218,8 @@
       "黑色圆",
       "black circle",
       "circle",
-      "geometric"
+      "geometric",
+      "black"
     ]
   },
   {
@@ -17723,7 +18230,8 @@
       "白色圆",
       "circle",
       "geometric",
-      "white circle"
+      "white circle",
+      "white"
     ]
   },
   {
@@ -17819,7 +18327,8 @@
       "黑色",
       "black large square",
       "geometric",
-      "square"
+      "square",
+      "black"
     ]
   },
   {
@@ -17831,7 +18340,8 @@
       "白色",
       "geometric",
       "square",
-      "white large square"
+      "white large square",
+      "white"
     ]
   },
   {
@@ -17849,7 +18359,11 @@
       "中等",
       "正方形",
       "白色",
-      "白色中方块"
+      "白色中方块",
+      "geometric",
+      "square",
+      "white medium square",
+      "white"
     ]
   },
   {
@@ -17994,7 +18508,10 @@
       "单选按钮",
       "圆心",
       "按键",
-      "选中"
+      "选中",
+      "button",
+      "radio button",
+      "circle"
     ]
   },
   {
@@ -18023,7 +18540,11 @@
       "黑色方形按钮",
       "黑色正方形按钮",
       "黑边线方形按钮",
-      "黑边线正方形按钮"
+      "黑边线正方形按钮",
+      "button",
+      "geometric",
+      "square",
+      "outlined"
     ]
   },
   {
@@ -18096,7 +18617,19 @@
       "旗帜",
       "pride",
       "rainbow",
-      "rainbow flag"
+      "rainbow flag",
+      "lgbtqia",
+      "lgbt",
+      "lgbtqa",
+      "queer",
+      "gay",
+      "lesbian",
+      "intersex",
+      "bisexual",
+      "transgender",
+      "trans",
+      "asexual",
+      "questioning"
     ]
   },
   {
@@ -18112,6 +18645,184 @@
       "plunder",
       "pirate flag",
       "treasure"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "tags": [
+      "表情",
+      "frown",
+      "sad",
+      "slightly frowning face",
+      "face"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "death",
+      "skull",
+      "crossbones",
+      "skull and crossbones",
+      "bones",
+      "dead"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "tags": [
+      "heart",
+      "red heart"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "heart suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "🗨️",
+    "tags": [
+      "balloon",
+      "bubble",
+      "dialog",
+      "comic",
+      "speech"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "snow",
+      "snowflake",
+      "cold",
+      "ice"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "tags": [
+      "電話",
+      "telephone",
+      "电话",
+      "phone"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "pencil"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "alembic",
+      "science",
+      "chemistry"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "atom"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "asterisk",
+      "eight spoke"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "star",
+      "eight pointed"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "!",
+      "exclamation",
+      "double exclamation"
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "tags": [
+      "recyce",
+      "reuse",
+      "green"
+    ]
+  },
+  {
+    "emoji": "🅰️",
+    "tags": [
+      "a",
+      "letter a"
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "tags": [
+      "o",
+      "letter o"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "service charger",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "monthly amount",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "secret",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "tags": [
+      "black small square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "tags": [
+      "black medium square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "geometric",
+      "square",
+      "white small square",
+      "white"
     ]
   },
   {

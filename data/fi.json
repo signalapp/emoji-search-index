@@ -39,7 +39,8 @@
       "suu",
       "virnistävät kasvot hymyilevin silmin",
       "avoin",
-      "hymyillä"
+      "hymyillä",
+      "onnellinen"
     ]
   },
   {
@@ -258,7 +259,11 @@
       "hymy",
       "hymynaama",
       "naama",
-      "rento"
+      "rento",
+      "face",
+      "slightly smiling face",
+      "smiling",
+      "smile"
     ]
   },
   {
@@ -1415,6 +1420,7 @@
       "rakkaus",
       "silmä",
       "sydän",
+      "heart eyes",
       "smiling cat with heart-eyes"
     ]
   },
@@ -1538,6 +1544,7 @@
       "rakkauskirje",
       "romantiikka",
       "sydän",
+      "heart letter",
       "letter",
       "mail"
     ]
@@ -1588,9 +1595,9 @@
       "sydämen syke",
       "sydän",
       "excited",
-      "growing",
-      "nervous",
       "growing heart",
+      "nervous",
+      "growing",
       "pulssi"
     ]
   },
@@ -1640,7 +1647,10 @@
       "huutomerkki",
       "sydän",
       "sydänhuutomerkki",
-      "välimerkit"
+      "välimerkit",
+      "heart exclamation",
+      "heart drop",
+      "exclamation"
     ]
   },
   {
@@ -1650,8 +1660,8 @@
       "särkynyt",
       "sydän",
       "break",
-      "broken",
-      "broken heart"
+      "broken heart",
+      "heart break"
     ]
   },
   {
@@ -1665,6 +1675,7 @@
       "rakkaus",
       "sydän",
       "burn",
+      "burning heart",
       "heart on fire",
       "lust",
       "sacred heart"
@@ -1681,12 +1692,13 @@
       "tervehtyvä",
       "toipuminen",
       "healthier",
-      "improving",
       "mending heart",
+      "heart mending",
       "mending",
       "recovering",
       "recuperating",
-      "well"
+      "well",
+      "improving"
     ]
   },
   {
@@ -1701,7 +1713,8 @@
     "tags": [
       "oranssi",
       "sydän",
-      "orange heart"
+      "orange heart",
+      "heart orange"
     ]
   },
   {
@@ -1709,7 +1722,8 @@
     "tags": [
       "keltainen",
       "sydän",
-      "yellow heart"
+      "yellow heart",
+      "heart yellow"
     ]
   },
   {
@@ -1717,7 +1731,8 @@
     "tags": [
       "sydän",
       "vihreä",
-      "green heart"
+      "green heart",
+      "heart green"
     ]
   },
   {
@@ -1725,7 +1740,8 @@
     "tags": [
       "sininen",
       "sydän",
-      "blue heart"
+      "blue heart",
+      "heart blue"
     ]
   },
   {
@@ -1733,14 +1749,17 @@
     "tags": [
       "sydän",
       "violetti",
-      "purple heart"
+      "purple heart",
+      "heart purple"
     ]
   },
   {
     "emoji": "🤎",
     "tags": [
       "ruskea",
-      "sydän"
+      "sydän",
+      "brownheart",
+      "heart brown"
     ]
   },
   {
@@ -1749,6 +1768,7 @@
       "musta",
       "sydän",
       "black heart",
+      "heart black",
       "wicked",
       "paha"
     ]
@@ -1757,7 +1777,9 @@
     "emoji": "🤍",
     "tags": [
       "sydän",
-      "valkoinen"
+      "valkoinen",
+      "white heart",
+      "heart white"
     ]
   },
   {
@@ -1855,7 +1877,8 @@
       "balloon",
       "bubble",
       "dialog",
-      "speech"
+      "speech",
+      "typing"
     ]
   },
   {
@@ -1913,7 +1936,12 @@
       "vilkuttaa",
       "vilkutus",
       "wave",
-      "heiluttaa"
+      "heiluttaa",
+      "hi",
+      "hey",
+      "hello",
+      "bye",
+      "goodbye"
     ]
   },
   {
@@ -1948,7 +1976,8 @@
       "nostettu käsi",
       "vartalo",
       "yläviitonen",
-      "raised hand"
+      "raised hand",
+      "hifive"
     ]
   },
   {
@@ -2810,7 +2839,8 @@
       "forbidden",
       "person gesturing NO",
       "prohibited",
-      "X"
+      "X",
+      "no"
     ]
   },
   {
@@ -2826,7 +2856,7 @@
       "man gesturing NO",
       "prohibited",
       "X",
-      "miespuolinen"
+      "no"
     ]
   },
   {
@@ -2842,7 +2872,7 @@
       "käsi",
       "woman gesturing NO",
       "X",
-      "naispuolinen"
+      "no"
     ]
   },
   {
@@ -2934,8 +2964,10 @@
       "käsi",
       "nostettu",
       "person raising hand",
-      "onnellinen",
-      "raised"
+      "raised",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -2948,7 +2980,10 @@
       "ele",
       "nostaa kättä",
       "man raising hand",
-      "miespuolinen"
+      "miespuolinen",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -2961,7 +2996,10 @@
       "ele",
       "nostaa kättä",
       "woman raising hand",
-      "naispuolinen"
+      "naispuolinen",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -4900,7 +4938,8 @@
       "löyly",
       "sauna",
       "henkilö höyryhuoneessa",
-      "höyryhuone"
+      "höyryhuone",
+      "spa"
     ]
   },
   {
@@ -4913,7 +4952,8 @@
       "sauna",
       "mies höyryhuoneessa",
       "miespuolinen",
-      "höyryhuone"
+      "höyryhuone",
+      "spa"
     ]
   },
   {
@@ -4926,7 +4966,8 @@
       "sauna",
       "höyryhuone",
       "naispuolinen",
-      "nainen höyryhuoneessa"
+      "nainen höyryhuoneessa",
+      "spa"
     ]
   },
   {
@@ -5099,7 +5140,8 @@
       "uimari",
       "uinti",
       "henkilö ui",
-      "uida"
+      "uida",
+      "swimmer"
     ]
   },
   {
@@ -5111,7 +5153,8 @@
       "uiva mies",
       "mies ui",
       "miespuolinen",
-      "uida"
+      "uida",
+      "swimmer"
     ]
   },
   {
@@ -5123,7 +5166,8 @@
       "uiva nainen",
       "uida",
       "naispuolinen",
-      "nainen ui"
+      "nainen ui",
+      "swimmer"
     ]
   },
   {
@@ -6939,7 +6983,12 @@
     "emoji": "☘️",
     "tags": [
       "kasvi",
-      "kolmiapila"
+      "kolmiapila",
+      "clover",
+      "shamrock",
+      "three-leaf clover",
+      "three",
+      "leaf"
     ]
   },
   {
@@ -8964,7 +9013,8 @@
       "kuumat lähteet",
       "kylpylä",
       "lähde",
-      "vesi"
+      "vesi",
+      "hot springs"
     ]
   },
   {
@@ -9032,7 +9082,7 @@
       "junavaunu",
       "raitiovaunu",
       "rautatie",
-      "auto",
+      "train car",
       "sähköinen",
       "trollikka"
     ]
@@ -9127,7 +9177,7 @@
       "juna",
       "rautatie",
       "rinnerata",
-      "auto",
+      "train car",
       "vuori"
     ]
   },
@@ -9138,7 +9188,7 @@
       "raiteet",
       "raitiovaunu",
       "ratikka",
-      "auto",
+      "train car",
       "trollikka"
     ]
   },
@@ -9345,7 +9395,8 @@
     "tags": [
       "ajoneuvo",
       "skootteri",
-      "motor"
+      "motor",
+      "moped"
     ]
   },
   {
@@ -9354,7 +9405,8 @@
       "esteettömyys",
       "käsikäyttöinen pyörätuoli",
       "accessibility",
-      "manual wheelchair"
+      "manual wheelchair",
+      "pyörätuoli"
     ]
   },
   {
@@ -9363,7 +9415,8 @@
       "esteettömyys",
       "moottoroitu pyörätuoli",
       "accessibility",
-      "motorized wheelchair"
+      "motorized wheelchair",
+      "pyörätuoli"
     ]
   },
   {
@@ -9470,7 +9523,6 @@
       "poliisiauton valo",
       "valo",
       "beacon",
-      "auto",
       "light",
       "revolving",
       "alert",
@@ -9487,7 +9539,8 @@
       "valo",
       "horizontal traffic light",
       "light",
-      "signal"
+      "signal",
+      "stoplight"
     ]
   },
   {
@@ -9499,7 +9552,8 @@
       "valo",
       "light",
       "signal",
-      "vertical traffic light"
+      "vertical traffic light",
+      "stoplight"
     ]
   },
   {
@@ -9615,7 +9669,11 @@
     "emoji": "✈️",
     "tags": [
       "ajoneuvo",
-      "lentokone"
+      "lentokone",
+      "aeroplane",
+      "airplane",
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -9957,8 +10015,8 @@
   {
     "emoji": "🕞",
     "tags": [
-      "14.30",
-      "2.30",
+      "15.30",
+      "3.30",
       "30",
       "aika",
       "kello",
@@ -10088,9 +10146,9 @@
   {
     "emoji": "🕢",
     "tags": [
-      "18.30",
+      "19.30",
       "30",
-      "6.30",
+      "7.30",
       "aika",
       "kello",
       "kellonaika",
@@ -10397,7 +10455,9 @@
       "helle",
       "paiste",
       "sää",
-      "säteet"
+      "säteet",
+      "sun",
+      "bright"
     ]
   },
   {
@@ -10477,14 +10537,16 @@
       "galaksi",
       "linnunrata",
       "sää",
-      "Linnunrata"
+      "Linnunrata",
+      "galaxy"
     ]
   },
   {
     "emoji": "☁️",
     "tags": [
       "pilvi",
-      "sää"
+      "sää",
+      "cloud"
     ]
   },
   {
@@ -10627,7 +10689,18 @@
       "aurinko",
       "sää",
       "sade",
-      "sateenkaari"
+      "sateenkaari",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "pride",
+      "gay",
+      "lesbian",
+      "queer",
+      "transgender",
+      "trans",
+      "intersex",
+      "asexual"
     ]
   },
   {
@@ -10649,7 +10722,9 @@
       "asuste",
       "sää",
       "sade",
-      "sateenvarjo"
+      "sateenvarjo",
+      "umbrella",
+      "rain"
     ]
   },
   {
@@ -10710,7 +10785,10 @@
       "kylmä",
       "lumi",
       "lumiukko",
-      "sää"
+      "sää",
+      "cold",
+      "snow",
+      "snowman"
     ]
   },
   {
@@ -10985,7 +11063,8 @@
       "rusetti",
       "ruusuke",
       "juhlia",
-      "ribbon"
+      "ribbon",
+      "bow"
     ]
   },
   {
@@ -11558,7 +11637,9 @@
       "rahapeli",
       "peli",
       "slot",
-      "slot machine"
+      "slot machine",
+      "gambling",
+      "casino"
     ]
   },
   {
@@ -11618,7 +11699,8 @@
       "venäläinen",
       "nesting",
       "russia",
-      "nesting dolls"
+      "nesting dolls",
+      "matryoshka"
     ]
   },
   {
@@ -11627,7 +11709,9 @@
       "kortti",
       "korttipeli",
       "maa",
-      "pata"
+      "pata",
+      "spade suit",
+      "card suit"
     ]
   },
   {
@@ -11645,7 +11729,9 @@
       "kortti",
       "korttipeli",
       "maa",
-      "ruutu"
+      "ruutu",
+      "diamond suit",
+      "card suit"
     ]
   },
   {
@@ -11654,7 +11740,9 @@
       "kortti",
       "korttipeli",
       "maa",
-      "risti"
+      "risti",
+      "club suit",
+      "card suit"
     ]
   },
   {
@@ -11913,7 +12001,8 @@
       "kädet",
       "käsineet",
       "kengät",
-      "käsi"
+      "käsi",
+      "mittens"
     ]
   },
   {
@@ -12343,7 +12432,7 @@
       "kaiutin",
       "mykistetty kaiutin",
       "mykistys",
-      "mute",
+      "mykistä",
       "muted speaker",
       "hiljainen",
       "speaker",
@@ -12424,7 +12513,8 @@
       "kello",
       "kirkonkello",
       "sointi",
-      "soittokello"
+      "soittokello",
+      "ring"
     ]
   },
   {
@@ -12438,7 +12528,7 @@
       "mykistys",
       "soittokello",
       "bell with slash",
-      "mute",
+      "mykistä",
       "forbidden",
       "hiljainen"
     ]
@@ -12660,8 +12750,9 @@
       "mobiililaite",
       "puhelin",
       "cell",
-      "mobile",
-      "telephone"
+      "matkapuh.",
+      "telephone",
+      "smartphone"
     ]
   },
   {
@@ -12676,8 +12767,9 @@
       "arrow",
       "cell",
       "mobile phone with arrow",
-      "mobile",
-      "receive"
+      "matkapuh.",
+      "receive",
+      "smartphone"
     ]
   },
   {
@@ -12701,7 +12793,8 @@
     "emoji": "📟",
     "tags": [
       "hakulaite",
-      "pager"
+      "pager",
+      "beeper"
     ]
   },
   {
@@ -12754,7 +12847,9 @@
       "pöytäkone",
       "tietokone",
       "computer",
-      "desktop"
+      "desktop",
+      "monitor",
+      "screen"
     ]
   },
   {
@@ -12773,7 +12868,9 @@
       "näppäimet",
       "näppäimistö",
       "näppis",
-      "tietokone"
+      "tietokone",
+      "keyboard",
+      "computer keyboard"
     ]
   },
   {
@@ -12969,7 +13066,6 @@
       "suurennuslasi vasemmalle",
       "työkalu",
       "magnifying",
-      "search",
       "magnifying glass tilted left"
     ]
   },
@@ -12981,7 +13077,11 @@
       "lasi",
       "suurennuslasi",
       "suurennuslasi oikealle",
-      "työkalu"
+      "työkalu",
+      "magnifying",
+      "search",
+      "magnifying glass tilted right",
+      "tool"
     ]
   },
   {
@@ -13225,7 +13325,8 @@
       "kortti",
       "lappu",
       "lipuke",
-      "label"
+      "label",
+      "tag"
     ]
   },
   {
@@ -13370,12 +13471,12 @@
       "pankki",
       "raha",
       "valuutta",
-      "yen",
       "yen ja nouseva käyrä",
       "chart",
       "chart increasing with yen",
       "growth",
-      "graph"
+      "graph",
+      "yen"
     ]
   },
   {
@@ -13385,7 +13486,10 @@
       "kirje",
       "kirjekuori",
       "sähköposti",
-      "viesti"
+      "viesti",
+      "envelope",
+      "letter",
+      "mail"
     ]
   },
   {
@@ -13395,7 +13499,7 @@
       "sähköposti",
       "sähköpostiviesti",
       "viesti",
-      "email",
+      "s-posti",
       "mail",
       "letter"
     ]
@@ -13409,7 +13513,7 @@
       "sähköposti",
       "sähköpostiviesti",
       "viesti",
-      "email",
+      "s-posti",
       "incoming",
       "envelope",
       "letter",
@@ -13428,9 +13532,8 @@
       "viesti",
       "arrow",
       "envelope",
-      "email",
-      "envelope with arrow",
-      "outgoing"
+      "s-posti",
+      "envelope with arrow"
     ]
   },
   {
@@ -13567,7 +13670,10 @@
     "tags": [
       "kynä",
       "musta kynänkärki",
-      "mustekynä"
+      "mustekynä",
+      "pen",
+      "pen nib",
+      "nib"
     ]
   },
   {
@@ -13615,7 +13721,10 @@
       "lyijykynä",
       "muistio",
       "memo",
-      "pencil"
+      "pencil",
+      "pencil and paper",
+      "paper",
+      "write"
     ]
   },
   {
@@ -13831,7 +13940,9 @@
     "emoji": "✂️",
     "tags": [
       "sakset",
-      "työkalu"
+      "työkalu",
+      "scissors",
+      "cut"
     ]
   },
   {
@@ -13863,7 +13974,9 @@
     "tags": [
       "roskakori",
       "roskis",
-      "wastebasket"
+      "wastebasket",
+      "trash",
+      "can"
     ]
   },
   {
@@ -13872,7 +13985,9 @@
       "kiinni",
       "lukko",
       "suljettu",
-      "locked"
+      "locked",
+      "lock",
+      "padlock"
     ]
   },
   {
@@ -13884,7 +13999,8 @@
       "lock",
       "avoin",
       "unlocked",
-      "unlock"
+      "unlock",
+      "padlock"
     ]
   },
   {
@@ -13900,7 +14016,8 @@
       "nib",
       "locked with pen",
       "pen",
-      "privacy"
+      "privacy",
+      "padlock"
     ]
   },
   {
@@ -13915,7 +14032,8 @@
       "key",
       "locked with key",
       "lock",
-      "secure"
+      "secure",
+      "padlock"
     ]
   },
   {
@@ -13979,7 +14097,9 @@
       "hakku",
       "hakku ja vasara",
       "työkalu",
-      "vasara"
+      "vasara",
+      "hammer",
+      "pick"
     ]
   },
   {
@@ -14010,7 +14130,10 @@
     "tags": [
       "ase",
       "miekat ristissä",
-      "miekka"
+      "miekka",
+      "sword",
+      "fencing",
+      "crossed swords"
     ]
   },
   {
@@ -14117,7 +14240,10 @@
     "emoji": "⚙️",
     "tags": [
       "hammasratas",
-      "työkalu"
+      "työkalu",
+      "gear",
+      "cog",
+      "machine"
     ]
   },
   {
@@ -14140,7 +14266,10 @@
       "oikeus",
       "punnus",
       "työkalu",
-      "vaaka"
+      "vaaka",
+      "scale",
+      "balance",
+      "law"
     ]
   },
   {
@@ -14372,7 +14501,8 @@
       "stetoskooppi",
       "sydän",
       "stethoscope",
-      "medicine"
+      "medicine",
+      "listen"
     ]
   },
   {
@@ -14677,7 +14807,8 @@
       "savuke",
       "tupakointi",
       "cigarette",
-      "smoking"
+      "smoking",
+      "tobacco"
     ]
   },
   {
@@ -14685,7 +14816,12 @@
     "tags": [
       "arkku",
       "kuolema",
-      "ruumisarkku"
+      "ruumisarkku",
+      "coffin",
+      "death",
+      "dead",
+      "casket",
+      "funeral"
     ]
   },
   {
@@ -14698,7 +14834,8 @@
       "grave",
       "headstone",
       "graveyard",
-      "tombstone"
+      "tombstone",
+      "gravestone"
     ]
   },
   {
@@ -14707,7 +14844,11 @@
       "hautajaiset",
       "kuolema",
       "tuhkauurna",
-      "uurna"
+      "uurna",
+      "funeral",
+      "urn",
+      "death",
+      "dead"
     ]
   },
   {
@@ -14886,7 +15027,11 @@
     "tags": [
       "muu vaara",
       "vaara",
-      "varoitus"
+      "varoitus",
+      "caution",
+      "warning",
+      "alert",
+      "danger"
     ]
   },
   {
@@ -15011,7 +15156,7 @@
       "cell",
       "forbidden",
       "no",
-      "mobile",
+      "matkapuh.",
       "no mobile phones"
     ]
   },
@@ -15038,7 +15183,11 @@
       "säteily",
       "säteilyvaara",
       "vaara",
-      "ydinsäteily"
+      "ydinsäteily",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -15046,7 +15195,11 @@
     "tags": [
       "biologinen",
       "biovaara",
-      "vaara"
+      "vaara",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -15056,7 +15209,9 @@
       "nuoli",
       "nuoli ylös",
       "pääilmansuunta",
-      "pohjoinen"
+      "pohjoinen",
+      "arrow",
+      "up"
     ]
   },
   {
@@ -15066,7 +15221,9 @@
       "koillinen",
       "nuoli",
       "nuoli yläoikealle",
-      "väli-ilmansuunta"
+      "väli-ilmansuunta",
+      "arrow",
+      "up right"
     ]
   },
   {
@@ -15076,7 +15233,9 @@
       "itä",
       "nuoli",
       "nuoli oikealle",
-      "pääilmansuunta"
+      "pääilmansuunta",
+      "arrow",
+      "right"
     ]
   },
   {
@@ -15086,7 +15245,9 @@
       "kaakko",
       "nuoli",
       "nuoli alaoikealle",
-      "väli-ilmansuunta"
+      "väli-ilmansuunta",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -15096,7 +15257,9 @@
       "ilmansuunta",
       "nuoli",
       "nuoli alas",
-      "pääilmansuunta"
+      "pääilmansuunta",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -15106,7 +15269,9 @@
       "lounas",
       "nuoli",
       "nuoli alavasemmalle",
-      "väli-ilmansuunta"
+      "väli-ilmansuunta",
+      "arrow",
+      "down left"
     ]
   },
   {
@@ -15116,7 +15281,9 @@
       "länsi",
       "nuoli",
       "nuoli vasemmalle",
-      "pääilmansuunta"
+      "pääilmansuunta",
+      "arrow",
+      "left"
     ]
   },
   {
@@ -15126,7 +15293,9 @@
       "luode",
       "nuoli",
       "nuoli ylävasemmalle",
-      "väli-ilmansuunta"
+      "väli-ilmansuunta",
+      "arrow",
+      "up left"
     ]
   },
   {
@@ -15134,7 +15303,11 @@
     "tags": [
       "nuoli",
       "nuoli ylös ja alas",
-      "suunta"
+      "suunta",
+      "arrow",
+      "up and down",
+      "vertical",
+      "height"
     ]
   },
   {
@@ -15142,21 +15315,29 @@
     "tags": [
       "nuoli",
       "nuoli oikealle ja vasemmalle",
-      "suunta"
+      "suunta",
+      "arrow",
+      "left and right",
+      "horizontal",
+      "width"
     ]
   },
   {
     "emoji": "↩️",
     "tags": [
       "nuoli",
-      "vasemmalle kääntyvä nuoli"
+      "vasemmalle kääntyvä nuoli",
+      "arrow",
+      "return"
     ]
   },
   {
     "emoji": "↪️",
     "tags": [
       "nuoli",
-      "oikealle kääntyvä nuoli"
+      "oikealle kääntyvä nuoli",
+      "arrow",
+      "forward"
     ]
   },
   {
@@ -15164,7 +15345,9 @@
     "tags": [
       "nuoli",
       "ylös",
-      "ylös kääntyvä nuoli"
+      "ylös kääntyvä nuoli",
+      "arrow",
+      "up bend"
     ]
   },
   {
@@ -15172,7 +15355,9 @@
     "tags": [
       "alas",
       "alas kääntyvä nuoli",
-      "nuoli"
+      "nuoli",
+      "arrow",
+      "down bend"
     ]
   },
   {
@@ -15231,8 +15416,7 @@
       "päällä",
       "arrow",
       "mark",
-      "ON! arrow",
-      "on"
+      "ON! arrow"
     ]
   },
   {
@@ -15299,7 +15483,10 @@
       "daavidintähti",
       "juutalaisuus",
       "tähti",
-      "uskonto"
+      "uskonto",
+      "star",
+      "jewish",
+      "start of david"
     ]
   },
   {
@@ -15311,7 +15498,8 @@
       "dharma-pyörä",
       "pyörä",
       "ratas",
-      "uskonto"
+      "uskonto",
+      "wheel"
     ]
   },
   {
@@ -15322,7 +15510,10 @@
       "jin ja jang",
       "tao",
       "taolaisuus",
-      "uskonto"
+      "uskonto",
+      "yin",
+      "yang",
+      "yin yang"
     ]
   },
   {
@@ -15331,7 +15522,8 @@
       "kristinusko",
       "latinalainen risti",
       "risti",
-      "uskonto"
+      "uskonto",
+      "christianity"
     ]
   },
   {
@@ -15341,7 +15533,9 @@
       "ortodoksiristi",
       "ortodoksisuus",
       "risti",
-      "uskonto"
+      "uskonto",
+      "cross",
+      "orthodox cross"
     ]
   },
   {
@@ -15352,14 +15546,17 @@
       "kuunsirppi ja tähti",
       "muslimi",
       "tähti",
-      "uskonto"
+      "uskonto",
+      "star and crescent"
     ]
   },
   {
     "emoji": "☮️",
     "tags": [
       "rauha",
-      "rauhansymboli"
+      "rauhansymboli",
+      "peace",
+      "peace sign"
     ]
   },
   {
@@ -15586,7 +15783,12 @@
       "oikealle",
       "painike",
       "toista",
-      "toisto"
+      "toisto",
+      "play",
+      "go",
+      "play button",
+      "right arrow",
+      "triangle"
     ]
   },
   {
@@ -15650,7 +15852,9 @@
       "kolmio",
       "nappi",
       "painike",
-      "taakse"
+      "taakse",
+      "left arrow",
+      "triangle"
     ]
   },
   {
@@ -15788,7 +15992,9 @@
       "avaus",
       "nappi",
       "painike",
-      "poista"
+      "poista",
+      "eject",
+      "eject button"
     ]
   },
   {
@@ -15845,7 +16051,7 @@
       "antenna bars",
       "cell",
       "bar",
-      "mobile"
+      "matkapuh."
     ]
   },
   {
@@ -15858,7 +16064,7 @@
       "värinä",
       "värinätila",
       "cell",
-      "mobile",
+      "matkapuh.",
       "mode",
       "telephone",
       "vibration"
@@ -15873,8 +16079,8 @@
       "pois",
       "puhelin",
       "cell",
-      "mobile",
-      "off",
+      "matkapuh.",
+      "pois päältä",
       "telephone"
     ]
   },
@@ -15896,7 +16102,9 @@
       "kertomerkki",
       "merkki",
       "peruuta",
-      "x"
+      "x",
+      "stop",
+      "cross"
     ]
   },
   {
@@ -15947,7 +16155,10 @@
       "aina",
       "ikuinen",
       "rajaton",
-      "universaali"
+      "universaali",
+      "infinity",
+      "infinite",
+      "endless"
     ]
   },
   {
@@ -15968,7 +16179,10 @@
       "huutomerkki",
       "kysymysmerkki",
       "merkki",
-      "välimerkki"
+      "välimerkki",
+      "!?",
+      "exclamation",
+      "question"
     ]
   },
   {
@@ -16033,7 +16247,10 @@
       "aaltoileva",
       "aaltoviiva",
       "välimerkki",
-      "viiva"
+      "viiva",
+      "wave",
+      "wavey",
+      "wavey dash"
     ]
   },
   {
@@ -16043,7 +16260,10 @@
       "raha",
       "vaihto",
       "valuutanvaihto",
-      "valuutta"
+      "valuutta",
+      "currency",
+      "exchange",
+      "money"
     ]
   },
   {
@@ -16052,7 +16272,12 @@
       "dollari",
       "paksu dollarimerkki",
       "raha",
-      "valuutta"
+      "valuutta",
+      "money",
+      "dollars",
+      "cash",
+      "usd",
+      "rich"
     ]
   },
   {
@@ -16070,7 +16295,8 @@
       "heraldinen lilja",
       "lilja",
       "Ranskan lilja",
-      "ranskanlilja"
+      "ranskanlilja",
+      "fleur"
     ]
   },
   {
@@ -16149,7 +16375,11 @@
       "punainen valintamerkki",
       "rasti",
       "tarkistusmerkki",
-      "V"
+      "V",
+      "check",
+      "check box",
+      "done",
+      "todo"
     ]
   },
   {
@@ -16218,7 +16448,11 @@
       "kaksoissilmukka",
       "nauhuri",
       "silmukka",
-      "vastaaja"
+      "vastaaja",
+      "loop",
+      "curl",
+      "twist",
+      "double curly loop"
     ]
   },
   {
@@ -16227,7 +16461,8 @@
       "ioriten",
       "japani",
       "merkki",
-      "osanvaihtomerkki"
+      "osanvaihtomerkki",
+      "part alternation mark"
     ]
   },
   {
@@ -16255,7 +16490,8 @@
     "tags": [
       "kipinä",
       "säihke",
-      "tähti"
+      "tähti",
+      "sparkle"
     ]
   },
   {
@@ -16263,7 +16499,8 @@
     "tags": [
       "C",
       "tekijänoikeus",
-      "tekijänoikeusmerkki"
+      "tekijänoikeusmerkki",
+      "copyright"
     ]
   },
   {
@@ -16271,7 +16508,9 @@
     "tags": [
       "R",
       "rekisteröity",
-      "rekisteröity-merkki"
+      "rekisteröity-merkki",
+      "registered",
+      "reserved"
     ]
   },
   {
@@ -16279,7 +16518,9 @@
     "tags": [
       "merkki",
       "tavaramerkki",
-      "TM"
+      "TM",
+      "tm",
+      "trademark"
     ]
   },
   {
@@ -16375,7 +16616,8 @@
     "tags": [
       "b",
       "B-veriryhmä",
-      "veriryhmä"
+      "veriryhmä",
+      "letter b"
     ]
   },
   {
@@ -16416,7 +16658,8 @@
       "i",
       "info",
       "info-piste",
-      "tietoja"
+      "tietoja",
+      "letter i"
     ]
   },
   {
@@ -16436,7 +16679,8 @@
       "m",
       "m ympyrässä",
       "metro",
-      "ympyrä"
+      "ympyrä",
+      "m in circle"
     ]
   },
   {
@@ -16489,7 +16733,8 @@
       "p",
       "P",
       "parkkipaikka",
-      "pysäköinti"
+      "pysäköinti",
+      "letter p"
     ]
   },
   {
@@ -16534,7 +16779,7 @@
       "katakana",
       "kirjoitusmerkki",
       "täällä-kirjainmerkki",
-      "“here”",
+      "here",
       "japanilainen",
       "Japanese “here” button",
       "ココ"
@@ -16563,7 +16808,7 @@
       "japani",
       "kirjoitusmerkki",
       "maksullinen-kirjainmerkki",
-      "“not free of charge”",
+      "not free of charge",
       "ideograph",
       "Japanese “not free of charge” button",
       "japanilainen",
@@ -16576,7 +16821,7 @@
       "japani",
       "kirjoitusmerkki",
       "varattu-kirjainmerkki",
-      "“reserved”",
+      "reserved",
       "ideograph",
       "Japanese “reserved” button",
       "japanilainen",
@@ -16589,7 +16834,7 @@
       "hyvä ostos -kirjainmerkki",
       "japani",
       "kirjoitusmerkki",
-      "“bargain”",
+      "bargain",
       "ideograph",
       "Japanese “bargain” button",
       "japanilainen",
@@ -16602,7 +16847,7 @@
       "alennus-kirjoitusmerkki",
       "japani",
       "kirjoitusmerkki",
-      "“discount”",
+      "discount",
       "ideograph",
       "Japanese “discount” button",
       "japanilainen",
@@ -16615,7 +16860,7 @@
       "japani",
       "kirjoitusmerkki",
       "maksuton-kirjainmerkki",
-      "“free of charge”",
+      "free of charge",
       "ideograph",
       "Japanese “free of charge” button",
       "japanilainen",
@@ -16628,7 +16873,7 @@
       "japani",
       "kielletty-kirjoitusmerkki",
       "kirjoitusmerkki",
-      "“prohibited”",
+      "prohibited",
       "ideograph",
       "Japanese “prohibited” button",
       "japanilainen",
@@ -16641,7 +16886,7 @@
       "hyväksyttävä-kirjoitusmerkki",
       "kiina",
       "kirjoitusmerkki",
-      "“acceptable”",
+      "acceptable",
       "ideograph",
       "Japanese “acceptable” button",
       "japanilainen",
@@ -16654,7 +16899,7 @@
       "hakemus-kirjoitusmerkki",
       "kiina",
       "kirjoitusmerkki",
-      "“application”",
+      "application",
       "ideograph",
       "Japanese “application” button",
       "japanilainen",
@@ -16667,7 +16912,7 @@
       "hyväksytty arvosana -kirjoitusmerkki",
       "kiina",
       "kirjoitusmerkki",
-      "“passing grade”",
+      "passing grade",
       "ideograph",
       "Japanese “passing grade” button",
       "japanilainen",
@@ -16680,7 +16925,7 @@
       "kiina",
       "kirjoitusmerkki",
       "tyhjä-kirjoitusmerkki",
-      "“vacancy”",
+      "vacancy",
       "ideograph",
       "Japanese “vacancy” button",
       "japanilainen",
@@ -16692,7 +16937,10 @@
     "tags": [
       "kiina",
       "kirjoitusmerkki",
-      "onnittelut-kirjoitusmerkki"
+      "onnittelut-kirjoitusmerkki",
+      "congratulations",
+      "ideograph",
+      "japanese"
     ]
   },
   {
@@ -16709,7 +16957,7 @@
       "avoinna-kirjoitusmerkki",
       "kiina",
       "kirjoitusmerkki",
-      "“open for business”",
+      "open for business",
       "ideograph",
       "Japanese “open for business” button",
       "japanilainen",
@@ -16722,7 +16970,7 @@
       "kiina",
       "kirjoitusmerkki",
       "täynnä-kirjoitusmerkki",
-      "“no vacancy”",
+      "no vacancy",
       "ideograph",
       "Japanese “no vacancy” button",
       "japanilainen",
@@ -16788,7 +17036,8 @@
       "muoto",
       "musta ympyrä",
       "ympyrä",
-      "geometrinen"
+      "geometrinen",
+      "black"
     ]
   },
   {
@@ -16797,7 +17046,8 @@
       "muoto",
       "valkoinen ympyrä",
       "ympyrä",
-      "geometrinen"
+      "geometrinen",
+      "white"
     ]
   },
   {
@@ -16856,7 +17106,8 @@
       "muoto",
       "neliö",
       "musta iso neliö",
-      "geometrinen"
+      "geometrinen",
+      "black"
     ]
   },
   {
@@ -16866,7 +17117,8 @@
       "muoto",
       "neliö",
       "geometrinen",
-      "valkoinen iso neliö"
+      "valkoinen iso neliö",
+      "white"
     ]
   },
   {
@@ -16882,7 +17134,11 @@
     "tags": [
       "keskikokoinen valkoinen neliö",
       "muoto",
-      "neliö"
+      "neliö",
+      "geometric",
+      "square",
+      "white medium square",
+      "white"
     ]
   },
   {
@@ -17013,7 +17269,10 @@
       "valinta",
       "valintanappi",
       "valintaruutu",
-      "ympyrä"
+      "ympyrä",
+      "button",
+      "radio button",
+      "circle"
     ]
   },
   {
@@ -17037,7 +17296,11 @@
       "musta neliöruutu",
       "neliö",
       "valinta",
-      "valintaruutu"
+      "valintaruutu",
+      "button",
+      "geometric",
+      "square",
+      "outlined"
     ]
   },
   {
@@ -17102,7 +17365,19 @@
       "lippu",
       "sateenkaari",
       "sateenkaarilippu",
-      "pride"
+      "pride",
+      "lgbtqia",
+      "lgbt",
+      "lgbtqa",
+      "queer",
+      "gay",
+      "lesbian",
+      "intersex",
+      "bisexual",
+      "transgender",
+      "trans",
+      "asexual",
+      "questioning"
     ]
   },
   {
@@ -17119,6 +17394,181 @@
       "plunder",
       "pirate flag",
       "treasure"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "tags": [
+      "face",
+      "frown",
+      "sad",
+      "slightly frowning face"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "death",
+      "skull",
+      "crossbones",
+      "skull and crossbones",
+      "bones",
+      "kuolla"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "tags": [
+      "sydän",
+      "red heart"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "heart suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "🗨️",
+    "tags": [
+      "balloon",
+      "bubble",
+      "dialog",
+      "comic",
+      "speech"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "snow",
+      "snowflake",
+      "kylmä",
+      "ice"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "tags": [
+      "phone",
+      "telephone"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "pencil"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "alembic",
+      "science",
+      "chemistry"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "atom"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "asterisk",
+      "eight spoke"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "star",
+      "eight pointed"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "!",
+      "exclamation",
+      "double exclamation"
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "tags": [
+      "recyce",
+      "reuse",
+      "green"
+    ]
+  },
+  {
+    "emoji": "🅰️",
+    "tags": [
+      "a",
+      "letter a"
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "tags": [
+      "o",
+      "letter o"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "service charger",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "monthly amount",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "secret",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "tags": [
+      "black small square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "tags": [
+      "black medium square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "geometric",
+      "square",
+      "white small square",
+      "white"
     ]
   },
   {

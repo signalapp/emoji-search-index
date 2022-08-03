@@ -80,7 +80,6 @@
       "grine",
       "grinende ansigt med sveddråbe",
       "sved",
-      "fryser",
       "ansigt",
       "åben",
       "grinende ansigt med sved",
@@ -242,7 +241,11 @@
       "afslappet",
       "smil",
       "smilende ansigt",
-      "tilpas"
+      "tilpas",
+      "face",
+      "slightly smiling face",
+      "smiling",
+      "smile"
     ]
   },
   {
@@ -1312,7 +1315,7 @@
       "kat smiler",
       "kat",
       "øje",
-      "hjerte",
+      "heart eyes",
       "ansigt",
       "kærlighed",
       "smil",
@@ -1431,7 +1434,7 @@
       "brev med hjerte",
       "kærestebrev",
       "kærlighedsbrev",
-      "hjerte",
+      "heart letter",
       "brev",
       "post",
       "kærlighed"
@@ -1479,8 +1482,8 @@
       "nervøs",
       "voksende hjerte",
       "begejstret",
-      "growing",
       "growing heart",
+      "growing",
       "pulse"
     ]
   },
@@ -1528,7 +1531,10 @@
       "hjerte",
       "hjerte som udråbstegn",
       "tegnsætning",
-      "udråbstegn"
+      "udråbstegn",
+      "heart exclamation",
+      "heart drop",
+      "exclamation"
     ]
   },
   {
@@ -1537,8 +1543,8 @@
       "knust hjerte",
       "ulykkelig kærlighed",
       "break",
-      "broken",
-      "broken heart"
+      "broken heart",
+      "heart break"
     ]
   },
   {
@@ -1551,7 +1557,7 @@
       "kærlighed",
       "passion",
       "burn",
-      "hjerte",
+      "burning heart",
       "hjerte i brand",
       "lust",
       "sacred heart"
@@ -1568,12 +1574,13 @@
       "rask",
       "sundere",
       "healthier",
-      "improving",
       "mending heart",
+      "heart mending",
       "mending",
       "recovering",
       "recuperating",
-      "well"
+      "well",
+      "improving"
     ]
   },
   {
@@ -1589,7 +1596,8 @@
       "følelser",
       "hjerte",
       "orange",
-      "orange heart"
+      "orange heart",
+      "heart orange"
     ]
   },
   {
@@ -1600,7 +1608,8 @@
       "gult hjerte",
       "hjerte",
       "yellow",
-      "yellow heart"
+      "yellow heart",
+      "heart yellow"
     ]
   },
   {
@@ -1611,7 +1620,8 @@
       "grønt hjerte",
       "hjerte",
       "green",
-      "green heart"
+      "green heart",
+      "heart green"
     ]
   },
   {
@@ -1621,7 +1631,8 @@
       "blåt hjerte",
       "følelser",
       "hjerte",
-      "blue heart"
+      "blue heart",
+      "heart blue"
     ]
   },
   {
@@ -1631,7 +1642,8 @@
       "hjerte",
       "violet",
       "purple",
-      "purple heart"
+      "purple heart",
+      "heart purple"
     ]
   },
   {
@@ -1640,7 +1652,9 @@
       "brun",
       "brunt hjerte",
       "hjerte",
-      "brown"
+      "brown",
+      "brownheart",
+      "heart brown"
     ]
   },
   {
@@ -1652,6 +1666,7 @@
       "sort",
       "black",
       "black heart",
+      "heart black",
       "wicked",
       "ond"
     ]
@@ -1662,7 +1677,9 @@
       "hjerte",
       "hvid",
       "hvidt hjerte",
-      "white"
+      "white",
+      "white heart",
+      "heart white"
     ]
   },
   {
@@ -1759,7 +1776,8 @@
       "ballon",
       "boble",
       "dialog",
-      "komiker"
+      "komiker",
+      "typing"
     ]
   },
   {
@@ -1812,7 +1830,12 @@
     "tags": [
       "hånd",
       "vinker",
-      "vink"
+      "vink",
+      "hi",
+      "hey",
+      "hello",
+      "bye",
+      "goodbye"
     ]
   },
   {
@@ -1846,7 +1869,8 @@
       "løftet hånd",
       "high 5",
       "hævet hånd",
-      "high five"
+      "high five",
+      "hifive"
     ]
   },
   {
@@ -2039,7 +2063,6 @@
       "hånd",
       "krop",
       "op",
-      "opadvendt",
       "pege",
       "pegefinger",
       "rækker finger op",
@@ -2242,17 +2265,11 @@
     "tags": [
       "arm",
       "foto",
-      "fotografere",
-      "fotografi",
       "kamera",
-      "mobil",
       "mobiltelefon",
       "selfie",
-      "tager billeder",
       "tager selfies",
-      "telefon",
-      "camera",
-      "phone"
+      "telefon"
     ]
   },
   {
@@ -2712,7 +2729,8 @@
       "person gesturing NO",
       "hånd",
       "prohibited",
-      "X"
+      "X",
+      "no"
     ]
   },
   {
@@ -2730,7 +2748,7 @@
       "man gesturing NO",
       "prohibited",
       "X",
-      "male"
+      "no"
     ]
   },
   {
@@ -2747,7 +2765,7 @@
       "hånd",
       "woman gesturing NO",
       "X",
-      "female"
+      "no"
     ]
   },
   {
@@ -2847,8 +2865,10 @@
       "gesture",
       "hånd",
       "person raising hand",
-      "glad",
-      "hævet"
+      "hævet",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -2864,7 +2884,10 @@
       "man",
       "raising hand",
       "man raising hand",
-      "male"
+      "male",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -2879,7 +2902,10 @@
       "gesture",
       "raising hand",
       "woman raising hand",
-      "female"
+      "female",
+      "hi",
+      "hey",
+      "hello"
     ]
   },
   {
@@ -2970,7 +2996,6 @@
       "dumt",
       "facepalm",
       "hånd",
-      "håndflade",
       "irriteret",
       "skepsis",
       "slå sig for panden",
@@ -3020,17 +3045,11 @@
     "tags": [
       "aner det ikke",
       "ligeglad",
-      "ligegyldighed",
       "ligegyldigt",
       "pas",
-      "skulder",
-      "skuldre",
-      "træk",
       "trækker på skuldrene",
       "tvivl",
-      "uvidenhed",
       "ved det ikke",
-      "ved ikke",
       "doubt",
       "ignorance",
       "person shrugging",
@@ -3677,8 +3696,7 @@
       "fly",
       "flyvemaskine",
       "luftkaptajn",
-      "pilot",
-      "plane"
+      "pilot"
     ]
   },
   {
@@ -3688,9 +3706,8 @@
       "mand",
       "mandlig pilot",
       "pilot",
-      "man",
       "male",
-      "plane"
+      "man"
     ]
   },
   {
@@ -3700,7 +3717,6 @@
       "kvinde",
       "kvindelig pilot",
       "pilot",
-      "plane",
       "female"
     ]
   },
@@ -4945,7 +4961,8 @@
       "person i dampbad",
       "sauna",
       "person in steamy room",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -4957,7 +4974,8 @@
       "sauna",
       "man in steamy room",
       "male",
-      "steam room"
+      "steam room",
+      "spa"
     ]
   },
   {
@@ -4969,7 +4987,8 @@
       "sauna",
       "steam room",
       "female",
-      "woman in steamy room"
+      "woman in steamy room",
+      "spa"
     ]
   },
   {
@@ -5143,7 +5162,8 @@
       "svømmer",
       "svømning",
       "person swimming",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -5155,7 +5175,8 @@
       "man",
       "man swimming",
       "male",
-      "swim"
+      "swim",
+      "swimmer"
     ]
   },
   {
@@ -5166,7 +5187,8 @@
       "svømmepige",
       "svømning",
       "swim",
-      "female"
+      "female",
+      "swimmer"
     ]
   },
   {
@@ -7141,7 +7163,12 @@
     "emoji": "☘️",
     "tags": [
       "kløver",
-      "plante"
+      "plante",
+      "clover",
+      "shamrock",
+      "three-leaf clover",
+      "three",
+      "leaf"
     ]
   },
   {
@@ -7770,12 +7797,10 @@
       "falafel",
       "fladbrød",
       "fyld",
-      "fyldt",
       "fyldt pitabrød",
       "gyros",
       "kebab",
       "mad",
-      "pandekage med fyld",
       "pita",
       "gyro",
       "stuffed"
@@ -8931,7 +8956,6 @@
       "bygning",
       "hjem",
       "hus",
-      "home",
       "house"
     ]
   },
@@ -8942,7 +8966,6 @@
       "hjem",
       "hus med have",
       "garden",
-      "home",
       "house with garden",
       "house"
     ]
@@ -9284,7 +9307,8 @@
       "damp",
       "kilder",
       "varm",
-      "varme kilder"
+      "varme kilder",
+      "hot springs"
     ]
   },
   {
@@ -9359,7 +9383,7 @@
     "tags": [
       "tog",
       "togvogn",
-      "car",
+      "train car",
       "electric",
       "train",
       "railway",
@@ -9452,7 +9476,7 @@
     "tags": [
       "bjergbane",
       "svævebane",
-      "car",
+      "train car",
       "mountain",
       "railway"
     ]
@@ -9464,7 +9488,7 @@
       "sporvogn",
       "trolleybus",
       "vogn",
-      "car",
+      "train car",
       "tram"
     ]
   },
@@ -9666,7 +9690,8 @@
     "tags": [
       "scooter",
       "transportmiddel",
-      "motor"
+      "motor",
+      "moped"
     ]
   },
   {
@@ -9675,7 +9700,8 @@
       "handikap",
       "manuel kørestol",
       "accessibility",
-      "manual wheelchair"
+      "manual wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -9684,7 +9710,8 @@
       "elektrisk kørestol",
       "handikap",
       "accessibility",
-      "motorized wheelchair"
+      "motorized wheelchair",
+      "wheelchair"
     ]
   },
   {
@@ -9794,12 +9821,11 @@
       "rødt blink",
       "rotorblink",
       "beacon",
-      "car",
       "police",
       "light",
       "revolving",
-      "alert",
       "alarm",
+      "alert",
       "emergency",
       "siren"
     ]
@@ -9813,7 +9839,8 @@
       "trafik",
       "horizontal traffic light",
       "light",
-      "traffic"
+      "traffic",
+      "stoplight"
     ]
   },
   {
@@ -9825,7 +9852,8 @@
       "trafiklys",
       "light",
       "vertical traffic light",
-      "traffic"
+      "traffic",
+      "stoplight"
     ]
   },
   {
@@ -9938,7 +9966,11 @@
     "emoji": "✈️",
     "tags": [
       "fly",
-      "flyvemaskine"
+      "flyvemaskine",
+      "aeroplane",
+      "airplane",
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -9949,7 +9981,8 @@
       "lille flyvemaskine",
       "aeroplane",
       "airplane",
-      "small airplane"
+      "small airplane",
+      "plane"
     ]
   },
   {
@@ -9965,7 +9998,8 @@
       "airplane",
       "departure",
       "check-in",
-      "departures"
+      "departures",
+      "plane"
     ]
   },
   {
@@ -9981,7 +10015,8 @@
       "airplane",
       "arrivals",
       "airplane arrival",
-      "arriving"
+      "arriving",
+      "plane"
     ]
   },
   {
@@ -10674,7 +10709,9 @@
       "sol",
       "solskin",
       "stråler",
-      "vejr"
+      "vejr",
+      "sun",
+      "bright"
     ]
   },
   {
@@ -10748,14 +10785,16 @@
       "galakse",
       "mælkevejen",
       "milky way",
-      "space"
+      "space",
+      "galaxy"
     ]
   },
   {
     "emoji": "☁️",
     "tags": [
       "sky",
-      "vejr"
+      "vejr",
+      "cloud"
     ]
   },
   {
@@ -10911,7 +10950,18 @@
       "regnbue",
       "vejr",
       "rain",
-      "rainbow"
+      "rainbow",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "pride",
+      "gay",
+      "lesbian",
+      "queer",
+      "transgender",
+      "trans",
+      "intersex",
+      "asexual"
     ]
   },
   {
@@ -10932,7 +10982,9 @@
       "paraply",
       "regn",
       "tøj",
-      "vejr"
+      "vejr",
+      "umbrella",
+      "rain"
     ]
   },
   {
@@ -10991,7 +11043,10 @@
       "kulde",
       "sne",
       "snemand",
-      "vejr"
+      "vejr",
+      "cold",
+      "snow",
+      "snowman"
     ]
   },
   {
@@ -11244,7 +11299,8 @@
     "tags": [
       "fejring",
       "sløjfe",
-      "bånd"
+      "bånd",
+      "bow"
     ]
   },
   {
@@ -11806,7 +11862,9 @@
       "spillemaskine",
       "game",
       "slot",
-      "slot machine"
+      "slot machine",
+      "gambling",
+      "casino"
     ]
   },
   {
@@ -11867,7 +11925,8 @@
       "doll",
       "nesting",
       "russia",
-      "nesting dolls"
+      "nesting dolls",
+      "matryoshka"
     ]
   },
   {
@@ -11875,7 +11934,9 @@
     "tags": [
       "kort",
       "spar",
-      "spil"
+      "spil",
+      "spade suit",
+      "card suit"
     ]
   },
   {
@@ -11891,7 +11952,9 @@
     "tags": [
       "kort",
       "ruder",
-      "spil"
+      "spil",
+      "diamond suit",
+      "card suit"
     ]
   },
   {
@@ -11899,7 +11962,9 @@
     "tags": [
       "klør",
       "kort",
-      "spil"
+      "spil",
+      "club suit",
+      "card suit"
     ]
   },
   {
@@ -12159,7 +12224,8 @@
       "hånd",
       "handsker",
       "vinter",
-      "gloves"
+      "gloves",
+      "mittens"
     ]
   },
   {
@@ -12576,7 +12642,7 @@
       "lyd fra",
       "lydløs",
       "stille",
-      "mute",
+      "Ignorer",
       "muted speaker",
       "tavs",
       "speaker",
@@ -12648,7 +12714,8 @@
     "emoji": "🔔",
     "tags": [
       "klokke",
-      "bell"
+      "bell",
+      "ring"
     ]
   },
   {
@@ -12659,7 +12726,7 @@
       "klokke med streg over",
       "bell",
       "bell with slash",
-      "mute",
+      "Ignorer",
       "forbudt",
       "tavs",
       "stille"
@@ -12875,9 +12942,9 @@
       "mobil",
       "mobiltelefon",
       "cell",
-      "mobile",
       "telephone",
-      "phone"
+      "telefon",
+      "smartphone"
     ]
   },
   {
@@ -12890,9 +12957,10 @@
       "pil",
       "cell",
       "mobile phone with arrow",
-      "mobile",
-      "phone",
-      "receive"
+      "mobil",
+      "telefon",
+      "receive",
+      "smartphone"
     ]
   },
   {
@@ -12907,7 +12975,7 @@
     "tags": [
       "kommunikation",
       "telefonrør",
-      "phone",
+      "telefon",
       "receiver",
       "telephone"
     ]
@@ -12918,7 +12986,8 @@
       "bipper",
       "kommunikation",
       "personsøger",
-      "pager"
+      "pager",
+      "beeper"
     ]
   },
   {
@@ -12967,7 +13036,9 @@
     "tags": [
       "computer",
       "stationær",
-      "desktop"
+      "desktop",
+      "monitor",
+      "screen"
     ]
   },
   {
@@ -12983,7 +13054,8 @@
     "tags": [
       "computer",
       "keyboard",
-      "tastatur"
+      "tastatur",
+      "computer keyboard"
     ]
   },
   {
@@ -13062,7 +13134,7 @@
       "film",
       "filme",
       "filmkamera",
-      "camera",
+      "kamera",
       "cinema",
       "movie"
     ]
@@ -13090,7 +13162,7 @@
       "cinema",
       "projector",
       "movie",
-      "camera",
+      "kamera",
       "blå"
     ]
   },
@@ -13119,8 +13191,7 @@
     "emoji": "📷",
     "tags": [
       "kamera",
-      "video",
-      "camera"
+      "video"
     ]
   },
   {
@@ -13130,7 +13201,6 @@
       "kamera",
       "kamera med blitz",
       "video",
-      "camera",
       "camera with flash",
       "flash"
     ]
@@ -13141,7 +13211,6 @@
       "kamera",
       "video",
       "videokamera",
-      "camera",
       "camcorder"
     ]
   },
@@ -13165,7 +13234,7 @@
       "værktøj",
       "glass",
       "magnifying",
-      "search",
+      "søg",
       "magnifying glass tilted left",
       "tool"
     ]
@@ -13177,7 +13246,12 @@
       "forstørrelsesglas",
       "forstørrelsesglas til højre",
       "søgning",
-      "værktøj"
+      "værktøj",
+      "glass",
+      "magnifying",
+      "search",
+      "magnifying glass tilted right",
+      "tool"
     ]
   },
   {
@@ -13404,7 +13478,8 @@
       "etiket",
       "label",
       "mærkat",
-      "seddel"
+      "seddel",
+      "tag"
     ]
   },
   {
@@ -13541,7 +13616,9 @@
       "brev",
       "e-mail",
       "konvolut",
-      "mail"
+      "mail",
+      "envelope",
+      "letter"
     ]
   },
   {
@@ -13551,7 +13628,6 @@
       "kommunikation",
       "mail",
       "e-mail",
-      "email",
       "post"
     ]
   },
@@ -13561,7 +13637,6 @@
       "e-mail",
       "indgående post",
       "modtaget post",
-      "email",
       "incoming",
       "envelope",
       "brev",
@@ -13576,9 +13651,8 @@
       "udgående post",
       "pil",
       "envelope",
-      "email",
       "envelope with arrow",
-      "outgoing"
+      "Udgående"
     ]
   },
   {
@@ -13703,7 +13777,9 @@
     "tags": [
       "fyldepen",
       "pen",
-      "sort fyldepen"
+      "sort fyldepen",
+      "pen nib",
+      "nib"
     ]
   },
   {
@@ -13748,7 +13824,10 @@
       "kommunikation",
       "memo",
       "notat",
-      "pencil"
+      "pencil",
+      "pencil and paper",
+      "paper",
+      "write"
     ]
   },
   {
@@ -13952,7 +14031,9 @@
     "emoji": "✂️",
     "tags": [
       "saks",
-      "værktøj"
+      "værktøj",
+      "scissors",
+      "cut"
     ]
   },
   {
@@ -13983,7 +14064,9 @@
     "tags": [
       "papirkurv",
       "skraldespand",
-      "wastebasket"
+      "wastebasket",
+      "trash",
+      "can"
     ]
   },
   {
@@ -13992,7 +14075,9 @@
       "låst",
       "lukket hængelås",
       "lukket",
-      "locked"
+      "locked",
+      "lock",
+      "padlock"
     ]
   },
   {
@@ -14004,7 +14089,8 @@
       "lock",
       "åben",
       "unlocked",
-      "unlock"
+      "unlock",
+      "padlock"
     ]
   },
   {
@@ -14019,7 +14105,8 @@
       "nib",
       "locked with pen",
       "pen",
-      "privacy"
+      "privacy",
+      "padlock"
     ]
   },
   {
@@ -14033,7 +14120,8 @@
       "key",
       "locked with key",
       "lock",
-      "secure"
+      "secure",
+      "padlock"
     ]
   },
   {
@@ -14096,7 +14184,8 @@
       "hakke",
       "hammer",
       "hammer og hakke",
-      "værktøj"
+      "værktøj",
+      "pick"
     ]
   },
   {
@@ -14131,7 +14220,10 @@
       "korslagt",
       "korslagte sværd",
       "sværd",
-      "våben"
+      "våben",
+      "sword",
+      "fencing",
+      "crossed swords"
     ]
   },
   {
@@ -14243,7 +14335,9 @@
     "tags": [
       "gear",
       "tandhjul",
-      "værktøj"
+      "værktøj",
+      "cog",
+      "machine"
     ]
   },
   {
@@ -14266,7 +14360,9 @@
       "retfærdighed",
       "stjernetegn",
       "vægt",
-      "værktøj"
+      "værktøj",
+      "scale",
+      "law"
     ]
   },
   {
@@ -14505,7 +14601,8 @@
       "medicin",
       "stetoskop",
       "stethoscope",
-      "medicine"
+      "medicine",
+      "listen"
     ]
   },
   {
@@ -14818,7 +14915,8 @@
       "cigaret",
       "rygning tilladt",
       "cigarette",
-      "smoking"
+      "smoking",
+      "tobacco"
     ]
   },
   {
@@ -14826,7 +14924,12 @@
     "tags": [
       "begravelse",
       "død",
-      "kiste"
+      "kiste",
+      "coffin",
+      "death",
+      "dead",
+      "casket",
+      "funeral"
     ]
   },
   {
@@ -14839,7 +14942,8 @@
       "grave",
       "headstone",
       "graveyard",
-      "tombstone"
+      "tombstone",
+      "gravestone"
     ]
   },
   {
@@ -14847,7 +14951,11 @@
     "tags": [
       "begravelse",
       "død",
-      "urne"
+      "urne",
+      "funeral",
+      "urn",
+      "death",
+      "dead"
     ]
   },
   {
@@ -15021,7 +15129,11 @@
     "emoji": "⚠️",
     "tags": [
       "advarsel",
-      "advarselsskilt"
+      "advarselsskilt",
+      "caution",
+      "warning",
+      "alert",
+      "danger"
     ]
   },
   {
@@ -15134,9 +15246,9 @@
       "cell",
       "forbudt",
       "no",
-      "mobile",
+      "mobil",
       "no mobile phones",
-      "phone"
+      "telefon"
     ]
   },
   {
@@ -15159,7 +15271,11 @@
       "radioaktiv",
       "radioaktivitet",
       "risiko",
-      "skilt"
+      "skilt",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -15169,7 +15285,11 @@
       "biologisk",
       "fare",
       "risiko",
-      "skilt"
+      "skilt",
+      "warning",
+      "hazard",
+      "danger",
+      "radioactive"
     ]
   },
   {
@@ -15180,7 +15300,9 @@
       "pil",
       "pil op",
       "retning",
-      "verdenshjørne"
+      "verdenshjørne",
+      "arrow",
+      "up"
     ]
   },
   {
@@ -15189,7 +15311,9 @@
       "nordøst",
       "opadvendt pil mod højre",
       "pil",
-      "retning"
+      "retning",
+      "arrow",
+      "up right"
     ]
   },
   {
@@ -15199,7 +15323,9 @@
       "pil",
       "pil mod højre",
       "retning",
-      "verdenshjørne"
+      "verdenshjørne",
+      "arrow",
+      "right"
     ]
   },
   {
@@ -15208,7 +15334,9 @@
       "nedadvendt pil mod højre",
       "pil",
       "retning",
-      "sydøst"
+      "sydøst",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -15219,7 +15347,9 @@
       "pil",
       "retning",
       "syd",
-      "verdenshjørne"
+      "verdenshjørne",
+      "arrow",
+      "down right"
     ]
   },
   {
@@ -15228,7 +15358,9 @@
       "nedadvendt pil mod venstre",
       "pil",
       "retning",
-      "sydvest"
+      "sydvest",
+      "arrow",
+      "down left"
     ]
   },
   {
@@ -15238,7 +15370,9 @@
       "pil mod venstre",
       "retning",
       "verdenshjørne",
-      "vest"
+      "vest",
+      "arrow",
+      "left"
     ]
   },
   {
@@ -15247,42 +15381,58 @@
       "nordvest",
       "opadvendt pil mod venstre",
       "pil",
-      "retning"
+      "retning",
+      "arrow",
+      "up left"
     ]
   },
   {
     "emoji": "↕️",
     "tags": [
       "op- og nedadvendt pil",
-      "pil"
+      "pil",
+      "arrow",
+      "up and down",
+      "vertical",
+      "height"
     ]
   },
   {
     "emoji": "↔️",
     "tags": [
       "pil",
-      "pil mod venstre og højre"
+      "pil mod venstre og højre",
+      "arrow",
+      "left and right",
+      "horizontal",
+      "width"
     ]
   },
   {
     "emoji": "↩️",
     "tags": [
       "pil",
-      "pil mod højre med sving til venstre"
+      "pil mod højre med sving til venstre",
+      "arrow",
+      "return"
     ]
   },
   {
     "emoji": "↪️",
     "tags": [
       "pil",
-      "pil mod venstre med sving til højre"
+      "pil mod venstre med sving til højre",
+      "arrow",
+      "forward"
     ]
   },
   {
     "emoji": "⤴️",
     "tags": [
       "pil",
-      "pil mod højre med sving opad"
+      "pil mod højre med sving opad",
+      "arrow",
+      "up bend"
     ]
   },
   {
@@ -15290,7 +15440,9 @@
     "tags": [
       "ned",
       "pil",
-      "pil mod højre med sving nedad"
+      "pil mod højre med sving nedad",
+      "arrow",
+      "down bend"
     ]
   },
   {
@@ -15354,7 +15506,7 @@
       "pil",
       "mark",
       "ON! arrow",
-      "on"
+      "aktiveret"
     ]
   },
   {
@@ -15416,7 +15568,10 @@
       "jøde",
       "jødisk",
       "religion",
-      "stjerne"
+      "stjerne",
+      "star",
+      "jewish",
+      "start of david"
     ]
   },
   {
@@ -15426,7 +15581,8 @@
       "dharma",
       "dharma-hjul",
       "hjul",
-      "religion"
+      "religion",
+      "wheel"
     ]
   },
   {
@@ -15437,7 +15593,8 @@
       "taoist",
       "yang",
       "yin",
-      "yin og yang"
+      "yin og yang",
+      "yin yang"
     ]
   },
   {
@@ -15446,7 +15603,9 @@
       "kors",
       "kristen",
       "latinsk kors",
-      "religion"
+      "religion",
+      "cross",
+      "christianity"
     ]
   },
   {
@@ -15455,7 +15614,9 @@
       "kors",
       "kristen",
       "ortodokst kors",
-      "religion"
+      "religion",
+      "cross",
+      "orthodox cross"
     ]
   },
   {
@@ -15464,14 +15625,17 @@
       "islam",
       "muslim",
       "religion",
-      "stjerne og halvmåne"
+      "stjerne og halvmåne",
+      "star and crescent"
     ]
   },
   {
     "emoji": "☮️",
     "tags": [
       "fred",
-      "fredssymbol"
+      "fredssymbol",
+      "peace",
+      "peace sign"
     ]
   },
   {
@@ -15677,7 +15841,11 @@
       "højre",
       "pil",
       "play",
-      "trekant"
+      "trekant",
+      "go",
+      "play button",
+      "right arrow",
+      "triangle"
     ]
   },
   {
@@ -15729,7 +15897,9 @@
       "knap til baglæns afspilning",
       "pil",
       "trekant",
-      "venstre"
+      "venstre",
+      "left arrow",
+      "triangle"
     ]
   },
   {
@@ -15847,7 +16017,8 @@
     "tags": [
       "eject",
       "skub ud",
-      "udskubningsknap"
+      "udskubningsknap",
+      "eject button"
     ]
   },
   {
@@ -15857,7 +16028,7 @@
       "film",
       "filme",
       "teater",
-      "camera",
+      "kamera",
       "cinema",
       "movie"
     ]
@@ -15892,8 +16063,8 @@
       "antenna bars",
       "cell",
       "bar",
-      "mobile",
-      "phone"
+      "mobil",
+      "telefon"
     ]
   },
   {
@@ -15902,8 +16073,7 @@
       "mobil",
       "vibration",
       "cell",
-      "mobile",
-      "phone",
+      "telefon",
       "mode",
       "telephone"
     ]
@@ -15914,9 +16084,8 @@
       "mobil",
       "mobil slået fra",
       "cell",
-      "mobile",
-      "phone",
-      "off",
+      "telefon",
+      "deaktiveret",
       "telephone"
     ]
   },
@@ -15938,7 +16107,9 @@
       "multiplikation",
       "multiplikationstegn",
       "tegn",
-      "x"
+      "x",
+      "stop",
+      "cross"
     ]
   },
   {
@@ -15987,7 +16158,10 @@
       "uendelig",
       "uendelighed",
       "uendelighedstegn",
-      "universel"
+      "universel",
+      "infinity",
+      "infinite",
+      "endless"
     ]
   },
   {
@@ -16007,7 +16181,10 @@
       "tegn",
       "tegnsætning",
       "udråbstegn",
-      "udråbstegn og spørgsmålstegn"
+      "udråbstegn og spørgsmålstegn",
+      "!?",
+      "exclamation",
+      "question"
     ]
   },
   {
@@ -16076,7 +16253,10 @@
       "bølgestreg",
       "bølget",
       "tegn",
-      "tegnsætning"
+      "tegnsætning",
+      "wave",
+      "wavey",
+      "wavey dash"
     ]
   },
   {
@@ -16086,14 +16266,22 @@
       "penge",
       "valuta",
       "valutaveksling",
-      "veksling"
+      "veksling",
+      "currency",
+      "exchange",
+      "money"
     ]
   },
   {
     "emoji": "💲",
     "tags": [
       "dollar",
-      "dollartegn"
+      "dollartegn",
+      "money",
+      "dollars",
+      "cash",
+      "usd",
+      "rich"
     ]
   },
   {
@@ -16110,7 +16298,8 @@
       "fransk lilje",
       "heraldik",
       "heraldisk lilje",
-      "lilje"
+      "lilje",
+      "fleur"
     ]
   },
   {
@@ -16180,7 +16369,11 @@
       "✓",
       "afkrydsningsfelt med flueben",
       "felt",
-      "flueben"
+      "flueben",
+      "check",
+      "check box",
+      "done",
+      "todo"
     ]
   },
   {
@@ -16242,7 +16435,10 @@
       "dobbelt",
       "krølle",
       "løkke",
-      "loop"
+      "loop",
+      "curl",
+      "twist",
+      "double curly loop"
     ]
   },
   {
@@ -16250,7 +16446,8 @@
     "tags": [
       "del",
       "japansk",
-      "kommatering"
+      "kommatering",
+      "part alternation mark"
     ]
   },
   {
@@ -16273,7 +16470,8 @@
     "emoji": "❇️",
     "tags": [
       "*",
-      "funkle"
+      "funkle",
+      "sparkle"
     ]
   },
   {
@@ -16288,14 +16486,18 @@
     "emoji": "®️",
     "tags": [
       "registreret",
-      "registreret varemærke"
+      "registreret varemærke",
+      "registered",
+      "reserved"
     ]
   },
   {
     "emoji": "™️",
     "tags": [
       "TM",
-      "varemærke"
+      "varemærke",
+      "tm",
+      "trademark"
     ]
   },
   {
@@ -16381,7 +16583,9 @@
       "B",
       "blod",
       "blodtype",
-      "type B"
+      "type B",
+      "b",
+      "letter b"
     ]
   },
   {
@@ -16418,7 +16622,8 @@
       "i",
       "information",
       "informationskilde",
-      "turistinformation"
+      "turistinformation",
+      "letter i"
     ]
   },
   {
@@ -16436,7 +16641,8 @@
     "tags": [
       "cirkel",
       "m",
-      "m i cirkel"
+      "m i cirkel",
+      "m in circle"
     ]
   },
   {
@@ -16480,7 +16686,9 @@
     "emoji": "🅿️",
     "tags": [
       "parkering",
-      "parkeringsplads"
+      "parkeringsplads",
+      "p",
+      "letter p"
     ]
   },
   {
@@ -16522,7 +16730,7 @@
     "tags": [
       "japansk",
       "kvadratisk ideogram for her",
-      "“here”",
+      "here",
       "Japanese",
       "katakana",
       "Japanese “here” button",
@@ -16548,7 +16756,7 @@
     "tags": [
       "japansk",
       "kvadratisk ideogram for ikke gratis",
-      "“not free of charge”",
+      "not free of charge",
       "ideograph",
       "Japanese “not free of charge” button",
       "Japanese",
@@ -16560,7 +16768,7 @@
     "tags": [
       "japansk",
       "kvadratisk ideogram for reserveret",
-      "“reserved”",
+      "reserved",
       "ideograph",
       "Japanese “reserved” button",
       "Japanese",
@@ -16572,7 +16780,7 @@
     "tags": [
       "cirkulært ideogram for tilbud",
       "japansk",
-      "“bargain”",
+      "bargain",
       "ideograph",
       "Japanese “bargain” button",
       "Japanese",
@@ -16584,7 +16792,7 @@
     "tags": [
       "japansk",
       "kvadratisk ideogram for rabat",
-      "“discount”",
+      "discount",
       "ideograph",
       "Japanese “discount” button",
       "Japanese",
@@ -16596,7 +16804,7 @@
     "tags": [
       "japansk",
       "kvadratisk ideogram for gratis",
-      "“free of charge”",
+      "free of charge",
       "ideograph",
       "Japanese “free of charge” button",
       "Japanese",
@@ -16608,7 +16816,7 @@
     "tags": [
       "japansk",
       "kvadratisk ideogram for forbud",
-      "“prohibited”",
+      "prohibited",
       "ideograph",
       "Japanese “prohibited” button",
       "Japanese",
@@ -16620,7 +16828,7 @@
     "tags": [
       "cirkulært ideogram for accept",
       "japansk",
-      "“acceptable”",
+      "acceptable",
       "ideograph",
       "Japanese “acceptable” button",
       "Japanese",
@@ -16632,7 +16840,7 @@
     "tags": [
       "japansk",
       "kvadratisk ideogram for anvendelse",
-      "“application”",
+      "application",
       "ideograph",
       "Japanese “application” button",
       "Japanese",
@@ -16644,7 +16852,7 @@
     "tags": [
       "japansk",
       "kvadratisk ideogram for bestået",
-      "“passing grade”",
+      "passing grade",
       "ideograph",
       "Japanese “passing grade” button",
       "Japanese",
@@ -16656,7 +16864,7 @@
     "tags": [
       "japansk",
       "kvadratisk ideogram for ledig",
-      "“vacancy”",
+      "vacancy",
       "ideograph",
       "Japanese “vacancy” button",
       "Japanese",
@@ -16670,7 +16878,10 @@
       "ideogram",
       "kinesisk",
       "lykønskning",
-      "tillykke"
+      "tillykke",
+      "congratulations",
+      "ideograph",
+      "japanese"
     ]
   },
   {
@@ -16687,7 +16898,7 @@
     "tags": [
       "japansk",
       "kvadratisk ideogram for åben",
-      "“open for business”",
+      "open for business",
       "ideograph",
       "Japanese “open for business” button",
       "Japanese",
@@ -16699,7 +16910,7 @@
     "tags": [
       "japansk",
       "kvadratisk ideogram for optaget",
-      "“no vacancy”",
+      "no vacancy",
       "ideograph",
       "Japanese “no vacancy” button",
       "Japanese",
@@ -16776,7 +16987,8 @@
       "sort cirkel",
       "black circle",
       "circle",
-      "geometric"
+      "geometric",
+      "black"
     ]
   },
   {
@@ -16787,7 +16999,8 @@
       "hvid cirkel",
       "circle",
       "geometric",
-      "white circle"
+      "white circle",
+      "white"
     ]
   },
   {
@@ -16858,7 +17071,8 @@
       "stort sort kvadrat",
       "black large square",
       "geometric",
-      "square"
+      "square",
+      "black"
     ]
   },
   {
@@ -16869,7 +17083,8 @@
       "stort hvidt kvadrat",
       "geometric",
       "square",
-      "white large square"
+      "white large square",
+      "white"
     ]
   },
   {
@@ -16885,7 +17100,11 @@
     "tags": [
       "geometrisk",
       "kvadrat",
-      "mellemstort hvidt kvadrat"
+      "mellemstort hvidt kvadrat",
+      "geometric",
+      "square",
+      "white medium square",
+      "white"
     ]
   },
   {
@@ -17015,7 +17234,10 @@
   {
     "emoji": "🔘",
     "tags": [
-      "alternativknap"
+      "alternativknap",
+      "button",
+      "radio button",
+      "circle"
     ]
   },
   {
@@ -17039,7 +17261,11 @@
       "geometrisk",
       "knap",
       "kvadrat",
-      "sort kvadratisk knap"
+      "sort kvadratisk knap",
+      "button",
+      "geometric",
+      "square",
+      "outlined"
     ]
   },
   {
@@ -17100,7 +17326,19 @@
       "regnbueflag",
       "pride",
       "rainbow",
-      "rainbow flag"
+      "rainbow flag",
+      "lgbtqia",
+      "lgbt",
+      "lgbtqa",
+      "queer",
+      "gay",
+      "lesbian",
+      "intersex",
+      "bisexual",
+      "transgender",
+      "trans",
+      "asexual",
+      "questioning"
     ]
   },
   {
@@ -17117,6 +17355,181 @@
       "plunder",
       "pirate flag",
       "treasure"
+    ]
+  },
+  {
+    "emoji": "☹️",
+    "tags": [
+      "face",
+      "frown",
+      "sad",
+      "slightly frowning face"
+    ]
+  },
+  {
+    "emoji": "☠️",
+    "tags": [
+      "death",
+      "skull",
+      "crossbones",
+      "skull and crossbones",
+      "bones",
+      "død"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "tags": [
+      "hjerte",
+      "red heart"
+    ]
+  },
+  {
+    "emoji": "♥️",
+    "tags": [
+      "heart suit",
+      "card suit"
+    ]
+  },
+  {
+    "emoji": "🗨️",
+    "tags": [
+      "balloon",
+      "bubble",
+      "dialog",
+      "comic",
+      "speech"
+    ]
+  },
+  {
+    "emoji": "❄️",
+    "tags": [
+      "snow",
+      "snowflake",
+      "fryse",
+      "ice"
+    ]
+  },
+  {
+    "emoji": "☎️",
+    "tags": [
+      "phone",
+      "telephone"
+    ]
+  },
+  {
+    "emoji": "✏️",
+    "tags": [
+      "pencil"
+    ]
+  },
+  {
+    "emoji": "⚗️",
+    "tags": [
+      "alembic",
+      "science",
+      "chemistry"
+    ]
+  },
+  {
+    "emoji": "⚛️",
+    "tags": [
+      "atom"
+    ]
+  },
+  {
+    "emoji": "✳️",
+    "tags": [
+      "asterisk",
+      "eight spoke"
+    ]
+  },
+  {
+    "emoji": "✴️",
+    "tags": [
+      "star",
+      "eight pointed"
+    ]
+  },
+  {
+    "emoji": "‼️",
+    "tags": [
+      "!",
+      "exclamation",
+      "double exclamation"
+    ]
+  },
+  {
+    "emoji": "♻️",
+    "tags": [
+      "recyce",
+      "reuse",
+      "green"
+    ]
+  },
+  {
+    "emoji": "🅰️",
+    "tags": [
+      "a",
+      "letter a"
+    ]
+  },
+  {
+    "emoji": "🅾️",
+    "tags": [
+      "o",
+      "letter o"
+    ]
+  },
+  {
+    "emoji": "🈂️",
+    "tags": [
+      "service charger",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "🈷️",
+    "tags": [
+      "monthly amount",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "㊙️",
+    "tags": [
+      "secret",
+      "ideograph",
+      "japanese"
+    ]
+  },
+  {
+    "emoji": "▪️",
+    "tags": [
+      "black small square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "◼️",
+    "tags": [
+      "black medium square",
+      "geometric",
+      "square",
+      "black"
+    ]
+  },
+  {
+    "emoji": "▫️",
+    "tags": [
+      "geometric",
+      "square",
+      "white small square",
+      "white"
     ]
   },
   {

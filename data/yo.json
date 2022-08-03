@@ -128,6 +128,17 @@
     ]
   },
   {
+    "emoji": "🥰",
+    "tags": [
+      "ẹyinjú",
+      "kẹ́",
+      "ní ìfẹ́",
+      "ojú erin pelu okan",
+      "oju tí ó ń rẹ́rìn pẹ̀lú ọkàn",
+      "ọkàn"
+    ]
+  },
+  {
     "emoji": "😍",
     "tags": [
       "ẹyinjú",
@@ -191,6 +202,19 @@
       "ojú",
       "Ojú tó Fẹnuko ẹnu Pẹ̀lú Ẹyinjú tọ rẹ́rìn Músẹ́",
       "rẹ́rìń músẹ́"
+    ]
+  },
+  {
+    "emoji": "🥲",
+    "tags": [
+      "ekún",
+      "fọwọ́kàn",
+      "gbéraga",
+      "more",
+      "ojú ẹ̀rín pẹ̀lú ẹkún",
+      "rẹ́rìń músẹ́",
+      "rẹ́rìń músẹ́ pẹ̀lú ẹkún",
+      "simi"
     ]
   },
   {
@@ -473,6 +497,33 @@
     ]
   },
   {
+    "emoji": "🥵",
+    "tags": [
+      "gbona",
+      "iba",
+      "ojú gbígbóná",
+      "oju to gbona",
+      "ooru"
+    ]
+  },
+  {
+    "emoji": "🥶",
+    "tags": [
+      "oju bulu",
+      "oju tutu",
+      "ojú tútú",
+      "otutu n mú",
+      "tutu"
+    ]
+  },
+  {
+    "emoji": "🥴",
+    "tags": [
+      "ojú to wópọ̀",
+      "oorun kíkún"
+    ]
+  },
+  {
     "emoji": "😵",
     "tags": [
       "itoogbe",
@@ -495,6 +546,29 @@
       "obìnrin ẹlẹ́ṣin",
       "ojú",
       "Oju Fila Adaran"
+    ]
+  },
+  {
+    "emoji": "🥳",
+    "tags": [
+      "àsè",
+      "ayọ̀",
+      "fìlà",
+      "ìho",
+      "ojú àsè",
+      "ojú patí"
+    ]
+  },
+  {
+    "emoji": "🥸",
+    "tags": [
+      "àìmọ̀",
+      "gíláàsì",
+      "imú",
+      "ojú",
+      "ojú ìsápamọ́",
+      "ojú tó sapamọ",
+      "sápamọ"
     ]
   },
   {
@@ -596,6 +670,16 @@
       "ojú",
       "Oju Idunnu",
       "yàlẹ́nu"
+    ]
+  },
+  {
+    "emoji": "🥺",
+    "tags": [
+      "àánú",
+      "bẹ̀bẹ̀",
+      "ojú ọmọ ajá",
+      "ojú tí ń bẹ̀bẹ̀",
+      "ojú tónbẹ̀bẹ̀"
     ]
   },
   {
@@ -723,6 +807,16 @@
       "ojú",
       "Oju Rirẹ",
       "rírẹ̀"
+    ]
+  },
+  {
+    "emoji": "🥱",
+    "tags": [
+      "ojú tón yán",
+      "ojú yíyán",
+      "rẹ̀",
+      "sú",
+      "yán"
     ]
   },
   {
@@ -1157,12 +1251,26 @@
     ]
   },
   {
+    "emoji": "🤎",
+    "tags": [
+      "awo igi / ọkàn",
+      "ọkàn awo igi"
+    ]
+  },
+  {
     "emoji": "🖤",
     "tags": [
       "dúdú",
       "èṣù",
       "ìkà",
       "Ọkàn Dúdú"
+    ]
+  },
+  {
+    "emoji": "🤍",
+    "tags": [
+      "ọkàn / funfun",
+      "ọkàn funfun"
     ]
   },
   {
@@ -1325,6 +1433,25 @@
       "ÓDÁRA",
       "ọwọ́",
       "Ọwọ ODARA"
+    ]
+  },
+  {
+    "emoji": "🤌",
+    "tags": [
+      "ẹ̀fẹ̀",
+      "ìfiwọ́ sọ̀rọ̀",
+      "ìka",
+      "ìka kíkákò",
+      "ìwanulẹ́nuwò",
+      "yín"
+    ]
+  },
+  {
+    "emoji": "🤏",
+    "tags": [
+      "ìka kíká",
+      "owó kẹ̀keré",
+      "ọwọ́ yínyín"
     ]
   },
   {
@@ -1588,10 +1715,51 @@
     ]
   },
   {
+    "emoji": "🦾",
+    "tags": [
+      "apa ise",
+      "apá iṣẹ̀",
+      "ona lati gba"
+    ]
+  },
+  {
+    "emoji": "🦿",
+    "tags": [
+      "ese ise",
+      "ona lati gba",
+      "pa ise"
+    ]
+  },
+  {
+    "emoji": "🦵",
+    "tags": [
+      "ese",
+      "ẹ́sẹ",
+      "gbá"
+    ]
+  },
+  {
+    "emoji": "🦶",
+    "tags": [
+      "ese",
+      "ẹsẹ̀",
+      "gba",
+      "idiurop"
+    ]
+  },
+  {
     "emoji": "👂",
     "tags": [
       "Ara",
       "Etí"
+    ]
+  },
+  {
+    "emoji": "🦻",
+    "tags": [
+      "etí pẹ̀lú ohun ìgbọ́ràn",
+      "gbọ̀ pẹ̀lu elo",
+      "ona igba"
     ]
   },
   {
@@ -1606,6 +1774,41 @@
     "tags": [
       "ọmọwé",
       "ọpọlọ"
+    ]
+  },
+  {
+    "emoji": "🫀",
+    "tags": [
+      "ọkàn",
+      "ọ̀kan alára",
+      "pa ise",
+      "pọ́ọ̀sì"
+    ]
+  },
+  {
+    "emoji": "🫁",
+    "tags": [
+      "e sínú",
+      "eémi",
+      "ẹ̀yà èémí",
+      "igb",
+      "igbe síta"
+    ]
+  },
+  {
+    "emoji": "🦷",
+    "tags": [
+      "àwọ́n eyín",
+      "eyín",
+      "yọyínyọyín"
+    ]
+  },
+  {
+    "emoji": "🦴",
+    "tags": [
+      "eegun",
+      "egun",
+      "igi ara"
     ]
   },
   {
@@ -1908,6 +2111,15 @@
       "nawọ́ sókè",
       "obìnrin",
       "obìnrin tí ń nawọ́ sókè"
+    ]
+  },
+  {
+    "emoji": "🧏",
+    "tags": [
+      "etí",
+      "gbọ́",
+      "odi",
+      "odí ènìyàn"
     ]
   },
   {
@@ -2379,6 +2591,16 @@
     ]
   },
   {
+    "emoji": "🥷",
+    "tags": [
+      "ajagun",
+      "ninja",
+      "nínjà",
+      "oja",
+      "sápamọ́"
+    ]
+  },
+  {
     "emoji": "👷",
     "tags": [
       "fìlà",
@@ -2524,6 +2746,27 @@
       "ìyá",
       "kérésì",
       "omidan"
+    ]
+  },
+  {
+    "emoji": "🦸",
+    "tags": [
+      "akin nlá",
+      "akin obìnrin",
+      "akin ọ̀kùnrin",
+      "akọni alágbára",
+      "alágbára ńla",
+      "dára"
+    ]
+  },
+  {
+    "emoji": "🦹",
+    "tags": [
+      "[búburú",
+      "alágbára nlá",
+      "alátakọ̀",
+      "alátakọ̀ alágbára",
+      "ọ̀dàran"
     ]
   },
   {
@@ -2758,6 +3001,22 @@
       "ìrìn",
       "obìnrin",
       "obìnrin tí ń rìn"
+    ]
+  },
+  {
+    "emoji": "🧍",
+    "tags": [
+      "dídúró",
+      "dúró",
+      "ènìyàn dídúró"
+    ]
+  },
+  {
+    "emoji": "🧎",
+    "tags": [
+      "ènìyàn kíkúnlẹ̀",
+      "kíkúnlẹ̀",
+      "kúnlẹ̀"
     ]
   },
   {
@@ -3321,6 +3580,17 @@
     ]
   },
   {
+    "emoji": "🫂",
+    "tags": [
+      "àwọn ènìyàn tóndìmọ́ra",
+      "àwọn ènìyanń dí mọ́ra",
+      "bawo ni",
+      "di mọra",
+      "o dabo",
+      "o ṣé"
+    ]
+  },
+  {
     "emoji": "👣",
     "tags": [
       "aṣọ",
@@ -3350,6 +3620,14 @@
     ]
   },
   {
+    "emoji": "🦧",
+    "tags": [
+      "aapù",
+      "oraguta",
+      "oragutan"
+    ]
+  },
+  {
     "emoji": "🐶",
     "tags": [
       "ajá",
@@ -3363,6 +3641,15 @@
     "tags": [
       "Ajá",
       "ńkan ìsìn"
+    ]
+  },
+  {
+    "emoji": "🦮",
+    "tags": [
+      "ajá ìtóni",
+      "ajá ìtọ̀ni",
+      "fọ́jú",
+      "tọ́ni"
     ]
   },
   {
@@ -3386,6 +3673,14 @@
       "kọlọkọlọ",
       "ojú",
       "Oju Kọlọkọlọ"
+    ]
+  },
+  {
+    "emoji": "🦝",
+    "tags": [
+      "rakumi",
+      "rakumin",
+      "wiwa"
     ]
   },
   {
@@ -3470,6 +3765,14 @@
     "emoji": "🦌",
     "tags": [
       "Agbọnrin"
+    ]
+  },
+  {
+    "emoji": "🦬",
+    "tags": [
+      "bison",
+      "bísonú",
+      "búfálò"
     ]
   },
   {
@@ -3577,6 +3880,14 @@
     ]
   },
   {
+    "emoji": "🦙",
+    "tags": [
+      "alapaka",
+      "llama",
+      "owu"
+    ]
+  },
+  {
     "emoji": "🦒",
     "tags": [
       "àgùfọn",
@@ -3590,9 +3901,25 @@
     ]
   },
   {
+    "emoji": "🦣",
+    "tags": [
+      "mamoti",
+      "mamotì",
+      "pare",
+      "tobi"
+    ]
+  },
+  {
     "emoji": "🦏",
     "tags": [
       "Ẹranko Imado"
+    ]
+  },
+  {
+    "emoji": "🦛",
+    "tags": [
+      "hipopo",
+      "hipopotámọ́ọ̀sì"
     ]
   },
   {
@@ -3648,6 +3975,13 @@
     ]
   },
   {
+    "emoji": "🦫",
+    "tags": [
+      "bifa",
+      "damú"
+    ]
+  },
+  {
     "emoji": "🦔",
     "tags": [
       "ẹlẹ́gùń",
@@ -3683,6 +4017,46 @@
       "ojú",
       "Oju Panda",
       "pándà"
+    ]
+  },
+  {
+    "emoji": "🦥",
+    "tags": [
+      "asẹ́wó",
+      "àsẹ́wó",
+      "dìẹ̀dìẹ̀",
+      "ọlẹ́"
+    ]
+  },
+  {
+    "emoji": "🦦",
+    "tags": [
+      "ota",
+      "peja",
+      "sere"
+    ]
+  },
+  {
+    "emoji": "🦨",
+    "tags": [
+      "rùn",
+      "skọ́nk",
+      "Vote òkété igbó"
+    ]
+  },
+  {
+    "emoji": "🦘",
+    "tags": [
+      "fo",
+      "kangaròó",
+      "kangaròó } Australia"
+    ]
+  },
+  {
+    "emoji": "🦡",
+    "tags": [
+      "bájà",
+      "bája oloyin"
     ]
   },
   {
@@ -3786,12 +4160,67 @@
     ]
   },
   {
+    "emoji": "🦢",
+    "tags": [
+      "eye",
+      "ẹyẹ swan",
+      "pepeye",
+      "síwan"
+    ]
+  },
+  {
     "emoji": "🦉",
     "tags": [
       "ẹyẹ",
       "ọlọ́ngbọ́n",
       "Owiwi",
       "òwìwí"
+    ]
+  },
+  {
+    "emoji": "🦤",
+    "tags": [
+      "dodo",
+      "ẹyẹ dodo",
+      "pare",
+      "tobi"
+    ]
+  },
+  {
+    "emoji": "🪶",
+    "tags": [
+      "eye",
+      "ina",
+      "iye",
+      "ìyẹ́",
+      "sare"
+    ]
+  },
+  {
+    "emoji": "🦩",
+    "tags": [
+      "fìlàmígò",
+      "tobi",
+      "Vote ẹyẹ flamingò"
+    ]
+  },
+  {
+    "emoji": "🦚",
+    "tags": [
+      "eye",
+      "fihan",
+      "gberaga",
+      "okin",
+      "ọ̀kín"
+    ]
+  },
+  {
+    "emoji": "🦜",
+    "tags": [
+      "aparo",
+      "àparò",
+      "eye",
+      "soro"
     ]
   },
   {
@@ -3890,6 +4319,13 @@
     ]
   },
   {
+    "emoji": "🦭",
+    "tags": [
+      "alákàsà",
+      "kìnìún odò"
+    ]
+  },
+  {
     "emoji": "🐟",
     "tags": [
       "àmi oṣù ìbí",
@@ -3971,6 +4407,14 @@
     ]
   },
   {
+    "emoji": "🪲",
+    "tags": [
+      "bítù",
+      "eèra",
+      "kokoro"
+    ]
+  },
+  {
     "emoji": "🐞",
     "tags": [
       "kòkòrò",
@@ -3984,6 +4428,15 @@
     "tags": [
       "tata",
       "tata gígùn"
+    ]
+  },
+  {
+    "emoji": "🪳",
+    "tags": [
+      "ayán",
+      "eera",
+      "Eṣinṣin",
+      "Irawọ"
     ]
   },
   {
@@ -4007,6 +4460,44 @@
       "àmi oṣù ìbí",
       "scorpio",
       "Scorpius"
+    ]
+  },
+  {
+    "emoji": "🦟",
+    "tags": [
+      "aisan",
+      "arun",
+      "ẹfọn",
+      "ẹ̀fọ́n",
+      "farọ́ọ̀sì",
+      "iba"
+    ]
+  },
+  {
+    "emoji": "🪰",
+    "tags": [
+      "arun",
+      "baje",
+      "esinsin",
+      "eṣinṣin",
+      "idun"
+    ]
+  },
+  {
+    "emoji": "🪱",
+    "tags": [
+      "ekolo",
+      "ekòló",
+      "ekolo ile",
+      "kokoro"
+    ]
+  },
+  {
+    "emoji": "🦠",
+    "tags": [
+      "à[san",
+      "maikirobu",
+      "maíkírobù"
     ]
   },
   {
@@ -4088,6 +4579,16 @@
     "tags": [
       "Ihoro eso",
       "wẹ́wẹ́"
+    ]
+  },
+  {
+    "emoji": "🪴",
+    "tags": [
+      "dagba",
+      "eso pootù",
+      "ile",
+      "sá",
+      "tojú"
     ]
   },
   {
@@ -4234,6 +4735,14 @@
     ]
   },
   {
+    "emoji": "🥭",
+    "tags": [
+      "eka ojo rírọ̀",
+      "èso",
+      "mángò"
+    ]
+  },
+  {
     "emoji": "🍎",
     "tags": [
       "apù",
@@ -4283,6 +4792,15 @@
     ]
   },
   {
+    "emoji": "🫐",
+    "tags": [
+      "àwọ́n bẹ́rì búlù",
+      "bẹ́rì",
+      "bilìbẹ́rì",
+      "búlù"
+    ]
+  },
+  {
     "emoji": "🥝",
     "tags": [
       "èso",
@@ -4297,6 +4815,14 @@
       "ẹ̀fọ́",
       "èso",
       "Timati"
+    ]
+  },
+  {
+    "emoji": "🫒",
+    "tags": [
+      "olifi",
+      "Olifi",
+      "oúnjẹ́"
     ]
   },
   {
@@ -4360,6 +4886,15 @@
     ]
   },
   {
+    "emoji": "🫑",
+    "tags": [
+      "ata",
+      "efo",
+      "tatase",
+      "tàtàsé"
+    ]
+  },
+  {
     "emoji": "🥒",
     "tags": [
       "ẹ̀fọ́",
@@ -4370,10 +4905,35 @@
     ]
   },
   {
+    "emoji": "🥬",
+    "tags": [
+      "efo",
+      "ẹ̀fọ́",
+      "kabẹ́ẹ̀jì",
+      "tete"
+    ]
+  },
+  {
     "emoji": "🥦",
     "tags": [
       "ewé ẹlẹ́fọ̀ọ́",
       "kabeji ìbílẹ̀"
+    ]
+  },
+  {
+    "emoji": "🧄",
+    "tags": [
+      "fifi awo sí",
+      "gálíìkì",
+      "galilki"
+    ]
+  },
+  {
+    "emoji": "🧅",
+    "tags": [
+      "alùbosà",
+      "àlùbọ́sà",
+      "fifi awo si"
     ]
   },
   {
@@ -4429,10 +4989,27 @@
     ]
   },
   {
+    "emoji": "🫓",
+    "tags": [
+      "buredi pelebe",
+      "búrẹ́ẹ̀dì pẹlẹpẹ",
+      "pita"
+    ]
+  },
+  {
     "emoji": "🥨",
     "tags": [
       "lọ́pọ̀",
       "pretzel"
+    ]
+  },
+  {
+    "emoji": "🥯",
+    "tags": [
+      "bageli",
+      "bágẹ́lì",
+      "ibi ipese buredi",
+      "ounje aaro"
     ]
   },
   {
@@ -4442,6 +5019,15 @@
       "búrẹ́dì pẹlẹbẹ",
       "crepe",
       "ónjẹ"
+    ]
+  },
+  {
+    "emoji": "🧇",
+    "tags": [
+      "aimo nnkan",
+      "ounje arro",
+      "wafu",
+      "wáfù"
     ]
   },
   {
@@ -4543,6 +5129,14 @@
     ]
   },
   {
+    "emoji": "🫔",
+    "tags": [
+      "kopọ̀",
+      "tamalé",
+      "ti mesiko"
+    ]
+  },
+  {
     "emoji": "🥙",
     "tags": [
       "Burẹdi Afunpọ Pẹlẹbẹ",
@@ -4552,6 +5146,13 @@
       "kebab",
       "ónjẹ",
       "stuufe"
+    ]
+  },
+  {
+    "emoji": "🧆",
+    "tags": [
+      "ewa",
+      "faláfẹ́l]i"
     ]
   },
   {
@@ -4591,6 +5192,14 @@
     ]
   },
   {
+    "emoji": "🫕",
+    "tags": [
+      "fóndù",
+      "pọ́ọ̀tù",
+      "wara"
+    ]
+  },
+  {
     "emoji": "🥣",
     "tags": [
       "abọ́ pẹ̀lú ṣíbí",
@@ -4612,6 +5221,21 @@
     "emoji": "🍿",
     "tags": [
       "Gúgúrú"
+    ]
+  },
+  {
+    "emoji": "🧈",
+    "tags": [
+      "bọ́tà",
+      "mílíkì"
+    ]
+  },
+  {
+    "emoji": "🧂",
+    "tags": [
+      "ero ounje",
+      "iyo",
+      "iyọ̀"
     ]
   },
   {
@@ -4721,6 +5345,15 @@
     ]
   },
   {
+    "emoji": "🥮",
+    "tags": [
+      "akara osupa",
+      "àkàrà òsùpá",
+      "ayeye",
+      "igba ogbele"
+    ]
+  },
+  {
     "emoji": "🍡",
     "tags": [
       "àdídùn",
@@ -4765,6 +5398,14 @@
     ]
   },
   {
+    "emoji": "🦞",
+    "tags": [
+      "akàn",
+      "alakan",
+      "ounje omi"
+    ]
+  },
+  {
     "emoji": "🦐",
     "tags": [
       "Ede",
@@ -4781,6 +5422,14 @@
       "ónjẹ",
       "Sikidi",
       "síkídì"
+    ]
+  },
+  {
+    "emoji": "🦪",
+    "tags": [
+      "alákàn ńlá",
+      "bibe somi",
+      "pálì"
     ]
   },
   {
@@ -4853,6 +5502,13 @@
       "gígé",
       "ónjẹ dídùn",
       "ónjẹ oní fíláwà"
+    ]
+  },
+  {
+    "emoji": "🧁",
+    "tags": [
+      "akara oyinbo",
+      "ile ipese buredi"
     ]
   },
   {
@@ -4937,6 +5593,15 @@
       "tíì",
       "Tii Gbigbona",
       "yíyọ oru"
+    ]
+  },
+  {
+    "emoji": "🫖",
+    "tags": [
+      "mu",
+      "pootu",
+      "pọ́ọ̀tù tíì",
+      "tíì"
     ]
   },
   {
@@ -5047,6 +5712,40 @@
       "ẹlẹ́rìndòdò",
       "ife pẹ̀lú sírọ̀",
       "sódà"
+    ]
+  },
+  {
+    "emoji": "🧋",
+    "tags": [
+      "tíì",
+      "tíì bọ́bù",
+      "wara"
+    ]
+  },
+  {
+    "emoji": "🧃",
+    "tags": [
+      "dun",
+      "ibi",
+      "ibi oúnjẹ́",
+      "júùsì"
+    ]
+  },
+  {
+    "emoji": "🧉",
+    "tags": [
+      "egbé",
+      "ẹgbẹ́",
+      "mu"
+    ]
+  },
+  {
+    "emoji": "🧊",
+    "tags": [
+      "di",
+      "dídì",
+      "kúùbù dídí",
+      "tutu"
     ]
   },
   {
@@ -5165,6 +5864,14 @@
     ]
   },
   {
+    "emoji": "🧭",
+    "tags": [
+      "atọ́nà",
+      "lílẹ̀mọ́",
+      "sísọfún"
+    ]
+  },
+  {
     "emoji": "🏔️",
     "tags": [
       "òkè",
@@ -5246,6 +5953,40 @@
     "tags": [
       "Iṣẹ́ ọnà",
       "iṣẹ́ ọnà ilé"
+    ]
+  },
+  {
+    "emoji": "🧱",
+    "tags": [
+      "àwọn bíríkì",
+      "bíríkì",
+      "ògiri",
+      "yẹ̀pẹ̀"
+    ]
+  },
+  {
+    "emoji": "🪨",
+    "tags": [
+      "àpáta",
+      "le",
+      "òkúta",
+      "wúwo"
+    ]
+  },
+  {
+    "emoji": "🪵",
+    "tags": [
+      "igi",
+      "lúnbà",
+      "tínbà"
+    ]
+  },
+  {
+    "emoji": "🛖",
+    "tags": [
+      "abà",
+      "ilé",
+      "ilé onípo"
     ]
   },
   {
@@ -5411,6 +6152,14 @@
       "Ìmàle",
       "Mọ́ṣáláṣí",
       "Mùsùlùmí"
+    ]
+  },
+  {
+    "emoji": "🛕",
+    "tags": [
+      "hindù",
+      "ibi ijọ́sìn",
+      "ilé ìjọ́sìn Hindu"
     ]
   },
   {
@@ -5779,6 +6528,15 @@
     ]
   },
   {
+    "emoji": "🛻",
+    "tags": [
+      "gbé",
+      "gbígbé nǹkan",
+      "ọkọ̀ ńlá",
+      "ọkọ̀ ńlá fún gbígbé nǹkan"
+    ]
+  },
+  {
     "emoji": "🚚",
     "tags": [
       "ifijiṣẹ",
@@ -5824,6 +6582,27 @@
     ]
   },
   {
+    "emoji": "🦽",
+    "tags": [
+      "aga ìgbérìn ọlọ́wọ́",
+      "aye irin"
+    ]
+  },
+  {
+    "emoji": "🦼",
+    "tags": [
+      "àga ìgbérìn oníná",
+      "ní ọ̀nà fún gbígbà"
+    ]
+  },
+  {
+    "emoji": "🛺",
+    "tags": [
+      "ẹ̀rọ ríìkì",
+      "túùkì"
+    ]
+  },
+  {
     "emoji": "🚲",
     "tags": [
       "kẹ̀kẹ́",
@@ -5836,6 +6615,21 @@
       "Alupùpù ẹlẹ́sẹ̀ méjì",
       "alupupu kekere",
       "gbá"
+    ]
+  },
+  {
+    "emoji": "🛹",
+    "tags": [
+      "bọ́ọ̀dù",
+      "bọ́ọ̀dù ti síkéètì"
+    ]
+  },
+  {
+    "emoji": "🛼",
+    "tags": [
+      "saré",
+      "síkéètì",
+      "síkéètì ti ó s;are"
     ]
   },
   {
@@ -6027,6 +6821,15 @@
     ]
   },
   {
+    "emoji": "🪂",
+    "tags": [
+      "fo lóké",
+      "párás",
+      "páráṣútì",
+      "utì"
+    ]
+  },
+  {
     "emoji": "💺",
     "tags": [
       "àga",
@@ -6096,6 +6899,14 @@
       "agogo alágbágbẹ́rùn ilé ìtura",
       "alágbágbẹ́rùn ilé ìtura",
       "ilé ìtura"
+    ]
+  },
+  {
+    "emoji": "🧳",
+    "tags": [
+      "ẹrù",
+      "kíkó ẹrù",
+      "rín ìrínájò"
     ]
   },
   {
@@ -6571,6 +7382,13 @@
     ]
   },
   {
+    "emoji": "🪐",
+    "tags": [
+      "plánẹ́tì oiringì",
+      "sàtọ́nì"
+    ]
+  },
+  {
     "emoji": "⭐",
     "tags": [
       "ìràwọ̀",
@@ -6858,6 +7676,15 @@
     ]
   },
   {
+    "emoji": "🧨",
+    "tags": [
+      "àwọn iṣẹ́ nǹkan",
+      "ohun iná",
+      "olufa iná",
+      "olùfa iná"
+    ]
+  },
+  {
     "emoji": "✨",
     "tags": [
       "Awọn Titan",
@@ -6946,6 +7773,15 @@
       "ayẹyẹ",
       "òṣùpá",
       "Wiwo Ayẹyẹ Oṣupa"
+    ]
+  },
+  {
+    "emoji": "🧧",
+    "tags": [
+      "akolẹ́tàsí pupa",
+      "ẹ̀bùn",
+      "oríre",
+      "owó"
     ]
   },
   {
@@ -7052,6 +7888,15 @@
     ]
   },
   {
+    "emoji": "🥎",
+    "tags": [
+      "abẹ́ apá",
+      "bọ́ọ̀lù",
+      "bọ́ọ̀lu olowo",
+      "gílọ́ọ̀fù"
+    ]
+  },
+  {
     "emoji": "🏀",
     "tags": [
       "bọ́ọ̀lù",
@@ -7094,6 +7939,13 @@
     ]
   },
   {
+    "emoji": "🥏",
+    "tags": [
+      "disiki fifo",
+      "nlá"
+    ]
+  },
+  {
     "emoji": "🎳",
     "tags": [
       "Bolin",
@@ -7130,6 +7982,16 @@
       "igi",
       "pọ́kì",
       "yìnyín"
+    ]
+  },
+  {
+    "emoji": "🥍",
+    "tags": [
+      "bóòlù",
+      "goolù",
+      "igi",
+      "lakurose",
+      "lákúrósè"
     ]
   },
   {
@@ -7200,6 +8062,15 @@
     ]
   },
   {
+    "emoji": "🤿",
+    "tags": [
+      "bibe",
+      "fifo",
+      "iboju fifo",
+      "sikubá"
+    ]
+  },
+  {
     "emoji": "🎽",
     "tags": [
       "àwọn tí ń sáré",
@@ -7246,6 +8117,21 @@
     ]
   },
   {
+    "emoji": "🪀",
+    "tags": [
+      "aidúró",
+      "ohun isere omode",
+      "yóyò"
+    ]
+  },
+  {
+    "emoji": "🪁",
+    "tags": [
+      "fò",
+      "káìtì"
+    ]
+  },
+  {
     "emoji": "🎱",
     "tags": [
       "8",
@@ -7266,6 +8152,23 @@
       "òkúta aworàwò̩",
       "ọrọ̀",
       "pàápàá"
+    ]
+  },
+  {
+    "emoji": "🪄",
+    "tags": [
+      "aje",
+      "emere",
+      "idán"
+    ]
+  },
+  {
+    "emoji": "🧿",
+    "tags": [
+      "amuleti ti nasari",
+      "eso ara",
+      "ogun",
+      "ondán"
     ]
   },
   {
@@ -7301,6 +8204,40 @@
     ]
   },
   {
+    "emoji": "🧩",
+    "tags": [
+      "ìsopọ̀",
+      "itosona",
+      "ohun àdìtú"
+    ]
+  },
+  {
+    "emoji": "🧸",
+    "tags": [
+      "ẹkùn",
+      "ekùn ifi",
+      "kopo",
+      "ohun ifiṣeré"
+    ]
+  },
+  {
+    "emoji": "🪅",
+    "tags": [
+      "ase",
+      "ayeye",
+      "pinátà",
+      "Vote pinátà"
+    ]
+  },
+  {
+    "emoji": "🪆",
+    "tags": [
+      "dọ́lù",
+      "dọ́lù ìsimi",
+      "rosíà"
+    ]
+  },
+  {
     "emoji": "♠️",
     "tags": [
       "eré",
@@ -7330,6 +8267,15 @@
       "eré",
       "ìpín káàdì ewé",
       "káàdì"
+    ]
+  },
+  {
+    "emoji": "♟️",
+    "tags": [
+      "dúpẹ́",
+      "pọ́nì ṣẹ́ẹ̀sì",
+      "pọ́nì Ṣẹ́ẹ̀sì",
+      "ṣẹ́ẹ̀sì"
     ]
   },
   {
@@ -7394,6 +8340,43 @@
     ]
   },
   {
+    "emoji": "🧵",
+    "tags": [
+      "abere",
+      "owú",
+      "òwú",
+      "rírán"
+    ]
+  },
+  {
+    "emoji": "🪡",
+    "tags": [
+      "abere",
+      "owú",
+      "òwú ìránṣọ",
+      "ríránso",
+      "sopo"
+    ]
+  },
+  {
+    "emoji": "🧶",
+    "tags": [
+      "asọ",
+      "bólì",
+      "rán",
+      "yáni"
+    ]
+  },
+  {
+    "emoji": "🪢",
+    "tags": [
+      "dì",
+      "ìsopọ̀",
+      "kó",
+      "lọ́ } yí"
+    ]
+  },
+  {
     "emoji": "👓",
     "tags": [
       "aṣọ",
@@ -7411,6 +8394,32 @@
       "gíláásì òrùn",
       "ìbòjú",
       "ojú"
+    ]
+  },
+  {
+    "emoji": "🥽",
+    "tags": [
+      "gọ́gú",
+      "ibo ojú",
+      "wíwẹ́"
+    ]
+  },
+  {
+    "emoji": "🥼",
+    "tags": [
+      "aso laabi",
+      "aso láabù",
+      "ise laabu",
+      "onimo sayensi",
+      "onísegub"
+    ]
+  },
+  {
+    "emoji": "🦺",
+    "tags": [
+      "abo",
+      "aso",
+      "pàjáwìrì"
     ]
   },
   {
@@ -7481,6 +8490,40 @@
     ]
   },
   {
+    "emoji": "🥻",
+    "tags": [
+      "aso",
+      "kaba",
+      "sari"
+    ]
+  },
+  {
+    "emoji": "🩱",
+    "tags": [
+      "aso ìlúwẹ́ẹ̀",
+      "aso ìwẹ̀"
+    ]
+  },
+  {
+    "emoji": "🩲",
+    "tags": [
+      "aso awọ́tẹ́lẹ̀",
+      "aso ìlúwẹ́ẹ̀",
+      "aso ìwẹ̀",
+      "aṣọ kékeré"
+    ]
+  },
+  {
+    "emoji": "🩳",
+    "tags": [
+      "aso ìlúwẹ́ẹ̀",
+      "aso ìwẹ̀",
+      "aṣọ pẹ́npé",
+      "àwọ̀ tẹ́lẹ̀",
+      "sokoto pẹ́npé"
+    ]
+  },
+  {
     "emoji": "👙",
     "tags": [
       "aṣọ",
@@ -7541,6 +8584,15 @@
     ]
   },
   {
+    "emoji": "🩴",
+    "tags": [
+      "salúbàtà",
+      "salúbàtà ibi omi",
+      "salubata tongi",
+      "sorí"
+    ]
+  },
+  {
     "emoji": "👞",
     "tags": [
       "aṣọ",
@@ -7556,6 +8608,23 @@
       "bàtà",
       "Bata Isare",
       "ẹní sáré"
+    ]
+  },
+  {
+    "emoji": "🥾",
+    "tags": [
+      "bóòtì ìgokè",
+      "botì",
+      "didi nnkan seyin",
+      "rinrin"
+    ]
+  },
+  {
+    "emoji": "🥿",
+    "tags": [
+      "bata kekere",
+      "bata pelebe",
+      "bàtà pẹlẹbẹ"
     ]
   },
   {
@@ -7576,6 +8645,15 @@
       "Bata Obinrin pẹlẹbẹ",
       "bátá pẹlẹbẹ",
       "obìnrin"
+    ]
+  },
+  {
+    "emoji": "🩰",
+    "tags": [
+      "bata ijo",
+      "bàtà ijó",
+      "ijo",
+      "jó"
     ]
   },
   {
@@ -7630,6 +8708,15 @@
     "tags": [
       "fìla billed",
       "fìla bọ́ọ̀lùòkè"
+    ]
+  },
+  {
+    "emoji": "🪖",
+    "tags": [
+      "ámì",
+      "ìbòrí ológun",
+      "jagunjagun",
+      "soja"
     ]
   },
   {
@@ -7831,6 +8918,14 @@
     ]
   },
   {
+    "emoji": "🪗",
+    "tags": [
+      "akodíà",
+      "fún",
+      "kosatinà"
+    ]
+  },
+  {
     "emoji": "🎸",
     "tags": [
       "irinṣẹ́",
@@ -7864,12 +8959,31 @@
     ]
   },
   {
+    "emoji": "🪕",
+    "tags": [
+      "banjo",
+      "bánjò",
+      "lọ́pọ̀",
+      "orin"
+    ]
+  },
+  {
     "emoji": "🥁",
     "tags": [
       "igi ìlù",
       "ìlù",
       "Ìlù",
       "orin"
+    ]
+  },
+  {
+    "emoji": "🪘",
+    "tags": [
+      "didún",
+      "ìlù",
+      "ilu gigun",
+      "ìlù gigun",
+      "kóngà"
     ]
   },
   {
@@ -8019,6 +9133,14 @@
     ]
   },
   {
+    "emoji": "🧮",
+    "tags": [
+      "abakuọ́sì",
+      "abakusi",
+      "isirò"
+    ]
+  },
+  {
     "emoji": "🎥",
     "tags": [
       "fíìmù",
@@ -8149,6 +9271,14 @@
       "ìdènà",
       "iná",
       "pupa"
+    ]
+  },
+  {
+    "emoji": "🪔",
+    "tags": [
+      "àtùpà",
+      "díya",
+      "epo"
     ]
   },
   {
@@ -8296,6 +9426,16 @@
     ]
   },
   {
+    "emoji": "🪙",
+    "tags": [
+      "irin",
+      "isura",
+      "koínì",
+      "kóini",
+      "owo"
+    ]
+  },
+  {
     "emoji": "💴",
     "tags": [
       "ilé-ìfowópamó̩",
@@ -8359,6 +9499,14 @@
       "káàdì",
       "káàdì ìsọdowó",
       "owó"
+    ]
+  },
+  {
+    "emoji": "🧾",
+    "tags": [
+      "erí",
+      "ìdájú",
+      "ìwé owó"
     ]
   },
   {
@@ -8805,6 +9953,15 @@
     ]
   },
   {
+    "emoji": "🪓",
+    "tags": [
+      "àáké",
+      "ake",
+      "igi",
+      "pin"
+    ]
+  },
+  {
     "emoji": "⛏️",
     "tags": [
       "irinṣé̩",
@@ -8857,6 +10014,14 @@
     ]
   },
   {
+    "emoji": "🪃",
+    "tags": [
+      "atubotan",
+      "ipadawa",
+      "ositerila"
+    ]
+  },
+  {
     "emoji": "🏹",
     "tags": [
       "àmi oṣù ìbí",
@@ -8877,12 +10042,27 @@
     ]
   },
   {
+    "emoji": "🪚",
+    "tags": [
+      "sọ́ọ̀",
+      "sọ́ọ̀ káfíntà"
+    ]
+  },
+  {
     "emoji": "🔧",
     "tags": [
       "irinṣẹ́",
       "irinṣẹ́ afagbára dè",
       "oolu",
       "sípánà"
+    ]
+  },
+  {
+    "emoji": "🪛",
+    "tags": [
+      "elo",
+      "elo ìtú ìdè",
+      "ìdè"
     ]
   },
   {
@@ -8922,6 +10102,14 @@
     ]
   },
   {
+    "emoji": "🦯",
+    "tags": [
+      "aye ona",
+      "egba funfun",
+      "fọ́jú"
+    ]
+  },
+  {
     "emoji": "🔗",
     "tags": [
       "ìtọ́kasí"
@@ -8935,11 +10123,75 @@
     ]
   },
   {
+    "emoji": "🪝",
+    "tags": [
+      "ako",
+      "ibi títà",
+      "mu",
+      "yi"
+    ]
+  },
+  {
+    "emoji": "🧰",
+    "tags": [
+      "àya",
+      "elo",
+      "mekáníkì",
+      "nńkan èlo"
+    ]
+  },
+  {
+    "emoji": "🧲",
+    "tags": [
+      "bata ẹsin",
+      "fífàmọ́ra",
+      "lílẹ̀ mọ́"
+    ]
+  },
+  {
+    "emoji": "🪜",
+    "tags": [
+      "àkàbà",
+      "gùn",
+      "igbésẹ̀"
+    ]
+  },
+  {
     "emoji": "⚗️",
     "tags": [
       "àlẹ́mbìk",
       "irinṣé̩",
       "kẹ́mísìrì"
+    ]
+  },
+  {
+    "emoji": "🧪",
+    "tags": [
+      "ayewo",
+      "kemisir]i",
+      "lábù",
+      "sayensi",
+      "tubu ayewo"
+    ]
+  },
+  {
+    "emoji": "🧫",
+    "tags": [
+      "aarun",
+      "asa",
+      "bioloji",
+      "ounje"
+    ]
+  },
+  {
+    "emoji": "🧬",
+    "tags": [
+      "baolojì",
+      "d",
+      "dínà",
+      "emi",
+      "inà",
+      "jíni"
     ]
   },
   {
@@ -8980,6 +10232,16 @@
     ]
   },
   {
+    "emoji": "🩸",
+    "tags": [
+      "eje",
+      "eje fifun",
+      "ita ẹ̀jẹ̀",
+      "nnkan osù",
+      "ogun"
+    ]
+  },
+  {
     "emoji": "💊",
     "tags": [
       "àìsàn",
@@ -8989,9 +10251,54 @@
     ]
   },
   {
+    "emoji": "🩹",
+    "tags": [
+      "bándeèjì",
+      "bándéèjì",
+      "bándéèjì lílẹ̀mọ́"
+    ]
+  },
+  {
+    "emoji": "🩺",
+    "tags": [
+      "o]ogùn",
+      "okan",
+      "onisegun",
+      "sitesitosikoop]u",
+      "sítẹ́sítósikóòpù"
+    ]
+  },
+  {
     "emoji": "🚪",
     "tags": [
       "Ìlẹ̀kùn"
+    ]
+  },
+  {
+    "emoji": "🛗",
+    "tags": [
+      "aye ririn",
+      "ìgbésókè",
+      "ohun ìgbésókè"
+    ]
+  },
+  {
+    "emoji": "🪞",
+    "tags": [
+      "ifinihan",
+      "jigi",
+      "jígí",
+      "ohun ifihan"
+    ]
+  },
+  {
+    "emoji": "🪟",
+    "tags": [
+      "ategun tuntun",
+      "ferese",
+      "fèrèsé",
+      "sisile",
+      "wiwo"
     ]
   },
   {
@@ -9012,9 +10319,27 @@
     ]
   },
   {
+    "emoji": "🪑",
+    "tags": [
+      "aga",
+      "àga",
+      "ìjọ́kọ̀",
+      "jòkọ́"
+    ]
+  },
+  {
     "emoji": "🚽",
     "tags": [
       "Ilé ìgbẹ́"
+    ]
+  },
+  {
+    "emoji": "🪠",
+    "tags": [
+      "ibi igbonsè",
+      "ife imu nnkan sele",
+      "ohun iti",
+      "pulumbà"
     ]
   },
   {
@@ -9029,6 +10354,118 @@
     "tags": [
       "Àgbá ìwẹ̀",
       "ìwẹ̀"
+    ]
+  },
+  {
+    "emoji": "🪤",
+    "tags": [
+      "koto",
+      "panpe",
+      "panpe eku",
+      "pánpẹ́ ẹmọ́",
+      "panpeeku"
+    ]
+  },
+  {
+    "emoji": "🪒",
+    "tags": [
+      "gé",
+      "mú",
+      "obe",
+      "ọ̀bẹ́"
+    ]
+  },
+  {
+    "emoji": "🧴",
+    "tags": [
+      "ibora fun oorùn",
+      "ife",
+      "ìgò ìpára",
+      "ipara",
+      "pori"
+    ]
+  },
+  {
+    "emoji": "🧷",
+    "tags": [
+      "àbẹ́rẹ́ ààbò",
+      "àpáta lilé",
+      "dápà"
+    ]
+  },
+  {
+    "emoji": "🧹",
+    "tags": [
+      "aje",
+      "gbigbale",
+      "igbalẹ̀",
+      "ìgbálẹ̀"
+    ]
+  },
+  {
+    "emoji": "🧺",
+    "tags": [
+      "àgbẹ̀ síse",
+      "apẹ̀rẹ̀",
+      "àsè",
+      "aṣọ fífọ̀"
+    ]
+  },
+  {
+    "emoji": "🧻",
+    "tags": [
+      "beba inudi",
+      "beba inuwo",
+      "bẹ́bà kíkà"
+    ]
+  },
+  {
+    "emoji": "🪣",
+    "tags": [
+      "abo",
+      "bọ́kẹ́ẹ̀tì",
+      "ibomi si",
+      "peelì"
+    ]
+  },
+  {
+    "emoji": "🧼",
+    "tags": [
+      "fifo",
+      "ose",
+      "ọṣẹ",
+      "ose abo",
+      "we",
+      "wiwe"
+    ]
+  },
+  {
+    "emoji": "🪥",
+    "tags": [
+      "búrọ̀ọ́ṣì ìfọnu",
+      "buroshi",
+      "eto eyín",
+      "eyiín",
+      "ibaluwe",
+      "nu"
+    ]
+  },
+  {
+    "emoji": "🧽",
+    "tags": [
+      "faye gbomi",
+      "fífọ̀",
+      "kàìnkaìn",
+      "kàyìnkàyìn"
+    ]
+  },
+  {
+    "emoji": "🧯",
+    "tags": [
+      "ina",
+      "ohun ipana",
+      "ohun ìpaná",
+      "pana"
     ]
   },
   {
@@ -9055,6 +10492,15 @@
     ]
   },
   {
+    "emoji": "🪦",
+    "tags": [
+      "iboji",
+      "iboji okú",
+      "irori",
+      "okutaori"
+    ]
+  },
+  {
     "emoji": "⚱️",
     "tags": [
       "ahá",
@@ -9070,6 +10516,16 @@
       "ère",
       "moai",
       "ojú"
+    ]
+  },
+  {
+    "emoji": "🪧",
+    "tags": [
+      "ami",
+      "duòkò",
+      "ìwòde",
+      "káàdí",
+      "ohun ìkéde"
     ]
   },
   {
@@ -9941,6 +11397,13 @@
     ]
   },
   {
+    "emoji": "⚧️",
+    "tags": [
+      "ami ìyíeda",
+      "ìyíeda"
+    ]
+  },
+  {
     "emoji": "✖️",
     "tags": [
       "fagilé",
@@ -9971,6 +11434,14 @@
       "aami gige nla",
       "ẹ̀kọ́ ìsirò",
       "ìpín"
+    ]
+  },
+  {
+    "emoji": "♾️",
+    "tags": [
+      "ailopin",
+      "gbogboogbò",
+      "títí"
     ]
   },
   {
@@ -10381,6 +11852,13 @@
     ]
   },
   {
+    "emoji": "🆙",
+    "tags": [
+      "Oke! Bọ̀tìnì",
+      "Oke! Oke! Oke! Bọ̀tìnì"
+    ]
+  },
+  {
     "emoji": "🆚",
     "tags": [
       "Bọtini VS",
@@ -10568,12 +12046,48 @@
     ]
   },
   {
+    "emoji": "🟠",
+    "tags": [
+      "osan",
+      "saku"
+    ]
+  },
+  {
+    "emoji": "🟡",
+    "tags": [
+      "saku",
+      "yelo"
+    ]
+  },
+  {
+    "emoji": "🟢",
+    "tags": [
+      "girini",
+      "saku"
+    ]
+  },
+  {
     "emoji": "🔵",
     "tags": [
       "Búlù",
       "jiomẹ́tíríkì",
       "rogodo",
       "Rogodo Búlúù"
+    ]
+  },
+  {
+    "emoji": "🟣",
+    "tags": [
+      "pọ́pù",
+      "rogodo"
+    ]
+  },
+  {
+    "emoji": "🟤",
+    "tags": [
+      "aláwọ igi",
+      "rogodo",
+      "rogodo aláwọ igi"
     ]
   },
   {
@@ -10588,6 +12102,59 @@
     "tags": [
       "Rogodo",
       "Rogodo Funfun"
+    ]
+  },
+  {
+    "emoji": "🟥",
+    "tags": [
+      "pupa",
+      "síkúwẹ́ẹ̀"
+    ]
+  },
+  {
+    "emoji": "🟧",
+    "tags": [
+      "orénjì",
+      "síkúwẹ́ẹ̀"
+    ]
+  },
+  {
+    "emoji": "🟨",
+    "tags": [
+      "orénjì",
+      "síkúwẹ́ẹ̀",
+      "síkúwẹ́ẹ̀ yẹ́lọ̀"
+    ]
+  },
+  {
+    "emoji": "🟩",
+    "tags": [
+      "aláwọ̀ ewé",
+      "síkúwẹ́ẹ̀",
+      "síkúwẹ́ẹ̀ aláwọ̀ ewé"
+    ]
+  },
+  {
+    "emoji": "🟦",
+    "tags": [
+      "bùlúù",
+      "síkúwẹ́ẹ̀",
+      "síkúwẹ́ẹ̀ búlúù"
+    ]
+  },
+  {
+    "emoji": "🟪",
+    "tags": [
+      "pọ́pù",
+      "síkúwẹ́ẹ̀"
+    ]
+  },
+  {
+    "emoji": "🟫",
+    "tags": [
+      "aláwọ̀ igi",
+      "síkúwẹ́ẹ̀",
+      "síkúwẹ́ẹ̀ aláwọ̀ igi"
     ]
   },
   {
